@@ -1,0 +1,826 @@
+WorkerId,item,construction,possessor_definiteness,possessor_length,acceptability,sentence
+1,4,of,def,long,5,I watched the screen of the television that was very large.
+2,3,s,indef,long,1,I met a man who worked at the store's wife.
+3,14,of,indef,long,2,I hated the manager of a store that was around the corner.
+4,7,of,def,long,3,I knew the patient of the doctor who worked in the hospital.
+5,11,of,indef,long,3,I encountered the lawyer of a client who was guilty of a crime.
+6,12,s,indef,short,4,I smelled a tree's flowers.
+7,1,of,indef,long,5,I remembered the face of a professor who I met two days ago.
+8,11,s,indef,short,5,I encountered a client's lawyer.
+9,0,of,indef,short,3,I forgot the title of a movie.
+10,10,of,indef,long,3,I yelled at the owner of a boat that crashed into the pier.
+11,11,s,def,long,1,I encountered the client who was guilty of a crime's lawyer.
+12,6,of,indef,short,3,I saw the driver of a car.
+13,5,s,def,long,4,I got the celebrity who was in a lot of movies's autograph.
+14,1,s,def,short,5,I remembered the professor's face.
+15,1,of,def,short,5,I remembered the face of the professor.
+16,1,s,indef,short,5,I remembered a professor's face.
+17,0,s,indef,short,5,I forgot a movie's title.
+18,0,s,indef,short,5,I forgot a movie's title.
+19,5,s,indef,short,5,I got a celebrity's autograph.
+20,13,s,indef,long,4,I took a child who was in first grade's toy.
+21,0,of,indef,short,5,I forgot the title of a movie.
+22,6,of,indef,long,5,I saw the driver of a car that was speeding down the street.
+23,2,of,indef,long,5,I know the president of a university that is in Maryland.
+24,7,of,def,long,4,I knew the patient of the doctor who worked in the hospital.
+1,14,s,def,long,1,I hated the store that was around the corner's manager.
+2,12,of,def,short,2,I smelled the flowers of the tree.
+25,5,of,def,long,5,I got the autograph of the celebrity who was in a lot of movies.
+3,9,of,indef,short,5,I read the book of a lawyer.
+4,2,of,indef,short,5,I know the president of a university.
+5,0,s,indef,short,3,I forgot a movie's title.
+6,8,of,def,short,5,I opened the door of the cabin.
+7,11,s,def,long,1,I encountered the client who was guilty of a crime's lawyer.
+8,14,of,indef,long,5,I hated the manager of a store that was around the corner.
+9,4,s,def,short,5,I watched the television's screen.
+11,8,s,indef,short,3,I opened a cabin's door.
+12,13,s,def,long,2,I took the child who was in first grade's toy.
+13,9,of,def,long,4,I read the book of the lawyer who was from France.
+26,13,s,def,short,5,I took the child's toy.
+14,2,s,def,long,1,I know the university that is in Maryland's president.
+27,7,of,def,long,5,I knew the patient of the doctor who worked in the hospital.
+15,15,s,indef,short,5,I loved a policeman's sister.
+16,4,of,def,long,4,I watched the screen of the television that was very large.
+17,7,s,def,long,2,I knew the doctor who worked in the hospital's patient.
+20,1,of,indef,long,5,I remembered the face of a professor who I met two days ago.
+21,2,of,indef,short,5,I know the president of a university.
+28,7,s,def,short,5,I knew the doctor's patient.
+23,15,of,def,short,5,I loved the sister of the policeman.
+1,5,of,def,short,5,I got the autograph of the celebrity.
+25,2,s,def,short,4,I know the university's president.
+3,5,s,indef,short,5,I got a celebrity's autograph.
+5,7,s,def,long,1,I knew the doctor who worked in the hospital's patient.
+6,14,of,def,short,5,I hated the manager of the store.
+7,12,s,def,short,4,I smelled the tree's flowers.
+11,4,of,indef,short,4,I watched the screen of a television.
+12,1,of,def,long,5,I remembered the face of the professor who I met two days ago.
+29,1,s,def,short,5,I remembered the professor's face.
+13,0,of,def,short,5,I forgot the title of the movie.
+4,6,s,indef,short,3,I saw a car's driver.
+15,11,of,indef,short,5,I encountered the lawyer of a client.
+17,9,s,indef,long,3,I read a lawyer who was from France's book.
+23,11,s,def,short,5,I encountered the client's lawyer.
+24,6,s,indef,short,2,I saw a car's driver.
+30,4,s,def,long,1,I watched the television that was very large's screen.
+3,11,s,indef,short,4,I encountered a client's lawyer.
+5,12,of,indef,short,3,I smelled the flowers of a tree.
+6,3,s,def,long,2,I met the man who worked at the store's wife.
+7,4,of,indef,short,3,I watched the screen of a television.
+9,14,of,def,short,4,I hated the manager of the store.
+11,1,of,indef,long,5,I remembered the face of a professor who I met two days ago.
+12,4,of,def,short,5,I watched the screen of the television.
+29,11,s,indef,short,3,I encountered a client's lawyer.
+17,8,s,def,short,5,I opened the cabin's door.
+31,11,s,def,short,5,I encountered the client's lawyer.
+18,14,s,def,short,5,I hated the store's manager.
+32,9,of,def,short,4,I read the book of the lawyer.
+23,8,of,def,long,5,I opened the door of the cabin that was in the woods.
+1,6,of,indef,long,5,I saw the driver of a car that was speeding down the street.
+3,6,of,def,long,4,I saw the driver of the car that was speeding down the street.
+4,5,s,indef,long,2,I got a celebrity who was in a lot of movies's autograph.
+6,1,s,def,long,3,I remembered the professor who I met two days ago's face.
+9,10,s,def,short,5,I yelled at the boat's owner.
+11,0,of,def,short,5,I forgot the title of the movie.
+15,10,of,indef,long,2,I yelled at the owner of a boat that crashed into the pier.
+16,0,s,indef,long,3,I forgot a movie that I saw yesterday's title.
+33,6,s,indef,long,1,I saw a car that was speeding down the street's driver.
+7,6,s,def,short,4,I saw the car's driver.
+17,14,s,def,short,5,I hated the store's manager.
+10,12,s,def,long,2,I smelled the tree that was in the woods's flowers.
+34,13,s,def,long,3,I took the child who was in first grade's toy.
+23,14,of,def,long,5,I hated the manager of the store that was around the corner.
+29,5,s,indef,short,5,I got a celebrity's autograph.
+1,12,of,indef,long,5,I smelled the flowers of a tree that was in the woods.
+2,1,s,indef,long,4,I remembered a professor who I met two days ago's face.
+35,11,s,def,short,5,I encountered the client's lawyer.
+3,4,s,indef,long,1,I watched a television that was very large's screen.
+6,5,s,indef,long,2,I got a celebrity who was in a lot of movies's autograph.
+36,1,s,indef,short,4,I remembered a professor's face.
+9,9,of,indef,long,3,I read the book of a lawyer who was from France.
+21,12,s,indef,short,5,I smelled a tree's flowers.
+13,11,s,def,long,2,I encountered the client who was guilty of a crime's lawyer.
+33,1,of,indef,short,5,I remembered the face of a professor.
+20,9,of,def,long,4,I read the book of the lawyer who was from France.
+22,2,s,indef,long,1,I know a university that is in Maryland's president.
+24,15,of,indef,long,3,I loved the sister of a policeman who was patrolling the neighborhood.
+37,13,of,indef,short,3,I took the toy of a child.
+3,12,of,def,long,2,I smelled the flowers of the tree that was in the woods.
+6,2,of,indef,short,5,I know the president of a university.
+38,12,of,def,short,5,I smelled the flowers of the tree.
+8,2,s,def,long,1,I know the university that is in Maryland's president.
+19,13,of,def,short,2,I took the toy of the child.
+30,7,s,indef,short,4,I knew a doctor's patient.
+39,8,s,indef,long,2,I opened a cabin that was in the woods's door.
+40,9,of,indef,long,4,I read the book of a lawyer who was from France.
+41,9,of,def,long,2,I read the book of the lawyer who was from France.
+18,9,s,indef,long,2,I read a lawyer who was from France's book.
+10,14,s,indef,long,2,I hated a store that was around the corner's manager.
+24,10,s,def,short,5,I yelled at the boat's owner.
+3,1,s,def,short,5,I remembered the professor's face.
+4,12,s,indef,short,4,I smelled a tree's flowers.
+42,12,of,indef,long,4,I smelled the flowers of a tree that was in the woods.
+43,1,of,def,long,5,I remembered the face of the professor who I met two days ago.
+35,14,of,def,long,4,I hated the manager of the store that was around the corner.
+5,2,s,indef,short,4,I know a university's president.
+34,12,of,indef,short,4,I smelled the flowers of a tree.
+29,9,of,indef,short,2,I read the book of a lawyer.
+13,6,s,def,short,4,I saw the car's driver.
+26,6,s,def,long,3,I saw the car that was speeding down the street's driver.
+2,4,s,indef,short,2,I watched a television's screen.
+14,12,of,def,long,2,I smelled the flowers of the tree that was in the woods.
+15,3,of,def,short,3,I met the wife of the man.
+33,12,s,indef,long,1,I smelled a tree that was in the woods's flowers.
+17,1,of,def,long,5,I remembered the face of the professor who I met two days ago.
+21,14,of,def,short,5,I hated the manager of the store.
+44,8,of,indef,long,5,I opened the door of a cabin that was in the woods.
+45,4,s,def,short,4,I watched the television's screen.
+24,0,of,indef,short,5,I forgot the title of a movie.
+1,15,s,def,short,5,I loved the policeman's sister.
+37,8,s,def,long,1,I opened the cabin that was in the woods's door.
+39,15,s,indef,short,4,I loved a policeman's sister.
+46,4,of,def,long,2,I watched the screen of the television that was very large.
+40,10,s,def,short,4,I yelled at the boat's owner.
+31,4,s,def,long,1,I watched the television that was very large's screen.
+41,2,of,def,short,5,I know the president of the university.
+42,14,s,def,long,1,I hated the store that was around the corner's manager.
+47,8,s,indef,short,5,I opened a cabin's door.
+2,11,of,def,long,2,I encountered the lawyer of the client who was guilty of a crime.
+3,0,s,def,long,1,I forgot the movie that I saw yesterday's title.
+8,4,s,indef,long,1,I watched a television that was very large's screen.
+19,9,of,indef,short,4,I read the book of a lawyer.
+34,5,of,indef,long,3,I got the autograph of a celebrity who was in a lot of movies.
+11,13,s,indef,long,1,I took a child who was in first grade's toy.
+24,14,of,def,short,5,I hated the manager of the store.
+13,7,s,indef,long,1,I knew a doctor who worked in the hospital's patient.
+48,6,s,def,short,5,I saw the car's driver.
+15,7,s,def,short,5,I knew the doctor's patient.
+16,6,of,indef,long,4,I saw the driver of a car that was speeding down the street.
+33,13,s,indef,short,5,I took a child's toy.
+7,8,s,indef,short,5,I opened a cabin's door.
+18,11,of,indef,long,5,I encountered the lawyer of a client who was guilty of a crime.
+49,11,of,indef,long,3,I encountered the lawyer of a client who was guilty of a crime.
+42,0,s,indef,long,1,I forgot a movie that I saw yesterday's title.
+50,14,of,indef,long,5,I hated the manager of a store that was around the corner.
+21,1,s,def,long,4,I remembered the professor who I met two days ago's face.
+47,7,s,indef,long,2,I knew a doctor who worked in the hospital's patient.
+28,11,of,indef,short,2,I encountered the lawyer of a client.
+30,3,of,indef,short,4,I met the wife of a man.
+51,6,s,def,short,5,I saw the car's driver.
+38,14,of,indef,short,5,I hated the manager of a store.
+8,15,of,indef,short,5,I loved the sister of a policeman.
+31,15,of,def,short,3,I loved the sister of the policeman.
+20,4,of,indef,short,4,I watched the screen of a television.
+29,12,of,def,long,1,I smelled the flowers of the tree that was in the woods.
+13,1,of,indef,long,4,I remembered the face of a professor who I met two days ago.
+26,3,of,def,short,2,I met the wife of the man.
+48,8,s,indef,short,5,I opened a cabin's door.
+33,2,of,indef,long,5,I know the president of a university that is in Maryland.
+39,10,of,indef,long,4,I yelled at the owner of a boat that crashed into the pier.
+46,12,of,indef,long,2,I smelled the flowers of a tree that was in the woods.
+9,12,s,indef,short,5,I smelled a tree's flowers.
+28,2,of,def,long,1,I know the president of the university that is in Maryland.
+44,13,of,def,short,4,I took the toy of the child.
+23,13,s,indef,short,5,I took a child's toy.
+12,3,of,def,long,4,I met the wife of the man who worked at the store.
+4,9,of,indef,long,5,I read the book of a lawyer who was from France.
+38,6,of,def,short,5,I saw the driver of the car.
+19,8,of,indef,long,5,I opened the door of a cabin that was in the woods.
+34,7,s,def,long,2,I knew the doctor who worked in the hospital's patient.
+52,5,of,indef,short,5,I got the autograph of a celebrity.
+30,6,s,indef,long,1,I saw a car that was speeding down the street's driver.
+2,9,s,def,long,5,I read the lawyer who was from France's book.
+14,10,s,indef,long,2,I yelled at a boat that crashed into the pier's owner.
+27,5,s,indef,long,1,I got a celebrity who was in a lot of movies's autograph.
+39,2,of,def,long,4,I know the president of the university that is in Maryland.
+46,13,of,indef,short,3,I took the toy of a child.
+31,0,of,indef,long,5,I forgot the title of a movie that I saw yesterday.
+36,11,of,def,short,4,I encountered the lawyer of the client.
+22,4,of,def,long,2,I watched the screen of the television that was very large.
+26,15,s,indef,short,3,I loved a policeman's sister.
+6,9,of,indef,long,2,I read the book of a lawyer who was from France.
+8,7,of,def,short,5,I knew the patient of the doctor.
+49,3,of,def,long,5,I met the wife of the man who worked at the store.
+45,9,of,indef,long,2,I read the book of a lawyer who was from France.
+25,3,s,indef,long,5,I met a man who worked at the store's wife.
+46,15,s,def,short,4,I loved the policeman's sister.
+40,4,s,def,short,5,I watched the television's screen.
+50,13,of,def,short,4,I took the toy of the child.
+37,6,of,indef,long,5,I saw the driver of a car that was speeding down the street.
+15,6,s,def,long,1,I saw the car that was speeding down the street's driver.
+16,8,s,def,long,1,I opened the cabin that was in the woods's door.
+9,1,s,def,long,5,I remembered the professor who I met two days ago's face.
+49,9,s,indef,long,2,I read a lawyer who was from France's book.
+21,8,of,def,short,5,I opened the door of the cabin.
+22,14,s,def,long,1,I hated the store that was around the corner's manager.
+44,9,of,indef,short,4,I read the book of a lawyer.
+52,14,s,indef,long,1,I hated a store that was around the corner's manager.
+30,14,of,def,long,4,I hated the manager of the store that was around the corner.
+13,14,s,indef,short,3,I hated a store's manager.
+53,13,s,def,short,5,I took the child's toy.
+25,8,of,indef,short,5,I opened the door of a cabin.
+46,9,s,def,short,4,I read the lawyer's book.
+38,7,of,indef,long,5,I knew the patient of a doctor who worked in the hospital.
+8,0,s,def,long,1,I forgot the movie that I saw yesterday's title.
+40,5,s,indef,long,5,I got a celebrity who was in a lot of movies's autograph.
+31,8,of,def,long,5,I opened the door of the cabin that was in the woods.
+36,12,of,indef,long,4,I smelled the flowers of a tree that was in the woods.
+26,4,of,indef,long,2,I watched the screen of a television that was very large.
+48,11,s,def,long,2,I encountered the client who was guilty of a crime's lawyer.
+5,14,s,def,short,5,I hated the store's manager.
+16,11,of,def,short,5,I encountered the lawyer of the client.
+6,0,of,indef,short,4,I forgot the title of a movie.
+41,11,s,def,long,4,I encountered the client who was guilty of a crime's lawyer.
+18,5,of,indef,long,5,I got the autograph of a celebrity who was in a lot of movies.
+47,2,of,def,short,5,I know the president of the university.
+52,6,s,def,long,2,I saw the car that was speeding down the street's driver.
+43,15,s,indef,long,1,I loved a policeman who was patrolling the neighborhood's sister.
+53,0,of,def,long,4,I forgot the title of the movie that I saw yesterday.
+7,0,of,def,short,5,I forgot the title of the movie.
+19,11,s,indef,short,5,I encountered a client's lawyer.
+42,9,s,def,short,5,I read the lawyer's book.
+50,6,of,def,long,5,I saw the driver of the car that was speeding down the street.
+22,12,of,indef,long,3,I smelled the flowers of a tree that was in the woods.
+14,14,of,indef,long,3,I hated the manager of a store that was around the corner.
+39,14,s,indef,long,2,I hated a store that was around the corner's manager.
+41,0,of,def,short,5,I forgot the title of the movie.
+20,0,of,def,short,5,I forgot the title of the movie.
+21,7,of,def,long,4,I knew the patient of the doctor who worked in the hospital.
+47,14,s,indef,short,4,I hated a store's manager.
+23,1,of,indef,short,5,I remembered the face of a professor.
+43,3,of,def,long,5,I met the wife of the man who worked at the store.
+35,15,of,def,short,NA,I loved the sister of the policeman.
+51,0,of,def,short,5,I forgot the title of the movie.
+25,14,of,indef,short,5,I hated the manager of a store.
+17,6,of,indef,short,5,I saw the driver of a car.
+42,5,of,def,short,2,I got the autograph of the celebrity.
+45,15,of,indef,long,4,I loved the sister of a policeman who was patrolling the neighborhood.
+11,15,of,def,long,3,I loved the sister of the policeman who was patrolling the neighborhood.
+52,1,of,def,short,5,I remembered the face of the professor.
+26,8,s,indef,long,2,I opened a cabin that was in the woods's door.
+27,10,s,def,short,4,I yelled at the boat's owner.
+4,1,s,def,long,1,I remembered the professor who I met two days ago's face.
+33,5,s,def,short,5,I got the celebrity's autograph.
+31,2,of,indef,long,2,I know the president of a university that is in Maryland.
+19,14,of,indef,long,5,I hated the manager of a store that was around the corner.
+20,10,of,indef,short,5,I yelled at the owner of a boat.
+10,0,of,def,long,5,I forgot the title of the movie that I saw yesterday.
+28,14,s,indef,long,1,I hated a store that was around the corner's manager.
+29,6,of,def,long,4,I saw the driver of the car that was speeding down the street.
+30,5,s,def,short,5,I got the celebrity's autograph.
+2,5,of,def,long,4,I got the autograph of the celebrity who was in a lot of movies.
+47,11,s,def,long,2,I encountered the client who was guilty of a crime's lawyer.
+34,4,of,def,short,2,I watched the screen of the television.
+44,0,s,def,long,2,I forgot the movie that I saw yesterday's title.
+26,0,of,def,long,4,I forgot the title of the movie that I saw yesterday.
+27,13,of,def,long,4,I took the toy of the child who was in first grade.
+25,11,of,def,long,5,I encountered the lawyer of the client who was guilty of a crime.
+3,10,s,indef,long,2,I yelled at a boat that crashed into the pier's owner.
+54,6,of,def,long,4,I saw the driver of the car that was speeding down the street.
+33,11,s,def,short,3,I encountered the client's lawyer.
+38,8,of,indef,short,5,I opened the door of a cabin.
+8,12,of,def,long,4,I smelled the flowers of the tree that was in the woods.
+22,8,s,def,long,1,I opened the cabin that was in the woods's door.
+24,2,of,indef,short,5,I know the president of a university.
+30,13,s,indef,short,5,I took a child's toy.
+43,0,s,indef,short,5,I forgot a movie's title.
+53,2,of,def,long,2,I know the president of the university that is in Maryland.
+37,14,s,def,long,2,I hated the store that was around the corner's manager.
+4,3,s,def,long,1,I met the man who worked at the store's wife.
+39,1,of,def,short,5,I remembered the face of the professor.
+40,0,of,indef,short,5,I forgot the title of a movie.
+10,2,of,def,long,4,I know the president of the university that is in Maryland.
+28,10,of,indef,long,5,I yelled at the owner of a boat that crashed into the pier.
+44,1,s,def,short,5,I remembered the professor's face.
+11,6,s,def,short,5,I saw the car's driver.
+13,15,of,def,long,2,I loved the sister of the policeman who was patrolling the neighborhood.
+26,11,of,indef,short,4,I encountered the lawyer of a client.
+15,0,of,def,long,5,I forgot the title of the movie that I saw yesterday.
+6,10,s,def,short,5,I yelled at the boat's owner.
+18,13,s,def,long,2,I took the child who was in first grade's toy.
+50,5,s,indef,short,5,I got a celebrity's autograph.
+27,12,s,indef,short,3,I smelled a tree's flowers.
+53,8,s,indef,long,1,I opened a cabin that was in the woods's door.
+25,4,s,indef,short,5,I watched a television's screen.
+9,7,of,def,long,4,I knew the patient of the doctor who worked in the hospital.
+21,3,s,def,long,2,I met the man who worked at the store's wife.
+28,4,of,indef,long,1,I watched the screen of a television that was very large.
+34,3,of,def,long,4,I met the wife of the man who worked at the store.
+12,7,s,def,long,1,I knew the doctor who worked in the hospital's patient.
+43,12,of,indef,short,4,I smelled the flowers of a tree.
+1,0,s,indef,long,2,I forgot a movie that I saw yesterday's title.
+37,7,of,indef,short,4,I knew the patient of a doctor.
+48,13,s,indef,long,3,I took a child who was in first grade's toy.
+15,13,s,def,short,5,I took the child's toy.
+38,13,of,indef,long,5,I took the toy of a child who was in first grade.
+20,3,of,indef,long,5,I met the wife of a man who worked at the store.
+47,6,s,def,short,5,I saw the car's driver.
+29,10,s,indef,long,4,I yelled at a boat that crashed into the pier's owner.
+30,1,of,indef,short,5,I remembered the face of a professor.
+2,13,of,indef,long,2,I took the toy of a child who was in first grade.
+35,0,of,indef,long,5,I forgot the title of a movie that I saw yesterday.
+53,15,s,indef,short,5,I loved a policeman's sister.
+33,8,of,def,long,3,I opened the door of the cabin that was in the woods.
+46,7,of,indef,short,NA,I knew the patient of a doctor.
+31,14,of,def,long,5,I hated the manager of the store that was around the corner.
+41,12,s,def,short,5,I smelled the tree's flowers.
+18,2,s,indef,short,5,I know a university's president.
+36,9,s,def,short,4,I read the lawyer's book.
+19,1,s,def,short,5,I remembered the professor's face.
+49,12,of,indef,short,4,I smelled the flowers of a tree.
+50,7,of,def,short,5,I knew the patient of the doctor.
+26,9,s,indef,short,4,I read a lawyer's book.
+5,8,s,def,short,5,I opened the cabin's door.
+20,6,s,def,short,5,I saw the car's driver.
+10,6,s,def,long,4,I saw the car that was speeding down the street's driver.
+32,4,s,def,long,1,I watched the television that was very large's screen.
+47,12,s,def,short,5,I smelled the tree's flowers.
+44,3,s,def,short,5,I met the man's wife.
+11,5,s,def,long,1,I got the celebrity who was in a lot of movies's autograph.
+14,6,of,def,long,4,I saw the driver of the car that was speeding down the street.
+37,9,s,def,short,5,I read the lawyer's book.
+38,0,s,def,short,5,I forgot the movie's title.
+8,5,s,indef,short,5,I got a celebrity's autograph.
+50,3,s,def,short,5,I met the man's wife.
+28,5,of,indef,short,5,I got the autograph of a celebrity.
+45,14,of,def,short,5,I hated the manager of the store.
+52,3,of,def,short,5,I met the wife of the man.
+35,5,s,def,short,5,I got the celebrity's autograph.
+51,13,s,indef,long,2,I took a child who was in first grade's toy.
+53,3,of,def,short,4,I met the wife of the man.
+48,2,of,def,short,5,I know the president of the university.
+5,1,of,def,long,4,I remembered the face of the professor who I met two days ago.
+54,7,of,def,short,4,I knew the patient of the doctor.
+7,14,s,indef,short,4,I hated a store's manager.
+17,3,of,def,long,5,I met the wife of the man who worked at the store.
+31,3,of,indef,short,4,I met the wife of a man.
+18,4,of,def,short,5,I watched the screen of the television.
+20,7,s,indef,long,1,I knew a doctor who worked in the hospital's patient.
+32,3,of,indef,short,3,I met the wife of a man.
+47,10,of,indef,short,5,I yelled at the owner of a boat.
+22,1,s,indef,short,4,I remembered a professor's face.
+23,9,of,def,short,1,I read the book of the lawyer.
+30,2,of,indef,long,5,I know the president of a university that is in Maryland.
+3,13,of,def,short,2,I took the toy of the child.
+46,1,s,indef,short,3,I remembered a professor's face.
+41,14,s,indef,short,3,I hated a store's manager.
+42,6,of,indef,long,3,I saw the driver of a car that was speeding down the street.
+34,2,s,indef,short,5,I know a university's president.
+11,7,s,indef,long,1,I knew a doctor who worked in the hospital's patient.
+29,3,s,def,short,4,I met the man's wife.
+43,13,s,def,long,2,I took the child who was in first grade's toy.
+1,7,of,indef,short,5,I knew the patient of a doctor.
+14,3,s,def,short,5,I met the man's wife.
+27,0,of,indef,short,5,I forgot the title of a movie.
+53,1,of,def,short,5,I remembered the face of the professor.
+4,13,of,def,long,4,I took the toy of the child who was in first grade.
+54,5,s,indef,short,4,I got a celebrity's autograph.
+33,0,of,indef,long,5,I forgot the title of a movie that I saw yesterday.
+17,12,of,indef,short,5,I smelled the flowers of a tree.
+38,10,s,indef,short,5,I yelled at a boat's owner.
+32,2,of,indef,long,5,I know the president of a university that is in Maryland.
+47,5,s,def,long,2,I got the celebrity who was in a lot of movies's autograph.
+22,10,of,def,long,5,I yelled at the owner of the boat that crashed into the pier.
+24,9,of,indef,long,5,I read the book of a lawyer who was from France.
+26,10,of,indef,long,4,I yelled at the owner of a boat that crashed into the pier.
+35,13,s,indef,short,5,I took a child's toy.
+51,1,of,indef,long,5,I remembered the face of a professor who I met two days ago.
+37,15,s,def,short,5,I loved the policeman's sister.
+8,8,of,indef,long,5,I opened the door of a cabin that was in the woods.
+40,12,s,indef,short,5,I smelled a tree's flowers.
+49,8,s,def,short,5,I opened the cabin's door.
+42,4,of,def,long,2,I watched the screen of the television that was very large.
+45,7,of,def,long,5,I knew the patient of the doctor who worked in the hospital.
+27,9,of,indef,long,4,I read the book of a lawyer who was from France.
+3,15,of,indef,short,5,I loved the sister of a policeman.
+6,13,of,def,long,2,I took the toy of the child who was in first grade.
+18,7,s,def,long,2,I knew the doctor who worked in the hospital's patient.
+19,0,s,def,long,1,I forgot the movie that I saw yesterday's title.
+21,13,of,def,long,4,I took the toy of the child who was in first grade.
+52,7,s,def,short,5,I knew the doctor's patient.
+12,11,of,indef,long,2,I encountered the lawyer of a client who was guilty of a crime.
+43,10,of,def,short,5,I yelled at the owner of the boat.
+14,0,s,def,long,2,I forgot the movie that I saw yesterday's title.
+53,4,of,indef,long,2,I watched the screen of a television that was very large.
+42,1,s,indef,short,5,I remembered a professor's face.
+47,3,of,indef,long,5,I met the wife of a man who worked at the store.
+34,0,s,indef,short,5,I forgot a movie's title.
+45,11,s,indef,long,1,I encountered a client who was guilty of a crime's lawyer.
+27,2,of,indef,short,2,I know the president of a university.
+51,10,of,indef,short,5,I yelled at the owner of a boat.
+25,13,of,indef,long,4,I took the toy of a child who was in first grade.
+41,6,s,def,short,5,I saw the car's driver.
+29,4,s,indef,long,1,I watched a television that was very large's screen.
+13,4,of,indef,short,4,I watched the screen of a television.
+43,4,of,def,short,5,I watched the screen of the television.
+14,7,of,def,short,3,I knew the patient of the doctor.
+39,4,of,indef,long,5,I watched the screen of a television that was very large.
+10,11,of,indef,short,5,I encountered the lawyer of a client.
+34,6,of,indef,short,5,I saw the driver of a car.
+45,12,s,indef,short,5,I smelled a tree's flowers.
+25,1,s,indef,long,5,I remembered a professor who I met two days ago's face.
+16,9,s,def,short,5,I read the lawyer's book.
+8,13,of,def,short,5,I took the toy of the child.
+40,6,s,indef,short,5,I saw a car's driver.
+20,5,s,def,long,4,I got the celebrity who was in a lot of movies's autograph.
+49,14,s,def,short,3,I hated the store's manager.
+50,15,of,indef,short,5,I loved the sister of a policeman.
+37,0,s,indef,long,2,I forgot a movie that I saw yesterday's title.
+15,2,of,def,long,5,I know the president of the university that is in Maryland.
+5,4,of,def,short,4,I watched the screen of the television.
+54,14,of,indef,long,5,I hated the manager of a store that was around the corner.
+19,4,s,indef,long,1,I watched a television that was very large's screen.
+45,6,s,indef,short,4,I saw a car's driver.
+29,15,of,indef,short,4,I loved the sister of a policeman.
+13,13,s,indef,long,3,I took a child who was in first grade's toy.
+51,4,of,indef,short,4,I watched the screen of a television.
+40,13,of,def,long,3,I took the toy of the child who was in first grade.
+41,7,s,indef,long,2,I knew a doctor who worked in the hospital's patient.
+18,15,s,indef,long,1,I loved a policeman who was patrolling the neighborhood's sister.
+9,15,of,indef,long,4,I loved the sister of a policeman who was patrolling the neighborhood.
+42,15,s,def,short,5,I loved the policeman's sister.
+32,11,s,def,short,3,I encountered the client's lawyer.
+24,12,s,indef,short,5,I smelled a tree's flowers.
+14,4,s,indef,long,1,I watched a television that was very large's screen.
+35,8,of,def,long,4,I opened the door of the cabin that was in the woods.
+4,14,of,def,short,5,I hated the manager of the store.
+5,15,s,indef,long,2,I loved a policeman who was patrolling the neighborhood's sister.
+16,13,of,indef,short,3,I took the toy of a child.
+31,5,s,def,short,5,I got the celebrity's autograph.
+20,12,s,def,short,5,I smelled the tree's flowers.
+28,1,of,def,short,5,I remembered the face of the professor.
+34,14,s,def,short,5,I hated the store's manager.
+52,11,of,indef,short,5,I encountered the lawyer of a client.
+30,10,s,def,long,2,I yelled at the boat that crashed into the pier's owner.
+1,9,s,def,short,5,I read the lawyer's book.
+2,14,of,indef,short,3,I hated the manager of a store.
+37,12,of,indef,long,3,I smelled the flowers of a tree that was in the woods.
+54,4,s,indef,long,1,I watched a television that was very large's screen.
+38,5,of,def,long,5,I got the autograph of the celebrity who was in a lot of movies.
+8,3,s,def,short,5,I met the man's wife.
+10,13,s,def,short,5,I took the child's toy.
+50,8,of,indef,long,5,I opened the door of a cabin that was in the woods.
+45,1,s,def,long,2,I remembered the professor who I met two days ago's face.
+14,8,of,indef,long,3,I opened the door of a cabin that was in the woods.
+40,11,s,indef,long,4,I encountered a client who was guilty of a crime's lawyer.
+23,3,of,indef,short,4,I met the wife of a man.
+12,12,of,indef,short,5,I smelled the flowers of a tree.
+24,13,of,def,long,4,I took the toy of the child who was in first grade.
+43,8,s,def,short,5,I opened the cabin's door.
+27,3,s,def,long,4,I met the man who worked at the store's wife.
+35,1,of,indef,short,4,I remembered the face of a professor.
+51,11,s,def,long,1,I encountered the client who was guilty of a crime's lawyer.
+54,8,of,indef,long,5,I opened the door of a cabin that was in the woods.
+38,15,s,def,long,4,I loved the policeman who was patrolling the neighborhood's sister.
+18,12,of,indef,short,5,I smelled the flowers of a tree.
+36,10,of,def,long,5,I yelled at the owner of the boat that crashed into the pier.
+9,5,s,indef,long,4,I got a celebrity who was in a lot of movies's autograph.
+20,2,of,def,short,5,I know the president of the university.
+49,15,s,indef,long,2,I loved a policeman who was patrolling the neighborhood's sister.
+11,2,of,def,short,5,I know the president of the university.
+53,11,of,indef,short,5,I encountered the lawyer of a client.
+16,14,s,def,long,1,I hated the store that was around the corner's manager.
+8,10,s,indef,long,5,I yelled at a boat that crashed into the pier's owner.
+19,10,s,indef,long,5,I yelled at a boat that crashed into the pier's owner.
+22,13,of,indef,short,3,I took the toy of a child.
+44,4,s,indef,long,2,I watched a television that was very large's screen.
+23,0,of,indef,long,5,I forgot the title of a movie that I saw yesterday.
+52,12,s,def,long,2,I smelled the tree that was in the woods's flowers.
+24,1,s,def,long,4,I remembered the professor who I met two days ago's face.
+27,15,of,indef,long,2,I loved the sister of a policeman who was patrolling the neighborhood.
+25,6,of,def,short,5,I saw the driver of the car.
+15,8,s,indef,long,1,I opened a cabin that was in the woods's door.
+7,3,of,indef,long,5,I met the wife of a man who worked at the store.
+39,6,s,def,long,2,I saw the car that was speeding down the street's driver.
+40,2,of,indef,short,5,I know the president of a university.
+9,13,of,def,long,5,I took the toy of the child who was in first grade.
+10,7,s,def,short,4,I knew the doctor's patient.
+32,1,of,indef,short,4,I remembered the face of a professor.
+47,13,s,indef,long,2,I took a child who was in first grade's toy.
+28,9,s,indef,short,5,I read a lawyer's book.
+35,4,s,def,long,2,I watched the television that was very large's screen.
+53,5,of,indef,short,5,I got the autograph of a celebrity.
+6,11,s,indef,long,1,I encountered a client who was guilty of a crime's lawyer.
+33,14,of,def,long,4,I hated the manager of the store that was around the corner.
+8,6,of,def,long,5,I saw the driver of the car that was speeding down the street.
+41,1,of,indef,long,5,I remembered the face of a professor who I met two days ago.
+36,6,of,indef,long,5,I saw the driver of a car that was speeding down the street.
+22,0,s,indef,long,1,I forgot a movie that I saw yesterday's title.
+44,14,of,indef,long,4,I hated the manager of a store that was around the corner.
+45,13,of,def,long,4,I took the toy of the child who was in first grade.
+52,10,of,indef,long,5,I yelled at the owner of a boat that crashed into the pier.
+29,0,s,def,long,1,I forgot the movie that I saw yesterday's title.
+24,11,s,indef,long,1,I encountered a client who was guilty of a crime's lawyer.
+13,12,s,def,short,5,I smelled the tree's flowers.
+43,2,s,indef,short,4,I know a university's president.
+1,3,s,indef,short,5,I met a man's wife.
+51,14,s,indef,short,2,I hated a store's manager.
+48,1,of,indef,long,5,I remembered the face of a professor who I met two days ago.
+16,5,of,def,short,5,I got the autograph of the celebrity.
+17,11,of,indef,long,5,I encountered the lawyer of a client who was guilty of a crime.
+49,6,of,indef,short,5,I saw the driver of a car.
+23,7,s,indef,short,4,I knew a doctor's patient.
+3,2,s,def,long,2,I know the university that is in Maryland's president.
+15,14,s,indef,long,1,I hated a store that was around the corner's manager.
+6,15,of,indef,long,5,I loved the sister of a policeman who was patrolling the neighborhood.
+46,0,s,indef,long,2,I forgot a movie that I saw yesterday's title.
+8,9,of,indef,short,5,I read the book of a lawyer.
+36,14,s,def,long,3,I hated the store that was around the corner's manager.
+20,8,s,indef,short,5,I opened a cabin's door.
+42,3,s,indef,short,5,I met a man's wife.
+32,7,s,indef,short,3,I knew a doctor's patient.
+47,1,of,indef,long,5,I remembered the face of a professor who I met two days ago.
+35,7,s,indef,short,5,I knew a doctor's patient.
+25,7,of,indef,long,5,I knew the patient of a doctor who worked in the hospital.
+40,15,of,indef,long,5,I loved the sister of a policeman who was patrolling the neighborhood.
+41,13,s,indef,long,2,I took a child who was in first grade's toy.
+18,1,of,def,long,5,I remembered the face of the professor who I met two days ago.
+50,12,of,def,long,5,I smelled the flowers of the tree that was in the woods.
+2,10,s,indef,short,5,I yelled at a boat's owner.
+27,8,of,def,short,5,I opened the door of the cabin.
+39,5,of,indef,short,5,I got the autograph of a celebrity.
+46,6,of,indef,long,4,I saw the driver of a car that was speeding down the street.
+32,14,of,def,long,4,I hated the manager of the store that was around the corner.
+26,5,of,indef,short,4,I got the autograph of a celebrity.
+35,2,of,indef,long,2,I know the president of a university that is in Maryland.
+51,8,s,indef,short,5,I opened a cabin's door.
+54,11,s,indef,short,5,I encountered a client's lawyer.
+17,4,of,def,short,5,I watched the screen of the television.
+31,12,s,indef,long,3,I smelled a tree that was in the woods's flowers.
+41,3,of,indef,long,5,I met the wife of a man who worked at the store.
+36,3,s,indef,short,5,I met a man's wife.
+10,9,s,indef,short,5,I read a lawyer's book.
+49,10,of,def,short,5,I yelled at the owner of the boat.
+21,15,of,indef,long,5,I loved the sister of a policeman who was patrolling the neighborhood.
+44,7,of,def,short,4,I knew the patient of the doctor.
+45,5,s,indef,long,1,I got a celebrity who was in a lot of movies's autograph.
+12,5,of,indef,long,4,I got the autograph of a celebrity who was in a lot of movies.
+29,8,of,indef,long,3,I opened the door of a cabin that was in the woods.
+24,5,s,indef,long,4,I got a celebrity who was in a lot of movies's autograph.
+4,4,s,def,short,5,I watched the television's screen.
+48,7,s,indef,long,1,I knew a doctor who worked in the hospital's patient.
+16,15,s,def,short,4,I loved the policeman's sister.
+33,15,of,def,short,5,I loved the sister of the policeman.
+19,12,of,def,long,5,I smelled the flowers of the tree that was in the woods.
+9,2,of,indef,short,5,I know the president of a university.
+32,6,s,indef,long,1,I saw a car that was speeding down the street's driver.
+28,8,s,indef,long,1,I opened a cabin that was in the woods's door.
+23,5,s,def,short,5,I got the celebrity's autograph.
+30,0,of,indef,long,5,I forgot the title of a movie that I saw yesterday.
+13,2,of,def,short,5,I know the president of the university.
+14,5,s,indef,short,5,I got a celebrity's autograph.
+35,9,of,def,short,4,I read the book of the lawyer.
+51,2,of,def,short,5,I know the president of the university.
+37,5,of,def,short,4,I got the autograph of the celebrity.
+17,5,of,indef,long,5,I got the autograph of a celebrity who was in a lot of movies.
+42,13,of,indef,short,2,I took the toy of a child.
+47,4,of,indef,short,5,I watched the screen of a television.
+22,11,of,def,short,2,I encountered the lawyer of the client.
+44,15,of,indef,short,4,I loved the sister of a policeman.
+52,4,of,indef,long,4,I watched the screen of a television that was very large.
+29,14,of,indef,long,2,I hated the manager of a store that was around the corner.
+26,1,of,def,short,4,I remembered the face of the professor.
+27,6,s,indef,short,3,I saw a car's driver.
+54,2,s,def,long,4,I know the university that is in Maryland's president.
+31,13,s,indef,short,5,I took a child's toy.
+9,6,s,indef,short,3,I saw a car's driver.
+50,9,of,indef,short,5,I read the book of a lawyer.
+51,5,s,def,long,2,I got the celebrity who was in a lot of movies's autograph.
+4,15,of,indef,long,4,I loved the sister of a policeman who was patrolling the neighborhood.
+48,15,of,def,long,4,I loved the sister of the policeman who was patrolling the neighborhood.
+16,3,s,indef,short,5,I met a man's wife.
+33,3,of,indef,short,4,I met the wife of a man.
+42,7,of,indef,short,1,I knew the patient of a doctor.
+21,4,s,def,short,5,I watched the television's screen.
+11,14,s,indef,short,3,I hated a store's manager.
+29,13,of,def,short,1,I took the toy of the child.
+27,14,of,def,short,5,I hated the manager of the store.
+37,1,s,indef,short,4,I remembered a professor's face.
+3,8,of,indef,long,5,I opened the door of a cabin that was in the woods.
+15,9,s,indef,short,5,I read a lawyer's book.
+6,6,s,indef,short,4,I saw a car's driver.
+39,7,s,def,short,5,I knew the doctor's patient.
+46,5,of,def,short,5,I got the autograph of the celebrity.
+38,2,s,def,short,5,I know the university's president.
+31,9,of,def,short,3,I read the book of the lawyer.
+34,11,of,indef,long,3,I encountered the lawyer of a client who was guilty of a crime.
+45,3,s,def,long,1,I met the man who worked at the store's wife.
+23,10,s,def,long,2,I yelled at the boat that crashed into the pier's owner.
+12,0,s,indef,short,4,I forgot a movie's title.
+30,15,of,def,short,5,I loved the sister of the policeman.
+14,15,of,indef,short,2,I loved the sister of a policeman.
+48,3,of,indef,long,5,I met the wife of a man who worked at the store.
+7,13,s,indef,long,3,I took a child who was in first grade's toy.
+20,11,s,def,long,2,I encountered the client who was guilty of a crime's lawyer.
+10,4,of,indef,long,4,I watched the screen of a television that was very large.
+49,5,of,indef,long,5,I got the autograph of a celebrity who was in a lot of movies.
+29,7,of,def,short,2,I knew the patient of the doctor.
+1,10,of,def,long,5,I yelled at the owner of the boat that crashed into the pier.
+51,12,s,def,short,5,I smelled the tree's flowers.
+5,5,of,indef,long,3,I got the autograph of a celebrity who was in a lot of movies.
+54,0,s,def,long,2,I forgot the movie that I saw yesterday's title.
+40,1,s,def,long,1,I remembered the professor who I met two days ago's face.
+41,5,s,def,long,3,I got the celebrity who was in a lot of movies's autograph.
+36,8,s,def,long,4,I opened the cabin that was in the woods's door.
+50,11,s,indef,short,5,I encountered a client's lawyer.
+21,5,s,indef,long,4,I got a celebrity who was in a lot of movies's autograph.
+32,13,s,indef,short,5,I took a child's toy.
+52,2,of,def,long,4,I know the president of the university that is in Maryland.
+30,11,s,def,short,5,I encountered the client's lawyer.
+35,10,s,def,long,3,I yelled at the boat that crashed into the pier's owner.
+53,7,s,def,short,5,I knew the doctor's patient.
+4,10,s,def,short,4,I yelled at the boat's owner.
+48,0,of,def,short,5,I forgot the title of the movie.
+15,5,of,indef,short,5,I got the autograph of a celebrity.
+31,10,s,def,long,4,I yelled at the boat that crashed into the pier's owner.
+19,15,of,indef,short,5,I loved the sister of a policeman.
+10,5,of,indef,short,5,I got the autograph of a celebrity.
+47,15,of,def,long,4,I loved the sister of the policeman who was patrolling the neighborhood.
+11,10,of,indef,short,4,I yelled at the owner of a boat.
+26,7,s,def,short,5,I knew the doctor's patient.
+43,14,s,def,short,5,I hated the store's manager.
+41,10,of,indef,short,5,I yelled at the owner of a boat.
+18,10,of,def,short,5,I yelled at the owner of the boat.
+36,4,of,def,long,3,I watched the screen of the television that was very large.
+20,14,s,indef,short,5,I hated a store's manager.
+28,0,of,def,long,5,I forgot the title of the movie that I saw yesterday.
+45,0,of,indef,short,3,I forgot the title of a movie.
+13,3,of,indef,long,4,I met the wife of a man who worked at the store.
+1,8,s,def,long,1,I opened the cabin that was in the woods's door.
+35,3,of,indef,short,3,I met the wife of a man.
+25,9,s,def,long,5,I read the lawyer who was from France's book.
+48,9,of,def,long,5,I read the book of the lawyer who was from France.
+15,4,of,indef,long,5,I watched the screen of a television that was very large.
+38,9,s,def,long,4,I read the lawyer who was from France's book.
+40,8,of,def,short,5,I opened the door of the cabin.
+22,7,of,indef,short,2,I knew the patient of a doctor.
+51,15,of,def,long,4,I loved the sister of the policeman who was patrolling the neighborhood.
+16,10,of,def,long,5,I yelled at the owner of the boat that crashed into the pier.
+7,5,s,def,long,2,I got the celebrity who was in a lot of movies's autograph.
+36,2,s,indef,long,2,I know a university that is in Maryland's president.
+19,2,s,def,long,1,I know the university that is in Maryland's president.
+20,15,of,def,long,5,I loved the sister of the policeman who was patrolling the neighborhood.
+32,8,of,def,long,4,I opened the door of the cabin that was in the woods.
+24,8,of,def,short,5,I opened the door of the cabin.
+1,11,of,def,short,5,I encountered the lawyer of the client.
+48,5,s,def,long,3,I got the celebrity who was in a lot of movies's autograph.
+54,3,s,def,short,5,I met the man's wife.
+39,3,of,def,short,4,I met the wife of the man.
+17,15,s,indef,long,1,I loved a policeman who was patrolling the neighborhood's sister.
+9,8,of,def,short,5,I opened the door of the cabin.
+43,9,s,indef,long,2,I read a lawyer who was from France's book.
+5,3,of,def,long,4,I met the wife of the man who worked at the store.
+38,1,s,indef,long,5,I remembered a professor who I met two days ago's face.
+49,4,of,def,short,5,I watched the screen of the television.
+50,4,s,indef,long,1,I watched a television that was very large's screen.
+32,0,of,indef,long,4,I forgot the title of a movie that I saw yesterday.
+45,8,of,def,short,5,I opened the door of the cabin.
+26,2,of,def,long,3,I know the president of the university that is in Maryland.
+41,15,of,def,long,5,I loved the sister of the policeman who was patrolling the neighborhood.
+36,5,of,def,short,5,I got the autograph of the celebrity.
+42,10,of,def,long,5,I yelled at the owner of the boat that crashed into the pier.
+12,14,s,def,short,5,I hated the store's manager.
+51,7,s,indef,long,1,I knew a doctor who worked in the hospital's patient.
+37,4,of,def,long,4,I watched the screen of the television that was very large.
+54,10,s,indef,long,4,I yelled at a boat that crashed into the pier's owner.
+7,15,of,def,long,1,I loved the sister of the policeman who was patrolling the neighborhood.
+10,8,s,indef,long,2,I opened a cabin that was in the woods's door.
+13,8,s,indef,short,4,I opened a cabin's door.
+53,10,of,indef,long,3,I yelled at the owner of a boat that crashed into the pier.
+3,3,s,def,short,5,I met the man's wife.
+48,12,s,def,short,5,I smelled the tree's flowers.
+33,4,s,def,long,2,I watched the television that was very large's screen.
+39,12,s,def,long,3,I smelled the tree that was in the woods's flowers.
+46,10,of,def,long,4,I yelled at the owner of the boat that crashed into the pier.
+18,3,of,def,long,5,I met the wife of the man who worked at the store.
+49,0,s,indef,short,5,I forgot a movie's title.
+42,8,s,def,long,1,I opened the cabin that was in the woods's door.
+50,10,s,indef,long,5,I yelled at a boat that crashed into the pier's owner.
+34,9,s,indef,long,2,I read a lawyer who was from France's book.
+44,11,s,indef,short,5,I encountered a client's lawyer.
+11,12,s,def,short,5,I smelled the tree's flowers.
+52,15,s,indef,short,5,I loved a policeman's sister.
+1,1,s,indef,short,5,I remembered a professor's face.
+37,10,of,def,long,5,I yelled at the owner of the boat that crashed into the pier.
+16,2,s,indef,long,1,I know a university that is in Maryland's president.
+54,13,of,def,short,4,I took the toy of the child.
+17,2,s,indef,short,5,I know a university's president.
+31,7,s,indef,short,3,I knew a doctor's patient.
+23,4,s,def,long,1,I watched the television that was very large's screen.
+12,9,s,indef,long,1,I read a lawyer who was from France's book.
+30,9,of,def,short,3,I read the book of the lawyer.
+2,7,of,indef,long,3,I knew the patient of a doctor who worked in the hospital.
+14,9,of,indef,short,2,I read the book of a lawyer.
+4,11,s,indef,long,1,I encountered a client who was guilty of a crime's lawyer.
+5,10,of,def,short,5,I yelled at the owner of the boat.
+6,7,of,def,long,2,I knew the patient of the doctor who worked in the hospital.
+36,13,of,indef,short,3,I took the toy of a child.
+50,1,s,def,short,5,I remembered the professor's face.
+32,5,s,def,short,4,I got the celebrity's autograph.
+22,9,s,def,short,5,I read the lawyer's book.
+45,10,s,def,short,5,I yelled at the boat's owner.
+24,4,s,def,short,5,I watched the television's screen.
+43,6,of,indef,short,4,I saw the driver of a car.
+25,12,of,def,short,5,I smelled the flowers of the tree.
+41,4,of,indef,short,1,I watched the screen of a television.
+49,1,of,def,long,5,I remembered the face of the professor who I met two days ago.
+30,12,s,indef,long,2,I smelled a tree that was in the woods's flowers.
+13,10,of,indef,short,5,I yelled at the owner of a boat.
+53,9,s,indef,short,5,I read a lawyer's book.
+37,3,s,indef,short,5,I met a man's wife.
+33,10,s,def,long,2,I yelled at the boat that crashed into the pier's owner.
+7,2,of,def,short,5,I know the president of the university.
+39,13,s,def,short,5,I took the child's toy.
+17,13,s,def,long,1,I took the child who was in first grade's toy.
+36,7,of,indef,short,2,I knew the patient of a doctor.
+32,15,of,def,short,3,I loved the sister of the policeman.
+34,10,of,def,short,5,I yelled at the owner of the boat.
+44,10,s,indef,long,4,I yelled at a boat that crashed into the pier's owner.
+11,3,of,indef,long,4,I met the wife of a man who worked at the store.
+12,8,s,def,short,5,I opened the cabin's door.
+43,7,s,def,long,3,I knew the doctor who worked in the hospital's patient.
+48,4,of,indef,short,5,I watched the screen of a television.
+8,1,s,def,short,5,I remembered the professor's face.
+31,6,s,indef,long,1,I saw a car that was speeding down the street's driver.
+18,8,s,def,short,5,I opened the cabin's door.
+42,11,of,def,short,4,I encountered the lawyer of the client.
+21,6,s,indef,short,5,I saw a car's driver.
+22,3,s,indef,short,5,I met a man's wife.
+1,13,of,indef,short,5,I took the toy of a child.
+2,0,s,def,short,5,I forgot the movie's title.
+14,11,s,indef,short,3,I encountered a client's lawyer.
+25,10,s,indef,short,5,I yelled at a boat's owner.
+16,12,of,indef,long,5,I smelled the flowers of a tree that was in the woods.
+39,0,of,def,long,5,I forgot the title of the movie that I saw yesterday.
+46,14,s,def,long,2,I hated the store that was around the corner's manager.
+10,15,s,indef,short,5,I loved a policeman's sister.
+49,13,s,def,long,2,I took the child who was in first grade's toy.
+47,0,of,def,short,5,I forgot the title of the movie.
+44,6,of,def,long,4,I saw the driver of the car that was speeding down the street.
+52,0,of,def,long,5,I forgot the title of the movie that I saw yesterday.
+43,5,of,indef,long,5,I got the autograph of a celebrity who was in a lot of movies.
+27,4,s,def,short,3,I watched the television's screen.
+4,8,of,def,short,5,I opened the door of the cabin.
+33,9,of,def,short,3,I read the book of the lawyer.
+7,10,of,indef,short,5,I yelled at the owner of a boat.
+17,10,of,def,short,5,I yelled at the owner of the boat.
+19,6,of,def,long,5,I saw the driver of the car that was speeding down the street.
+12,2,s,indef,short,2,I know a university's president.
+37,11,of,def,short,3,I encountered the lawyer of the client.
+54,12,of,def,long,2,I smelled the flowers of the tree that was in the woods.
+46,11,of,def,short,4,I encountered the lawyer of the client.
+42,2,s,indef,long,1,I know a university that is in Maryland's president.
+32,10,s,def,long,2,I yelled at the boat that crashed into the pier's owner.
+52,13,s,def,short,5,I took the child's toy.
+43,11,of,indef,long,4,I encountered the lawyer of a client who was guilty of a crime.
+51,3,of,indef,long,4,I met the wife of a man who worked at the store.
+33,7,s,indef,short,3,I knew a doctor's patient.
+38,11,of,def,long,5,I encountered the lawyer of the client who was guilty of a crime.
+19,3,s,def,short,5,I met the man's wife.
+21,10,s,def,short,5,I yelled at the boat's owner.
+28,13,s,def,short,5,I took the child's toy.
+34,15,s,indef,long,1,I loved a policeman who was patrolling the neighborhood's sister.
+26,14,s,indef,long,1,I hated a store that was around the corner's manager.
+2,6,of,def,short,3,I saw the driver of the car.
+27,11,s,indef,long,1,I encountered a client who was guilty of a crime's lawyer.
+53,6,s,def,long,1,I saw the car that was speeding down the street's driver.
+5,6,of,indef,short,5,I saw the driver of a car.
+16,7,of,indef,short,5,I knew the patient of a doctor.
+40,7,of,def,long,4,I knew the patient of the doctor who worked in the hospital.
+10,3,of,def,short,2,I met the wife of the man.
+44,5,s,indef,short,5,I got a celebrity's autograph.
+48,14,s,indef,short,5,I hated a store's manager.
+54,1,s,def,short,5,I remembered the professor's face.
+39,11,of,indef,short,4,I encountered the lawyer of a client.
+45,2,of,indef,short,5,I know the president of a university.
+2,8,of,indef,short,5,I opened the door of a cabin.
+46,8,s,def,long,2,I opened the cabin that was in the woods's door.
+50,0,s,def,long,3,I forgot the movie that I saw yesterday's title.
+34,1,of,def,long,3,I remembered the face of the professor who I met two days ago.
+22,15,s,def,short,5,I loved the policeman's sister.
+44,2,s,def,long,5,I know the university that is in Maryland's president.
+53,14,s,indef,long,1,I hated a store that was around the corner's manager.
+25,0,s,def,short,5,I forgot the movie's title.
+3,7,of,def,short,5,I knew the patient of the doctor.
+48,10,of,indef,short,5,I yelled at the owner of a boat.
+54,15,of,indef,short,4,I loved the sister of a policeman.
+38,3,s,indef,long,4,I met a man who worked at the store's wife.
+31,1,of,indef,short,5,I remembered the face of a professor.
+18,6,of,indef,short,5,I saw the driver of a car.
+36,0,s,indef,long,4,I forgot a movie that I saw yesterday's title.
+10,1,of,def,short,5,I remembered the face of the professor.
+12,10,of,def,short,5,I yelled at the owner of the boat.
+2,2,s,def,short,5,I know the university's president.
+14,13,of,def,short,2,I took the toy of the child.
+37,2,s,indef,long,1,I know a university that is in Maryland's president.
+4,0,of,indef,short,5,I forgot the title of a movie.
+5,13,s,def,long,4,I took the child who was in first grade's toy.
+40,14,of,def,short,5,I hated the manager of the store.
+41,8,s,indef,short,5,I opened a cabin's door.
+19,7,of,def,short,5,I knew the patient of the doctor.
+50,2,s,def,long,3,I know the university that is in Maryland's president.
+21,9,of,indef,long,4,I read the book of a lawyer who was from France.
+34,8,s,def,short,5,I opened the cabin's door.
+22,5,of,def,short,4,I got the autograph of the celebrity.
+44,12,of,def,long,5,I smelled the flowers of the tree that was in the woods.
+52,8,s,indef,long,2,I opened a cabin that was in the woods's door.
+30,8,of,def,long,4,I opened the door of the cabin that was in the woods.

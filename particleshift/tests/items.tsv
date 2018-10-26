@@ -1,0 +1,1391 @@
+	sent_index	word_index	word	region	condition
+0	0	0	Sean	Subject NP	unshifted_short
+1	0	1	squirreled	Verb	unshifted_short
+2	0	2	away	Particle	unshifted_short
+3	0	3	some	Modifier Short	unshifted_short
+4	0	4	chocolate	Modifier Short	unshifted_short
+5	0	6	.	End	unshifted_short
+6	0	7	<eos>	End	unshifted_short
+7	1	0	Oliver	Subject NP	unshifted_short
+8	1	1	scaled	Verb	unshifted_short
+9	1	2	back	Particle	unshifted_short
+10	1	3	his	Modifier Short	unshifted_short
+11	1	4	paper	Modifier Short	unshifted_short
+12	1	6	.	End	unshifted_short
+13	1	7	<eos>	End	unshifted_short
+14	2	0	Henry	Subject NP	unshifted_short
+15	2	1	wolfed	Verb	unshifted_short
+16	2	2	down	Particle	unshifted_short
+17	2	3	the	Modifier Short	unshifted_short
+18	2	4	sandwich	Modifier Short	unshifted_short
+19	2	6	.	End	unshifted_short
+20	2	7	<eos>	End	unshifted_short
+21	3	0	James	Subject NP	unshifted_short
+22	3	1	factored	Verb	unshifted_short
+23	3	2	in	Particle	unshifted_short
+24	3	3	the	Modifier Short	unshifted_short
+25	3	4	traffic	Modifier Short	unshifted_short
+26	3	6	.	End	unshifted_short
+27	3	7	<eos>	End	unshifted_short
+28	4	0	Jessica	Subject NP	unshifted_short
+29	4	1	staved	Verb	unshifted_short
+30	4	2	off	Particle	unshifted_short
+31	4	3	her	Modifier Short	unshifted_short
+32	4	4	hunger	Modifier Short	unshifted_short
+33	4	6	.	End	unshifted_short
+34	4	7	<eos>	End	unshifted_short
+35	5	0	Paul	Subject NP	unshifted_short
+36	5	1	passed	Verb	unshifted_short
+37	5	2	on	Particle	unshifted_short
+38	5	3	the	Modifier Short	unshifted_short
+39	5	4	message	Modifier Short	unshifted_short
+40	5	6	.	End	unshifted_short
+41	5	7	<eos>	End	unshifted_short
+42	6	0	Teresa	Subject NP	unshifted_short
+43	6	1	fleshed	Verb	unshifted_short
+44	6	2	out	Particle	unshifted_short
+45	6	3	the	Modifier Short	unshifted_short
+46	6	4	idea	Modifier Short	unshifted_short
+47	6	6	.	End	unshifted_short
+48	6	7	<eos>	End	unshifted_short
+49	7	0	Claire	Subject NP	unshifted_short
+50	7	1	divvied	Verb	unshifted_short
+51	7	2	up	Particle	unshifted_short
+52	7	3	the	Modifier Short	unshifted_short
+53	7	4	work	Modifier Short	unshifted_short
+54	7	6	.	End	unshifted_short
+55	7	7	<eos>	End	unshifted_short
+56	8	0	Robert	Subject NP	unshifted_short
+57	8	1	scared	Verb	unshifted_short
+58	8	2	away	Particle	unshifted_short
+59	8	3	the	Modifier Short	unshifted_short
+60	8	4	bully	Modifier Short	unshifted_short
+61	8	6	.	End	unshifted_short
+62	8	7	<eos>	End	unshifted_short
+63	9	0	Polly	Subject NP	unshifted_short
+64	9	1	brought	Verb	unshifted_short
+65	9	2	back	Particle	unshifted_short
+66	9	3	her	Modifier Short	unshifted_short
+67	9	4	friend	Modifier Short	unshifted_short
+68	9	6	.	End	unshifted_short
+69	9	7	<eos>	End	unshifted_short
+70	10	0	Hannah	Subject NP	unshifted_short
+71	10	1	bogged	Verb	unshifted_short
+72	10	2	down	Particle	unshifted_short
+73	10	3	her	Modifier Short	unshifted_short
+74	10	4	friend	Modifier Short	unshifted_short
+75	10	6	.	End	unshifted_short
+76	10	7	<eos>	End	unshifted_short
+77	11	0	Vernon	Subject NP	unshifted_short
+78	11	1	reined	Verb	unshifted_short
+79	11	2	in	Particle	unshifted_short
+80	11	3	his	Modifier Short	unshifted_short
+81	11	4	son	Modifier Short	unshifted_short
+82	11	6	.	End	unshifted_short
+83	11	7	<eos>	End	unshifted_short
+84	12	0	Emma	Subject NP	unshifted_short
+85	12	1	ripped	Verb	unshifted_short
+86	12	2	off	Particle	unshifted_short
+87	12	3	the	Modifier Short	unshifted_short
+88	12	4	customer	Modifier Short	unshifted_short
+89	12	6	.	End	unshifted_short
+90	12	7	<eos>	End	unshifted_short
+91	13	0	Jonathan	Subject NP	unshifted_short
+92	13	1	egged	Verb	unshifted_short
+93	13	2	on	Particle	unshifted_short
+94	13	3	his	Modifier Short	unshifted_short
+95	13	4	buddy	Modifier Short	unshifted_short
+96	13	6	.	End	unshifted_short
+97	13	7	<eos>	End	unshifted_short
+98	14	0	Elizabeth	Subject NP	unshifted_short
+99	14	1	bailed	Verb	unshifted_short
+100	14	2	out	Particle	unshifted_short
+101	14	3	her	Modifier Short	unshifted_short
+102	14	4	sister	Modifier Short	unshifted_short
+103	14	6	.	End	unshifted_short
+104	14	7	<eos>	End	unshifted_short
+105	15	0	Lena	Subject NP	unshifted_short
+106	15	1	pepped	Verb	unshifted_short
+107	15	2	up	Particle	unshifted_short
+108	15	3	her	Modifier Short	unshifted_short
+109	15	4	roommate	Modifier Short	unshifted_short
+110	15	6	.	End	unshifted_short
+111	15	7	<eos>	End	unshifted_short
+112	16	0	Tyler	Subject NP	unshifted_short
+113	16	1	wished	Verb	unshifted_short
+114	16	2	away	Particle	unshifted_short
+115	16	3	his	Modifier Short	unshifted_short
+116	16	4	debt	Modifier Short	unshifted_short
+117	16	6	.	End	unshifted_short
+118	16	7	<eos>	End	unshifted_short
+119	17	0	Lily	Subject NP	unshifted_short
+120	17	1	forced	Verb	unshifted_short
+121	17	2	back	Particle	unshifted_short
+122	17	3	her	Modifier Short	unshifted_short
+123	17	4	laughter	Modifier Short	unshifted_short
+124	17	6	.	End	unshifted_short
+125	17	7	<eos>	End	unshifted_short
+126	18	0	Sam	Subject NP	unshifted_short
+127	18	1	argued	Verb	unshifted_short
+128	18	2	down	Particle	unshifted_short
+129	18	3	the	Modifier Short	unshifted_short
+130	18	4	price	Modifier Short	unshifted_short
+131	18	6	.	End	unshifted_short
+132	18	7	<eos>	End	unshifted_short
+133	19	0	Kurt	Subject NP	unshifted_short
+134	19	1	moved	Verb	unshifted_short
+135	19	2	in	Particle	unshifted_short
+136	19	3	his	Modifier Short	unshifted_short
+137	19	4	desk	Modifier Short	unshifted_short
+138	19	6	.	End	unshifted_short
+139	19	7	<eos>	End	unshifted_short
+140	20	0	Mark	Subject NP	unshifted_short
+141	20	1	read	Verb	unshifted_short
+142	20	2	off	Particle	unshifted_short
+143	20	3	the	Modifier Short	unshifted_short
+144	20	4	names	Modifier Short	unshifted_short
+145	20	6	.	End	unshifted_short
+146	20	7	<eos>	End	unshifted_short
+147	21	0	Sarah	Subject NP	unshifted_short
+148	21	1	had	Verb	unshifted_short
+149	21	2	on	Particle	unshifted_short
+150	21	3	the	Modifier Short	unshifted_short
+151	21	4	sweater	Modifier Short	unshifted_short
+152	21	6	.	End	unshifted_short
+153	21	7	<eos>	End	unshifted_short
+154	22	0	The	Subject NP	unshifted_short
+155	22	1	manager	Subject NP	unshifted_short
+156	22	2	dealt	Verb	unshifted_short
+157	22	3	out	Particle	unshifted_short
+158	22	4	the	Modifier Short	unshifted_short
+159	22	5	assignments	Modifier Short	unshifted_short
+160	22	7	.	End	unshifted_short
+161	22	8	<eos>	End	unshifted_short
+162	23	0	Max	Subject NP	unshifted_short
+163	23	1	bought	Verb	unshifted_short
+164	23	2	up	Particle	unshifted_short
+165	23	3	the	Modifier Short	unshifted_short
+166	23	4	stock	Modifier Short	unshifted_short
+167	23	6	.	End	unshifted_short
+168	23	7	<eos>	End	unshifted_short
+169	24	0	The	Subject NP	unshifted_short
+170	24	1	boss	Subject NP	unshifted_short
+171	24	2	sent	Verb	unshifted_short
+172	24	3	away	Particle	unshifted_short
+173	24	4	his	Modifier Short	unshifted_short
+174	24	5	secretary	Modifier Short	unshifted_short
+175	24	7	.	End	unshifted_short
+176	24	8	<eos>	End	unshifted_short
+177	25	0	Ellen	Subject NP	unshifted_short
+178	25	1	drove	Verb	unshifted_short
+179	25	2	back	Particle	unshifted_short
+180	25	3	the	Modifier Short	unshifted_short
+181	25	4	mugger	Modifier Short	unshifted_short
+182	25	6	.	End	unshifted_short
+183	25	7	<eos>	End	unshifted_short
+184	26	0	Harry	Subject NP	unshifted_short
+185	26	1	laughed	Verb	unshifted_short
+186	26	2	down	Particle	unshifted_short
+187	26	3	his	Modifier Short	unshifted_short
+188	26	4	friend	Modifier Short	unshifted_short
+189	26	6	.	End	unshifted_short
+190	26	7	<eos>	End	unshifted_short
+191	27	0	The	Subject NP	unshifted_short
+192	27	1	losses	Subject NP	unshifted_short
+193	27	2	did	Verb	unshifted_short
+194	27	3	in	Particle	unshifted_short
+195	27	4	the	Modifier Short	unshifted_short
+196	27	5	investor	Modifier Short	unshifted_short
+197	27	7	.	End	unshifted_short
+198	27	8	<eos>	End	unshifted_short
+199	28	0	Fred	Subject NP	unshifted_short
+200	28	1	saw	Verb	unshifted_short
+201	28	2	off	Particle	unshifted_short
+202	28	3	his	Modifier Short	unshifted_short
+203	28	4	girlfriend	Modifier Short	unshifted_short
+204	28	6	.	End	unshifted_short
+205	28	7	<eos>	End	unshifted_short
+206	29	0	Ron	Subject NP	unshifted_short
+207	29	1	led	Verb	unshifted_short
+208	29	2	on	Particle	unshifted_short
+209	29	3	the	Modifier Short	unshifted_short
+210	29	4	waitress	Modifier Short	unshifted_short
+211	29	6	.	End	unshifted_short
+212	29	7	<eos>	End	unshifted_short
+213	30	0	Sally	Subject NP	unshifted_short
+214	30	1	showed	Verb	unshifted_short
+215	30	2	out	Particle	unshifted_short
+216	30	3	her	Modifier Short	unshifted_short
+217	30	4	guests	Modifier Short	unshifted_short
+218	30	6	.	End	unshifted_short
+219	30	7	<eos>	End	unshifted_short
+220	31	0	Rebecca	Subject NP	unshifted_short
+221	31	1	talked	Verb	unshifted_short
+222	31	2	up	Particle	unshifted_short
+223	31	3	her	Modifier Short	unshifted_short
+224	31	4	brother	Modifier Short	unshifted_short
+225	31	6	.	End	unshifted_short
+226	31	7	<eos>	End	unshifted_short
+227	0	0	Sean	Subject NP	unshifted_long
+228	0	1	squirreled	Verb	unshifted_long
+229	0	2	away	Particle	unshifted_long
+230	0	3	some	Modifier Long	unshifted_long
+231	0	4	semisweet	Modifier Long	unshifted_long
+232	0	5	chocolate	Modifier Long	unshifted_long
+233	0	6	that	Modifier Long	unshifted_long
+234	0	7	his	Modifier Long	unshifted_long
+235	0	8	mother	Modifier Long	unshifted_long
+236	0	9	had	Modifier Long	unshifted_long
+237	0	10	given	Modifier Long	unshifted_long
+238	0	11	him	Modifier Long	unshifted_long
+239	0	13	.	End	unshifted_long
+240	0	14	<eos>	End	unshifted_long
+241	1	0	Oliver	Subject NP	unshifted_long
+242	1	1	scaled	Verb	unshifted_long
+243	1	2	back	Particle	unshifted_long
+244	1	3	his	Modifier Long	unshifted_long
+245	1	4	paper	Modifier Long	unshifted_long
+246	1	5	on	Modifier Long	unshifted_long
+247	1	6	the	Modifier Long	unshifted_long
+248	1	7	United	Modifier Long	unshifted_long
+249	1	8	States	Modifier Long	unshifted_long
+250	1	9	international	Modifier Long	unshifted_long
+251	1	10	trade	Modifier Long	unshifted_long
+252	1	11	practices	Modifier Long	unshifted_long
+253	1	13	.	End	unshifted_long
+254	1	14	<eos>	End	unshifted_long
+255	2	0	Henry	Subject NP	unshifted_long
+256	2	1	wolfed	Verb	unshifted_long
+257	2	2	down	Particle	unshifted_long
+258	2	3	the	Modifier Long	unshifted_long
+259	2	4	pastrami	Modifier Long	unshifted_long
+260	2	5	sandwich	Modifier Long	unshifted_long
+261	2	6	with	Modifier Long	unshifted_long
+262	2	7	mustard	Modifier Long	unshifted_long
+263	2	8	and	Modifier Long	unshifted_long
+264	2	9	pickles	Modifier Long	unshifted_long
+265	2	11	.	End	unshifted_long
+266	2	12	<eos>	End	unshifted_long
+267	3	0	James	Subject NP	unshifted_long
+268	3	1	factored	Verb	unshifted_long
+269	3	2	in	Particle	unshifted_long
+270	3	3	the	Modifier Long	unshifted_long
+271	3	4	traffic	Modifier Long	unshifted_long
+272	3	5	on	Modifier Long	unshifted_long
+273	3	6	the	Modifier Long	unshifted_long
+274	3	7	highway	Modifier Long	unshifted_long
+275	3	8	along	Modifier Long	unshifted_long
+276	3	9	his	Modifier Long	unshifted_long
+277	3	10	route	Modifier Long	unshifted_long
+278	3	12	.	End	unshifted_long
+279	3	13	<eos>	End	unshifted_long
+280	4	0	Jessica	Subject NP	unshifted_long
+281	4	1	staved	Verb	unshifted_long
+282	4	2	off	Particle	unshifted_long
+283	4	3	her	Modifier Long	unshifted_long
+284	4	4	hunger	Modifier Long	unshifted_long
+285	4	5	from	Modifier Long	unshifted_long
+286	4	6	not	Modifier Long	unshifted_long
+287	4	7	eating	Modifier Long	unshifted_long
+288	4	8	breakfast	Modifier Long	unshifted_long
+289	4	9	that	Modifier Long	unshifted_long
+290	4	10	day	Modifier Long	unshifted_long
+291	4	12	.	End	unshifted_long
+292	4	13	<eos>	End	unshifted_long
+293	5	0	Paul	Subject NP	unshifted_long
+294	5	1	passed	Verb	unshifted_long
+295	5	2	on	Particle	unshifted_long
+296	5	3	the	Modifier Long	unshifted_long
+297	5	4	message	Modifier Long	unshifted_long
+298	5	5	from	Modifier Long	unshifted_long
+299	5	6	his	Modifier Long	unshifted_long
+300	5	7	grandmother	Modifier Long	unshifted_long
+301	5	8	about	Modifier Long	unshifted_long
+302	5	9	Sunday	Modifier Long	unshifted_long
+303	5	10	brunch	Modifier Long	unshifted_long
+304	5	12	.	End	unshifted_long
+305	5	13	<eos>	End	unshifted_long
+306	6	0	Teresa	Subject NP	unshifted_long
+307	6	1	fleshed	Verb	unshifted_long
+308	6	2	out	Particle	unshifted_long
+309	6	3	the	Modifier Long	unshifted_long
+310	6	4	idea	Modifier Long	unshifted_long
+311	6	5	for	Modifier Long	unshifted_long
+312	6	6	her	Modifier Long	unshifted_long
+313	6	7	paper	Modifier Long	unshifted_long
+314	6	8	about	Modifier Long	unshifted_long
+315	6	9	bee	Modifier Long	unshifted_long
+316	6	10	colony	Modifier Long	unshifted_long
+317	6	11	collapse	Modifier Long	unshifted_long
+318	6	13	.	End	unshifted_long
+319	6	14	<eos>	End	unshifted_long
+320	7	0	Claire	Subject NP	unshifted_long
+321	7	1	divvied	Verb	unshifted_long
+322	7	2	up	Particle	unshifted_long
+323	7	3	the	Modifier Long	unshifted_long
+324	7	4	work	Modifier Long	unshifted_long
+325	7	5	needed	Modifier Long	unshifted_long
+326	7	6	to	Modifier Long	unshifted_long
+327	7	7	finish	Modifier Long	unshifted_long
+328	7	8	the	Modifier Long	unshifted_long
+329	7	9	project	Modifier Long	unshifted_long
+330	7	11	.	End	unshifted_long
+331	7	12	<eos>	End	unshifted_long
+332	8	0	Robert	Subject NP	unshifted_long
+333	8	1	scared	Verb	unshifted_long
+334	8	2	away	Particle	unshifted_long
+335	8	3	the	Modifier Long	unshifted_long
+336	8	4	bully	Modifier Long	unshifted_long
+337	8	5	who	Modifier Long	unshifted_long
+338	8	6	attempted	Modifier Long	unshifted_long
+339	8	7	to	Modifier Long	unshifted_long
+340	8	8	intimidate	Modifier Long	unshifted_long
+341	8	9	him	Modifier Long	unshifted_long
+342	8	10	and	Modifier Long	unshifted_long
+343	8	11	his	Modifier Long	unshifted_long
+344	8	12	friends	Modifier Long	unshifted_long
+345	8	14	.	End	unshifted_long
+346	8	15	<eos>	End	unshifted_long
+347	9	0	Polly	Subject NP	unshifted_long
+348	9	1	brought	Verb	unshifted_long
+349	9	2	back	Particle	unshifted_long
+350	9	3	her	Modifier Long	unshifted_long
+351	9	4	friend	Modifier Long	unshifted_long
+352	9	5	who	Modifier Long	unshifted_long
+353	9	6	had	Modifier Long	unshifted_long
+354	9	7	left	Modifier Long	unshifted_long
+355	9	8	the	Modifier Long	unshifted_long
+356	9	9	party	Modifier Long	unshifted_long
+357	9	10	earlier	Modifier Long	unshifted_long
+358	9	11	in	Modifier Long	unshifted_long
+359	9	12	the	Modifier Long	unshifted_long
+360	9	13	evening	Modifier Long	unshifted_long
+361	9	15	.	End	unshifted_long
+362	9	16	<eos>	End	unshifted_long
+363	10	0	Hannah	Subject NP	unshifted_long
+364	10	1	bogged	Verb	unshifted_long
+365	10	2	down	Particle	unshifted_long
+366	10	3	her	Modifier Long	unshifted_long
+367	10	4	friend	Modifier Long	unshifted_long
+368	10	5	who	Modifier Long	unshifted_long
+369	10	6	already	Modifier Long	unshifted_long
+370	10	7	had	Modifier Long	unshifted_long
+371	10	8	a	Modifier Long	unshifted_long
+372	10	9	lot	Modifier Long	unshifted_long
+373	10	10	on	Modifier Long	unshifted_long
+374	10	11	her	Modifier Long	unshifted_long
+375	10	12	mind	Modifier Long	unshifted_long
+376	10	14	.	End	unshifted_long
+377	10	15	<eos>	End	unshifted_long
+378	11	0	Vernon	Subject NP	unshifted_long
+379	11	1	reined	Verb	unshifted_long
+380	11	2	in	Particle	unshifted_long
+381	11	3	his	Modifier Long	unshifted_long
+382	11	4	young	Modifier Long	unshifted_long
+383	11	5	son	Modifier Long	unshifted_long
+384	11	6	who	Modifier Long	unshifted_long
+385	11	7	was	Modifier Long	unshifted_long
+386	11	8	talking	Modifier Long	unshifted_long
+387	11	9	loudly	Modifier Long	unshifted_long
+388	11	10	at	Modifier Long	unshifted_long
+389	11	11	the	Modifier Long	unshifted_long
+390	11	12	restaurant	Modifier Long	unshifted_long
+391	11	14	.	End	unshifted_long
+392	11	15	<eos>	End	unshifted_long
+393	12	0	Emma	Subject NP	unshifted_long
+394	12	1	ripped	Verb	unshifted_long
+395	12	2	off	Particle	unshifted_long
+396	12	3	the	Modifier Long	unshifted_long
+397	12	4	customer	Modifier Long	unshifted_long
+398	12	5	who	Modifier Long	unshifted_long
+399	12	6	did	Modifier Long	unshifted_long
+400	12	7	not	Modifier Long	unshifted_long
+401	12	8	know	Modifier Long	unshifted_long
+402	12	9	anything	Modifier Long	unshifted_long
+403	12	10	about	Modifier Long	unshifted_long
+404	12	11	cars	Modifier Long	unshifted_long
+405	12	13	.	End	unshifted_long
+406	12	14	<eos>	End	unshifted_long
+407	13	0	Jonathan	Subject NP	unshifted_long
+408	13	1	egged	Verb	unshifted_long
+409	13	2	on	Particle	unshifted_long
+410	13	3	his	Modifier Long	unshifted_long
+411	13	4	buddy	Modifier Long	unshifted_long
+412	13	5	who	Modifier Long	unshifted_long
+413	13	6	was	Modifier Long	unshifted_long
+414	13	7	debating	Modifier Long	unshifted_long
+415	13	8	if	Modifier Long	unshifted_long
+416	13	9	he	Modifier Long	unshifted_long
+417	13	10	should	Modifier Long	unshifted_long
+418	13	11	stay	Modifier Long	unshifted_long
+419	13	12	at	Modifier Long	unshifted_long
+420	13	13	the	Modifier Long	unshifted_long
+421	13	14	bar	Modifier Long	unshifted_long
+422	13	16	.	End	unshifted_long
+423	13	17	<eos>	End	unshifted_long
+424	14	0	Elizabeth	Subject NP	unshifted_long
+425	14	1	bailed	Verb	unshifted_long
+426	14	2	out	Particle	unshifted_long
+427	14	3	her	Modifier Long	unshifted_long
+428	14	4	sister	Modifier Long	unshifted_long
+429	14	5	who	Modifier Long	unshifted_long
+430	14	6	had	Modifier Long	unshifted_long
+431	14	7	been	Modifier Long	unshifted_long
+432	14	8	arrested	Modifier Long	unshifted_long
+433	14	9	that	Modifier Long	unshifted_long
+434	14	10	night	Modifier Long	unshifted_long
+435	14	12	.	End	unshifted_long
+436	14	13	<eos>	End	unshifted_long
+437	15	0	Lena	Subject NP	unshifted_long
+438	15	1	pepped	Verb	unshifted_long
+439	15	2	up	Particle	unshifted_long
+440	15	3	her	Modifier Long	unshifted_long
+441	15	4	roommate	Modifier Long	unshifted_long
+442	15	5	who	Modifier Long	unshifted_long
+443	15	6	was	Modifier Long	unshifted_long
+444	15	7	sad	Modifier Long	unshifted_long
+445	15	8	about	Modifier Long	unshifted_long
+446	15	9	being	Modifier Long	unshifted_long
+447	15	10	sick	Modifier Long	unshifted_long
+448	15	12	.	End	unshifted_long
+449	15	13	<eos>	End	unshifted_long
+450	16	0	Tyler	Subject NP	unshifted_long
+451	16	1	wished	Verb	unshifted_long
+452	16	2	away	Particle	unshifted_long
+453	16	3	his	Modifier Long	unshifted_long
+454	16	4	student	Modifier Long	unshifted_long
+455	16	5	loan	Modifier Long	unshifted_long
+456	16	6	debt	Modifier Long	unshifted_long
+457	16	7	that	Modifier Long	unshifted_long
+458	16	8	was	Modifier Long	unshifted_long
+459	16	9	affecting	Modifier Long	unshifted_long
+460	16	10	his	Modifier Long	unshifted_long
+461	16	11	credit	Modifier Long	unshifted_long
+462	16	12	score	Modifier Long	unshifted_long
+463	16	14	.	End	unshifted_long
+464	16	15	<eos>	End	unshifted_long
+465	17	0	Lily	Subject NP	unshifted_long
+466	17	1	forced	Verb	unshifted_long
+467	17	2	back	Particle	unshifted_long
+468	17	3	her	Modifier Long	unshifted_long
+469	17	4	laughter	Modifier Long	unshifted_long
+470	17	5	at	Modifier Long	unshifted_long
+471	17	6	her	Modifier Long	unshifted_long
+472	17	7	boss's	Modifier Long	unshifted_long
+473	17	8	mistake	Modifier Long	unshifted_long
+474	17	9	at	Modifier Long	unshifted_long
+475	17	10	the	Modifier Long	unshifted_long
+476	17	11	meeting	Modifier Long	unshifted_long
+477	17	13	.	End	unshifted_long
+478	17	14	<eos>	End	unshifted_long
+479	18	0	Sam	Subject NP	unshifted_long
+480	18	1	argued	Verb	unshifted_long
+481	18	2	down	Particle	unshifted_long
+482	18	3	the	Modifier Long	unshifted_long
+483	18	4	price	Modifier Long	unshifted_long
+484	18	5	of	Modifier Long	unshifted_long
+485	18	6	the	Modifier Long	unshifted_long
+486	18	7	vase	Modifier Long	unshifted_long
+487	18	8	at	Modifier Long	unshifted_long
+488	18	9	the	Modifier Long	unshifted_long
+489	18	10	flea	Modifier Long	unshifted_long
+490	18	11	market	Modifier Long	unshifted_long
+491	18	13	.	End	unshifted_long
+492	18	14	<eos>	End	unshifted_long
+493	19	0	Kurt	Subject NP	unshifted_long
+494	19	1	moved	Verb	unshifted_long
+495	19	2	in	Particle	unshifted_long
+496	19	3	his	Modifier Long	unshifted_long
+497	19	4	desk	Modifier Long	unshifted_long
+498	19	5	that	Modifier Long	unshifted_long
+499	19	6	he	Modifier Long	unshifted_long
+500	19	7	inherited	Modifier Long	unshifted_long
+501	19	8	from	Modifier Long	unshifted_long
+502	19	9	his	Modifier Long	unshifted_long
+503	19	10	late	Modifier Long	unshifted_long
+504	19	11	grandfather	Modifier Long	unshifted_long
+505	19	13	.	End	unshifted_long
+506	19	14	<eos>	End	unshifted_long
+507	20	0	Mark	Subject NP	unshifted_long
+508	20	1	read	Verb	unshifted_long
+509	20	2	off	Particle	unshifted_long
+510	20	3	the	Modifier Long	unshifted_long
+511	20	4	names	Modifier Long	unshifted_long
+512	20	5	of	Modifier Long	unshifted_long
+513	20	6	the	Modifier Long	unshifted_long
+514	20	7	people	Modifier Long	unshifted_long
+515	20	8	who	Modifier Long	unshifted_long
+516	20	9	would	Modifier Long	unshifted_long
+517	20	10	be	Modifier Long	unshifted_long
+518	20	11	attending	Modifier Long	unshifted_long
+519	20	12	the	Modifier Long	unshifted_long
+520	20	13	conference	Modifier Long	unshifted_long
+521	20	14	in	Modifier Long	unshifted_long
+522	20	15	Ohio	Modifier Long	unshifted_long
+523	20	17	.	End	unshifted_long
+524	20	18	<eos>	End	unshifted_long
+525	21	0	Sarah	Subject NP	unshifted_long
+526	21	1	had	Verb	unshifted_long
+527	21	2	on	Particle	unshifted_long
+528	21	3	the	Modifier Long	unshifted_long
+529	21	4	sweater	Modifier Long	unshifted_long
+530	21	5	that	Modifier Long	unshifted_long
+531	21	6	her	Modifier Long	unshifted_long
+532	21	7	great-aunt	Modifier Long	unshifted_long
+533	21	8	had	Modifier Long	unshifted_long
+534	21	9	knit	Modifier Long	unshifted_long
+535	21	10	for	Modifier Long	unshifted_long
+536	21	11	her	Modifier Long	unshifted_long
+537	21	12	last	Modifier Long	unshifted_long
+538	21	13	Christmas	Modifier Long	unshifted_long
+539	21	15	.	End	unshifted_long
+540	21	16	<eos>	End	unshifted_long
+541	22	0	The	Subject NP	unshifted_long
+542	22	1	manager	Subject NP	unshifted_long
+543	22	2	dealt	Verb	unshifted_long
+544	22	3	out	Particle	unshifted_long
+545	22	4	dealt	Modifier Long	unshifted_long
+546	22	5	the	Modifier Long	unshifted_long
+547	22	6	project	Modifier Long	unshifted_long
+548	22	7	proposals	Modifier Long	unshifted_long
+549	22	8	for	Modifier Long	unshifted_long
+550	22	9	greener	Modifier Long	unshifted_long
+551	22	10	building	Modifier Long	unshifted_long
+552	22	11	practices	Modifier Long	unshifted_long
+553	22	13	.	End	unshifted_long
+554	22	14	<eos>	End	unshifted_long
+555	23	0	Max	Subject NP	unshifted_long
+556	23	1	bought	Verb	unshifted_long
+557	23	2	up	Particle	unshifted_long
+558	23	3	the	Modifier Long	unshifted_long
+559	23	4	stock	Modifier Long	unshifted_long
+560	23	5	that	Modifier Long	unshifted_long
+561	23	6	he	Modifier Long	unshifted_long
+562	23	7	needed	Modifier Long	unshifted_long
+563	23	8	in	Modifier Long	unshifted_long
+564	23	9	order	Modifier Long	unshifted_long
+565	23	10	to	Modifier Long	unshifted_long
+566	23	11	take	Modifier Long	unshifted_long
+567	23	12	control	Modifier Long	unshifted_long
+568	23	13	of	Modifier Long	unshifted_long
+569	23	14	the	Modifier Long	unshifted_long
+570	23	15	company	Modifier Long	unshifted_long
+571	23	17	.	End	unshifted_long
+572	23	18	<eos>	End	unshifted_long
+573	24	0	The	Subject NP	unshifted_long
+574	24	1	boss	Subject NP	unshifted_long
+575	24	2	sent	Verb	unshifted_long
+576	24	3	away	Particle	unshifted_long
+577	24	4	sent	Modifier Long	unshifted_long
+578	24	5	his	Modifier Long	unshifted_long
+579	24	6	secretary	Modifier Long	unshifted_long
+580	24	7	who	Modifier Long	unshifted_long
+581	24	8	was	Modifier Long	unshifted_long
+582	24	9	sitting	Modifier Long	unshifted_long
+583	24	10	in	Modifier Long	unshifted_long
+584	24	11	on	Modifier Long	unshifted_long
+585	24	12	the	Modifier Long	unshifted_long
+586	24	13	meeting	Modifier Long	unshifted_long
+587	24	15	.	End	unshifted_long
+588	24	16	<eos>	End	unshifted_long
+589	25	0	Ellen	Subject NP	unshifted_long
+590	25	1	drove	Verb	unshifted_long
+591	25	2	back	Particle	unshifted_long
+592	25	3	the	Modifier Long	unshifted_long
+593	25	4	mugger	Modifier Long	unshifted_long
+594	25	5	who	Modifier Long	unshifted_long
+595	25	6	had	Modifier Long	unshifted_long
+596	25	7	jumped	Modifier Long	unshifted_long
+597	25	8	out	Modifier Long	unshifted_long
+598	25	9	in	Modifier Long	unshifted_long
+599	25	10	the	Modifier Long	unshifted_long
+600	25	11	alleyway	Modifier Long	unshifted_long
+601	25	13	.	End	unshifted_long
+602	25	14	<eos>	End	unshifted_long
+603	26	0	Harry	Subject NP	unshifted_long
+604	26	1	laughed	Verb	unshifted_long
+605	26	2	down	Particle	unshifted_long
+606	26	3	his	Modifier Long	unshifted_long
+607	26	4	friend	Modifier Long	unshifted_long
+608	26	5	who	Modifier Long	unshifted_long
+609	26	6	suggested	Modifier Long	unshifted_long
+610	26	7	they	Modifier Long	unshifted_long
+611	26	8	go	Modifier Long	unshifted_long
+612	26	9	to	Modifier Long	unshifted_long
+613	26	10	an	Modifier Long	unshifted_long
+614	26	11	art	Modifier Long	unshifted_long
+615	26	12	exhibit	Modifier Long	unshifted_long
+616	26	14	.	End	unshifted_long
+617	26	15	<eos>	End	unshifted_long
+618	27	0	The	Subject NP	unshifted_long
+619	27	1	losses	Subject NP	unshifted_long
+620	27	2	did	Verb	unshifted_long
+621	27	3	in	Particle	unshifted_long
+622	27	4	the	Modifier Long	unshifted_long
+623	27	5	investor	Modifier Long	unshifted_long
+624	27	6	who	Modifier Long	unshifted_long
+625	27	7	already	Modifier Long	unshifted_long
+626	27	8	lost	Modifier Long	unshifted_long
+627	27	9	a	Modifier Long	unshifted_long
+628	27	10	lot	Modifier Long	unshifted_long
+629	27	11	of	Modifier Long	unshifted_long
+630	27	12	money	Modifier Long	unshifted_long
+631	27	13	in	Modifier Long	unshifted_long
+632	27	14	another	Modifier Long	unshifted_long
+633	27	15	business	Modifier Long	unshifted_long
+634	27	17	.	End	unshifted_long
+635	27	18	<eos>	End	unshifted_long
+636	28	0	Fred	Subject NP	unshifted_long
+637	28	1	saw	Verb	unshifted_long
+638	28	2	off	Particle	unshifted_long
+639	28	3	his	Modifier Long	unshifted_long
+640	28	4	girlfriend	Modifier Long	unshifted_long
+641	28	5	who	Modifier Long	unshifted_long
+642	28	6	was	Modifier Long	unshifted_long
+643	28	7	leaving	Modifier Long	unshifted_long
+644	28	8	on	Modifier Long	unshifted_long
+645	28	9	the	Modifier Long	unshifted_long
+646	28	10	early	Modifier Long	unshifted_long
+647	28	11	train	Modifier Long	unshifted_long
+648	28	12	to	Modifier Long	unshifted_long
+649	28	13	New	Modifier Long	unshifted_long
+650	28	14	York	Modifier Long	unshifted_long
+651	28	16	.	End	unshifted_long
+652	28	17	<eos>	End	unshifted_long
+653	29	0	Ron	Subject NP	unshifted_long
+654	29	1	led	Verb	unshifted_long
+655	29	2	on	Particle	unshifted_long
+656	29	3	the	Modifier Long	unshifted_long
+657	29	4	waitress	Modifier Long	unshifted_long
+658	29	5	who	Modifier Long	unshifted_long
+659	29	6	brought	Modifier Long	unshifted_long
+660	29	7	them	Modifier Long	unshifted_long
+661	29	8	extra	Modifier Long	unshifted_long
+662	29	9	portions	Modifier Long	unshifted_long
+663	29	10	of	Modifier Long	unshifted_long
+664	29	11	pie	Modifier Long	unshifted_long
+665	29	13	.	End	unshifted_long
+666	29	14	<eos>	End	unshifted_long
+667	30	0	Sally	Subject NP	unshifted_long
+668	30	1	showed	Verb	unshifted_long
+669	30	2	out	Particle	unshifted_long
+670	30	3	her	Modifier Long	unshifted_long
+671	30	4	guests	Modifier Long	unshifted_long
+672	30	5	who	Modifier Long	unshifted_long
+673	30	6	were	Modifier Long	unshifted_long
+674	30	7	ready	Modifier Long	unshifted_long
+675	30	8	to	Modifier Long	unshifted_long
+676	30	9	leave	Modifier Long	unshifted_long
+677	30	10	the	Modifier Long	unshifted_long
+678	30	11	party	Modifier Long	unshifted_long
+679	30	13	.	End	unshifted_long
+680	30	14	<eos>	End	unshifted_long
+681	31	0	Rebecca	Subject NP	unshifted_long
+682	31	1	talked	Verb	unshifted_long
+683	31	2	up	Particle	unshifted_long
+684	31	3	her	Modifier Long	unshifted_long
+685	31	4	brother	Modifier Long	unshifted_long
+686	31	5	who	Modifier Long	unshifted_long
+687	31	6	was	Modifier Long	unshifted_long
+688	31	7	looking	Modifier Long	unshifted_long
+689	31	8	for	Modifier Long	unshifted_long
+690	31	9	a	Modifier Long	unshifted_long
+691	31	10	new	Modifier Long	unshifted_long
+692	31	11	job	Modifier Long	unshifted_long
+693	31	13	.	End	unshifted_long
+694	31	14	<eos>	End	unshifted_long
+695	0	0	Sean	Subject NP	shifted_short
+696	0	1	squirreled	Verb	shifted_short
+697	0	2	some	Modifier Short	shifted_short
+698	0	3	chocolate	Modifier Short	shifted_short
+699	0	4	away	Particle	shifted_short
+700	0	6	.	End	shifted_short
+701	0	7	<eos>	End	shifted_short
+702	1	0	Oliver	Subject NP	shifted_short
+703	1	1	scaled	Verb	shifted_short
+704	1	2	his	Modifier Short	shifted_short
+705	1	3	paper	Modifier Short	shifted_short
+706	1	4	back	Particle	shifted_short
+707	1	6	.	End	shifted_short
+708	1	7	<eos>	End	shifted_short
+709	2	0	Henry	Subject NP	shifted_short
+710	2	1	wolfed	Verb	shifted_short
+711	2	2	the	Modifier Short	shifted_short
+712	2	3	sandwich	Modifier Short	shifted_short
+713	2	4	down	Particle	shifted_short
+714	2	6	.	End	shifted_short
+715	2	7	<eos>	End	shifted_short
+716	3	0	James	Subject NP	shifted_short
+717	3	1	factored	Verb	shifted_short
+718	3	2	the	Modifier Short	shifted_short
+719	3	3	traffic	Modifier Short	shifted_short
+720	3	4	in	Particle	shifted_short
+721	3	6	.	End	shifted_short
+722	3	7	<eos>	End	shifted_short
+723	4	0	Jessica	Subject NP	shifted_short
+724	4	1	staved	Verb	shifted_short
+725	4	2	her	Modifier Short	shifted_short
+726	4	3	hunger	Modifier Short	shifted_short
+727	4	4	off	Particle	shifted_short
+728	4	6	.	End	shifted_short
+729	4	7	<eos>	End	shifted_short
+730	5	0	Paul	Subject NP	shifted_short
+731	5	1	passed	Verb	shifted_short
+732	5	2	the	Modifier Short	shifted_short
+733	5	3	message	Modifier Short	shifted_short
+734	5	4	on	Particle	shifted_short
+735	5	6	.	End	shifted_short
+736	5	7	<eos>	End	shifted_short
+737	6	0	Teresa	Subject NP	shifted_short
+738	6	1	fleshed	Verb	shifted_short
+739	6	2	the	Modifier Short	shifted_short
+740	6	3	idea	Modifier Short	shifted_short
+741	6	4	out	Particle	shifted_short
+742	6	6	.	End	shifted_short
+743	6	7	<eos>	End	shifted_short
+744	7	0	Claire	Subject NP	shifted_short
+745	7	1	divvied	Verb	shifted_short
+746	7	2	the	Modifier Short	shifted_short
+747	7	3	work	Modifier Short	shifted_short
+748	7	4	up	Particle	shifted_short
+749	7	6	.	End	shifted_short
+750	7	7	<eos>	End	shifted_short
+751	8	0	Robert	Subject NP	shifted_short
+752	8	1	scared	Verb	shifted_short
+753	8	2	the	Modifier Short	shifted_short
+754	8	3	bully	Modifier Short	shifted_short
+755	8	4	away	Particle	shifted_short
+756	8	6	.	End	shifted_short
+757	8	7	<eos>	End	shifted_short
+758	9	0	Polly	Subject NP	shifted_short
+759	9	1	brought	Verb	shifted_short
+760	9	2	her	Modifier Short	shifted_short
+761	9	3	friend	Modifier Short	shifted_short
+762	9	4	back	Particle	shifted_short
+763	9	6	.	End	shifted_short
+764	9	7	<eos>	End	shifted_short
+765	10	0	Hannah	Subject NP	shifted_short
+766	10	1	bogged	Verb	shifted_short
+767	10	2	her	Modifier Short	shifted_short
+768	10	3	friend	Modifier Short	shifted_short
+769	10	4	down	Particle	shifted_short
+770	10	6	.	End	shifted_short
+771	10	7	<eos>	End	shifted_short
+772	11	0	Vernon	Subject NP	shifted_short
+773	11	1	reined	Verb	shifted_short
+774	11	2	his	Modifier Short	shifted_short
+775	11	3	son	Modifier Short	shifted_short
+776	11	4	in	Particle	shifted_short
+777	11	6	.	End	shifted_short
+778	11	7	<eos>	End	shifted_short
+779	12	0	Emma	Subject NP	shifted_short
+780	12	1	ripped	Verb	shifted_short
+781	12	2	the	Modifier Short	shifted_short
+782	12	3	customer	Modifier Short	shifted_short
+783	12	4	off	Particle	shifted_short
+784	12	6	.	End	shifted_short
+785	12	7	<eos>	End	shifted_short
+786	13	0	Jonathan	Subject NP	shifted_short
+787	13	1	egged	Verb	shifted_short
+788	13	2	his	Modifier Short	shifted_short
+789	13	3	buddy	Modifier Short	shifted_short
+790	13	4	on	Particle	shifted_short
+791	13	6	.	End	shifted_short
+792	13	7	<eos>	End	shifted_short
+793	14	0	Elizabeth	Subject NP	shifted_short
+794	14	1	bailed	Verb	shifted_short
+795	14	2	her	Modifier Short	shifted_short
+796	14	3	sister	Modifier Short	shifted_short
+797	14	4	out	Particle	shifted_short
+798	14	6	.	End	shifted_short
+799	14	7	<eos>	End	shifted_short
+800	15	0	Lena	Subject NP	shifted_short
+801	15	1	pepped	Verb	shifted_short
+802	15	2	her	Modifier Short	shifted_short
+803	15	3	roommate	Modifier Short	shifted_short
+804	15	4	up	Particle	shifted_short
+805	15	6	.	End	shifted_short
+806	15	7	<eos>	End	shifted_short
+807	16	0	Tyler	Subject NP	shifted_short
+808	16	1	wished	Verb	shifted_short
+809	16	2	his	Modifier Short	shifted_short
+810	16	3	debt	Modifier Short	shifted_short
+811	16	4	away	Particle	shifted_short
+812	16	6	.	End	shifted_short
+813	16	7	<eos>	End	shifted_short
+814	17	0	Lily	Subject NP	shifted_short
+815	17	1	forced	Verb	shifted_short
+816	17	2	her	Modifier Short	shifted_short
+817	17	3	laughter	Modifier Short	shifted_short
+818	17	4	back	Particle	shifted_short
+819	17	6	.	End	shifted_short
+820	17	7	<eos>	End	shifted_short
+821	18	0	Sam	Subject NP	shifted_short
+822	18	1	argued	Verb	shifted_short
+823	18	2	the	Modifier Short	shifted_short
+824	18	3	price	Modifier Short	shifted_short
+825	18	4	down	Particle	shifted_short
+826	18	6	.	End	shifted_short
+827	18	7	<eos>	End	shifted_short
+828	19	0	Kurt	Subject NP	shifted_short
+829	19	1	moved	Verb	shifted_short
+830	19	2	his	Modifier Short	shifted_short
+831	19	3	desk	Modifier Short	shifted_short
+832	19	4	in	Particle	shifted_short
+833	19	6	.	End	shifted_short
+834	19	7	<eos>	End	shifted_short
+835	20	0	Mark	Subject NP	shifted_short
+836	20	1	read	Verb	shifted_short
+837	20	2	the	Modifier Short	shifted_short
+838	20	3	names	Modifier Short	shifted_short
+839	20	4	off	Particle	shifted_short
+840	20	6	.	End	shifted_short
+841	20	7	<eos>	End	shifted_short
+842	21	0	Sarah	Subject NP	shifted_short
+843	21	1	had	Verb	shifted_short
+844	21	2	the	Modifier Short	shifted_short
+845	21	3	sweater	Modifier Short	shifted_short
+846	21	4	on	Particle	shifted_short
+847	21	6	.	End	shifted_short
+848	21	7	<eos>	End	shifted_short
+849	22	0	The	Subject NP	shifted_short
+850	22	1	manager	Subject NP	shifted_short
+851	22	2	dealt	Verb	shifted_short
+852	22	3	the	Modifier Short	shifted_short
+853	22	4	assignments	Modifier Short	shifted_short
+854	22	5	out	Particle	shifted_short
+855	22	7	.	End	shifted_short
+856	22	8	<eos>	End	shifted_short
+857	23	0	Max	Subject NP	shifted_short
+858	23	1	bought	Verb	shifted_short
+859	23	2	the	Modifier Short	shifted_short
+860	23	3	stock	Modifier Short	shifted_short
+861	23	4	up	Particle	shifted_short
+862	23	6	.	End	shifted_short
+863	23	7	<eos>	End	shifted_short
+864	24	0	The	Subject NP	shifted_short
+865	24	1	boss	Subject NP	shifted_short
+866	24	2	sent	Verb	shifted_short
+867	24	3	his	Modifier Short	shifted_short
+868	24	4	secretary	Modifier Short	shifted_short
+869	24	5	away	Particle	shifted_short
+870	24	7	.	End	shifted_short
+871	24	8	<eos>	End	shifted_short
+872	25	0	Ellen	Subject NP	shifted_short
+873	25	1	drove	Verb	shifted_short
+874	25	2	the	Modifier Short	shifted_short
+875	25	3	mugger	Modifier Short	shifted_short
+876	25	4	back	Particle	shifted_short
+877	25	6	.	End	shifted_short
+878	25	7	<eos>	End	shifted_short
+879	26	0	Harry	Subject NP	shifted_short
+880	26	1	laughed	Verb	shifted_short
+881	26	2	his	Modifier Short	shifted_short
+882	26	3	friend	Modifier Short	shifted_short
+883	26	4	down	Particle	shifted_short
+884	26	6	.	End	shifted_short
+885	26	7	<eos>	End	shifted_short
+886	27	0	The	Subject NP	shifted_short
+887	27	1	losses	Subject NP	shifted_short
+888	27	2	did	Verb	shifted_short
+889	27	3	the	Modifier Short	shifted_short
+890	27	4	investor	Modifier Short	shifted_short
+891	27	5	in	Particle	shifted_short
+892	27	7	.	End	shifted_short
+893	27	8	<eos>	End	shifted_short
+894	28	0	Fred	Subject NP	shifted_short
+895	28	1	saw	Verb	shifted_short
+896	28	2	his	Modifier Short	shifted_short
+897	28	3	girlfriend	Modifier Short	shifted_short
+898	28	4	off	Particle	shifted_short
+899	28	6	.	End	shifted_short
+900	28	7	<eos>	End	shifted_short
+901	29	0	Ron	Subject NP	shifted_short
+902	29	1	led	Verb	shifted_short
+903	29	2	the	Modifier Short	shifted_short
+904	29	3	waitress	Modifier Short	shifted_short
+905	29	4	on	Particle	shifted_short
+906	29	6	.	End	shifted_short
+907	29	7	<eos>	End	shifted_short
+908	30	0	Sally	Subject NP	shifted_short
+909	30	1	showed	Verb	shifted_short
+910	30	2	her	Modifier Short	shifted_short
+911	30	3	guests	Modifier Short	shifted_short
+912	30	4	out	Particle	shifted_short
+913	30	6	.	End	shifted_short
+914	30	7	<eos>	End	shifted_short
+915	31	0	Rebecca	Subject NP	shifted_short
+916	31	1	talked	Verb	shifted_short
+917	31	2	her	Modifier Short	shifted_short
+918	31	3	brother	Modifier Short	shifted_short
+919	31	4	up	Particle	shifted_short
+920	31	6	.	End	shifted_short
+921	31	7	<eos>	End	shifted_short
+922	0	0	Sean	Subject NP	shifted_long
+923	0	1	squirreled	Verb	shifted_long
+924	0	2	some	Modifier Long	shifted_long
+925	0	3	semisweet	Modifier Long	shifted_long
+926	0	4	chocolate	Modifier Long	shifted_long
+927	0	5	that	Modifier Long	shifted_long
+928	0	6	his	Modifier Long	shifted_long
+929	0	7	mother	Modifier Long	shifted_long
+930	0	8	had	Modifier Long	shifted_long
+931	0	9	given	Modifier Long	shifted_long
+932	0	10	him	Modifier Long	shifted_long
+933	0	11	away	Particle	shifted_long
+934	0	13	.	End	shifted_long
+935	0	14	<eos>	End	shifted_long
+936	1	0	Oliver	Subject NP	shifted_long
+937	1	1	scaled	Verb	shifted_long
+938	1	2	his	Modifier Long	shifted_long
+939	1	3	paper	Modifier Long	shifted_long
+940	1	4	on	Modifier Long	shifted_long
+941	1	5	the	Modifier Long	shifted_long
+942	1	6	United	Modifier Long	shifted_long
+943	1	7	States	Modifier Long	shifted_long
+944	1	8	international	Modifier Long	shifted_long
+945	1	9	trade	Modifier Long	shifted_long
+946	1	10	practices	Modifier Long	shifted_long
+947	1	11	back	Particle	shifted_long
+948	1	13	.	End	shifted_long
+949	1	14	<eos>	End	shifted_long
+950	2	0	Henry	Subject NP	shifted_long
+951	2	1	wolfed	Verb	shifted_long
+952	2	2	the	Modifier Long	shifted_long
+953	2	3	pastrami	Modifier Long	shifted_long
+954	2	4	sandwich	Modifier Long	shifted_long
+955	2	5	with	Modifier Long	shifted_long
+956	2	6	mustard	Modifier Long	shifted_long
+957	2	7	and	Modifier Long	shifted_long
+958	2	8	pickles	Modifier Long	shifted_long
+959	2	9	down	Particle	shifted_long
+960	2	11	.	End	shifted_long
+961	2	12	<eos>	End	shifted_long
+962	3	0	James	Subject NP	shifted_long
+963	3	1	factored	Verb	shifted_long
+964	3	2	the	Modifier Long	shifted_long
+965	3	3	traffic	Modifier Long	shifted_long
+966	3	4	on	Modifier Long	shifted_long
+967	3	5	the	Modifier Long	shifted_long
+968	3	6	highway	Modifier Long	shifted_long
+969	3	7	along	Modifier Long	shifted_long
+970	3	8	his	Modifier Long	shifted_long
+971	3	9	route	Modifier Long	shifted_long
+972	3	10	in	Particle	shifted_long
+973	3	12	.	End	shifted_long
+974	3	13	<eos>	End	shifted_long
+975	4	0	Jessica	Subject NP	shifted_long
+976	4	1	staved	Verb	shifted_long
+977	4	2	her	Modifier Long	shifted_long
+978	4	3	hunger	Modifier Long	shifted_long
+979	4	4	from	Modifier Long	shifted_long
+980	4	5	not	Modifier Long	shifted_long
+981	4	6	eating	Modifier Long	shifted_long
+982	4	7	breakfast	Modifier Long	shifted_long
+983	4	8	that	Modifier Long	shifted_long
+984	4	9	day	Modifier Long	shifted_long
+985	4	10	off	Particle	shifted_long
+986	4	12	.	End	shifted_long
+987	4	13	<eos>	End	shifted_long
+988	5	0	Paul	Subject NP	shifted_long
+989	5	1	passed	Verb	shifted_long
+990	5	2	the	Modifier Long	shifted_long
+991	5	3	message	Modifier Long	shifted_long
+992	5	4	from	Modifier Long	shifted_long
+993	5	5	his	Modifier Long	shifted_long
+994	5	6	grandmother	Modifier Long	shifted_long
+995	5	7	about	Modifier Long	shifted_long
+996	5	8	Sunday	Modifier Long	shifted_long
+997	5	9	brunch	Modifier Long	shifted_long
+998	5	10	on	Particle	shifted_long
+999	5	12	.	End	shifted_long
+1000	5	13	<eos>	End	shifted_long
+1001	6	0	Teresa	Subject NP	shifted_long
+1002	6	1	fleshed	Verb	shifted_long
+1003	6	2	the	Modifier Long	shifted_long
+1004	6	3	idea	Modifier Long	shifted_long
+1005	6	4	for	Modifier Long	shifted_long
+1006	6	5	her	Modifier Long	shifted_long
+1007	6	6	paper	Modifier Long	shifted_long
+1008	6	7	about	Modifier Long	shifted_long
+1009	6	8	bee	Modifier Long	shifted_long
+1010	6	9	colony	Modifier Long	shifted_long
+1011	6	10	collapse	Modifier Long	shifted_long
+1012	6	11	out	Particle	shifted_long
+1013	6	13	.	End	shifted_long
+1014	6	14	<eos>	End	shifted_long
+1015	7	0	Claire	Subject NP	shifted_long
+1016	7	1	divvied	Verb	shifted_long
+1017	7	2	the	Modifier Long	shifted_long
+1018	7	3	work	Modifier Long	shifted_long
+1019	7	4	needed	Modifier Long	shifted_long
+1020	7	5	to	Modifier Long	shifted_long
+1021	7	6	finish	Modifier Long	shifted_long
+1022	7	7	the	Modifier Long	shifted_long
+1023	7	8	project	Modifier Long	shifted_long
+1024	7	9	up	Particle	shifted_long
+1025	7	11	.	End	shifted_long
+1026	7	12	<eos>	End	shifted_long
+1027	8	0	Robert	Subject NP	shifted_long
+1028	8	1	scared	Verb	shifted_long
+1029	8	2	the	Modifier Long	shifted_long
+1030	8	3	bully	Modifier Long	shifted_long
+1031	8	4	who	Modifier Long	shifted_long
+1032	8	5	attempted	Modifier Long	shifted_long
+1033	8	6	to	Modifier Long	shifted_long
+1034	8	7	intimidate	Modifier Long	shifted_long
+1035	8	8	him	Modifier Long	shifted_long
+1036	8	9	and	Modifier Long	shifted_long
+1037	8	10	his	Modifier Long	shifted_long
+1038	8	11	friends	Modifier Long	shifted_long
+1039	8	12	away	Particle	shifted_long
+1040	8	14	.	End	shifted_long
+1041	8	15	<eos>	End	shifted_long
+1042	9	0	Polly	Subject NP	shifted_long
+1043	9	1	brought	Verb	shifted_long
+1044	9	2	her	Modifier Long	shifted_long
+1045	9	3	friend	Modifier Long	shifted_long
+1046	9	4	who	Modifier Long	shifted_long
+1047	9	5	had	Modifier Long	shifted_long
+1048	9	6	left	Modifier Long	shifted_long
+1049	9	7	the	Modifier Long	shifted_long
+1050	9	8	party	Modifier Long	shifted_long
+1051	9	9	earlier	Modifier Long	shifted_long
+1052	9	10	in	Modifier Long	shifted_long
+1053	9	11	the	Modifier Long	shifted_long
+1054	9	12	evening	Modifier Long	shifted_long
+1055	9	13	back	Particle	shifted_long
+1056	9	15	.	End	shifted_long
+1057	9	16	<eos>	End	shifted_long
+1058	10	0	Hannah	Subject NP	shifted_long
+1059	10	1	bogged	Verb	shifted_long
+1060	10	2	her	Modifier Long	shifted_long
+1061	10	3	friend	Modifier Long	shifted_long
+1062	10	4	who	Modifier Long	shifted_long
+1063	10	5	already	Modifier Long	shifted_long
+1064	10	6	had	Modifier Long	shifted_long
+1065	10	7	a	Modifier Long	shifted_long
+1066	10	8	lot	Modifier Long	shifted_long
+1067	10	9	on	Modifier Long	shifted_long
+1068	10	10	her	Modifier Long	shifted_long
+1069	10	11	mind	Modifier Long	shifted_long
+1070	10	12	down	Particle	shifted_long
+1071	10	14	.	End	shifted_long
+1072	10	15	<eos>	End	shifted_long
+1073	11	0	Vernon	Subject NP	shifted_long
+1074	11	1	reined	Verb	shifted_long
+1075	11	2	his	Modifier Long	shifted_long
+1076	11	3	young	Modifier Long	shifted_long
+1077	11	4	son	Modifier Long	shifted_long
+1078	11	5	who	Modifier Long	shifted_long
+1079	11	6	was	Modifier Long	shifted_long
+1080	11	7	talking	Modifier Long	shifted_long
+1081	11	8	loudly	Modifier Long	shifted_long
+1082	11	9	at	Modifier Long	shifted_long
+1083	11	10	the	Modifier Long	shifted_long
+1084	11	11	restaurant	Modifier Long	shifted_long
+1085	11	12	in	Particle	shifted_long
+1086	11	14	.	End	shifted_long
+1087	11	15	<eos>	End	shifted_long
+1088	12	0	Emma	Subject NP	shifted_long
+1089	12	1	ripped	Verb	shifted_long
+1090	12	2	the	Modifier Long	shifted_long
+1091	12	3	customer	Modifier Long	shifted_long
+1092	12	4	who	Modifier Long	shifted_long
+1093	12	5	did	Modifier Long	shifted_long
+1094	12	6	not	Modifier Long	shifted_long
+1095	12	7	know	Modifier Long	shifted_long
+1096	12	8	anything	Modifier Long	shifted_long
+1097	12	9	about	Modifier Long	shifted_long
+1098	12	10	cars	Modifier Long	shifted_long
+1099	12	11	off	Particle	shifted_long
+1100	12	13	.	End	shifted_long
+1101	12	14	<eos>	End	shifted_long
+1102	13	0	Jonathan	Subject NP	shifted_long
+1103	13	1	egged	Verb	shifted_long
+1104	13	2	his	Modifier Long	shifted_long
+1105	13	3	buddy	Modifier Long	shifted_long
+1106	13	4	who	Modifier Long	shifted_long
+1107	13	5	was	Modifier Long	shifted_long
+1108	13	6	debating	Modifier Long	shifted_long
+1109	13	7	if	Modifier Long	shifted_long
+1110	13	8	he	Modifier Long	shifted_long
+1111	13	9	should	Modifier Long	shifted_long
+1112	13	10	stay	Modifier Long	shifted_long
+1113	13	11	at	Modifier Long	shifted_long
+1114	13	12	the	Modifier Long	shifted_long
+1115	13	13	bar	Modifier Long	shifted_long
+1116	13	14	on	Particle	shifted_long
+1117	13	16	.	End	shifted_long
+1118	13	17	<eos>	End	shifted_long
+1119	14	0	Elizabeth	Subject NP	shifted_long
+1120	14	1	bailed	Verb	shifted_long
+1121	14	2	her	Modifier Long	shifted_long
+1122	14	3	sister	Modifier Long	shifted_long
+1123	14	4	who	Modifier Long	shifted_long
+1124	14	5	had	Modifier Long	shifted_long
+1125	14	6	been	Modifier Long	shifted_long
+1126	14	7	arrested	Modifier Long	shifted_long
+1127	14	8	that	Modifier Long	shifted_long
+1128	14	9	night	Modifier Long	shifted_long
+1129	14	10	out	Particle	shifted_long
+1130	14	12	.	End	shifted_long
+1131	14	13	<eos>	End	shifted_long
+1132	15	0	Lena	Subject NP	shifted_long
+1133	15	1	pepped	Verb	shifted_long
+1134	15	2	her	Modifier Long	shifted_long
+1135	15	3	roommate	Modifier Long	shifted_long
+1136	15	4	who	Modifier Long	shifted_long
+1137	15	5	was	Modifier Long	shifted_long
+1138	15	6	sad	Modifier Long	shifted_long
+1139	15	7	about	Modifier Long	shifted_long
+1140	15	8	being	Modifier Long	shifted_long
+1141	15	9	sick	Modifier Long	shifted_long
+1142	15	10	up	Particle	shifted_long
+1143	15	12	.	End	shifted_long
+1144	15	13	<eos>	End	shifted_long
+1145	16	0	Tyler	Subject NP	shifted_long
+1146	16	1	wished	Verb	shifted_long
+1147	16	2	his	Modifier Long	shifted_long
+1148	16	3	student	Modifier Long	shifted_long
+1149	16	4	loan	Modifier Long	shifted_long
+1150	16	5	debt	Modifier Long	shifted_long
+1151	16	6	that	Modifier Long	shifted_long
+1152	16	7	was	Modifier Long	shifted_long
+1153	16	8	affecting	Modifier Long	shifted_long
+1154	16	9	his	Modifier Long	shifted_long
+1155	16	10	credit	Modifier Long	shifted_long
+1156	16	11	score	Modifier Long	shifted_long
+1157	16	12	away	Particle	shifted_long
+1158	16	14	.	End	shifted_long
+1159	16	15	<eos>	End	shifted_long
+1160	17	0	Lily	Subject NP	shifted_long
+1161	17	1	forced	Verb	shifted_long
+1162	17	2	her	Modifier Long	shifted_long
+1163	17	3	laughter	Modifier Long	shifted_long
+1164	17	4	at	Modifier Long	shifted_long
+1165	17	5	her	Modifier Long	shifted_long
+1166	17	6	boss's	Modifier Long	shifted_long
+1167	17	7	mistake	Modifier Long	shifted_long
+1168	17	8	at	Modifier Long	shifted_long
+1169	17	9	the	Modifier Long	shifted_long
+1170	17	10	meeting	Modifier Long	shifted_long
+1171	17	11	back	Particle	shifted_long
+1172	17	13	.	End	shifted_long
+1173	17	14	<eos>	End	shifted_long
+1174	18	0	Sam	Subject NP	shifted_long
+1175	18	1	argued	Verb	shifted_long
+1176	18	2	the	Modifier Long	shifted_long
+1177	18	3	price	Modifier Long	shifted_long
+1178	18	4	of	Modifier Long	shifted_long
+1179	18	5	the	Modifier Long	shifted_long
+1180	18	6	vase	Modifier Long	shifted_long
+1181	18	7	at	Modifier Long	shifted_long
+1182	18	8	the	Modifier Long	shifted_long
+1183	18	9	flea	Modifier Long	shifted_long
+1184	18	10	market	Modifier Long	shifted_long
+1185	18	11	down	Particle	shifted_long
+1186	18	13	.	End	shifted_long
+1187	18	14	<eos>	End	shifted_long
+1188	19	0	Kurt	Subject NP	shifted_long
+1189	19	1	moved	Verb	shifted_long
+1190	19	2	his	Modifier Long	shifted_long
+1191	19	3	desk	Modifier Long	shifted_long
+1192	19	4	that	Modifier Long	shifted_long
+1193	19	5	he	Modifier Long	shifted_long
+1194	19	6	inherited	Modifier Long	shifted_long
+1195	19	7	from	Modifier Long	shifted_long
+1196	19	8	his	Modifier Long	shifted_long
+1197	19	9	late	Modifier Long	shifted_long
+1198	19	10	grandfather	Modifier Long	shifted_long
+1199	19	11	in	Particle	shifted_long
+1200	19	13	.	End	shifted_long
+1201	19	14	<eos>	End	shifted_long
+1202	20	0	Mark	Subject NP	shifted_long
+1203	20	1	read	Verb	shifted_long
+1204	20	2	the	Modifier Long	shifted_long
+1205	20	3	names	Modifier Long	shifted_long
+1206	20	4	of	Modifier Long	shifted_long
+1207	20	5	the	Modifier Long	shifted_long
+1208	20	6	people	Modifier Long	shifted_long
+1209	20	7	who	Modifier Long	shifted_long
+1210	20	8	would	Modifier Long	shifted_long
+1211	20	9	be	Modifier Long	shifted_long
+1212	20	10	attending	Modifier Long	shifted_long
+1213	20	11	the	Modifier Long	shifted_long
+1214	20	12	conference	Modifier Long	shifted_long
+1215	20	13	in	Modifier Long	shifted_long
+1216	20	14	Ohio	Modifier Long	shifted_long
+1217	20	15	off	Particle	shifted_long
+1218	20	17	.	End	shifted_long
+1219	20	18	<eos>	End	shifted_long
+1220	21	0	Sarah	Subject NP	shifted_long
+1221	21	1	had	Verb	shifted_long
+1222	21	2	the	Modifier Long	shifted_long
+1223	21	3	sweater	Modifier Long	shifted_long
+1224	21	4	that	Modifier Long	shifted_long
+1225	21	5	her	Modifier Long	shifted_long
+1226	21	6	great-aunt	Modifier Long	shifted_long
+1227	21	7	had	Modifier Long	shifted_long
+1228	21	8	knit	Modifier Long	shifted_long
+1229	21	9	for	Modifier Long	shifted_long
+1230	21	10	her	Modifier Long	shifted_long
+1231	21	11	last	Modifier Long	shifted_long
+1232	21	12	Christmas	Modifier Long	shifted_long
+1233	21	13	on	Particle	shifted_long
+1234	21	15	.	End	shifted_long
+1235	21	16	<eos>	End	shifted_long
+1236	22	0	The	Subject NP	shifted_long
+1237	22	1	manager	Subject NP	shifted_long
+1238	22	2	dealt	Verb	shifted_long
+1239	22	3	dealt	Modifier Long	shifted_long
+1240	22	4	the	Modifier Long	shifted_long
+1241	22	5	project	Modifier Long	shifted_long
+1242	22	6	proposals	Modifier Long	shifted_long
+1243	22	7	for	Modifier Long	shifted_long
+1244	22	8	greener	Modifier Long	shifted_long
+1245	22	9	building	Modifier Long	shifted_long
+1246	22	10	practices	Modifier Long	shifted_long
+1247	22	11	out	Particle	shifted_long
+1248	22	13	.	End	shifted_long
+1249	22	14	<eos>	End	shifted_long
+1250	23	0	Max	Subject NP	shifted_long
+1251	23	1	bought	Verb	shifted_long
+1252	23	2	the	Modifier Long	shifted_long
+1253	23	3	stock	Modifier Long	shifted_long
+1254	23	4	that	Modifier Long	shifted_long
+1255	23	5	he	Modifier Long	shifted_long
+1256	23	6	needed	Modifier Long	shifted_long
+1257	23	7	in	Modifier Long	shifted_long
+1258	23	8	order	Modifier Long	shifted_long
+1259	23	9	to	Modifier Long	shifted_long
+1260	23	10	take	Modifier Long	shifted_long
+1261	23	11	control	Modifier Long	shifted_long
+1262	23	12	of	Modifier Long	shifted_long
+1263	23	13	the	Modifier Long	shifted_long
+1264	23	14	company	Modifier Long	shifted_long
+1265	23	15	up	Particle	shifted_long
+1266	23	17	.	End	shifted_long
+1267	23	18	<eos>	End	shifted_long
+1268	24	0	The	Subject NP	shifted_long
+1269	24	1	boss	Subject NP	shifted_long
+1270	24	2	sent	Verb	shifted_long
+1271	24	3	sent	Modifier Long	shifted_long
+1272	24	4	his	Modifier Long	shifted_long
+1273	24	5	secretary	Modifier Long	shifted_long
+1274	24	6	who	Modifier Long	shifted_long
+1275	24	7	was	Modifier Long	shifted_long
+1276	24	8	sitting	Modifier Long	shifted_long
+1277	24	9	in	Modifier Long	shifted_long
+1278	24	10	on	Modifier Long	shifted_long
+1279	24	11	the	Modifier Long	shifted_long
+1280	24	12	meeting	Modifier Long	shifted_long
+1281	24	13	away	Particle	shifted_long
+1282	24	15	.	End	shifted_long
+1283	24	16	<eos>	End	shifted_long
+1284	25	0	Ellen	Subject NP	shifted_long
+1285	25	1	drove	Verb	shifted_long
+1286	25	2	the	Modifier Long	shifted_long
+1287	25	3	mugger	Modifier Long	shifted_long
+1288	25	4	who	Modifier Long	shifted_long
+1289	25	5	had	Modifier Long	shifted_long
+1290	25	6	jumped	Modifier Long	shifted_long
+1291	25	7	out	Modifier Long	shifted_long
+1292	25	8	in	Modifier Long	shifted_long
+1293	25	9	the	Modifier Long	shifted_long
+1294	25	10	alleyway	Modifier Long	shifted_long
+1295	25	11	back	Particle	shifted_long
+1296	25	13	.	End	shifted_long
+1297	25	14	<eos>	End	shifted_long
+1298	26	0	Harry	Subject NP	shifted_long
+1299	26	1	laughed	Verb	shifted_long
+1300	26	2	his	Modifier Long	shifted_long
+1301	26	3	friend	Modifier Long	shifted_long
+1302	26	4	who	Modifier Long	shifted_long
+1303	26	5	suggested	Modifier Long	shifted_long
+1304	26	6	they	Modifier Long	shifted_long
+1305	26	7	go	Modifier Long	shifted_long
+1306	26	8	to	Modifier Long	shifted_long
+1307	26	9	an	Modifier Long	shifted_long
+1308	26	10	art	Modifier Long	shifted_long
+1309	26	11	exhibit	Modifier Long	shifted_long
+1310	26	12	down	Particle	shifted_long
+1311	26	14	.	End	shifted_long
+1312	26	15	<eos>	End	shifted_long
+1313	27	0	The	Subject NP	shifted_long
+1314	27	1	losses	Subject NP	shifted_long
+1315	27	2	did	Verb	shifted_long
+1316	27	3	the	Modifier Long	shifted_long
+1317	27	4	investor	Modifier Long	shifted_long
+1318	27	5	who	Modifier Long	shifted_long
+1319	27	6	already	Modifier Long	shifted_long
+1320	27	7	lost	Modifier Long	shifted_long
+1321	27	8	a	Modifier Long	shifted_long
+1322	27	9	lot	Modifier Long	shifted_long
+1323	27	10	of	Modifier Long	shifted_long
+1324	27	11	money	Modifier Long	shifted_long
+1325	27	12	in	Modifier Long	shifted_long
+1326	27	13	another	Modifier Long	shifted_long
+1327	27	14	business	Modifier Long	shifted_long
+1328	27	15	in	Particle	shifted_long
+1329	27	17	.	End	shifted_long
+1330	27	18	<eos>	End	shifted_long
+1331	28	0	Fred	Subject NP	shifted_long
+1332	28	1	saw	Verb	shifted_long
+1333	28	2	his	Modifier Long	shifted_long
+1334	28	3	girlfriend	Modifier Long	shifted_long
+1335	28	4	who	Modifier Long	shifted_long
+1336	28	5	was	Modifier Long	shifted_long
+1337	28	6	leaving	Modifier Long	shifted_long
+1338	28	7	on	Modifier Long	shifted_long
+1339	28	8	the	Modifier Long	shifted_long
+1340	28	9	early	Modifier Long	shifted_long
+1341	28	10	train	Modifier Long	shifted_long
+1342	28	11	to	Modifier Long	shifted_long
+1343	28	12	New	Modifier Long	shifted_long
+1344	28	13	York	Modifier Long	shifted_long
+1345	28	14	off	Particle	shifted_long
+1346	28	16	.	End	shifted_long
+1347	28	17	<eos>	End	shifted_long
+1348	29	0	Ron	Subject NP	shifted_long
+1349	29	1	led	Verb	shifted_long
+1350	29	2	the	Modifier Long	shifted_long
+1351	29	3	waitress	Modifier Long	shifted_long
+1352	29	4	who	Modifier Long	shifted_long
+1353	29	5	brought	Modifier Long	shifted_long
+1354	29	6	them	Modifier Long	shifted_long
+1355	29	7	extra	Modifier Long	shifted_long
+1356	29	8	portions	Modifier Long	shifted_long
+1357	29	9	of	Modifier Long	shifted_long
+1358	29	10	pie	Modifier Long	shifted_long
+1359	29	11	on	Particle	shifted_long
+1360	29	13	.	End	shifted_long
+1361	29	14	<eos>	End	shifted_long
+1362	30	0	Sally	Subject NP	shifted_long
+1363	30	1	showed	Verb	shifted_long
+1364	30	2	her	Modifier Long	shifted_long
+1365	30	3	guests	Modifier Long	shifted_long
+1366	30	4	who	Modifier Long	shifted_long
+1367	30	5	were	Modifier Long	shifted_long
+1368	30	6	ready	Modifier Long	shifted_long
+1369	30	7	to	Modifier Long	shifted_long
+1370	30	8	leave	Modifier Long	shifted_long
+1371	30	9	the	Modifier Long	shifted_long
+1372	30	10	party	Modifier Long	shifted_long
+1373	30	11	out	Particle	shifted_long
+1374	30	13	.	End	shifted_long
+1375	30	14	<eos>	End	shifted_long
+1376	31	0	Rebecca	Subject NP	shifted_long
+1377	31	1	talked	Verb	shifted_long
+1378	31	2	her	Modifier Long	shifted_long
+1379	31	3	brother	Modifier Long	shifted_long
+1380	31	4	who	Modifier Long	shifted_long
+1381	31	5	was	Modifier Long	shifted_long
+1382	31	6	looking	Modifier Long	shifted_long
+1383	31	7	for	Modifier Long	shifted_long
+1384	31	8	a	Modifier Long	shifted_long
+1385	31	9	new	Modifier Long	shifted_long
+1386	31	10	job	Modifier Long	shifted_long
+1387	31	11	up	Particle	shifted_long
+1388	31	13	.	End	shifted_long
+1389	31	14	<eos>	End	shifted_long

@@ -1,0 +1,211 @@
+---
+title: "RNN Particle Shift II"
+output: html_notebook
+---
+
+Do RNNs show evidence for humanlike preferences in the genitive alternation? Specifically, do they show a preference for the NP that is more animate, definite, and short to come earlier? Are they sensitive to biases due to the semantic classes of the genitive relationship?
+
+For consistency with the Heavy NP Shift analysis, "shifted" refers to the order V P NP; "unshifted" refers to V NP P. 
+
+```{r}
+rm(list = ls())
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+library(plotrix)
+library(stringr)
+library(readxl)
+
+remove_na = function(x) {
+  x[!is.na(x)]
+}
+
+remove_prefix = function(s) {
+  sapply(s, function(s) {
+    str_split(s, "-")[[1]][2]
+  })
+}
+
+rename_models = function(d) {
+  d %>% 
+    mutate(model=if_else(model == "gulordava", "GRNN",
+                 if_else(model == "google", "JRNN",
+                 if_else(model == "kenlm", "n-gram", "UNKNOWN MODEL!"))))
+    
+}
+
+items = read_excel("particle-shift.xlsx") %>%
+  mutate(sent_index=seq(1, 32)) %>%
+  rename(animate=`Animate?`) %>%
+  mutate(animate=if_else(animate == "TRUE", "anim", "inanim"))
+         
+
+d = read_csv("tests/combined_results.csv") %>%
+  select(-1, -2) %>%
+  mutate(unk=unk == "True") %>%
+  separate(condition, sep="_", into=c("shifted", "length")) %>%
+  inner_join(items)
+
+  
+d_agg = d %>% 
+  group_by(model, sent_index, shifted, length, animate) %>% 
+    summarise(surprisal=sum(surprisal),
+              unk=any(unk)) %>%
+    ungroup() %>% 
+  mutate(shifted=if_else(shifted == "shifted", "unshifted", "shifted")) %>% # Standardized shifting convention
+  mutate(shifted_numeric=if_else(shifted == "shifted", 1, -1),
+         length=factor(length, levels=c("short", "long")),
+         animate=factor(animate, levels=c("inanim", "anim")),
+         shifted=factor(shifted, levels=c("unshifted", "shifted")))
+
+bads = d_agg %>%
+  group_by(model, sent_index) %>%
+    summarise(unk=any(unk)) %>%
+    ungroup() %>%
+  filter(!unk)
+
+d_agg = inner_join(d_agg, bads)
+                       
+h = read_csv("human_data.csv") %>%
+    rename(animate=animacy,
+           shifted=order) %>%
+    mutate(animate=factor(animate, levels=c("inanim", "anim")),
+           length=factor(length, levels=c("short", "long"))) %>%
+    separate(item, into=c("item", "junk", "trash"), sep="_") %>%
+    select(-junk, -trash)
+```
+
+# Regressions 
+
+```{r}
+
+m_google = lmer(surprisal ~ shifted * (length + animate) + (shifted+length|sent_index),
+           data=filter(d_agg, model == "google"))
+summary(m_google) # Works as expected for length; animacy ns
+
+m_gul = lmer(surprisal ~ shifted * (length+animate) + (shifted+length|sent_index),
+           data=filter(d_agg, model == "gulordava"))
+summary(m_gul) # Same
+
+m_kenlm = lmer(surprisal ~ shifted * (length+animate) + (shifted+length|sent_index),
+           data=filter(d_agg, model == "kenlm"))
+summary(m_kenlm) # ns all around!
+
+m_google_kenlm = lmer(surprisal ~ shifted * (length+animate) * model + (model*(shifted+length)|sent_index),
+           data=filter(d_agg, model == "google" | model == "kenlm"))
+summary(m_google_kenlm)
+
+m_gulordava_kenlm = lmer(surprisal ~ shifted * (length+animate) * model + (model*(shifted+length)|sent_index),
+           data=filter(d_agg, model == "gulordava" | model == "kenlm"))
+summary(m_gulordava_kenlm)
+
+m_google_gulordava = lmer(surprisal ~ shifted * (length+animate) * model + (model*(shifted+length)|sent_index),
+           data=filter(d_agg, model == "gulordava" | model == "google"))
+summary(m_google_gulordava)
+
+m_human = lmer(acceptability ~ shifted * animate * length + 
+                 (shifted * (animate * length)|item) +
+                 (shifted * (animate * length)|WorkerId),
+           data=h)
+summary(m_human) 
+
+```
+
+Let's visualize. Use the "length penalty" concept from the heavy NP shift analysis.
+
+```{r}
+
+d_agg %>%
+  spread(length, surprisal) %>%
+  mutate(length_penalty = long - short) %>%
+  group_by(model, shifted, animate) %>%
+    summarise(m=mean(length_penalty),
+              s=std.error(length_penalty),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+    ungroup() %>%
+  rename_models() %>%
+  mutate(shifted=if_else(shifted == "shifted", "V-P-NP", "V-NP-P")) %>%
+  ggplot(aes(x=animate, y=m, fill=shifted, ymin=lower, ymax=upper)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(width=.5, position=position_dodge(width=.9), color="black") +
+    facet_wrap(~model) +
+    labs(fill="Order", x="NP animacy", y="Surprisal penalty for long NP (bits)")
+
+```
+
+We'll compare to human acceptability ratings; first let's process this stuff into an overall shifted-preference.
+
+```{r}
+
+d_agg_pref = d_agg %>%
+  select(-shifted_numeric) %>%
+  spread(shifted, surprisal) %>%
+  mutate(shifted_preference = unshifted - shifted) %>%
+  group_by(model, sent_index) %>%
+    mutate(relevant_shifted_preference = shifted_preference - mean(shifted_preference)) %>%
+    ungroup() %>%
+  group_by(model, length, animate) %>%
+    summarise(m=mean(shifted_preference),
+              s=std.error(relevant_shifted_preference),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+    ungroup() %>%
+  rename_models() 
+
+d_agg_pref %>%
+  ggplot(aes(x=length, y=m, fill=animate, ymin=lower, ymax=upper)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(width=.5, position=position_dodge(width=.9), color="black") +
+    facet_wrap(~model) +
+    labs(fill="NP Animacy", x="NP Length", y="Preference for order V-P-NP (bits)")
+
+ggsave("particle_shift.pdf", width=7, height=5)
+
+```
+
+Now add in the human data, formatting it so it can be joined in with the summarised model data.
+
+```{r}
+
+h_by_length_animacy = h %>%
+  group_by(item) %>%
+    mutate(relevant_acceptability=acceptability - mean(acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(WorkerId) %>%
+    mutate(relevant_acceptability=relevant_acceptability - mean(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+    
+  group_by(shifted, animate, length) %>%
+    summarise(n=n(),
+              m=mean(acceptability, na.rm=T),
+              sd=sd(acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  unite(msn, m, sd, n) %>%
+  spread(shifted, msn) %>%
+  separate(shifted, into=c("m_shifted", "sd_shifted", "n_shifted"), sep="_") %>%
+  separate(unshifted, into=c("m_unshifted", "sd_unshifted", "n_unshifted"), sep="_") %>%
+  mutate(m_shifted=as.numeric(m_shifted),
+         m_unshifted=as.numeric(m_unshifted),
+         sd_shifted=as.numeric(sd_shifted),
+         sd_unshifted=as.numeric(sd_unshifted),
+         n_shifted=as.numeric(n_shifted),
+         n_unshifted=as.numeric(n_unshifted)) %>%
+  mutate(m=m_shifted - m_unshifted,
+         s=sqrt(sd_shifted^2/n_shifted + sd_unshifted^2/n_unshifted),
+         upper=m+1.96*s,
+         lower=m-1.96*s) %>%
+  mutate(model="Human")
+
+
+d_agg_pref %>%
+  bind_rows(h_by_length_animacy) %>%
+  ggplot(aes(x=length, y=m, fill=animate, ymin=lower, ymax=upper)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(width=.5, position=position_dodge(width=.9), color="black") +
+    facet_wrap(~model, scales="free_y") +
+    labs(fill="NP Animacy", x="NP Length", y="Preference for order V-Part-NP") + 
+    theme(legend.position="bottom")
+    
+ggsave("particle_shift.pdf", width=6, height=5)
+```

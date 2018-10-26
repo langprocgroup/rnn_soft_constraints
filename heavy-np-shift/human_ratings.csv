@@ -1,0 +1,1584 @@
+WorkerId,item,shifted,verb_bias,length,acceptability,sentence
+1,19,shifted,nps,long,4,The woman disclosed in August the birth and school records of the three young children.
+2,14,shifted,nps,long,4,The president announced on Monday the new vice chair of the first corporate finance group.
+3,14,unshifted,np,long,4,The president introduced the new vice chair of the first corporate finance group on Monday.
+4,21,shifted,np,short,1,Jessica furnished last summer the news.
+5,19,unshifted,nps,short,5,The woman disclosed the records in August.
+6,2,unshifted,nps,long,4,Mary mentioned the used car ad for a Chevrolet with low mileage at tea.
+7,17,unshifted,nps,short,3,Todd suggested some gifts at once.
+8,4,unshifted,nps,short,5,The dealer demonstrated a car at ten.
+9,12,unshifted,nps,short,5,The lawyer acknowledged the dividends with confidence.
+10,8,shifted,np,long,4,Jake released on Friday all of the facts for the import and export taxes.
+11,27,unshifted,np,short,5,Bobby transferred the deeds at dusk.
+12,2,unshifted,nps,long,5,Mary mentioned the used car ad for a Chevrolet with low mileage at tea.
+13,15,unshifted,nps,long,4,The teacher announced some hard math concepts for the one hundred point final with care.
+14,15,shifted,np,long,5,The teacher introduced with care some hard math concepts for the one hundred point final.
+15,20,unshifted,nps,short,4,David reported the facts with hesitation.
+16,29,unshifted,np,short,5,Mike recited the words last year.
+17,5,unshifted,np,long,4,The manager transported the new sports line of running shoes and bicycling gear at three.
+18,24,shifted,np,short,3,Sam donated on Sunday a treasure.
+19,7,unshifted,nps,short,4,Donald proposed some drafts with joy.
+20,27,shifted,np,short,3,Bobby transferred at dusk the deeds.
+21,12,unshifted,nps,short,4,The lawyer acknowledged the dividends with confidence.
+22,14,shifted,np,long,3,The president introduced on Monday the new vice chair of the first corporate finance group.
+23,11,unshifted,np,short,5,The woman described the route by phone.
+24,15,unshifted,nps,long,1,The teacher announced some hard math concepts for the one hundred point final with care.
+25,16,unshifted,nps,short,2,Judy suggested a dress in March.
+26,5,shifted,nps,short,1,The manager demonstrated at three the sports gear.
+27,22,unshifted,np,short,2,Steven addressed a letter during break.
+28,15,unshifted,nps,long,3,The teacher announced some hard math concepts for the one hundred point final with care.
+29,6,unshifted,np,short,4,Robert relinquished one plane ticket last semester.
+30,19,unshifted,nps,long,4,The woman disclosed the birth and school records of the three young children in August.
+1,23,unshifted,nps,short,3,Raymond communicated a memo very loudly.
+2,31,unshifted,np,short,4,Jason forfeited the race with glee.
+3,30,unshifted,nps,long,2,Amy broadcast the high school girls state swimming title in New York last week.
+4,24,unshifted,nps,short,3,Sam recommended a treasure on Sunday.
+5,0,shifted,np,short,1,The manager presented at noon the styles.
+6,12,unshifted,nps,long,5,The lawyer acknowledged each piece of the evidence in the tax fraud cases with confidence.
+7,30,shifted,nps,short,2,Amy broadcast last week the game.
+9,15,shifted,nps,long,5,The teacher announced with care some hard math concepts for the one hundred point final.
+10,24,unshifted,nps,long,5,Sam recommended an old treasure chest with some silver and gold trinkets on Sunday.
+11,24,shifted,nps,long,2,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.
+12,6,unshifted,nps,long,3,Robert proposed one round trip plane ticket from New York to Atlanta last semester.
+13,12,shifted,np,long,5,The lawyer distributed with confidence each piece of the evidence in the tax fraud cases.
+14,6,unshifted,np,short,5,Robert relinquished one plane ticket last semester.
+31,2,shifted,np,short,1,Mary returned at tea the ads.
+15,7,unshifted,nps,short,3,Donald proposed some drafts with joy.
+32,20,shifted,nps,short,2,David reported with hesitation the facts.
+17,28,unshifted,nps,long,5,Kathy dictated all three verses from an old and famous French poem last night.
+18,2,unshifted,nps,short,2,Mary mentioned the ads at tea.
+19,19,unshifted,np,short,2,The woman carried the records in August.
+20,13,unshifted,np,short,5,The editor distributed the details at supper.
+21,31,shifted,np,short,1,Jason forfeited with glee the race.
+33,21,unshifted,nps,long,3,Jessica reported the awful news of the refugees in the Far East last summer.
+34,23,unshifted,np,short,4,Raymond addressed a memo very loudly.
+25,29,unshifted,np,short,3,Mike recited the words last year.
+26,29,unshifted,np,long,4,Mike recited the words to a popular country song in the South last year.
+35,7,unshifted,nps,short,3,Donald proposed some drafts with joy.
+27,19,unshifted,np,long,3,The woman carried the birth and school records of the three young children in August.
+28,0,shifted,np,short,2,The manager presented at noon the styles.
+30,21,shifted,nps,short,2,Jessica reported last summer the news.
+1,7,shifted,np,short,2,Donald relinquished with joy some drafts.
+2,23,shifted,np,short,2,Raymond addressed very loudly a memo.
+3,18,unshifted,np,short,2,Shelly carried notes in May.
+36,22,unshifted,nps,short,5,Steven communicated a letter during break.
+4,13,unshifted,nps,long,4,The editor acknowledged the first drafts of a long article and book review at supper.
+6,10,unshifted,np,long,5,Alex described each of the key points of conflict in an interview in detail.
+7,29,shifted,np,short,1,Mike recited last year the words.
+9,3,shifted,nps,long,4,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+10,1,unshifted,nps,long,3,The contractor exhibited the plans for a lagoon and waterfall with red clay in July.
+11,1,shifted,nps,long,4,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+12,31,shifted,np,long,4,Jason forfeited with glee all of the winnings for the past seven horse races.
+13,13,unshifted,np,long,5,The editor distributed the first drafts of a long article and book review at supper.
+14,27,unshifted,np,short,4,Bobby transferred the deeds at dusk.
+31,22,unshifted,nps,short,1,Steven communicated a letter during break.
+37,15,unshifted,nps,long,4,The teacher announced some hard math concepts for the one hundred point final with care.
+15,14,shifted,np,long,3,The president introduced on Monday the new vice chair of the first corporate finance group.
+32,7,shifted,nps,short,4,Donald proposed with joy some drafts.
+16,22,shifted,nps,short,1,Steven communicated during break a letter.
+17,16,shifted,nps,short,1,Judy suggested in March a dress.
+18,7,shifted,np,long,3,Donald relinquished with joy some great front row center seats for the last performance.
+19,15,unshifted,np,long,4,The teacher introduced some hard math concepts for the one hundred point final with care.
+21,1,shifted,np,short,1,The contractor presented in July the display.
+22,27,shifted,nps,short,1,Bobby revealed at dusk the deeds.
+23,7,unshifted,nps,short,3,Donald proposed some drafts with joy.
+34,18,unshifted,nps,short,4,Shelly disclosed notes in May.
+25,26,shifted,nps,long,4,Janet revealed at dawn some more specific plans for a brand new defense plant.
+26,30,unshifted,nps,long,1,Amy broadcast the high school girls state swimming title in New York last week.
+35,22,unshifted,np,long,4,Steven addressed a seven page letter with many details of the trip during break.
+8,21,unshifted,nps,long,5,Jessica reported the awful news of the refugees in the Far East last summer.
+38,19,unshifted,nps,short,5,The woman disclosed the records in August.
+27,10,shifted,np,long,4,Alex described in detail each of the key points of conflict in an interview.
+39,12,unshifted,nps,long,5,The lawyer acknowledged each piece of the evidence in the tax fraud cases with confidence.
+40,15,shifted,nps,long,4,The teacher announced with care some hard math concepts for the one hundred point final.
+41,27,shifted,np,short,1,Bobby transferred at dusk the deeds.
+42,24,unshifted,np,short,5,Sam donated a treasure on Sunday.
+43,13,shifted,nps,short,4,The editor acknowledged at supper the details.
+30,27,shifted,np,short,2,Bobby transferred at dusk the deeds.
+1,20,shifted,np,short,2,David furnished with hesitation the facts.
+2,26,unshifted,nps,short,3,Janet revealed some graphs at dawn.
+3,17,shifted,np,short,2,Todd delivered at once some gifts.
+44,15,shifted,np,long,4,The teacher introduced with care some hard math concepts for the one hundred point final.
+4,5,unshifted,np,long,4,The manager transported the new sports line of running shoes and bicycling gear at three.
+5,9,unshifted,nps,long,3,Brian explained all of the answers on the twenty point English quiz at lunch.
+6,30,unshifted,nps,short,5,Amy broadcast the game last week.
+9,13,shifted,np,long,4,The editor distributed at supper the first drafts of a long article and book review.
+12,3,shifted,nps,short,4,Mark mentioned very quickly the flyers.
+13,31,unshifted,np,short,5,Jason forfeited the race with glee.
+14,29,unshifted,nps,short,5,Mike dictated the words last year.
+31,12,shifted,np,short,3,The lawyer distributed with confidence the dividends.
+15,0,shifted,nps,long,3,The manager exhibited at noon the new line of bright summer beach and resort fashions.
+16,3,shifted,nps,short,2,Mark mentioned very quickly the flyers.
+21,23,unshifted,nps,long,3,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+22,0,shifted,nps,long,3,The manager exhibited at noon the new line of bright summer beach and resort fashions.
+33,26,shifted,np,long,2,Janet transferred at dawn some more specific plans for a brand new defense plant.
+45,0,shifted,np,long,2,The manager presented at noon the new line of bright summer beach and resort fashions.
+34,31,shifted,nps,short,5,Jason broadcast with glee the race.
+25,10,unshifted,np,long,4,Alex described each of the key points of conflict in an interview in detail.
+26,9,shifted,nps,long,4,Brian explained at lunch all of the answers on the twenty point English quiz.
+35,24,unshifted,nps,long,3,Sam recommended an old treasure chest with some silver and gold trinkets on Sunday.
+7,13,unshifted,nps,long,4,The editor acknowledged the first drafts of a long article and book review at supper.
+38,0,shifted,np,short,3,The manager presented at noon the styles.
+27,7,unshifted,nps,long,4,Donald proposed some great front row center seats for the last performance with joy.
+39,13,shifted,np,short,4,The editor distributed at supper the details.
+42,6,shifted,np,long,3,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+30,11,unshifted,nps,long,3,The woman indicated the best routes to the Santa Monica beach and pier by phone.
+1,12,unshifted,nps,long,5,The lawyer acknowledged each piece of the evidence in the tax fraud cases with confidence.
+2,29,shifted,nps,long,2,Mike dictated last year the words to a popular country song in the South.
+3,12,unshifted,nps,short,5,The lawyer acknowledged the dividends with confidence.
+23,5,unshifted,np,short,5,The manager transported the sports gear at three.
+44,24,shifted,nps,long,4,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.
+36,6,shifted,np,short,1,Robert relinquished last semester one plane ticket.
+4,10,shifted,np,long,5,Alex described in detail each of the key points of conflict in an interview.
+46,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+6,13,shifted,np,short,1,The editor distributed at supper the details.
+9,24,shifted,np,short,1,Sam donated on Sunday a treasure.
+10,4,shifted,np,short,2,The dealer transported at ten a car.
+12,24,shifted,np,long,5,Sam donated on Sunday an old treasure chest with some silver and gold trinkets.
+13,18,shifted,nps,short,4,Shelly disclosed in May notes.
+31,30,shifted,np,long,2,Amy forfeited last week the high school girls state swimming title in New York.
+40,16,unshifted,nps,long,4,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+15,27,shifted,nps,short,3,Bobby revealed at dusk the deeds.
+16,13,shifted,np,short,1,The editor distributed at supper the details.
+19,10,shifted,np,short,5,Alex described in detail the offer.
+21,18,unshifted,np,short,4,Shelly carried notes in May.
+22,12,shifted,nps,short,4,The lawyer acknowledged with confidence the dividends.
+29,31,shifted,nps,long,3,Jason broadcast with glee all of the winnings for the past seven horse races.
+47,23,shifted,nps,short,2,Raymond communicated very loudly a memo.
+33,12,unshifted,np,long,1,The lawyer distributed each piece of the evidence in the tax fraud cases with confidence.
+48,5,shifted,np,short,1,The manager transported at three the sports gear.
+45,5,unshifted,nps,long,2,The manager demonstrated the new sports line of running shoes and bicycling gear at three.
+49,30,shifted,nps,short,1,Amy broadcast last week the game.
+34,11,shifted,np,long,4,The woman described by phone the best routes to the Santa Monica beach and pier.
+5,29,shifted,nps,long,2,Mike dictated last year the words to a popular country song in the South.
+26,15,shifted,nps,long,4,The teacher announced with care some hard math concepts for the one hundred point final.
+50,26,unshifted,nps,long,2,Janet revealed some more specific plans for a brand new defense plant at dawn.
+7,26,unshifted,np,long,3,Janet transferred some more specific plans for a brand new defense plant at dawn.
+38,8,shifted,nps,long,5,Jake explained on Friday all of the facts for the import and export taxes.
+11,30,unshifted,np,long,5,Amy forfeited the high school girls state swimming title in New York last week.
+39,20,shifted,np,short,2,David furnished with hesitation the facts.
+37,1,unshifted,np,short,5,The contractor presented the display in July.
+41,3,unshifted,nps,short,5,Mark mentioned the flyers very quickly.
+20,3,unshifted,nps,short,5,Mark mentioned the flyers very quickly.
+30,26,unshifted,nps,long,3,Janet revealed some more specific plans for a brand new defense plant at dawn.
+3,10,unshifted,np,short,5,Alex described the offer in detail.
+36,8,shifted,nps,short,1,Jake explained on Friday the figures.
+4,28,unshifted,nps,long,4,Kathy dictated all three verses from an old and famous French poem last night.
+6,20,shifted,np,short,2,David furnished with hesitation the facts.
+9,9,shifted,nps,long,3,Brian explained at lunch all of the answers on the twenty point English quiz.
+10,15,unshifted,np,long,2,The teacher introduced some hard math concepts for the one hundred point final with care.
+12,22,shifted,nps,short,2,Steven communicated during break a letter.
+13,8,shifted,nps,long,5,Jake explained on Friday all of the facts for the import and export taxes.
+31,17,unshifted,np,long,2,Todd delivered a large package with lots of presents for small children at once.
+15,26,unshifted,np,short,4,Janet transferred some graphs at dawn.
+16,27,unshifted,nps,long,2,Bobby revealed the short documents to the old mansion on the hill at dusk.
+17,31,unshifted,nps,short,4,Jason broadcast the race with glee.
+42,26,unshifted,nps,short,5,Janet revealed some graphs at dawn.
+19,16,shifted,nps,long,4,Judy suggested in March a gorgeous red and black silk dress with sparkling sequins.
+51,24,shifted,np,long,NA,Sam donated on Sunday an old treasure chest with some silver and gold trinkets.
+22,19,unshifted,np,short,4,The woman carried the records in August.
+23,10,shifted,np,short,NA,Alex described in detail the offer.
+34,28,shifted,nps,long,5,Kathy dictated last night all three verses from an old and famous French poem.
+44,2,unshifted,np,short,4,Mary returned the ads at tea.
+7,23,shifted,nps,short,3,Raymond communicated very loudly a memo.
+8,1,shifted,nps,short,4,The contractor exhibited in July the display.
+39,15,shifted,nps,short,2,The teacher announced with care the test.
+40,1,shifted,np,short,3,The contractor presented in July the display.
+41,28,unshifted,np,short,5,Kathy recited the poem last night.
+20,8,shifted,nps,short,3,Jake explained on Friday the figures.
+28,8,shifted,nps,long,2,Jake explained on Friday all of the facts for the import and export taxes.
+30,10,shifted,nps,long,4,Alex indicated in detail each of the key points of conflict in an interview.
+1,0,unshifted,nps,short,4,The manager exhibited the styles at noon.
+33,27,unshifted,np,long,2,Bobby transferred the short documents to the old mansion on the hill at dusk.
+3,29,unshifted,np,long,4,Mike recited the words to a popular country song in the South last year.
+36,11,unshifted,nps,long,4,The woman indicated the best routes to the Santa Monica beach and pier by phone.
+25,1,shifted,np,long,4,The contractor presented in July the plans for a lagoon and waterfall with red clay.
+4,11,unshifted,np,long,4,The woman described the best routes to the Santa Monica beach and pier by phone.
+46,23,unshifted,np,long,4,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+50,18,shifted,nps,long,1,Shelly disclosed in May top secret plans for a large fleet of defense missiles.
+9,26,shifted,nps,short,2,Janet revealed at dawn some graphs.
+10,5,unshifted,np,short,4,The manager transported the sports gear at three.
+12,14,unshifted,np,short,5,The president introduced the captain on Monday.
+31,15,unshifted,nps,short,3,The teacher announced the test with care.
+15,18,shifted,np,short,2,Shelly carried in May notes.
+32,8,unshifted,nps,short,5,Jake explained the figures on Friday.
+16,7,shifted,np,short,3,Donald relinquished with joy some drafts.
+17,18,shifted,np,long,2,Shelly carried in May top secret plans for a large fleet of defense missiles.
+42,3,unshifted,nps,long,4,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+19,11,unshifted,np,short,5,The woman described the route by phone.
+51,17,shifted,np,long,2,Todd delivered at once a large package with lots of presents for small children.
+29,1,shifted,nps,long,3,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+2,2,shifted,np,long,2,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+23,20,unshifted,nps,short,3,David reported the facts with hesitation.
+48,24,shifted,nps,long,2,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.
+49,26,unshifted,np,long,3,Janet transferred some more specific plans for a brand new defense plant at dawn.
+34,6,unshifted,np,long,5,Robert relinquished one round trip plane ticket from New York to Atlanta last semester.
+24,19,unshifted,nps,short,5,The woman disclosed the records in August.
+5,30,shifted,np,short,2,Amy forfeited last week the game.
+26,12,unshifted,nps,short,3,The lawyer acknowledged the dividends with confidence.
+8,10,unshifted,nps,short,5,Alex indicated the offer in detail.
+27,18,shifted,np,long,4,Shelly carried in May top secret plans for a large fleet of defense missiles.
+52,20,shifted,np,long,1,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+14,0,unshifted,np,long,3,The manager presented the new line of bright summer beach and resort fashions at noon.
+37,0,shifted,np,short,2,The manager presented at noon the styles.
+22,13,unshifted,nps,short,4,The editor acknowledged the details at supper.
+30,18,shifted,nps,long,4,Shelly disclosed in May top secret plans for a large fleet of defense missiles.
+1,11,shifted,nps,long,4,The woman indicated by phone the best routes to the Santa Monica beach and pier.
+3,28,shifted,np,long,2,Kathy recited last night all three verses from an old and famous French poem.
+44,26,shifted,np,short,3,Janet transferred at dawn some graphs.
+25,14,unshifted,np,short,4,The president introduced the captain on Monday.
+4,8,shifted,np,short,2,Jake released on Friday the figures.
+46,31,shifted,nps,long,1,Jason broadcast with glee all of the winnings for the past seven horse races.
+6,24,shifted,np,long,4,Sam donated on Sunday an old treasure chest with some silver and gold trinkets.
+7,16,shifted,nps,short,3,Judy suggested in March a dress.
+9,28,shifted,np,long,4,Kathy recited last night all three verses from an old and famous French poem.
+12,28,shifted,np,short,2,Kathy recited last night the poem.
+13,0,shifted,np,short,4,The manager presented at noon the styles.
+15,11,unshifted,np,short,5,The woman described the route by phone.
+32,18,unshifted,nps,long,5,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+17,4,shifted,np,long,2,The dealer transported at ten a brand new speedy silver sports car with chrome bumpers.
+19,20,unshifted,nps,short,5,David reported the facts with hesitation.
+43,8,unshifted,nps,short,5,Jake explained the figures on Friday.
+20,20,unshifted,np,short,5,David furnished the facts with hesitation.
+51,6,unshifted,nps,long,2,Robert proposed one round trip plane ticket from New York to Atlanta last semester.
+28,14,shifted,nps,long,4,The president announced on Monday the new vice chair of the first corporate finance group.
+33,18,unshifted,nps,short,2,Shelly disclosed notes in May.
+2,28,unshifted,np,long,4,Kathy recited all three verses from an old and famous French poem last night.
+48,15,shifted,np,long,2,The teacher introduced with care some hard math concepts for the one hundred point final.
+45,15,unshifted,nps,short,5,The teacher announced the test with care.
+24,7,unshifted,np,long,1,Donald relinquished some great front row center seats for the last performance with joy.
+5,13,unshifted,np,long,4,The editor distributed the first drafts of a long article and book review at supper.
+26,19,shifted,nps,short,1,The woman disclosed in August the records.
+35,30,shifted,nps,long,2,Amy broadcast last week the high school girls state swimming title in New York.
+8,28,shifted,nps,long,4,Kathy dictated last night all three verses from an old and famous French poem.
+38,15,unshifted,nps,long,3,The teacher announced some hard math concepts for the one hundred point final with care.
+11,13,shifted,nps,short,4,The editor acknowledged at supper the details.
+27,23,shifted,nps,short,4,Raymond communicated very loudly a memo.
+52,6,unshifted,nps,short,1,Robert proposed one plane ticket last semester.
+39,30,unshifted,nps,short,3,Amy broadcast the game last week.
+42,8,shifted,nps,long,5,Jake explained on Friday all of the facts for the import and export taxes.
+21,10,unshifted,np,short,5,Alex described the offer in detail.
+22,30,shifted,nps,long,4,Amy broadcast last week the high school girls state swimming title in New York.
+1,18,unshifted,np,long,4,Shelly carried top secret plans for a large fleet of defense missiles in May.
+47,11,unshifted,np,long,5,The woman described the best routes to the Santa Monica beach and pier by phone.
+3,0,unshifted,nps,long,5,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+49,14,shifted,np,short,2,The president introduced on Monday the captain.
+7,28,unshifted,nps,long,4,Kathy dictated all three verses from an old and famous French poem last night.
+9,16,unshifted,nps,long,4,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+10,28,unshifted,nps,short,4,Kathy dictated the poem last night.
+14,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+37,14,shifted,nps,long,5,The president announced on Monday the new vice chair of the first corporate finance group.
+32,31,shifted,nps,long,4,Jason broadcast with glee all of the winnings for the past seven horse races.
+17,27,shifted,nps,long,2,Bobby revealed at dusk the short documents to the old mansion on the hill.
+19,1,unshifted,nps,long,4,The contractor exhibited the plans for a lagoon and waterfall with red clay in July.
+43,24,shifted,nps,long,4,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.
+28,31,unshifted,np,short,4,Jason forfeited the race with glee.
+23,26,unshifted,np,short,4,Janet transferred some graphs at dawn.
+48,22,shifted,np,long,2,Steven addressed during break a seven page letter with many details of the trip.
+45,29,shifted,nps,short,1,Mike dictated last year the words.
+34,24,shifted,nps,short,1,Sam recommended on Sunday a treasure.
+24,27,shifted,np,long,1,Bobby transferred at dusk the short documents to the old mansion on the hill.
+44,30,unshifted,np,long,5,Amy forfeited the high school girls state swimming title in New York last week.
+4,0,shifted,nps,short,2,The manager exhibited at noon the styles.
+5,2,shifted,np,long,1,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+26,31,shifted,np,short,1,Jason forfeited with glee the race.
+38,14,shifted,nps,long,5,The president announced on Monday the new vice chair of the first corporate finance group.
+13,29,shifted,nps,long,5,Mike dictated last year the words to a popular country song in the South.
+52,23,unshifted,nps,long,2,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+31,14,shifted,nps,short,3,The president announced on Monday the captain.
+41,13,unshifted,np,short,5,The editor distributed the details at supper.
+42,1,unshifted,np,short,5,The contractor presented the display in July.
+18,22,shifted,nps,long,2,Steven communicated during break a seven page letter with many details of the trip.
+51,30,unshifted,nps,short,1,Amy broadcast the game last week.
+21,22,shifted,nps,long,4,Steven communicated during break a seven page letter with many details of the trip.
+22,26,unshifted,np,short,3,Janet transferred some graphs at dawn.
+29,26,shifted,np,short,2,Janet transferred at dawn some graphs.
+30,30,shifted,np,long,2,Amy forfeited last week the high school girls state swimming title in New York.
+1,22,shifted,nps,short,2,Steven communicated during break a letter.
+47,29,shifted,np,short,2,Mike recited last year the words.
+2,13,unshifted,np,long,4,The editor distributed the first drafts of a long article and book review at supper.
+3,16,unshifted,nps,long,2,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+49,19,unshifted,np,long,3,The woman carried the birth and school records of the three young children in August.
+36,28,unshifted,np,short,5,Kathy recited the poem last night.
+46,1,shifted,nps,long,2,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+6,8,unshifted,np,short,5,Jake released the figures on Friday.
+9,10,unshifted,np,short,5,Alex described the offer in detail.
+14,7,shifted,nps,short,5,Donald proposed with joy some drafts.
+39,9,shifted,nps,short,4,Brian explained at lunch the quiz.
+37,8,shifted,nps,long,5,Jake explained on Friday all of the facts for the import and export taxes.
+40,13,shifted,np,long,4,The editor distributed at supper the first drafts of a long article and book review.
+32,0,unshifted,np,long,4,The manager presented the new line of bright summer beach and resort fashions at noon.
+17,11,unshifted,np,long,3,The woman described the best routes to the Santa Monica beach and pier by phone.
+33,14,unshifted,nps,long,3,The president announced the new vice chair of the first corporate finance group on Monday.
+48,31,shifted,nps,long,2,Jason broadcast with glee all of the winnings for the past seven horse races.
+45,22,unshifted,nps,short,4,Steven communicated a letter during break.
+53,18,unshifted,np,short,3,Shelly carried notes in May.
+25,17,shifted,np,long,3,Todd delivered at once a large package with lots of presents for small children.
+50,19,unshifted,nps,long,5,The woman disclosed the birth and school records of the three young children in August.
+8,5,shifted,np,long,4,The manager transported at three the new sports line of running shoes and bicycling gear.
+38,30,shifted,np,short,2,Amy forfeited last week the game.
+10,12,shifted,nps,short,3,The lawyer acknowledged with confidence the dividends.
+11,9,shifted,np,long,4,Brian released at lunch all of the answers on the twenty point English quiz.
+52,24,shifted,np,short,1,Sam donated on Sunday a treasure.
+42,18,shifted,nps,short,4,Shelly disclosed in May notes.
+18,10,unshifted,np,short,5,Alex described the offer in detail.
+51,22,shifted,nps,short,3,Steven communicated during break a letter.
+28,6,shifted,np,long,2,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+3,6,unshifted,nps,short,2,Robert proposed one plane ticket last semester.
+23,19,unshifted,np,short,5,The woman carried the records in August.
+49,9,unshifted,np,short,3,Brian released the quiz at lunch.
+24,31,unshifted,np,short,2,Jason forfeited the race with glee.
+44,16,unshifted,np,long,4,Judy delivered a gorgeous red and black silk dress with sparkling sequins in March.
+26,26,shifted,nps,short,1,Janet revealed at dawn some graphs.
+35,15,unshifted,np,long,2,The teacher introduced some hard math concepts for the one hundred point final with care.
+9,20,shifted,np,long,4,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+13,27,shifted,np,long,5,Bobby transferred at dusk the short documents to the old mansion on the hill.
+37,11,unshifted,nps,short,5,The woman indicated the route by phone.
+40,31,shifted,np,short,3,Jason forfeited with glee the race.
+32,11,shifted,np,short,4,The woman described by phone the route.
+16,31,shifted,np,long,3,Jason forfeited with glee all of the winnings for the past seven horse races.
+17,14,shifted,np,short,1,The president introduced on Monday the captain.
+19,21,shifted,np,long,3,Jessica furnished last summer the awful news of the refugees in the Far East.
+22,7,unshifted,nps,short,3,Donald proposed some drafts with joy.
+1,6,unshifted,nps,long,5,Robert proposed one round trip plane ticket from New York to Atlanta last semester.
+47,21,shifted,np,short,2,Jessica furnished last summer the news.
+33,5,shifted,np,long,2,The manager transported at three the new sports line of running shoes and bicycling gear.
+2,19,unshifted,nps,short,3,The woman disclosed the records in August.
+45,27,shifted,np,short,1,Bobby transferred at dusk the deeds.
+53,16,unshifted,nps,long,4,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+25,24,shifted,np,long,3,Sam donated on Sunday an old treasure chest with some silver and gold trinkets.
+6,21,unshifted,np,short,5,Jessica furnished the news last summer.
+8,27,unshifted,np,long,5,Bobby transferred the short documents to the old mansion on the hill at dusk.
+38,26,unshifted,nps,short,5,Janet revealed some graphs at dawn.
+11,16,unshifted,np,long,5,Judy delivered a gorgeous red and black silk dress with sparkling sequins in March.
+39,26,shifted,nps,long,4,Janet revealed at dawn some more specific plans for a brand new defense plant.
+54,9,unshifted,np,short,4,Brian released the quiz at lunch.
+15,21,shifted,np,long,3,Jessica furnished last summer the awful news of the refugees in the Far East.
+18,15,shifted,nps,long,4,The teacher announced with care some hard math concepts for the one hundred point final.
+43,7,shifted,nps,short,1,Donald proposed with joy some drafts.
+20,1,unshifted,np,long,4,The contractor presented the plans for a lagoon and waterfall with red clay in July.
+21,21,unshifted,np,long,3,Jessica furnished the awful news of the refugees in the Far East last summer.
+29,8,unshifted,nps,short,5,Jake explained the figures on Friday.
+3,26,shifted,nps,short,2,Janet revealed at dawn some graphs.
+23,6,shifted,nps,short,1,Robert proposed last semester one plane ticket.
+48,21,unshifted,nps,short,4,Jessica reported the news last summer.
+36,21,shifted,nps,short,1,Jessica reported last summer the news.
+4,19,unshifted,np,long,3,The woman carried the birth and school records of the three young children in August.
+5,26,unshifted,nps,short,5,Janet revealed some graphs at dawn.
+12,29,unshifted,np,short,5,Mike recited the words last year.
+31,27,shifted,np,short,2,Bobby transferred at dusk the deeds.
+37,7,unshifted,np,long,4,Donald relinquished some great front row center seats for the last performance with joy.
+40,29,unshifted,np,long,4,Mike recited the words to a popular country song in the South last year.
+32,23,unshifted,np,long,4,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+19,23,shifted,nps,long,4,Raymond communicated very loudly a five page plan of withdrawal for the allied troops.
+28,12,shifted,np,long,2,The lawyer distributed with confidence each piece of the evidence in the tax fraud cases.
+30,29,shifted,nps,short,2,Mike dictated last year the words.
+1,9,shifted,nps,short,2,Brian explained at lunch the quiz.
+47,13,unshifted,nps,long,5,The editor acknowledged the first drafts of a long article and book review at supper.
+49,18,shifted,np,long,3,Shelly carried in May top secret plans for a large fleet of defense missiles.
+53,15,shifted,nps,long,2,The teacher announced with care some hard math concepts for the one hundred point final.
+44,11,shifted,np,short,2,The woman described by phone the route.
+26,3,shifted,nps,long,3,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+35,21,shifted,np,long,3,Jessica furnished last summer the awful news of the refugees in the Far East.
+46,6,unshifted,np,short,4,Robert relinquished one plane ticket last semester.
+6,31,shifted,np,long,5,Jason forfeited with glee all of the winnings for the past seven horse races.
+8,22,shifted,np,short,3,Steven addressed during break a letter.
+38,4,shifted,nps,short,3,The dealer demonstrated at ten a car.
+11,7,shifted,nps,short,4,Donald proposed with joy some drafts.
+52,8,unshifted,np,long,2,Jake released all of the facts for the import and export taxes on Friday.
+14,17,shifted,nps,long,3,Todd suggested at once a large package with lots of presents for small children.
+39,18,unshifted,np,long,5,Shelly carried top secret plans for a large fleet of defense missiles in May.
+54,27,shifted,nps,long,1,Bobby revealed at dusk the short documents to the old mansion on the hill.
+41,24,unshifted,np,long,4,Sam donated an old treasure chest with some silver and gold trinkets on Sunday.
+42,5,unshifted,nps,short,5,The manager demonstrated the sports gear at three.
+18,14,unshifted,np,long,5,The president introduced the new vice chair of the first corporate finance group on Monday.
+43,26,shifted,np,short,2,Janet transferred at dawn some graphs.
+51,7,shifted,np,short,3,Donald relinquished with joy some drafts.
+21,6,unshifted,nps,short,3,Robert proposed one plane ticket last semester.
+3,3,shifted,nps,long,4,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+23,4,shifted,np,short,3,The dealer transported at ten a car.
+45,13,unshifted,np,short,4,The editor distributed the details at supper.
+34,19,shifted,np,long,5,The woman carried in August the birth and school records of the three young children.
+25,27,unshifted,nps,long,4,Bobby revealed the short documents to the old mansion on the hill at dusk.
+4,18,shifted,np,long,1,Shelly carried in May top secret plans for a large fleet of defense missiles.
+5,21,shifted,nps,long,1,Jessica reported last summer the awful news of the refugees in the Far East.
+50,13,unshifted,np,short,5,The editor distributed the details at supper.
+7,21,shifted,np,short,2,Jessica furnished last summer the news.
+10,18,shifted,np,short,2,Shelly carried in May notes.
+27,0,shifted,nps,short,2,The manager exhibited at noon the styles.
+13,17,unshifted,np,short,5,Todd delivered some gifts at once.
+31,18,shifted,nps,long,4,Shelly disclosed in May top secret plans for a large fleet of defense missiles.
+40,23,unshifted,nps,long,4,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+15,19,unshifted,np,short,4,The woman carried the records in August.
+32,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+17,13,unshifted,nps,long,4,The editor acknowledged the first drafts of a long article and book review at supper.
+19,13,unshifted,nps,short,5,The editor acknowledged the details at supper.
+20,29,shifted,nps,short,2,Mike dictated last year the words.
+28,29,shifted,nps,long,2,Mike dictated last year the words to a popular country song in the South.
+1,13,shifted,np,short,3,The editor distributed at supper the details.
+47,20,unshifted,nps,long,5,David reported the facts on the strange bank robbery crimes in Utah with hesitation.
+2,9,unshifted,nps,long,4,Brian explained all of the answers on the twenty point English quiz at lunch.
+48,2,unshifted,np,short,1,Mary returned the ads at tea.
+49,28,unshifted,nps,long,3,Kathy dictated all three verses from an old and famous French poem last night.
+24,3,unshifted,nps,long,1,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+53,1,shifted,np,short,1,The contractor presented in July the display.
+44,7,shifted,nps,short,4,Donald proposed with joy some drafts.
+36,15,unshifted,nps,short,5,The teacher announced the test with care.
+35,5,unshifted,np,short,5,The manager transported the sports gear at three.
+46,18,unshifted,nps,long,5,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+8,11,shifted,np,long,5,The woman described by phone the best routes to the Santa Monica beach and pier.
+38,27,shifted,np,long,4,Bobby transferred at dusk the short documents to the old mansion on the hill.
+11,17,shifted,nps,long,4,Todd suggested at once a large package with lots of presents for small children.
+52,16,unshifted,nps,long,5,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+41,0,shifted,np,long,2,The manager presented at noon the new line of bright summer beach and resort fashions.
+22,31,unshifted,nps,long,4,Jason broadcast all of the winnings for the past seven horse races with glee.
+29,16,unshifted,np,long,5,Judy delivered a gorgeous red and black silk dress with sparkling sequins in March.
+33,4,unshifted,nps,short,2,The dealer demonstrated a car at ten.
+3,8,unshifted,np,long,5,Jake released all of the facts for the import and export taxes on Friday.
+23,24,unshifted,nps,long,3,Sam recommended an old treasure chest with some silver and gold trinkets on Sunday.
+45,10,shifted,nps,long,4,Alex indicated in detail each of the key points of conflict in an interview.
+34,4,unshifted,nps,short,5,The dealer demonstrated a car at ten.
+5,12,shifted,np,long,4,The lawyer distributed with confidence each piece of the evidence in the tax fraud cases.
+7,15,unshifted,np,short,3,The teacher introduced the test with care.
+12,17,shifted,np,long,4,Todd delivered at once a large package with lots of presents for small children.
+13,14,shifted,nps,long,5,The president announced on Monday the new vice chair of the first corporate finance group.
+31,6,shifted,np,short,1,Robert relinquished last semester one plane ticket.
+54,1,unshifted,nps,short,4,The contractor exhibited the display in July.
+15,29,shifted,np,long,4,Mike recited last year the words to a popular country song in the South.
+32,2,unshifted,np,short,2,Mary returned the ads at tea.
+18,6,unshifted,nps,short,1,Robert proposed one plane ticket last semester.
+19,27,shifted,nps,short,4,Bobby revealed at dusk the deeds.
+43,17,shifted,nps,long,2,Todd suggested at once a large package with lots of presents for small children.
+51,27,unshifted,nps,long,2,Bobby revealed the short documents to the old mansion on the hill at dusk.
+21,17,shifted,np,short,2,Todd delivered at once some gifts.
+30,15,unshifted,nps,short,2,The teacher announced the test with care.
+1,5,shifted,nps,long,3,The manager demonstrated at three the new sports line of running shoes and bicycling gear.
+47,27,shifted,nps,long,4,Bobby revealed at dusk the short documents to the old mansion on the hill.
+48,14,unshifted,nps,short,1,The president announced the captain on Monday.
+49,7,unshifted,nps,long,1,Donald proposed some great front row center seats for the last performance with joy.
+53,28,shifted,np,long,2,Kathy recited last night all three verses from an old and famous French poem.
+44,27,unshifted,np,short,5,Bobby transferred the deeds at dusk.
+36,31,unshifted,np,long,2,Jason forfeited all of the winnings for the past seven horse races with glee.
+26,22,shifted,nps,long,1,Steven communicated during break a seven page letter with many details of the trip.
+35,14,shifted,np,long,4,The president introduced on Monday the new vice chair of the first corporate finance group.
+50,23,shifted,np,long,4,Raymond addressed very loudly a five page plan of withdrawal for the allied troops.
+6,26,shifted,nps,long,5,Janet revealed at dawn some more specific plans for a brand new defense plant.
+52,12,unshifted,nps,short,5,The lawyer acknowledged the dividends with confidence.
+14,24,shifted,nps,long,3,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.
+39,10,unshifted,np,long,5,Alex described each of the key points of conflict in an interview in detail.
+40,17,shifted,np,short,4,Todd delivered at once some gifts.
+41,14,shifted,nps,short,1,The president announced on Monday the captain.
+17,1,unshifted,nps,short,4,The contractor exhibited the display in July.
+33,1,shifted,nps,short,4,The contractor exhibited in July the display.
+2,12,shifted,np,long,3,The lawyer distributed with confidence each piece of the evidence in the tax fraud cases.
+23,16,shifted,nps,long,2,Judy suggested in March a gorgeous red and black silk dress with sparkling sequins.
+45,28,unshifted,np,short,5,Kathy recited the poem last night.
+8,2,unshifted,np,long,5,Mary returned the used car ad for a Chevrolet with low mileage at tea.
+13,19,unshifted,nps,short,5,The woman disclosed the records in August.
+31,21,shifted,nps,short,2,Jessica reported last summer the news.
+54,23,shifted,nps,short,1,Raymond communicated very loudly a memo.
+16,9,shifted,nps,short,2,Brian explained at lunch the quiz.
+18,0,unshifted,nps,long,5,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+19,17,unshifted,nps,long,4,Todd suggested a large package with lots of presents for small children at once.
+51,26,shifted,nps,long,3,Janet revealed at dawn some more specific plans for a brand new defense plant.
+21,5,shifted,nps,short,2,The manager demonstrated at three the sports gear.
+30,7,unshifted,np,short,3,Donald relinquished some drafts with joy.
+3,31,shifted,np,short,1,Jason forfeited with glee the race.
+49,31,unshifted,nps,short,4,Jason broadcast the race with glee.
+34,7,shifted,nps,long,5,Donald proposed with joy some great front row center seats for the last performance.
+53,13,shifted,np,long,3,The editor distributed at supper the first drafts of a long article and book review.
+4,20,unshifted,nps,long,5,David reported the facts on the strange bank robbery crimes in Utah with hesitation.
+35,2,shifted,nps,short,1,Mary mentioned at tea the ads.
+50,30,shifted,np,long,5,Amy forfeited last week the high school girls state swimming title in New York.
+6,14,unshifted,np,short,5,The president introduced the captain on Monday.
+7,12,shifted,nps,long,3,The lawyer acknowledged with confidence each piece of the evidence in the tax fraud cases.
+9,23,unshifted,nps,long,4,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+10,10,shifted,np,short,2,Alex described in detail the offer.
+52,0,unshifted,nps,long,2,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+14,28,shifted,nps,short,2,Kathy dictated last night the poem.
+40,14,unshifted,np,long,4,The president introduced the new vice chair of the first corporate finance group on Monday.
+41,11,unshifted,nps,long,5,The woman indicated the best routes to the Santa Monica beach and pier by phone.
+42,13,unshifted,np,long,4,The editor distributed the first drafts of a long article and book review at supper.
+22,17,unshifted,nps,long,2,Todd suggested a large package with lots of presents for small children at once.
+1,14,unshifted,np,short,5,The president introduced the captain on Monday.
+23,29,shifted,np,long,4,Mike recited last year the words to a popular country song in the South.
+45,6,shifted,np,short,2,Robert relinquished last semester one plane ticket.
+24,23,shifted,np,short,1,Raymond addressed very loudly a memo.
+44,18,unshifted,nps,long,5,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+36,10,shifted,nps,long,4,Alex indicated in detail each of the key points of conflict in an interview.
+5,15,unshifted,nps,long,2,The teacher announced some hard math concepts for the one hundred point final with care.
+26,7,shifted,np,long,5,Donald relinquished with joy some great front row center seats for the last performance.
+8,17,shifted,nps,short,5,Todd suggested at once some gifts.
+38,13,unshifted,np,long,5,The editor distributed the first drafts of a long article and book review at supper.
+13,22,unshifted,nps,long,4,Steven communicated a seven page letter with many details of the trip during break.
+54,7,unshifted,nps,long,1,Donald proposed some great front row center seats for the last performance with joy.
+37,18,shifted,nps,short,1,Shelly disclosed in May notes.
+43,1,shifted,nps,long,3,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+20,9,unshifted,nps,short,5,Brian explained the quiz at lunch.
+28,19,unshifted,nps,short,5,The woman disclosed the records in August.
+21,7,shifted,np,long,5,Donald relinquished with joy some great front row center seats for the last performance.
+29,2,unshifted,np,short,5,Mary returned the ads at tea.
+30,17,unshifted,np,long,3,Todd delivered a large package with lots of presents for small children at once.
+47,2,shifted,nps,long,5,Mary mentioned at tea the used car ad for a Chevrolet with low mileage.
+3,21,unshifted,np,long,3,Jessica furnished the awful news of the refugees in the Far East last summer.
+49,15,unshifted,np,short,4,The teacher introduced the test with care.
+35,9,unshifted,np,long,4,Brian released all of the answers on the twenty point English quiz at lunch.
+50,12,shifted,np,short,4,The lawyer distributed with confidence the dividends.
+10,21,shifted,np,long,1,Jessica furnished last summer the awful news of the refugees in the Far East.
+12,18,unshifted,np,long,5,Shelly carried top secret plans for a large fleet of defense missiles in May.
+14,30,unshifted,np,long,4,Amy forfeited the high school girls state swimming title in New York last week.
+31,0,shifted,np,long,4,The manager presented at noon the new line of bright summer beach and resort fashions.
+39,23,unshifted,nps,short,5,Raymond communicated a memo very loudly.
+40,22,shifted,nps,long,4,Steven communicated during break a seven page letter with many details of the trip.
+41,29,shifted,nps,short,1,Mike dictated last year the words.
+17,22,unshifted,np,short,5,Steven addressed a letter during break.
+42,4,shifted,nps,short,2,The dealer demonstrated at ten a car.
+19,8,shifted,np,long,5,Jake released on Friday all of the facts for the import and export taxes.
+22,24,unshifted,nps,long,4,Sam recommended an old treasure chest with some silver and gold trinkets on Sunday.
+1,27,unshifted,nps,long,3,Bobby revealed the short documents to the old mansion on the hill at dusk.
+2,24,unshifted,np,short,2,Sam donated a treasure on Sunday.
+48,27,unshifted,np,short,2,Bobby transferred the deeds at dusk.
+36,2,shifted,np,short,1,Mary returned at tea the ads.
+25,2,unshifted,nps,long,4,Mary mentioned the used car ad for a Chevrolet with low mileage at tea.
+26,13,shifted,np,long,4,The editor distributed at supper the first drafts of a long article and book review.
+7,24,unshifted,nps,short,3,Sam recommended a treasure on Sunday.
+8,7,shifted,nps,long,4,Donald proposed with joy some great front row center seats for the last performance.
+11,28,shifted,nps,short,4,Kathy dictated last night the poem.
+54,14,shifted,np,short,1,The president introduced on Monday the captain.
+37,6,shifted,np,long,4,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+32,26,shifted,np,short,4,Janet transferred at dawn some graphs.
+16,12,unshifted,nps,long,4,The lawyer acknowledged each piece of the evidence in the tax fraud cases with confidence.
+20,22,unshifted,nps,short,4,Steven communicated a letter during break.
+51,11,shifted,nps,long,4,The woman indicated by phone the best routes to the Santa Monica beach and pier.
+21,20,shifted,np,long,4,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+29,9,shifted,np,long,3,Brian released at lunch all of the answers on the twenty point English quiz.
+30,22,unshifted,nps,short,3,Steven communicated a letter during break.
+47,6,shifted,nps,long,5,Robert proposed last semester one round trip plane ticket from New York to Atlanta.
+3,13,shifted,np,long,1,The editor distributed at supper the first drafts of a long article and book review.
+49,20,unshifted,nps,long,4,David reported the facts on the strange bank robbery crimes in Utah with hesitation.
+34,9,shifted,np,short,1,Brian released at lunch the quiz.
+24,14,shifted,nps,long,2,The president announced on Monday the new vice chair of the first corporate finance group.
+44,4,unshifted,nps,long,3,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+5,28,unshifted,np,long,5,Kathy recited all three verses from an old and famous French poem last night.
+35,12,shifted,nps,short,3,The lawyer acknowledged with confidence the dividends.
+50,0,shifted,np,long,4,The manager presented at noon the new line of bright summer beach and resort fashions.
+38,23,shifted,np,short,4,Raymond addressed very loudly a memo.
+9,30,unshifted,nps,long,4,Amy broadcast the high school girls state swimming title in New York last week.
+27,26,unshifted,np,long,4,Janet transferred some more specific plans for a brand new defense plant at dawn.
+13,10,shifted,nps,short,5,Alex indicated in detail the offer.
+41,30,shifted,np,long,4,Amy forfeited last week the high school girls state swimming title in New York.
+17,21,shifted,np,short,1,Jessica furnished last summer the news.
+43,20,shifted,nps,short,1,David reported with hesitation the facts.
+28,2,shifted,np,long,4,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+1,21,unshifted,np,short,4,Jessica furnished the news last summer.
+33,24,shifted,nps,short,2,Sam recommended on Sunday a treasure.
+48,16,unshifted,np,long,5,Judy delivered a gorgeous red and black silk dress with sparkling sequins in March.
+45,11,unshifted,nps,long,4,The woman indicated the best routes to the Santa Monica beach and pier by phone.
+25,18,unshifted,np,long,4,Shelly carried top secret plans for a large fleet of defense missiles in May.
+26,20,shifted,np,long,3,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+46,21,unshifted,nps,short,5,Jessica reported the news last summer.
+6,3,shifted,nps,short,3,Mark mentioned very quickly the flyers.
+7,22,unshifted,np,short,3,Steven addressed a letter during break.
+10,23,shifted,nps,long,4,Raymond communicated very loudly a five page plan of withdrawal for the allied troops.
+14,22,shifted,np,long,4,Steven addressed during break a seven page letter with many details of the trip.
+39,0,unshifted,nps,short,2,The manager exhibited the styles at noon.
+54,30,shifted,nps,short,1,Amy broadcast last week the game.
+15,24,unshifted,nps,long,4,Sam recommended an old treasure chest with some silver and gold trinkets on Sunday.
+42,21,shifted,nps,long,3,Jessica reported last summer the awful news of the refugees in the Far East.
+20,28,unshifted,np,short,5,Kathy recited the poem last night.
+51,23,unshifted,nps,short,3,Raymond communicated a memo very loudly.
+47,7,unshifted,nps,long,5,Donald proposed some great front row center seats for the last performance with joy.
+24,18,shifted,nps,short,1,Shelly disclosed in May notes.
+44,13,shifted,nps,short,3,The editor acknowledged at supper the details.
+36,27,shifted,np,short,1,Bobby transferred at dusk the deeds.
+11,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+12,11,shifted,nps,long,5,The woman indicated by phone the best routes to the Santa Monica beach and pier.
+27,12,shifted,nps,long,3,The lawyer acknowledged with confidence each piece of the evidence in the tax fraud cases.
+37,4,shifted,nps,short,2,The dealer demonstrated at ten a car.
+40,0,unshifted,nps,long,4,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+16,2,unshifted,nps,long,3,Mary mentioned the used car ad for a Chevrolet with low mileage at tea.
+18,19,shifted,nps,short,3,The woman disclosed in August the records.
+19,18,shifted,np,short,1,Shelly carried in May notes.
+28,7,unshifted,np,long,2,Donald relinquished some great front row center seats for the last performance with joy.
+2,0,shifted,np,short,2,The manager presented at noon the styles.
+53,23,unshifted,nps,long,4,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+4,15,unshifted,np,short,5,The teacher introduced the test with care.
+5,23,shifted,np,short,2,Raymond addressed very loudly a memo.
+35,6,shifted,nps,short,1,Robert proposed last semester one plane ticket.
+46,28,shifted,nps,short,2,Kathy dictated last night the poem.
+6,7,shifted,np,short,4,Donald relinquished with joy some drafts.
+7,6,shifted,nps,long,4,Robert proposed last semester one round trip plane ticket from New York to Atlanta.
+8,14,unshifted,nps,long,5,The president announced the new vice chair of the first corporate finance group on Monday.
+9,6,unshifted,nps,short,4,Robert proposed one plane ticket last semester.
+10,6,shifted,nps,short,1,Robert proposed last semester one plane ticket.
+13,11,unshifted,nps,short,5,The woman indicated the route by phone.
+14,31,shifted,nps,long,3,Jason broadcast with glee all of the winnings for the past seven horse races.
+31,20,unshifted,np,short,3,David furnished the facts with hesitation.
+54,17,unshifted,nps,short,2,Todd suggested some gifts at once.
+15,13,unshifted,nps,short,4,The editor acknowledged the details at supper.
+41,15,unshifted,nps,short,5,The teacher announced the test with care.
+51,19,shifted,nps,long,3,The woman disclosed in August the birth and school records of the three young children.
+29,4,unshifted,nps,long,3,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+30,24,unshifted,np,long,5,Sam donated an old treasure chest with some silver and gold trinkets on Sunday.
+47,17,unshifted,nps,short,5,Todd suggested some gifts at once.
+23,18,shifted,np,short,3,Shelly carried in May notes.
+49,2,shifted,nps,long,2,Mary mentioned at tea the used car ad for a Chevrolet with low mileage.
+24,29,shifted,nps,long,1,Mike dictated last year the words to a popular country song in the South.
+44,19,shifted,np,short,2,The woman carried in August the records.
+25,19,shifted,nps,long,4,The woman disclosed in August the birth and school records of the three young children.
+50,6,shifted,np,short,2,Robert relinquished last semester one plane ticket.
+11,21,unshifted,nps,short,5,Jessica reported the news last summer.
+12,30,unshifted,nps,short,2,Amy broadcast the game last week.
+37,27,shifted,np,long,3,Bobby transferred at dusk the short documents to the old mansion on the hill.
+32,5,shifted,np,short,3,The manager transported at three the sports gear.
+42,7,unshifted,np,long,4,Donald relinquished some great front row center seats for the last performance with joy.
+43,9,shifted,np,long,3,Brian released at lunch all of the answers on the twenty point English quiz.
+28,9,unshifted,nps,long,3,Brian explained all of the answers on the twenty point English quiz at lunch.
+22,10,shifted,np,short,3,Alex described in detail the offer.
+48,7,shifted,nps,short,2,Donald proposed with joy some drafts.
+45,2,shifted,np,short,1,Mary returned at tea the ads.
+35,16,shifted,nps,long,2,Judy suggested in March a gorgeous red and black silk dress with sparkling sequins.
+46,2,unshifted,np,short,4,Mary returned the ads at tea.
+38,18,shifted,nps,short,3,Shelly disclosed in May notes.
+9,19,shifted,nps,short,2,The woman disclosed in August the records.
+10,16,shifted,nps,long,4,Judy suggested in March a gorgeous red and black silk dress with sparkling sequins.
+13,16,shifted,np,short,4,Judy delivered in March a dress.
+52,22,shifted,nps,long,3,Steven communicated during break a seven page letter with many details of the trip.
+31,13,unshifted,np,short,4,The editor distributed the details at supper.
+39,7,shifted,np,short,4,Donald relinquished with joy some drafts.
+54,31,unshifted,nps,short,5,Jason broadcast the race with glee.
+41,22,unshifted,nps,short,5,Steven communicated a letter during break.
+16,15,shifted,nps,short,1,The teacher announced with care the test.
+17,29,shifted,np,short,1,Mike recited last year the words.
+18,28,shifted,np,long,5,Kathy recited last night all three verses from an old and famous French poem.
+19,31,unshifted,nps,long,5,Jason broadcast all of the winnings for the past seven horse races with glee.
+20,7,unshifted,np,short,5,Donald relinquished some drafts with joy.
+29,23,unshifted,np,long,2,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+30,0,shifted,np,long,3,The manager presented at noon the new line of bright summer beach and resort fashions.
+2,8,shifted,nps,long,2,Jake explained on Friday all of the facts for the import and export taxes.
+24,28,unshifted,np,long,2,Kathy recited all three verses from an old and famous French poem last night.
+53,12,unshifted,nps,short,5,The lawyer acknowledged the dividends with confidence.
+36,4,shifted,nps,long,1,The dealer demonstrated at ten a brand new speedy silver sports car with chrome bumpers.
+25,22,shifted,nps,short,2,Steven communicated during break a letter.
+14,16,unshifted,np,long,4,Judy delivered a gorgeous red and black silk dress with sparkling sequins in March.
+15,12,shifted,nps,short,4,The lawyer acknowledged with confidence the dividends.
+42,23,shifted,np,short,4,Raymond addressed very loudly a memo.
+28,5,unshifted,nps,short,4,The manager demonstrated the sports gear at three.
+3,22,shifted,nps,long,2,Steven communicated during break a seven page letter with many details of the trip.
+48,28,shifted,nps,short,2,Kathy dictated last night the poem.
+4,9,unshifted,np,short,5,Brian released the quiz at lunch.
+5,6,shifted,np,long,3,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+26,18,unshifted,np,short,2,Shelly carried notes in May.
+50,31,unshifted,np,long,4,Jason forfeited all of the winnings for the past seven horse races with glee.
+38,17,unshifted,np,short,5,Todd delivered some gifts at once.
+9,8,unshifted,np,long,4,Jake released all of the facts for the import and export taxes on Friday.
+11,31,shifted,nps,long,5,Jason broadcast with glee all of the winnings for the past seven horse races.
+27,20,unshifted,nps,long,4,David reported the facts on the strange bank robbery crimes in Utah with hesitation.
+13,5,unshifted,nps,short,5,The manager demonstrated the sports gear at three.
+52,14,unshifted,np,long,4,The president introduced the new vice chair of the first corporate finance group on Monday.
+39,14,unshifted,np,short,5,The president introduced the captain on Monday.
+54,20,unshifted,nps,long,4,David reported the facts on the strange bank robbery crimes in Utah with hesitation.
+37,23,shifted,np,short,1,Raymond addressed very loudly a memo.
+18,23,unshifted,nps,long,5,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+21,26,shifted,nps,short,4,Janet revealed at dawn some graphs.
+22,28,unshifted,nps,short,5,Kathy dictated the poem last night.
+30,9,unshifted,nps,short,5,Brian explained the quiz at lunch.
+47,9,unshifted,np,short,5,Brian released the quiz at lunch.
+45,4,shifted,nps,long,2,The dealer demonstrated at ten a brand new speedy silver sports car with chrome bumpers.
+24,30,shifted,np,short,1,Amy forfeited last week the game.
+36,1,unshifted,np,long,1,The contractor presented the plans for a lagoon and waterfall with red clay in July.
+25,0,unshifted,nps,short,3,The manager exhibited the styles at noon.
+46,24,shifted,nps,long,2,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.
+6,23,unshifted,nps,short,5,Raymond communicated a memo very loudly.
+7,11,unshifted,np,long,2,The woman described the best routes to the Santa Monica beach and pier by phone.
+10,13,unshifted,nps,short,5,The editor acknowledged the details at supper.
+12,8,unshifted,np,short,5,Jake released the figures on Friday.
+14,5,shifted,np,short,2,The manager transported at three the sports gear.
+40,20,shifted,np,long,4,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+16,20,shifted,np,short,2,David furnished with hesitation the facts.
+28,23,shifted,np,short,2,Raymond addressed very loudly a memo.
+3,24,shifted,np,short,2,Sam donated on Sunday a treasure.
+49,21,shifted,np,short,1,Jessica furnished last summer the news.
+34,10,unshifted,nps,short,5,Alex indicated the offer in detail.
+53,22,shifted,nps,long,1,Steven communicated during break a seven page letter with many details of the trip.
+26,28,shifted,np,long,2,Kathy recited last night all three verses from an old and famous French poem.
+35,19,unshifted,np,short,4,The woman carried the records in August.
+50,8,shifted,nps,short,4,Jake explained on Friday the figures.
+38,21,shifted,nps,long,4,Jessica reported last summer the awful news of the refugees in the Far East.
+9,14,unshifted,np,long,5,The president introduced the new vice chair of the first corporate finance group on Monday.
+27,27,shifted,nps,long,2,Bobby revealed at dusk the short documents to the old mansion on the hill.
+52,29,unshifted,np,long,5,Mike recited the words to a popular country song in the South last year.
+31,7,unshifted,np,short,1,Donald relinquished some drafts with joy.
+54,8,shifted,np,short,1,Jake released on Friday the figures.
+37,29,shifted,nps,long,4,Mike dictated last year the words to a popular country song in the South.
+42,27,shifted,np,long,3,Bobby transferred at dusk the short documents to the old mansion on the hill.
+43,6,unshifted,np,short,4,Robert relinquished one plane ticket last semester.
+20,6,shifted,np,short,2,Robert relinquished last semester one plane ticket.
+51,28,shifted,np,short,4,Kathy recited last night the poem.
+1,30,unshifted,nps,short,4,Amy broadcast the game last week.
+47,14,shifted,np,short,4,The president introduced on Monday the captain.
+2,7,unshifted,np,long,2,Donald relinquished some great front row center seats for the last performance with joy.
+23,15,unshifted,np,long,2,The teacher introduced some hard math concepts for the one hundred point final with care.
+48,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+45,21,shifted,nps,short,2,Jessica reported last summer the news.
+36,7,unshifted,np,short,5,Donald relinquished some drafts with joy.
+46,16,unshifted,np,long,4,Judy delivered a gorgeous red and black silk dress with sparkling sequins in March.
+8,30,unshifted,np,short,5,Amy forfeited the game last week.
+10,17,unshifted,nps,long,2,Todd suggested a large package with lots of presents for small children at once.
+40,6,unshifted,nps,short,4,Robert proposed one plane ticket last semester.
+15,15,unshifted,np,long,3,The teacher introduced some hard math concepts for the one hundred point final with care.
+41,18,shifted,nps,long,4,Shelly disclosed in May top secret plans for a large fleet of defense missiles.
+19,6,shifted,nps,short,2,Robert proposed last semester one plane ticket.
+30,5,unshifted,nps,long,4,The manager demonstrated the new sports line of running shoes and bicycling gear at three.
+49,10,shifted,np,long,3,Alex described in detail each of the key points of conflict in an interview.
+34,22,shifted,np,short,5,Steven addressed during break a letter.
+4,22,unshifted,np,short,5,Steven addressed a letter during break.
+26,1,shifted,np,short,1,The contractor presented in July the display.
+50,17,unshifted,np,long,4,Todd delivered a large package with lots of presents for small children at once.
+38,9,unshifted,nps,long,4,Brian explained all of the answers on the twenty point English quiz at lunch.
+9,29,unshifted,np,long,4,Mike recited the words to a popular country song in the South last year.
+27,16,shifted,nps,short,1,Judy suggested in March a dress.
+13,23,shifted,np,short,2,Raymond addressed very loudly a memo.
+39,29,unshifted,np,short,5,Mike recited the words last year.
+54,16,shifted,nps,short,1,Judy suggested in March a dress.
+16,8,unshifted,np,short,5,Jake released the figures on Friday.
+42,16,shifted,np,short,4,Judy delivered in March a dress.
+18,29,unshifted,np,long,3,Mike recited the words to a popular country song in the South last year.
+51,8,unshifted,np,short,4,Jake released the figures on Friday.
+22,6,shifted,nps,short,2,Robert proposed last semester one plane ticket.
+24,22,unshifted,nps,long,2,Steven communicated a seven page letter with many details of the trip during break.
+53,21,unshifted,np,long,1,Jessica furnished the awful news of the refugees in the Far East last summer.
+5,22,unshifted,nps,long,4,Steven communicated a seven page letter with many details of the trip during break.
+46,7,shifted,nps,short,1,Donald proposed with joy some drafts.
+10,27,shifted,nps,short,3,Bobby revealed at dusk the deeds.
+11,15,shifted,np,long,5,The teacher introduced with care some hard math concepts for the one hundred point final.
+52,26,shifted,nps,short,2,Janet revealed at dawn some graphs.
+37,21,shifted,nps,long,4,Jessica reported last summer the awful news of the refugees in the Far East.
+40,19,shifted,nps,short,4,The woman disclosed in August the records.
+32,17,shifted,nps,long,3,Todd suggested at once a large package with lots of presents for small children.
+43,21,unshifted,nps,short,5,Jessica reported the news last summer.
+20,24,unshifted,np,long,5,Sam donated an old treasure chest with some silver and gold trinkets on Sunday.
+28,16,shifted,np,short,1,Judy delivered in March a dress.
+21,15,shifted,nps,long,4,The teacher announced with care some hard math concepts for the one hundred point final.
+47,18,shifted,np,long,4,Shelly carried in May top secret plans for a large fleet of defense missiles.
+2,30,shifted,np,short,2,Amy forfeited last week the game.
+49,1,unshifted,nps,short,4,The contractor exhibited the display in July.
+36,17,unshifted,np,long,1,Todd delivered a large package with lots of presents for small children at once.
+25,28,shifted,np,short,4,Kathy recited last night the poem.
+4,17,unshifted,nps,short,5,Todd suggested some gifts at once.
+6,18,unshifted,np,long,5,Shelly carried top secret plans for a large fleet of defense missiles in May.
+7,20,unshifted,nps,long,2,David reported the facts on the strange bank robbery crimes in Utah with hesitation.
+38,1,unshifted,np,short,5,The contractor presented the display in July.
+14,11,shifted,np,short,4,The woman described by phone the route.
+16,26,shifted,nps,long,4,Janet revealed at dawn some more specific plans for a brand new defense plant.
+17,8,shifted,np,short,1,Jake released on Friday the figures.
+18,30,unshifted,nps,long,3,Amy broadcast the high school girls state swimming title in New York last week.
+19,5,unshifted,np,short,4,The manager transported the sports gear at three.
+29,5,shifted,np,short,1,The manager transported at three the sports gear.
+3,19,shifted,nps,short,2,The woman disclosed in August the records.
+34,15,shifted,np,short,4,The teacher introduced with care the test.
+53,3,shifted,nps,long,3,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+44,5,shifted,np,short,3,The manager transported at three the sports gear.
+5,4,shifted,nps,short,2,The dealer demonstrated at ten a car.
+35,10,shifted,np,short,3,Alex described in detail the offer.
+46,13,shifted,nps,short,1,The editor acknowledged at supper the details.
+50,16,shifted,np,long,5,Judy delivered in March a gorgeous red and black silk dress with sparkling sequins.
+10,30,shifted,nps,long,2,Amy broadcast last week the high school girls state swimming title in New York.
+11,29,unshifted,nps,short,5,Mike dictated the words last year.
+52,18,unshifted,np,short,4,Shelly carried notes in May.
+31,4,shifted,nps,long,3,The dealer demonstrated at ten a brand new speedy silver sports car with chrome bumpers.
+39,16,unshifted,nps,short,5,Judy suggested a dress in March.
+37,9,unshifted,nps,long,5,Brian explained all of the answers on the twenty point English quiz at lunch.
+43,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+28,1,unshifted,np,short,4,The contractor presented the display in July.
+21,16,unshifted,nps,long,5,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+47,10,shifted,np,long,5,Alex described in detail each of the key points of conflict in an interview.
+33,0,unshifted,np,short,2,The manager presented the styles at noon.
+23,13,unshifted,nps,short,4,The editor acknowledged the details at supper.
+45,8,shifted,nps,short,2,Jake explained on Friday the figures.
+25,6,unshifted,nps,long,4,Robert proposed one round trip plane ticket from New York to Atlanta last semester.
+6,5,shifted,nps,long,5,The manager demonstrated at three the new sports line of running shoes and bicycling gear.
+7,19,unshifted,np,long,2,The woman carried the birth and school records of the three young children in August.
+38,3,unshifted,nps,long,4,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+9,17,shifted,np,short,5,Todd delivered at once some gifts.
+13,9,unshifted,nps,long,5,Brian explained all of the answers on the twenty point English quiz at lunch.
+15,23,shifted,nps,long,4,Raymond communicated very loudly a five page plan of withdrawal for the allied troops.
+16,14,unshifted,np,short,5,The president introduced the captain on Monday.
+17,0,shifted,nps,short,2,The manager exhibited at noon the styles.
+42,9,unshifted,nps,long,4,Brian explained all of the answers on the twenty point English quiz at lunch.
+18,26,shifted,nps,short,4,Janet revealed at dawn some graphs.
+20,19,unshifted,nps,long,4,The woman disclosed the birth and school records of the three young children in August.
+22,22,unshifted,np,long,3,Steven addressed a seven page letter with many details of the trip during break.
+49,11,unshifted,np,long,5,The woman described the best routes to the Santa Monica beach and pier by phone.
+34,17,shifted,nps,short,2,Todd suggested at once some gifts.
+24,21,shifted,nps,long,2,Jessica reported last summer the awful news of the refugees in the Far East.
+53,11,shifted,nps,short,3,The woman indicated by phone the route.
+4,2,shifted,nps,long,1,Mary mentioned at tea the used car ad for a Chevrolet with low mileage.
+5,11,unshifted,nps,short,5,The woman indicated the route by phone.
+26,27,unshifted,nps,short,3,Bobby revealed the deeds at dusk.
+46,29,unshifted,nps,short,5,Mike dictated the words last year.
+8,6,unshifted,np,long,5,Robert relinquished one round trip plane ticket from New York to Atlanta last semester.
+11,2,unshifted,np,short,4,Mary returned the ads at tea.
+12,16,unshifted,nps,short,5,Judy suggested a dress in March.
+27,29,shifted,np,short,4,Mike recited last year the words.
+52,3,shifted,nps,long,2,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+14,23,unshifted,np,long,3,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+39,28,shifted,np,short,3,Kathy recited last night the poem.
+37,19,unshifted,nps,short,5,The woman disclosed the records in August.
+40,9,shifted,nps,long,4,Brian explained at lunch all of the answers on the twenty point English quiz.
+32,27,unshifted,np,short,5,Bobby transferred the deeds at dusk.
+41,4,shifted,nps,long,5,The dealer demonstrated at ten a brand new speedy silver sports car with chrome bumpers.
+43,5,shifted,np,short,2,The manager transported at three the sports gear.
+51,16,unshifted,nps,short,2,Judy suggested a dress in March.
+28,13,unshifted,np,long,2,The editor distributed the first drafts of a long article and book review at supper.
+21,11,shifted,nps,short,4,The woman indicated by phone the route.
+47,16,shifted,nps,short,3,Judy suggested in March a dress.
+23,27,shifted,nps,short,2,Bobby revealed at dusk the deeds.
+48,17,shifted,nps,long,2,Todd suggested at once a large package with lots of presents for small children.
+44,29,unshifted,nps,short,5,Mike dictated the words last year.
+36,23,shifted,np,long,4,Raymond addressed very loudly a five page plan of withdrawal for the allied troops.
+25,31,shifted,np,long,3,Jason forfeited with glee all of the winnings for the past seven horse races.
+6,19,shifted,nps,long,5,The woman disclosed in August the birth and school records of the three young children.
+7,5,unshifted,np,long,3,The manager transported the new sports line of running shoes and bicycling gear at three.
+13,4,shifted,nps,short,4,The dealer demonstrated at ten a car.
+17,15,unshifted,np,short,5,The teacher introduced the test with care.
+42,2,shifted,np,long,2,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+18,3,shifted,nps,long,4,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+20,18,shifted,nps,long,5,Shelly disclosed in May top secret plans for a large fleet of defense missiles.
+22,15,unshifted,np,long,4,The teacher introduced some hard math concepts for the one hundred point final with care.
+29,29,unshifted,nps,short,5,Mike dictated the words last year.
+30,3,unshifted,nps,short,4,Mark mentioned the flyers very quickly.
+33,15,shifted,np,short,1,The teacher introduced with care the test.
+2,15,unshifted,nps,long,2,The teacher announced some hard math concepts for the one hundred point final with care.
+3,9,shifted,nps,long,4,Brian explained at lunch all of the answers on the twenty point English quiz.
+53,7,shifted,np,long,2,Donald relinquished with joy some great front row center seats for the last performance.
+26,0,unshifted,nps,long,4,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+50,1,unshifted,np,long,4,The contractor presented the plans for a lagoon and waterfall with red clay in July.
+11,23,unshifted,np,long,4,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+12,5,shifted,nps,long,3,The manager demonstrated at three the new sports line of running shoes and bicycling gear.
+27,6,shifted,nps,long,4,Robert proposed last semester one round trip plane ticket from New York to Atlanta.
+14,14,unshifted,nps,short,5,The president announced the captain on Monday.
+31,1,unshifted,np,long,1,The contractor presented the plans for a lagoon and waterfall with red clay in July.
+54,18,shifted,np,long,1,Shelly carried in May top secret plans for a large fleet of defense missiles.
+40,26,shifted,nps,short,4,Janet revealed at dawn some graphs.
+15,16,shifted,nps,long,3,Judy suggested in March a gorgeous red and black silk dress with sparkling sequins.
+32,4,unshifted,nps,long,4,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+16,11,shifted,nps,long,4,The woman indicated by phone the best routes to the Santa Monica beach and pier.
+51,29,unshifted,np,short,4,Mike recited the words last year.
+21,8,unshifted,np,long,5,Jake released all of the facts for the import and export taxes on Friday.
+1,2,unshifted,nps,long,4,Mary mentioned the used car ad for a Chevrolet with low mileage at tea.
+47,19,unshifted,np,long,4,The woman carried the birth and school records of the three young children in August.
+23,31,unshifted,nps,long,4,Jason broadcast all of the winnings for the past seven horse races with glee.
+45,30,shifted,np,long,2,Amy forfeited last week the high school girls state swimming title in New York.
+34,8,unshifted,nps,long,5,Jake explained all of the facts for the import and export taxes on Friday.
+44,28,shifted,nps,short,3,Kathy dictated last night the poem.
+36,20,unshifted,np,short,5,David furnished the facts with hesitation.
+4,1,unshifted,nps,short,5,The contractor exhibited the display in July.
+46,22,shifted,np,long,2,Steven addressed during break a seven page letter with many details of the trip.
+7,14,shifted,np,short,2,The president introduced on Monday the captain.
+38,7,unshifted,np,long,3,Donald relinquished some great front row center seats for the last performance with joy.
+10,7,unshifted,nps,short,2,Donald proposed some drafts with joy.
+39,31,shifted,np,long,5,Jason forfeited with glee all of the winnings for the past seven horse races.
+42,28,unshifted,np,long,5,Kathy recited all three verses from an old and famous French poem last night.
+18,1,shifted,np,short,4,The contractor presented in July the display.
+43,16,unshifted,np,long,5,Judy delivered a gorgeous red and black silk dress with sparkling sequins in March.
+20,30,shifted,np,long,2,Amy forfeited last week the high school girls state swimming title in New York.
+29,20,shifted,nps,short,2,David reported with hesitation the facts.
+30,16,shifted,np,long,3,Judy delivered in March a gorgeous red and black silk dress with sparkling sequins.
+33,19,shifted,np,long,2,The woman carried in August the birth and school records of the three young children.
+3,1,shifted,np,short,2,The contractor presented in July the display.
+24,26,unshifted,nps,short,4,Janet revealed some graphs at dawn.
+5,27,shifted,np,long,1,Bobby transferred at dusk the short documents to the old mansion on the hill.
+26,16,unshifted,nps,long,4,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+35,18,shifted,np,short,1,Shelly carried in May notes.
+50,10,shifted,nps,long,5,Alex indicated in detail each of the key points of conflict in an interview.
+6,1,shifted,np,long,5,The contractor presented in July the plans for a lagoon and waterfall with red clay.
+8,31,shifted,nps,short,4,Jason broadcast with glee the race.
+54,10,shifted,np,long,4,Alex described in detail each of the key points of conflict in an interview.
+37,30,shifted,np,short,2,Amy forfeited last week the game.
+51,2,unshifted,nps,long,2,Mary mentioned the used car ad for a Chevrolet with low mileage at tea.
+28,3,unshifted,nps,long,2,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+53,30,unshifted,nps,long,4,Amy broadcast the high school girls state swimming title in New York last week.
+36,5,unshifted,nps,long,5,The manager demonstrated the new sports line of running shoes and bicycling gear at three.
+46,5,shifted,np,short,2,The manager transported at three the sports gear.
+10,19,unshifted,np,short,4,The woman carried the records in August.
+52,7,shifted,np,long,1,Donald relinquished with joy some great front row center seats for the last performance.
+40,28,shifted,np,long,4,Kathy recited last night all three verses from an old and famous French poem.
+15,2,shifted,nps,short,3,Mary mentioned at tea the ads.
+32,30,unshifted,np,long,5,Amy forfeited the high school girls state swimming title in New York last week.
+16,6,unshifted,nps,long,4,Robert proposed one round trip plane ticket from New York to Atlanta last semester.
+19,22,unshifted,np,long,5,Steven addressed a seven page letter with many details of the trip during break.
+20,26,unshifted,nps,long,5,Janet revealed some more specific plans for a brand new defense plant at dawn.
+21,3,shifted,nps,long,4,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+29,7,shifted,nps,short,3,Donald proposed with joy some drafts.
+48,30,unshifted,np,long,5,Amy forfeited the high school girls state swimming title in New York last week.
+34,14,unshifted,nps,long,5,The president announced the new vice chair of the first corporate finance group on Monday.
+24,6,shifted,np,long,1,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+35,1,unshifted,nps,long,3,The contractor exhibited the plans for a lagoon and waterfall with red clay in July.
+50,4,shifted,nps,long,2,The dealer demonstrated at ten a brand new speedy silver sports car with chrome bumpers.
+8,19,shifted,np,long,4,The woman carried in August the birth and school records of the three young children.
+27,8,shifted,np,short,4,Jake released on Friday the figures.
+54,15,unshifted,np,short,5,The teacher introduced the test with care.
+17,9,unshifted,np,short,4,Brian released the quiz at lunch.
+43,0,unshifted,np,long,4,The manager presented the new line of bright summer beach and resort fashions at noon.
+47,5,unshifted,np,long,5,The manager transported the new sports line of running shoes and bicycling gear at three.
+33,7,shifted,nps,long,4,Donald proposed with joy some great front row center seats for the last performance.
+2,4,shifted,nps,short,1,The dealer demonstrated at ten a car.
+45,14,shifted,nps,short,2,The president announced on Monday the captain.
+53,19,shifted,nps,short,2,The woman disclosed in August the records.
+44,14,unshifted,nps,short,5,The president announced the captain on Monday.
+25,9,shifted,nps,short,4,Brian explained at lunch the quiz.
+46,26,shifted,np,short,2,Janet transferred at dawn some graphs.
+6,27,unshifted,nps,long,5,Bobby revealed the short documents to the old mansion on the hill at dusk.
+7,8,shifted,np,short,3,Jake released on Friday the figures.
+38,20,unshifted,np,long,4,David furnished the facts on the strange bank robbery crimes in Utah with hesitation.
+9,11,shifted,nps,short,2,The woman indicated by phone the route.
+11,19,shifted,np,short,2,The woman carried in August the records.
+13,1,unshifted,np,short,5,The contractor presented the display in July.
+31,31,unshifted,np,long,2,Jason forfeited all of the winnings for the past seven horse races with glee.
+37,3,unshifted,nps,long,4,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+40,18,unshifted,np,short,5,Shelly carried notes in May.
+15,30,shifted,nps,long,3,Amy broadcast last week the high school girls state swimming title in New York.
+32,1,shifted,nps,long,4,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+41,5,unshifted,nps,long,5,The manager demonstrated the new sports line of running shoes and bicycling gear at three.
+42,19,unshifted,nps,short,5,The woman disclosed the records in August.
+18,18,unshifted,np,short,3,Shelly carried notes in May.
+19,26,unshifted,np,short,4,Janet transferred some graphs at dawn.
+20,5,unshifted,nps,long,4,The manager demonstrated the new sports line of running shoes and bicycling gear at three.
+51,1,shifted,np,long,4,The contractor presented in July the plans for a lagoon and waterfall with red clay.
+28,18,shifted,nps,short,1,Shelly disclosed in May notes.
+48,4,unshifted,nps,long,2,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+34,13,shifted,nps,long,5,The editor acknowledged at supper the first drafts of a long article and book review.
+24,4,shifted,nps,short,2,The dealer demonstrated at ten a car.
+26,21,unshifted,np,long,1,Jessica furnished the awful news of the refugees in the Far East last summer.
+50,29,shifted,nps,short,4,Mike dictated last year the words.
+52,30,unshifted,nps,long,3,Amy broadcast the high school girls state swimming title in New York last week.
+39,4,unshifted,np,long,5,The dealer transported a brand new speedy silver sports car with chrome bumpers at ten.
+54,21,shifted,np,short,1,Jessica furnished last summer the news.
+16,18,unshifted,np,long,4,Shelly carried top secret plans for a large fleet of defense missiles in May.
+43,30,unshifted,np,long,4,Amy forfeited the high school girls state swimming title in New York last week.
+47,0,shifted,nps,short,5,The manager exhibited at noon the styles.
+33,6,unshifted,np,long,2,Robert relinquished one round trip plane ticket from New York to Atlanta last semester.
+2,17,unshifted,np,short,3,Todd delivered some gifts at once.
+23,12,shifted,nps,short,1,The lawyer acknowledged with confidence the dividends.
+45,17,unshifted,np,long,4,Todd delivered a large package with lots of presents for small children at once.
+49,24,unshifted,nps,short,3,Sam recommended a treasure on Sunday.
+53,5,shifted,nps,short,1,The manager demonstrated at three the sports gear.
+44,6,unshifted,np,short,5,Robert relinquished one plane ticket last semester.
+25,11,shifted,nps,long,5,The woman indicated by phone the best routes to the Santa Monica beach and pier.
+4,23,shifted,nps,short,1,Raymond communicated very loudly a memo.
+5,1,unshifted,np,short,5,The contractor presented the display in July.
+35,8,shifted,np,long,4,Jake released on Friday all of the facts for the import and export taxes.
+7,10,shifted,np,long,3,Alex described in detail each of the key points of conflict in an interview.
+38,10,shifted,nps,short,4,Alex indicated in detail the offer.
+11,26,shifted,np,short,4,Janet transferred at dawn some graphs.
+12,1,shifted,np,long,5,The contractor presented in July the plans for a lagoon and waterfall with red clay.
+27,9,unshifted,np,short,5,Brian released the quiz at lunch.
+40,27,unshifted,nps,short,4,Bobby revealed the deeds at dusk.
+17,23,shifted,nps,short,1,Raymond communicated very loudly a memo.
+18,9,shifted,nps,long,5,Brian explained at lunch all of the answers on the twenty point English quiz.
+20,10,shifted,nps,long,4,Alex indicated in detail each of the key points of conflict in an interview.
+28,28,unshifted,np,long,4,Kathy recited all three verses from an old and famous French poem last night.
+22,20,unshifted,nps,short,5,David reported the facts with hesitation.
+29,30,unshifted,np,long,3,Amy forfeited the high school girls state swimming title in New York last week.
+30,6,shifted,np,short,2,Robert relinquished last semester one plane ticket.
+46,4,unshifted,nps,long,5,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+6,11,shifted,nps,long,5,The woman indicated by phone the best routes to the Santa Monica beach and pier.
+10,9,unshifted,np,long,5,Brian released all of the answers on the twenty point English quiz at lunch.
+14,1,shifted,nps,long,4,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+41,10,shifted,nps,long,5,Alex indicated in detail each of the key points of conflict in an interview.
+16,1,shifted,np,long,4,The contractor presented in July the plans for a lagoon and waterfall with red clay.
+19,24,unshifted,nps,long,3,Sam recommended an old treasure chest with some silver and gold trinkets on Sunday.
+51,15,shifted,nps,short,3,The teacher announced with care the test.
+33,29,unshifted,nps,long,5,Mike dictated the words to a popular country song in the South last year.
+2,6,shifted,np,long,2,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+24,10,shifted,nps,short,2,Alex indicated in detail the offer.
+53,17,shifted,np,short,2,Todd delivered at once some gifts.
+36,18,shifted,nps,long,2,Shelly disclosed in May top secret plans for a large fleet of defense missiles.
+25,20,shifted,np,short,2,David furnished with hesitation the facts.
+5,7,unshifted,np,long,5,Donald relinquished some great front row center seats for the last performance with joy.
+26,6,unshifted,nps,short,1,Robert proposed one plane ticket last semester.
+35,11,unshifted,np,short,4,The woman described the route by phone.
+50,2,shifted,np,short,2,Mary returned at tea the ads.
+8,8,unshifted,nps,long,5,Jake explained all of the facts for the import and export taxes on Friday.
+27,5,unshifted,np,long,4,The manager transported the new sports line of running shoes and bicycling gear at three.
+52,2,unshifted,nps,short,5,Mary mentioned the ads at tea.
+54,0,shifted,nps,short,2,The manager exhibited at noon the styles.
+37,13,unshifted,np,long,5,The editor distributed the first drafts of a long article and book review at supper.
+32,29,unshifted,nps,short,5,Mike dictated the words last year.
+17,6,shifted,nps,long,2,Robert proposed last semester one round trip plane ticket from New York to Atlanta.
+42,10,shifted,nps,short,4,Alex indicated in detail the offer.
+21,19,shifted,nps,short,4,The woman disclosed in August the records.
+3,2,unshifted,nps,short,4,Mary mentioned the ads at tea.
+23,21,shifted,np,long,2,Jessica furnished last summer the awful news of the refugees in the Far East.
+48,26,shifted,np,short,1,Janet transferred at dawn some graphs.
+49,29,shifted,np,short,2,Mike recited last year the words.
+34,30,unshifted,np,short,5,Amy forfeited the game last week.
+44,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+4,7,unshifted,nps,long,1,Donald proposed some great front row center seats for the last performance with joy.
+46,8,unshifted,nps,short,5,Jake explained the figures on Friday.
+9,18,unshifted,np,short,4,Shelly carried notes in May.
+12,12,unshifted,nps,long,5,The lawyer acknowledged each piece of the evidence in the tax fraud cases with confidence.
+13,28,unshifted,np,long,5,Kathy recited all three verses from an old and famous French poem last night.
+31,10,shifted,nps,long,3,Alex indicated in detail each of the key points of conflict in an interview.
+39,11,shifted,nps,long,5,The woman indicated by phone the best routes to the Santa Monica beach and pier.
+40,11,shifted,nps,short,4,The woman indicated by phone the route.
+16,17,shifted,np,long,4,Todd delivered at once a large package with lots of presents for small children.
+20,0,shifted,np,long,4,The manager presented at noon the new line of bright summer beach and resort fashions.
+28,22,unshifted,nps,long,2,Steven communicated a seven page letter with many details of the trip during break.
+29,27,unshifted,np,short,5,Bobby transferred the deeds at dusk.
+1,28,shifted,np,short,2,Kathy recited last night the poem.
+47,12,shifted,nps,long,5,The lawyer acknowledged with confidence each piece of the evidence in the tax fraud cases.
+2,16,shifted,np,short,2,Judy delivered in March a dress.
+53,20,shifted,np,long,2,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+36,3,unshifted,nps,short,5,Mark mentioned the flyers very quickly.
+25,8,unshifted,np,short,4,Jake released the figures on Friday.
+26,17,shifted,np,short,1,Todd delivered at once some gifts.
+35,17,unshifted,nps,long,2,Todd suggested a large package with lots of presents for small children at once.
+50,11,unshifted,nps,long,4,The woman indicated the best routes to the Santa Monica beach and pier by phone.
+6,16,unshifted,nps,short,5,Judy suggested a dress in March.
+8,0,unshifted,np,short,5,The manager presented the styles at noon.
+38,28,unshifted,np,long,5,Kathy recited all three verses from an old and famous French poem last night.
+10,22,unshifted,np,long,4,Steven addressed a seven page letter with many details of the trip during break.
+52,17,shifted,np,short,1,Todd delivered at once some gifts.
+54,26,unshifted,np,long,2,Janet transferred some more specific plans for a brand new defense plant at dawn.
+17,17,unshifted,nps,short,3,Todd suggested some gifts at once.
+18,20,shifted,np,long,5,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+19,28,unshifted,nps,short,5,Kathy dictated the poem last night.
+43,31,shifted,nps,long,4,Jason broadcast with glee all of the winnings for the past seven horse races.
+51,10,unshifted,np,long,4,Alex described each of the key points of conflict in an interview in detail.
+22,1,unshifted,nps,long,2,The contractor exhibited the plans for a lagoon and waterfall with red clay in July.
+30,1,unshifted,np,long,3,The contractor presented the plans for a lagoon and waterfall with red clay in July.
+23,14,shifted,np,long,4,The president introduced on Monday the new vice chair of the first corporate finance group.
+45,1,unshifted,np,long,2,The contractor presented the plans for a lagoon and waterfall with red clay in July.
+49,22,unshifted,np,short,5,Steven addressed a letter during break.
+4,14,shifted,np,short,1,The president introduced on Monday the captain.
+5,5,unshifted,nps,short,5,The manager demonstrated the sports gear at three.
+13,26,unshifted,nps,short,5,Janet revealed some graphs at dawn.
+31,11,unshifted,nps,long,3,The woman indicated the best routes to the Santa Monica beach and pier by phone.
+40,30,unshifted,nps,long,4,Amy broadcast the high school girls state swimming title in New York last week.
+32,6,unshifted,np,short,5,Robert relinquished one plane ticket last semester.
+41,7,unshifted,np,short,5,Donald relinquished some drafts with joy.
+42,31,unshifted,np,short,5,Jason forfeited the race with glee.
+20,17,unshifted,np,long,3,Todd delivered a large package with lots of presents for small children at once.
+29,19,shifted,np,short,1,The woman carried in August the records.
+47,28,unshifted,nps,long,5,Kathy dictated all three verses from an old and famous French poem last night.
+2,1,unshifted,np,short,3,The contractor presented the display in July.
+53,0,unshifted,nps,long,5,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+44,21,unshifted,nps,short,5,Jessica reported the news last summer.
+25,21,unshifted,np,short,2,Jessica furnished the news last summer.
+26,11,shifted,nps,short,1,The woman indicated by phone the route.
+35,26,unshifted,np,short,5,Janet transferred some graphs at dawn.
+8,15,shifted,np,short,5,The teacher introduced with care the test.
+12,27,unshifted,nps,long,4,Bobby revealed the short documents to the old mansion on the hill at dusk.
+14,4,unshifted,nps,long,3,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+37,28,unshifted,np,long,5,Kathy recited all three verses from an old and famous French poem last night.
+17,30,shifted,nps,short,1,Amy broadcast last week the game.
+43,28,shifted,nps,short,2,Kathy dictated last night the poem.
+22,5,unshifted,np,short,4,The manager transported the sports gear at three.
+45,26,unshifted,nps,long,2,Janet revealed some more specific plans for a brand new defense plant at dawn.
+49,6,shifted,nps,long,2,Robert proposed last semester one round trip plane ticket from New York to Atlanta.
+34,16,unshifted,np,short,5,Judy delivered a dress in March.
+24,2,shifted,np,long,1,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+36,14,shifted,nps,short,1,The president announced on Monday the captain.
+38,29,shifted,nps,long,4,Mike dictated last year the words to a popular country song in the South.
+9,7,shifted,np,long,4,Donald relinquished with joy some great front row center seats for the last performance.
+10,0,shifted,nps,long,3,The manager exhibited at noon the new line of bright summer beach and resort fashions.
+11,14,unshifted,nps,short,5,The president announced the captain on Monday.
+39,2,unshifted,nps,long,5,Mary mentioned the used car ad for a Chevrolet with low mileage at tea.
+16,0,unshifted,nps,short,4,The manager exhibited the styles at noon.
+18,11,shifted,nps,short,2,The woman indicated by phone the route.
+20,11,unshifted,nps,long,3,The woman indicated the best routes to the Santa Monica beach and pier by phone.
+30,4,shifted,nps,long,3,The dealer demonstrated at ten a brand new speedy silver sports car with chrome bumpers.
+1,26,shifted,nps,long,4,Janet revealed at dawn some more specific plans for a brand new defense plant.
+3,5,shifted,nps,short,2,The manager demonstrated at three the sports gear.
+25,15,shifted,nps,short,3,The teacher announced with care the test.
+50,28,unshifted,np,short,5,Kathy recited the poem last night.
+27,13,unshifted,nps,long,4,The editor acknowledged the first drafts of a long article and book review at supper.
+52,28,shifted,np,long,2,Kathy recited last night all three verses from an old and famous French poem.
+31,26,unshifted,nps,long,2,Janet revealed some more specific plans for a brand new defense plant at dawn.
+37,31,unshifted,np,short,5,Jason forfeited the race with glee.
+41,8,shifted,nps,short,1,Jake explained on Friday the figures.
+19,29,shifted,np,long,4,Mike recited last year the words to a popular country song in the South.
+43,4,unshifted,nps,long,4,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+29,10,unshifted,nps,long,3,Alex indicated each of the key points of conflict in an interview in detail.
+47,1,unshifted,nps,short,5,The contractor exhibited the display in July.
+48,23,unshifted,np,long,4,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+34,12,unshifted,np,long,5,The lawyer distributed each piece of the evidence in the tax fraud cases with confidence.
+24,17,unshifted,np,short,2,Todd delivered some gifts at once.
+53,29,unshifted,np,long,4,Mike recited the words to a popular country song in the South last year.
+44,10,unshifted,nps,long,4,Alex indicated each of the key points of conflict in an interview in detail.
+36,0,shifted,np,long,2,The manager presented at noon the new line of bright summer beach and resort fashions.
+4,29,shifted,np,short,1,Mike recited last year the words.
+6,29,unshifted,np,short,5,Mike recited the words last year.
+7,18,shifted,np,long,3,Shelly carried in May top secret plans for a large fleet of defense missiles.
+8,13,shifted,nps,long,4,The editor acknowledged at supper the first drafts of a long article and book review.
+13,24,unshifted,np,short,5,Sam donated a treasure on Sunday.
+39,17,shifted,np,long,3,Todd delivered at once a large package with lots of presents for small children.
+54,28,unshifted,nps,long,5,Kathy dictated all three verses from an old and famous French poem last night.
+40,3,shifted,nps,long,4,Mark mentioned very quickly the flyers for some lectures and slide shows on campus.
+28,30,shifted,np,short,1,Amy forfeited last week the game.
+21,27,unshifted,nps,short,5,Bobby revealed the deeds at dusk.
+22,21,shifted,np,long,3,Jessica furnished last summer the awful news of the refugees in the Far East.
+1,15,shifted,nps,short,3,The teacher announced with care the test.
+33,10,unshifted,nps,short,1,Alex indicated the offer in detail.
+49,5,unshifted,np,long,3,The manager transported the new sports line of running shoes and bicycling gear at three.
+5,18,shifted,nps,short,4,Shelly disclosed in May notes.
+50,3,unshifted,nps,short,5,Mark mentioned the flyers very quickly.
+38,24,unshifted,np,short,3,Sam donated a treasure on Sunday.
+9,27,unshifted,nps,short,4,Bobby revealed the deeds at dusk.
+11,4,unshifted,nps,long,4,The dealer demonstrated a brand new speedy silver sports car with chrome bumpers at ten.
+12,21,unshifted,np,short,3,Jessica furnished the news last summer.
+27,21,shifted,np,short,1,Jessica furnished last summer the news.
+52,27,unshifted,nps,short,3,Bobby revealed the deeds at dusk.
+15,6,shifted,nps,short,2,Robert proposed last semester one plane ticket.
+41,12,shifted,np,short,5,The lawyer distributed with confidence the dividends.
+16,28,shifted,np,short,1,Kathy recited last night the poem.
+42,0,shifted,np,short,4,The manager presented at noon the styles.
+18,16,unshifted,nps,long,4,Judy suggested a gorgeous red and black silk dress with sparkling sequins in March.
+19,0,shifted,nps,long,4,The manager exhibited at noon the new line of bright summer beach and resort fashions.
+20,12,shifted,np,short,4,The lawyer distributed with confidence the dividends.
+29,14,unshifted,nps,short,4,The president announced the captain on Monday.
+30,8,shifted,nps,short,3,Jake explained on Friday the figures.
+47,30,shifted,nps,short,4,Amy broadcast last week the game.
+23,8,shifted,np,long,4,Jake released on Friday all of the facts for the import and export taxes.
+45,19,unshifted,nps,long,2,The woman disclosed the birth and school records of the three young children in August.
+53,24,shifted,np,short,2,Sam donated on Sunday a treasure.
+44,23,unshifted,np,long,4,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+35,27,shifted,nps,short,2,Bobby revealed at dusk the deeds.
+46,15,shifted,np,long,5,The teacher introduced with care some hard math concepts for the one hundred point final.
+31,28,unshifted,np,short,5,Kathy recited the poem last night.
+39,6,unshifted,nps,long,5,Robert proposed one round trip plane ticket from New York to Atlanta last semester.
+32,21,unshifted,nps,short,5,Jessica reported the news last summer.
+43,18,unshifted,nps,long,4,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+28,21,shifted,nps,long,2,Jessica reported last summer the awful news of the refugees in the Far East.
+21,0,unshifted,nps,long,4,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+1,8,unshifted,np,short,5,Jake released the figures on Friday.
+33,16,unshifted,np,short,4,Judy delivered a dress in March.
+48,10,unshifted,nps,long,5,Alex indicated each of the key points of conflict in an interview in detail.
+50,27,shifted,np,short,4,Bobby transferred at dusk the deeds.
+7,9,unshifted,np,short,4,Brian released the quiz at lunch.
+11,10,unshifted,nps,long,5,Alex indicated each of the key points of conflict in an interview in detail.
+12,9,shifted,nps,short,2,Brian explained at lunch the quiz.
+13,3,unshifted,nps,long,5,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+37,16,shifted,np,short,2,Judy delivered in March a dress.
+15,9,unshifted,np,long,4,Brian released all of the answers on the twenty point English quiz at lunch.
+41,19,unshifted,nps,long,5,The woman disclosed the birth and school records of the three young children in August.
+16,10,unshifted,np,long,4,Alex described each of the key points of conflict in an interview in detail.
+42,14,shifted,nps,long,5,The president announced on Monday the new vice chair of the first corporate finance group.
+20,16,shifted,np,long,4,Judy delivered in March a gorgeous red and black silk dress with sparkling sequins.
+22,23,shifted,nps,long,3,Raymond communicated very loudly a five page plan of withdrawal for the allied troops.
+29,21,unshifted,nps,short,5,Jessica reported the news last summer.
+3,20,shifted,np,long,2,David furnished with hesitation the facts on the strange bank robbery crimes in Utah.
+23,2,shifted,nps,short,2,Mary mentioned at tea the ads.
+45,23,shifted,np,long,2,Raymond addressed very loudly a five page plan of withdrawal for the allied troops.
+24,16,shifted,np,short,2,Judy delivered in March a dress.
+53,14,unshifted,np,long,5,The president introduced the new vice chair of the first corporate finance group on Monday.
+36,26,unshifted,nps,long,3,Janet revealed some more specific plans for a brand new defense plant at dawn.
+26,10,unshifted,np,short,5,Alex described the offer in detail.
+6,17,shifted,np,long,5,Todd delivered at once a large package with lots of presents for small children.
+8,24,shifted,nps,short,4,Sam recommended on Sunday a treasure.
+38,12,shifted,np,long,4,The lawyer distributed with confidence each piece of the evidence in the tax fraud cases.
+10,20,unshifted,nps,short,4,David reported the facts with hesitation.
+14,18,unshifted,nps,long,4,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+31,29,shifted,nps,short,2,Mike dictated last year the words.
+54,11,unshifted,np,long,4,The woman described the best routes to the Santa Monica beach and pier by phone.
+32,19,shifted,np,short,2,The woman carried in August the records.
+17,26,unshifted,np,long,2,Janet transferred some more specific plans for a brand new defense plant at dawn.
+21,2,unshifted,nps,short,2,Mary mentioned the ads at tea.
+1,3,shifted,nps,short,2,Mark mentioned very quickly the flyers.
+49,12,shifted,nps,long,4,The lawyer acknowledged with confidence each piece of the evidence in the tax fraud cases.
+34,0,unshifted,np,short,5,The manager presented the styles at noon.
+46,11,shifted,np,short,1,The woman described by phone the route.
+7,31,unshifted,nps,short,4,Jason broadcast the race with glee.
+9,22,shifted,nps,long,2,Steven communicated during break a seven page letter with many details of the trip.
+12,26,shifted,nps,long,5,Janet revealed at dawn some more specific plans for a brand new defense plant.
+27,11,unshifted,np,long,4,The woman described the best routes to the Santa Monica beach and pier by phone.
+52,19,shifted,nps,short,1,The woman disclosed in August the records.
+39,1,shifted,np,long,4,The contractor presented in July the plans for a lagoon and waterfall with red clay.
+15,28,unshifted,nps,short,4,Kathy dictated the poem last night.
+41,1,unshifted,np,long,3,The contractor presented the plans for a lagoon and waterfall with red clay in July.
+16,30,unshifted,nps,short,4,Amy broadcast the game last week.
+42,30,shifted,np,short,3,Amy forfeited last week the game.
+18,31,shifted,np,short,3,Jason forfeited with glee the race.
+20,23,shifted,np,long,4,Raymond addressed very loudly a five page plan of withdrawal for the allied troops.
+29,13,shifted,nps,short,2,The editor acknowledged at supper the details.
+2,22,unshifted,nps,long,2,Steven communicated a seven page letter with many details of the trip during break.
+23,0,shifted,nps,long,2,The manager exhibited at noon the new line of bright summer beach and resort fashions.
+45,18,shifted,nps,long,2,Shelly disclosed in May top secret plans for a large fleet of defense missiles.
+24,9,unshifted,nps,long,2,Brian explained all of the answers on the twenty point English quiz at lunch.
+44,31,shifted,nps,long,5,Jason broadcast with glee all of the winnings for the past seven horse races.
+36,16,shifted,np,long,2,Judy delivered in March a gorgeous red and black silk dress with sparkling sequins.
+25,30,unshifted,nps,short,4,Amy broadcast the game last week.
+26,24,shifted,np,short,1,Sam donated on Sunday a treasure.
+35,0,shifted,nps,long,3,The manager exhibited at noon the new line of bright summer beach and resort fashions.
+50,20,unshifted,np,short,5,David furnished the facts with hesitation.
+8,9,shifted,np,short,5,Brian released at lunch the quiz.
+38,5,unshifted,nps,short,5,The manager demonstrated the sports gear at three.
+31,5,unshifted,nps,long,2,The manager demonstrated the new sports line of running shoes and bicycling gear at three.
+54,13,unshifted,nps,long,2,The editor acknowledged the first drafts of a long article and book review at supper.
+37,17,unshifted,np,short,5,Todd delivered some gifts at once.
+40,21,unshifted,np,long,4,Jessica furnished the awful news of the refugees in the Far East last summer.
+17,24,unshifted,nps,short,4,Sam recommended a treasure on Sunday.
+19,14,shifted,np,long,4,The president introduced on Monday the new vice chair of the first corporate finance group.
+43,14,unshifted,nps,short,5,The president announced the captain on Monday.
+51,3,shifted,nps,short,4,Mark mentioned very quickly the flyers.
+28,10,shifted,nps,short,2,Alex indicated in detail the offer.
+21,29,unshifted,np,long,5,Mike recited the words to a popular country song in the South last year.
+1,10,unshifted,np,long,5,Alex described each of the key points of conflict in an interview in detail.
+33,30,unshifted,np,short,3,Amy forfeited the game last week.
+48,1,shifted,nps,long,4,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+49,16,shifted,nps,short,3,Judy suggested in March a dress.
+53,26,shifted,nps,short,2,Janet revealed at dawn some graphs.
+5,24,unshifted,np,short,5,Sam donated a treasure on Sunday.
+46,20,shifted,nps,short,1,David reported with hesitation the facts.
+6,6,unshifted,nps,long,5,Robert proposed one round trip plane ticket from New York to Atlanta last semester.
+11,8,unshifted,nps,short,5,Jake explained the figures on Friday.
+27,31,unshifted,nps,short,2,Jason broadcast the race with glee.
+13,2,shifted,np,long,4,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+15,31,unshifted,nps,long,4,Jason broadcast all of the winnings for the past seven horse races with glee.
+16,24,shifted,np,long,3,Sam donated on Sunday an old treasure chest with some silver and gold trinkets.
+42,17,unshifted,np,short,5,Todd delivered some gifts at once.
+18,21,unshifted,np,long,2,Jessica furnished the awful news of the refugees in the Far East last summer.
+20,15,unshifted,nps,short,5,The teacher announced the test with care.
+29,15,shifted,np,long,4,The teacher introduced with care some hard math concepts for the one hundred point final.
+30,12,shifted,np,short,3,The lawyer distributed with confidence the dividends.
+2,20,unshifted,np,long,1,David furnished the facts on the strange bank robbery crimes in Utah with hesitation.
+45,9,unshifted,nps,short,5,Brian explained the quiz at lunch.
+24,24,unshifted,np,short,5,Sam donated a treasure on Sunday.
+44,1,shifted,nps,long,4,The contractor exhibited in July the plans for a lagoon and waterfall with red clay.
+36,24,unshifted,np,long,5,Sam donated an old treasure chest with some silver and gold trinkets on Sunday.
+26,8,unshifted,np,long,5,Jake released all of the facts for the import and export taxes on Friday.
+12,15,shifted,nps,short,2,The teacher announced with care the test.
+31,19,unshifted,nps,long,4,The woman disclosed the birth and school records of the three young children in August.
+37,2,shifted,np,long,2,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+41,21,shifted,nps,short,1,Jessica reported last summer the news.
+51,0,unshifted,nps,short,4,The manager exhibited the styles at noon.
+28,4,shifted,nps,short,1,The dealer demonstrated at ten a car.
+1,17,shifted,np,long,4,Todd delivered at once a large package with lots of presents for small children.
+33,31,shifted,nps,short,4,Jason broadcast with glee the race.
+23,30,shifted,nps,long,2,Amy broadcast last week the high school girls state swimming title in New York.
+49,13,unshifted,nps,long,5,The editor acknowledged the first drafts of a long article and book review at supper.
+25,13,shifted,np,short,4,The editor distributed at supper the details.
+35,31,unshifted,nps,long,4,Jason broadcast all of the winnings for the past seven horse races with glee.
+46,17,shifted,nps,long,3,Todd suggested at once a large package with lots of presents for small children.
+7,1,unshifted,nps,short,4,The contractor exhibited the display in July.
+8,18,unshifted,nps,short,5,Shelly disclosed notes in May.
+10,11,unshifted,np,short,5,The woman described the route by phone.
+39,5,shifted,nps,long,2,The manager demonstrated at three the new sports line of running shoes and bicycling gear.
+32,10,unshifted,nps,long,NA,Alex indicated each of the key points of conflict in an interview in detail.
+16,19,shifted,nps,long,3,The woman disclosed in August the birth and school records of the three young children.
+22,16,shifted,nps,long,4,Judy suggested in March a gorgeous red and black silk dress with sparkling sequins.
+29,0,unshifted,np,long,4,The manager presented the new line of bright summer beach and resort fashions at noon.
+2,11,unshifted,nps,short,3,The woman indicated the route by phone.
+3,11,shifted,nps,short,2,The woman indicated by phone the route.
+45,3,unshifted,nps,short,5,Mark mentioned the flyers very quickly.
+34,27,unshifted,np,long,5,Bobby transferred the short documents to the old mansion on the hill at dusk.
+24,1,unshifted,np,short,5,The contractor presented the display in July.
+53,8,unshifted,np,long,5,Jake released all of the facts for the import and export taxes on Friday.
+5,17,unshifted,np,short,4,Todd delivered some gifts at once.
+50,22,unshifted,nps,short,2,Steven communicated a letter during break.
+38,16,shifted,np,short,4,Judy delivered in March a dress.
+9,5,shifted,nps,short,2,The manager demonstrated at three the sports gear.
+12,0,unshifted,nps,short,5,The manager exhibited the styles at noon.
+27,28,unshifted,nps,long,4,Kathy dictated all three verses from an old and famous French poem last night.
+52,11,shifted,nps,short,3,The woman indicated by phone the route.
+14,10,unshifted,nps,long,5,Alex indicated each of the key points of conflict in an interview in detail.
+54,12,shifted,nps,long,4,The lawyer acknowledged with confidence each piece of the evidence in the tax fraud cases.
+40,24,shifted,np,short,4,Sam donated on Sunday a treasure.
+43,11,shifted,np,short,2,The woman described by phone the route.
+51,21,unshifted,np,short,2,Jessica furnished the news last summer.
+48,20,shifted,nps,short,4,David reported with hesitation the facts.
+36,13,unshifted,np,short,5,The editor distributed the details at supper.
+4,27,shifted,nps,long,1,Bobby revealed at dusk the short documents to the old mansion on the hill.
+35,20,unshifted,nps,short,5,David reported the facts with hesitation.
+46,0,unshifted,np,long,5,The manager presented the new line of bright summer beach and resort fashions at noon.
+6,28,shifted,np,short,5,Kathy recited last night the poem.
+7,27,shifted,nps,long,3,Bobby revealed at dusk the short documents to the old mansion on the hill.
+8,26,shifted,np,long,5,Janet transferred at dawn some more specific plans for a brand new defense plant.
+10,2,shifted,nps,short,2,Mary mentioned at tea the ads.
+13,6,shifted,np,long,5,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+37,20,unshifted,np,long,5,David furnished the facts on the strange bank robbery crimes in Utah with hesitation.
+41,31,unshifted,np,long,1,Jason forfeited all of the winnings for the past seven horse races with glee.
+16,23,unshifted,nps,short,3,Raymond communicated a memo very loudly.
+17,2,shifted,nps,long,1,Mary mentioned at tea the used car ad for a Chevrolet with low mileage.
+18,17,shifted,np,short,4,Todd delivered at once some gifts.
+20,21,shifted,nps,short,3,Jessica reported last summer the news.
+21,30,unshifted,nps,long,3,Amy broadcast the high school girls state swimming title in New York last week.
+22,29,shifted,np,long,3,Mike recited last year the words to a popular country song in the South.
+29,18,unshifted,nps,long,3,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+47,26,unshifted,np,long,3,Janet transferred some more specific plans for a brand new defense plant at dawn.
+2,3,unshifted,nps,long,4,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+3,23,unshifted,nps,long,5,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+23,22,unshifted,np,long,4,Steven addressed a seven page letter with many details of the trip during break.
+45,20,unshifted,np,short,4,David furnished the facts with hesitation.
+34,5,shifted,np,long,5,The manager transported at three the new sports line of running shoes and bicycling gear.
+53,10,unshifted,np,short,5,Alex described the offer in detail.
+44,8,unshifted,nps,short,5,Jake explained the figures on Friday.
+26,23,unshifted,nps,long,2,Raymond communicated a five page plan of withdrawal for the allied troops very loudly.
+50,9,unshifted,nps,short,5,Brian explained the quiz at lunch.
+38,11,unshifted,nps,short,5,The woman indicated the route by phone.
+9,2,unshifted,nps,short,3,Mary mentioned the ads at tea.
+12,20,shifted,np,short,3,David furnished with hesitation the facts.
+14,21,unshifted,nps,short,5,Jessica reported the news last summer.
+39,24,shifted,np,long,4,Sam donated on Sunday an old treasure chest with some silver and gold trinkets.
+54,29,shifted,np,short,1,Mike recited last year the words.
+40,2,unshifted,nps,short,5,Mary mentioned the ads at tea.
+43,2,unshifted,np,short,2,Mary returned the ads at tea.
+51,4,unshifted,np,long,3,The dealer transported a brand new speedy silver sports car with chrome bumpers at ten.
+30,20,unshifted,np,short,4,David furnished the facts with hesitation.
+1,16,unshifted,nps,short,4,Judy suggested a dress in March.
+48,0,unshifted,np,long,4,The manager presented the new line of bright summer beach and resort fashions at noon.
+36,19,unshifted,nps,long,5,The woman disclosed the birth and school records of the three young children in August.
+4,12,shifted,nps,long,3,The lawyer acknowledged with confidence each piece of the evidence in the tax fraud cases.
+5,3,unshifted,nps,long,4,Mark mentioned the flyers for some lectures and slide shows on campus very quickly.
+46,30,unshifted,np,long,4,Amy forfeited the high school girls state swimming title in New York last week.
+6,22,shifted,nps,short,1,Steven communicated during break a letter.
+10,14,shifted,np,long,4,The president introduced on Monday the new vice chair of the first corporate finance group.
+11,18,unshifted,nps,long,5,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+52,1,shifted,np,short,3,The contractor presented in July the display.
+15,10,shifted,np,short,4,Alex described in detail the offer.
+29,28,shifted,nps,short,2,Kathy dictated last night the poem.
+33,20,shifted,nps,long,1,David reported with hesitation the facts on the strange bank robbery crimes in Utah.
+2,10,shifted,nps,short,3,Alex indicated in detail the offer.
+3,27,unshifted,nps,short,4,Bobby revealed the deeds at dusk.
+34,2,unshifted,np,long,5,Mary returned the used car ad for a Chevrolet with low mileage at tea.
+24,8,shifted,nps,long,4,Jake explained on Friday all of the facts for the import and export taxes.
+25,23,unshifted,nps,short,4,Raymond communicated a memo very loudly.
+8,20,shifted,nps,long,5,David reported with hesitation the facts on the strange bank robbery crimes in Utah.
+38,6,shifted,np,long,4,Robert relinquished last semester one round trip plane ticket from New York to Atlanta.
+27,17,unshifted,nps,short,1,Todd suggested some gifts at once.
+13,7,unshifted,np,long,5,Donald relinquished some great front row center seats for the last performance with joy.
+14,2,unshifted,np,short,4,Mary returned the ads at tea.
+31,16,shifted,np,long,2,Judy delivered in March a gorgeous red and black silk dress with sparkling sequins.
+39,27,unshifted,nps,long,4,Bobby revealed the short documents to the old mansion on the hill at dusk.
+32,28,shifted,nps,short,2,Kathy dictated last night the poem.
+41,16,shifted,np,long,5,Judy delivered in March a gorgeous red and black silk dress with sparkling sequins.
+17,12,shifted,nps,long,4,The lawyer acknowledged with confidence each piece of the evidence in the tax fraud cases.
+18,27,unshifted,nps,short,5,Bobby revealed the deeds at dusk.
+43,23,unshifted,np,long,4,Raymond addressed a five page plan of withdrawal for the allied troops very loudly.
+28,11,unshifted,nps,short,4,The woman indicated the route by phone.
+30,28,unshifted,np,short,5,Kathy recited the poem last night.
+1,31,shifted,np,long,4,Jason forfeited with glee all of the winnings for the past seven horse races.
+48,19,shifted,np,short,1,The woman carried in August the records.
+45,31,unshifted,np,long,3,Jason forfeited all of the winnings for the past seven horse races with glee.
+44,22,shifted,np,long,4,Steven addressed during break a seven page letter with many details of the trip.
+4,6,shifted,nps,long,1,Robert proposed last semester one round trip plane ticket from New York to Atlanta.
+5,31,unshifted,np,short,5,Jason forfeited the race with glee.
+35,29,shifted,np,long,4,Mike recited last year the words to a popular country song in the South.
+46,27,unshifted,np,short,5,Bobby transferred the deeds at dusk.
+50,15,unshifted,nps,short,5,The teacher announced the test with care.
+11,11,shifted,np,short,4,The woman described by phone the route.
+52,13,shifted,np,long,2,The editor distributed at supper the first drafts of a long article and book review.
+54,24,unshifted,nps,short,2,Sam recommended a treasure on Sunday.
+40,5,shifted,nps,short,4,The manager demonstrated at three the sports gear.
+20,31,unshifted,np,long,4,Jason forfeited all of the winnings for the past seven horse races with glee.
+22,9,unshifted,np,long,3,Brian released all of the answers on the twenty point English quiz at lunch.
+47,24,unshifted,nps,short,5,Sam recommended a treasure on Sunday.
+33,23,unshifted,np,short,4,Raymond addressed a memo very loudly.
+2,18,shifted,nps,short,1,Shelly disclosed in May notes.
+23,28,unshifted,nps,short,5,Kathy dictated the poem last night.
+49,23,shifted,nps,short,2,Raymond communicated very loudly a memo.
+24,5,unshifted,nps,short,4,The manager demonstrated the sports gear at three.
+53,6,unshifted,nps,short,1,Robert proposed one plane ticket last semester.
+6,15,shifted,nps,short,3,The teacher announced with care the test.
+38,2,shifted,np,long,2,Mary returned at tea the used car ad for a Chevrolet with low mileage.
+10,26,unshifted,np,short,4,Janet transferred some graphs at dawn.
+12,23,unshifted,nps,short,5,Raymond communicated a memo very loudly.
+27,1,unshifted,nps,short,4,The contractor exhibited the display in July.
+13,20,unshifted,np,long,5,David furnished the facts on the strange bank robbery crimes in Utah with hesitation.
+14,20,shifted,nps,short,4,David reported with hesitation the facts.
+31,23,shifted,np,long,3,Raymond addressed very loudly a five page plan of withdrawal for the allied troops.
+37,26,unshifted,nps,short,5,Janet revealed some graphs at dawn.
+15,22,unshifted,np,long,3,Steven addressed a seven page letter with many details of the trip during break.
+41,23,shifted,np,long,1,Raymond addressed very loudly a five page plan of withdrawal for the allied troops.
+42,15,unshifted,nps,long,4,The teacher announced some hard math concepts for the one hundred point final with care.
+19,30,shifted,nps,long,1,Amy broadcast last week the high school girls state swimming title in New York.
+43,29,unshifted,nps,short,5,Mike dictated the words last year.
+28,17,unshifted,np,short,3,Todd delivered some gifts at once.
+21,14,unshifted,np,long,5,The president introduced the new vice chair of the first corporate finance group on Monday.
+30,14,shifted,nps,short,3,The president announced on Monday the captain.
+48,18,unshifted,nps,long,5,Shelly disclosed top secret plans for a large fleet of defense missiles in May.
+36,30,shifted,np,long,1,Amy forfeited last week the high school girls state swimming title in New York.
+25,7,shifted,np,short,3,Donald relinquished with joy some drafts.
+4,30,shifted,nps,short,1,Amy broadcast last week the game.
+5,10,shifted,nps,short,3,Alex indicated in detail the offer.
+7,0,shifted,nps,short,2,The manager exhibited at noon the styles.
+8,23,unshifted,np,short,5,Raymond addressed a memo very loudly.
+9,31,shifted,np,short,3,Jason forfeited with glee the race.
+11,5,shifted,np,short,2,The manager transported at three the sports gear.
+52,10,unshifted,np,short,5,Alex described the offer in detail.
+39,8,unshifted,np,short,5,Jake released the figures on Friday.
+40,8,unshifted,np,long,4,Jake released all of the facts for the import and export taxes on Friday.
+32,24,shifted,nps,long,4,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.
+17,10,shifted,np,long,4,Alex described in detail each of the key points of conflict in an interview.
+20,4,shifted,nps,long,4,The dealer demonstrated at ten a brand new speedy silver sports car with chrome bumpers.
+47,22,unshifted,np,short,5,Steven addressed a letter during break.
+45,16,shifted,np,long,3,Judy delivered in March a gorgeous red and black silk dress with sparkling sequins.
+34,29,unshifted,nps,long,5,Mike dictated the words to a popular country song in the South last year.
+24,12,shifted,np,long,4,The lawyer distributed with confidence each piece of the evidence in the tax fraud cases.
+53,31,shifted,np,short,2,Jason forfeited with glee the race.
+26,2,unshifted,nps,short,5,Mary mentioned the ads at tea.
+14,8,unshifted,nps,short,5,Jake explained the figures on Friday.
+42,29,shifted,nps,long,3,Mike dictated last year the words to a popular country song in the South.
+18,8,unshifted,np,long,5,Jake released all of the facts for the import and export taxes on Friday.
+19,12,shifted,nps,short,4,The lawyer acknowledged with confidence the dividends.
+21,24,shifted,np,short,2,Sam donated on Sunday a treasure.
+22,8,shifted,np,long,4,Jake released on Friday all of the facts for the import and export taxes.
+1,29,unshifted,np,short,5,Mike recited the words last year.
+3,15,shifted,nps,long,NA,The teacher announced with care some hard math concepts for the one hundred point final.
+48,11,shifted,np,short,2,The woman described by phone the route.
+49,8,shifted,np,short,2,Jake released on Friday the figures.
+35,13,unshifted,nps,short,4,The editor acknowledged the details at supper.
+46,14,unshifted,nps,short,5,The president announced the captain on Monday.
+8,16,unshifted,np,short,5,Judy delivered a dress in March.
+9,0,unshifted,nps,long,2,The manager exhibited the new line of bright summer beach and resort fashions at noon.
+10,29,shifted,np,long,4,Mike recited last year the words to a popular country song in the South.
+11,6,unshifted,np,short,5,Robert relinquished one plane ticket last semester.
+12,13,shifted,np,short,5,The editor distributed at supper the details.
+27,15,unshifted,np,short,4,The teacher introduced the test with care.
+52,31,shifted,np,short,2,Jason forfeited with glee the race.
+54,19,unshifted,np,long,1,The woman carried the birth and school records of the three young children in August.
+37,10,shifted,nps,short,3,Alex indicated in detail the offer.
+40,12,unshifted,nps,short,5,The lawyer acknowledged the dividends with confidence.
+43,19,shifted,np,short,1,The woman carried in August the records.
+51,14,unshifted,np,short,5,The president introduced the captain on Monday.
+29,11,shifted,np,short,2,The woman described by phone the route.
+30,23,shifted,np,long,3,Raymond addressed very loudly a five page plan of withdrawal for the allied troops.
+23,17,unshifted,nps,long,2,Todd suggested a large package with lots of presents for small children at once.
+45,7,unshifted,np,short,3,Donald relinquished some drafts with joy.
+24,13,unshifted,np,long,4,The editor distributed the first drafts of a long article and book review at supper.
+44,20,shifted,nps,short,3,David reported with hesitation the facts.
+36,12,shifted,np,short,2,The lawyer distributed with confidence the dividends.
+25,3,shifted,nps,short,4,Mark mentioned very quickly the flyers.
+4,31,unshifted,nps,short,4,Jason broadcast the race with glee.
+5,14,shifted,nps,long,4,The president announced on Monday the new vice chair of the first corporate finance group.
+50,7,unshifted,np,short,5,Donald relinquished some drafts with joy.
+38,31,unshifted,np,short,5,Jason forfeited the race with glee.
+14,26,shifted,np,short,4,Janet transferred at dawn some graphs.
+31,24,unshifted,np,long,4,Sam donated an old treasure chest with some silver and gold trinkets on Sunday.
+15,5,unshifted,np,short,4,The manager transported the sports gear at three.
+41,2,shifted,np,short,1,Mary returned at tea the ads.
+16,21,unshifted,np,short,4,Jessica furnished the news last summer.
+17,19,unshifted,np,long,3,The woman carried the birth and school records of the three young children in August.
+18,12,unshifted,nps,short,4,The lawyer acknowledged the dividends with confidence.
+28,24,unshifted,np,short,5,Sam donated a treasure on Sunday.
+22,2,shifted,nps,short,3,Mary mentioned at tea the ads.
+33,2,unshifted,np,long,2,Mary returned the used car ad for a Chevrolet with low mileage at tea.
+48,8,unshifted,nps,short,4,Jake explained the figures on Friday.
+34,26,shifted,np,long,5,Janet transferred at dawn some more specific plans for a brand new defense plant.
+53,27,unshifted,nps,short,5,Bobby revealed the deeds at dusk.
+8,29,unshifted,nps,long,5,Mike dictated the words to a popular country song in the South last year.
+12,10,unshifted,np,long,5,Alex described each of the key points of conflict in an interview in detail.
+27,2,shifted,nps,long,2,Mary mentioned at tea the used car ad for a Chevrolet with low mileage.
+13,21,shifted,nps,long,5,Jessica reported last summer the awful news of the refugees in the Far East.
+37,12,shifted,np,long,5,The lawyer distributed with confidence each piece of the evidence in the tax fraud cases.
+40,10,unshifted,np,short,5,Alex described the offer in detail.
+32,14,unshifted,nps,short,3,The president announced the captain on Monday.
+42,11,unshifted,nps,short,5,The woman indicated the route by phone.
+51,18,unshifted,np,long,5,Shelly carried top secret plans for a large fleet of defense missiles in May.
+21,28,shifted,np,long,4,Kathy recited last night all three verses from an old and famous French poem.
+29,17,shifted,nps,long,2,Todd suggested at once a large package with lots of presents for small children.
+30,13,unshifted,np,short,4,The editor distributed the details at supper.
+47,8,shifted,np,short,5,Jake released on Friday the figures.
+2,27,shifted,np,long,2,Bobby transferred at dusk the short documents to the old mansion on the hill.
+24,0,shifted,np,short,1,The manager presented at noon the styles.
+4,16,shifted,nps,short,2,Judy suggested in March a dress.
+46,10,unshifted,nps,long,5,Alex indicated each of the key points of conflict in an interview in detail.
+50,14,shifted,nps,short,4,The president announced on Monday the captain.
+38,22,unshifted,nps,long,5,Steven communicated a seven page letter with many details of the trip during break.
+9,1,shifted,np,short,5,The contractor presented in July the display.
+11,20,shifted,nps,short,5,David reported with hesitation the facts.
+52,15,shifted,nps,long,4,The teacher announced with care some hard math concepts for the one hundred point final.
+14,19,shifted,np,short,3,The woman carried in August the records.
+31,8,shifted,nps,short,2,Jake explained on Friday the figures.
+17,7,unshifted,nps,long,3,Donald proposed some great front row center seats for the last performance with joy.
+18,13,shifted,np,long,4,The editor distributed at supper the first drafts of a long article and book review.
+28,27,shifted,np,long,2,Bobby transferred at dusk the short documents to the old mansion on the hill.
+22,18,shifted,np,short,1,Shelly carried in May notes.
+1,24,shifted,np,long,3,Sam donated on Sunday an old treasure chest with some silver and gold trinkets.
+23,23,shifted,nps,long,2,Raymond communicated very loudly a five page plan of withdrawal for the allied troops.
+49,17,unshifted,nps,short,4,Todd suggested some gifts at once.
+53,9,shifted,nps,long,4,Brian explained at lunch all of the answers on the twenty point English quiz.
+5,8,shifted,nps,long,4,Jake explained on Friday all of the facts for the import and export taxes.
+26,14,unshifted,np,long,4,The president introduced the new vice chair of the first corporate finance group on Monday.
+6,0,unshifted,nps,short,5,The manager exhibited the styles at noon.
+7,7,unshifted,nps,long,2,Donald proposed some great front row center seats for the last performance with joy.
+10,31,unshifted,nps,long,3,Jason broadcast all of the winnings for the past seven horse races with glee.
+12,7,shifted,np,short,5,Donald relinquished with joy some drafts.
+27,30,shifted,nps,short,2,Amy broadcast last week the game.
+13,30,shifted,np,short,4,Amy forfeited last week the game.
+54,2,shifted,nps,long,2,Mary mentioned at tea the used car ad for a Chevrolet with low mileage.
+37,5,unshifted,nps,short,5,The manager demonstrated the sports gear at three.
+15,8,shifted,np,long,2,Jake released on Friday all of the facts for the import and export taxes.
+41,20,unshifted,np,short,5,David furnished the facts with hesitation.
+19,2,shifted,nps,short,3,Mary mentioned at tea the ads.
+43,15,shifted,np,long,4,The teacher introduced with care some hard math concepts for the one hundred point final.
+51,31,shifted,np,long,3,Jason forfeited with glee all of the winnings for the past seven horse races.
+29,12,unshifted,np,short,5,The lawyer distributed the dividends with confidence.
+30,31,unshifted,np,long,3,Jason forfeited all of the winnings for the past seven horse races with glee.
+47,31,unshifted,nps,short,5,Jason broadcast the race with glee.
+33,28,shifted,nps,long,5,Kathy dictated last night all three verses from an old and famous French poem.
+48,6,unshifted,np,short,5,Robert relinquished one plane ticket last semester.
+45,24,unshifted,np,long,4,Sam donated an old treasure chest with some silver and gold trinkets on Sunday.
+24,11,unshifted,nps,short,5,The woman indicated the route by phone.
+36,29,shifted,nps,short,1,Mike dictated last year the words.
+35,28,unshifted,nps,short,5,Kathy dictated the poem last night.
+46,19,shifted,np,short,1,The woman carried in August the records.
+52,9,shifted,nps,long,4,Brian explained at lunch all of the answers on the twenty point English quiz.
+39,3,shifted,nps,short,4,Mark mentioned very quickly the flyers.
+32,15,shifted,np,long,4,The teacher introduced with care some hard math concepts for the one hundred point final.
+16,16,unshifted,nps,short,4,Judy suggested a dress in March.
+17,20,unshifted,nps,long,4,David reported the facts on the strange bank robbery crimes in Utah with hesitation.
+20,14,shifted,nps,short,2,The president announced on Monday the captain.
+22,11,unshifted,np,short,5,The woman described the route by phone.
+1,1,shifted,np,long,4,The contractor presented in July the plans for a lagoon and waterfall with red clay.
+3,7,shifted,np,long,4,Donald relinquished with joy some great front row center seats for the last performance.
+23,1,unshifted,nps,long,4,The contractor exhibited the plans for a lagoon and waterfall with red clay in July.
+49,27,shifted,nps,long,3,Bobby revealed at dusk the short documents to the old mansion on the hill.
+44,17,shifted,nps,long,5,Todd suggested at once a large package with lots of presents for small children.
+5,16,shifted,np,short,2,Judy delivered in March a dress.
+50,24,unshifted,np,long,4,Sam donated an old treasure chest with some silver and gold trinkets on Sunday.
+11,22,shifted,np,long,5,Steven addressed during break a seven page letter with many details of the trip.
+12,19,shifted,nps,long,5,The woman disclosed in August the birth and school records of the three young children.
+27,14,shifted,np,short,2,The president introduced on Monday the captain.
+31,3,unshifted,nps,short,5,Mark mentioned the flyers very quickly.
+54,5,unshifted,np,long,4,The manager transported the new sports line of running shoes and bicycling gear at three.
+40,7,shifted,np,long,3,Donald relinquished with joy some great front row center seats for the last performance.
+15,1,unshifted,nps,long,3,The contractor exhibited the plans for a lagoon and waterfall with red clay in July.
+41,26,unshifted,nps,long,4,Janet revealed some more specific plans for a brand new defense plant at dawn.
+43,10,unshifted,nps,long,4,Alex indicated each of the key points of conflict in an interview in detail.
+51,12,unshifted,nps,long,3,The lawyer acknowledged each piece of the evidence in the tax fraud cases with confidence.
+29,22,shifted,np,long,2,Steven addressed during break a seven page letter with many details of the trip.
+30,2,shifted,np,short,2,Mary returned at tea the ads.
+33,22,shifted,np,short,1,Steven addressed during break a letter.
+2,21,shifted,nps,long,2,Jessica reported last summer the awful news of the refugees in the Far East.
+53,2,unshifted,nps,short,4,Mary mentioned the ads at tea.
+36,9,unshifted,nps,short,5,Brian explained the quiz at lunch.
+35,23,shifted,nps,long,3,Raymond communicated very loudly a five page plan of withdrawal for the allied troops.
+46,9,shifted,np,long,2,Brian released at lunch all of the answers on the twenty point English quiz.
+7,2,shifted,nps,long,2,Mary mentioned at tea the used car ad for a Chevrolet with low mileage.
+52,5,shifted,nps,short,2,The manager demonstrated at three the sports gear.
+14,13,shifted,nps,short,4,The editor acknowledged at supper the details.
+39,21,unshifted,np,short,4,Jessica furnished the news last summer.
+37,24,unshifted,np,short,5,Sam donated a treasure on Sunday.
+16,5,shifted,nps,long,1,The manager demonstrated at three the new sports line of running shoes and bicycling gear.
+42,20,unshifted,np,long,4,David furnished the facts on the strange bank robbery crimes in Utah with hesitation.
+18,5,shifted,nps,short,3,The manager demonstrated at three the sports gear.
+20,2,shifted,np,short,2,Mary returned at tea the ads.
+28,26,unshifted,nps,short,3,Janet revealed some graphs at dawn.
+21,13,shifted,np,long,4,The editor distributed at supper the first drafts of a long article and book review.
+47,15,unshifted,np,short,5,The teacher introduced the test with care.
+48,29,unshifted,nps,short,4,Mike dictated the words last year.
+24,20,unshifted,np,long,1,David furnished the facts on the strange bank robbery crimes in Utah with hesitation.
+44,0,unshifted,np,long,4,The manager presented the new line of bright summer beach and resort fashions at noon.
+4,26,unshifted,np,long,4,Janet transferred some more specific plans for a brand new defense plant at dawn.
+50,21,shifted,nps,short,2,Jessica reported last summer the news.
+8,12,unshifted,np,long,5,The lawyer distributed each piece of the evidence in the tax fraud cases with confidence.
+27,24,unshifted,nps,short,2,Sam recommended a treasure on Sunday.
+54,6,shifted,nps,long,1,Robert proposed last semester one round trip plane ticket from New York to Atlanta.
+32,13,shifted,nps,short,5,The editor acknowledged at supper the details.
+41,6,shifted,np,short,1,Robert relinquished last semester one plane ticket.
+43,27,unshifted,np,short,4,Bobby transferred the deeds at dusk.
+51,20,shifted,np,short,2,David furnished with hesitation the facts.
+29,24,shifted,nps,long,2,Sam recommended on Sunday an old treasure chest with some silver and gold trinkets.

@@ -1,0 +1,314 @@
+---
+title: "RNN Dative Alternation"
+output: html_notebook
+---
+
+Do RNNs show evidence for humanlike preferences in the dative alternation? Specifically, do they show a preference for the NP that is more animate, definite, and short to come earlier? Are they sensitive to verb-specific biases, and biases due to the semantic classes of the verb?
+
+```{r}
+rm(list = ls())
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+library(plotrix)
+library(stringr)
+library(readxl)
+
+remove_na = function(x) {
+  x[!is.na(x)]
+}
+
+remove_prefix = function(s) {
+  sapply(s, function(s) {
+    if_else(str_detect(s, "-"), str_split(s, "-")[[1]][2], s)
+  }) %>% as.character()
+}
+
+PO_REGION_ORDER = c("Subject", "Verb", "Theme", "To", "Recipient", "Indef Recipient", "End")
+PO_EXEMPLARS = c("The man", "gave", "the/a book", "to", "the/a woman", ".")
+
+DO_REGION_ORDER = c("Subject", "Verb", "Recipient", "Theme", "End")
+DO_EXEMPLARS = c("The man", "gave", "the/a woman", "the/a book", ".")
+
+rename_models = function(d) {
+  d %>% 
+    mutate(model=if_else(model == "gulordava", "GRNN",
+                 if_else(model == "google", "JRNN",
+                 if_else(model == "kenlm", "n-gram", model))))
+    
+}
+
+items = read_excel("dative-items.xlsx") %>%
+  mutate(sent_index=seq(0, 15)) %>%
+  rename(motion=`Caused motion?`)
+
+d = read_csv("tests/combined_results.csv") %>%
+  select(-1, -2) %>%
+  mutate(unk=unk == "True") %>% # whoops, coded the conditions wrong in the file!
+  separate(condition, sep="_", into=c("construction", "theme_length", "recip_definiteness", "recip_length", "theme_definiteness")) %>%
+  mutate(theme_length=remove_prefix(theme_length),
+         theme_definiteness=remove_prefix(theme_definiteness),
+         recip_length=remove_prefix(recip_length),
+         recip_definiteness=remove_prefix(recip_definiteness)) %>%
+  mutate(region=remove_prefix(region))
+  
+  
+d_agg = d %>% 
+  group_by(model, sent_index, construction, theme_length, theme_definiteness, recip_length, recip_definiteness) %>% 
+    summarise(surprisal=sum(surprisal),
+              unk=any(unk)) %>%
+    ungroup() %>% 
+  filter(!unk) %>%
+  mutate(construction_numeric=if_else(construction == "po", -1, 1),
+         theme_length=factor(theme_length, levels=c("short", "long")),
+         theme_length_numeric=if_else(theme_length == "short", -1, 1),
+         theme_definiteness=factor(theme_definiteness, levels=c("indefinite", "definite")),
+         theme_definiteness_numeric=if_else(theme_definiteness == "indefinite", -1, 1),
+         recip_length=factor(recip_length, levels=c("short", "long")),
+         recip_length_numeric=if_else(recip_length == "short", -1, 1),
+         recip_definiteness=factor(recip_definiteness, levels=c("indefinite", "definite")),
+         recip_definiteness_numeric=if_else(recip_definiteness=="indefinite", -1, 1)) %>%
+  inner_join(select(items, sent_index, motion))
+
+h = read_csv("human_ratings.csv") %>%
+  mutate(tmp=recip_definiteness) %>% # oops
+  mutate(recip_definiteness=theme_definiteness, # these got flipped in the file so fix them
+         theme_definiteness=tmp) %>%
+  select(-tmp) %>%
+  mutate(construction_numeric=if_else(construction == "po", -1, 1),
+         theme_length=factor(theme_length, levels=c("short", "long")),
+         theme_length_numeric=if_else(theme_length == "short", -1, 1),
+         theme_definiteness=factor(theme_definiteness, levels=c("indefinite", "definite")),
+         theme_definiteness_numeric=if_else(theme_definiteness == "indefinite", -1, 1),
+         recip_length=factor(recip_length, levels=c("short", "long")),
+         recip_length_numeric=if_else(recip_length == "short", -1, 1),
+         recip_definiteness=factor(recip_definiteness, levels=c("indefinite", "definite")),
+         recip_definiteness_numeric=if_else(recip_definiteness=="indefinite", -1, 1))
+  
+```
+
+Now fit a model! In this regression, a positive interaction with construction indicates that the PO construction is favored, and a negative interaction with construction indicates that the DO construction is favored. (Logic: DO is coded 1, so a negative effect means that surprisal for DOs decreases. PO is coded -1, so a positive effect means that surprisal for POs decreases.)
+
+# Regressions
+
+```{r}
+
+m_google = lmer(surprisal ~ construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric) +
+                (construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "google"))
+summary(m_google)
+
+m_gul = lmer(surprisal ~ construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric) +
+                    (construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "gulordava"))
+summary(m_gul)
+
+m_kenlm = lmer(surprisal ~ construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric) +
+                    (construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "kenlm"))
+summary(m_kenlm)
+
+m_google_kenlm = lmer(surprisal ~ model * construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric) +
+                    (model * construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "kenlm" | model == "google"))
+summary(m_google_kenlm)
+
+m_gulordava_kenlm = lmer(surprisal ~ model * construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric) +
+                    (model * construction_numeric * (theme_length_numeric + recip_length_numeric + theme_definiteness_numeric + recip_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "kenlm" | model == "gulordava"))
+summary(m_gulordava_kenlm)
+
+ 
+
+```
+
+Yes, we get the expected significant effects of theme length, theme definiteness, recipient length, and recipient definiteness in the Google LSTM. In the Gulordava LSTM, we lose the effect of recipient definiteness.
+
+Let's visualize.
+
+```{r}
+
+d_effect = d_agg %>%
+  select(-construction_numeric) %>% 
+  spread(construction, surprisal) %>% 
+  mutate(po_preference=do-po)
+
+d_by_length = d_effect %>%
+  group_by(model, sent_index) %>%
+    mutate(item_mean=mean(po_preference)) %>%
+    ungroup() %>%
+  group_by(model) %>%
+    mutate(grand_mean=mean(po_preference)) %>%
+    ungroup() %>%
+  mutate(relevant_po_preference = po_preference - item_mean) %>%
+  group_by(model, theme_length, recip_length) %>%
+    summarise(m_po_preference=mean(po_preference),
+              s=std.error(relevant_po_preference),
+              lower=m_po_preference-1.96*s,
+              upper=m_po_preference+1.96*s,
+              n=n()) %>%
+    ungroup() 
+
+h_by_length = h %>% 
+  group_by(item) %>%
+    mutate(relevant_acceptability=acceptability - mean(acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(WorkerId) %>%
+    mutate(relevant_acceptability=relevant_acceptability - mean(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(construction, theme_length, recip_length) %>%
+    summarise(n=n(),
+              m=mean(acceptability, na.rm=T),
+              sd=sd(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  unite(msn, m, sd, n) %>%
+  spread(construction, msn) %>%
+  separate(do, into=c("m_do", "sd_do", "n_do"), sep="_") %>%
+  separate(po, into=c("m_po", "sd_po", "n_po"), sep="_") %>%
+  mutate(m_do=as.numeric(m_do),
+         m_po=as.numeric(m_po),
+         sd_do=as.numeric(sd_do),
+         sd_po=as.numeric(sd_po),
+         n_do=as.numeric(n_do),
+         n_po=as.numeric(n_po)) %>%
+  mutate(m_po_preference=m_po-m_do,
+         s=sqrt(sd_po^2/n_po + sd_do^2/n_do),
+         upper=m_po_preference+1.96*s,
+         lower=m_po_preference-1.96*s) %>%
+  mutate(model="Human")
+  
+d_by_length %>%
+  bind_rows(h_by_length) %>%
+  rename_models() %>%
+  ggplot(aes(x=theme_length, fill=recip_length, y=m_po_preference, ymin=lower, ymax=upper)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9)) +
+    facet_wrap(~model, scale="free_y") +
+    labs(y="Preference for PO construction", x="Theme length", fill="Recipient length") +
+    theme(legend.position="bottom")
+
+ggsave("dative_alternation_length.pdf", width=6, height=5)
+```
+
+We see a general PO preference, except when the theme is long and the recipient is short. Looks like there's a main effect of recipient length favoring PO (good) and theme length favoring DO (good). 
+
+Now what about by definiteness? This should work, but be a much smaller effect.
+
+```{r}
+d_by_def = d_effect %>%
+  group_by(model, sent_index) %>%
+    mutate(relevant_po_preference = po_preference - mean(po_preference)) %>%
+    ungroup() %>%
+  group_by(model, theme_definiteness, recip_definiteness) %>%
+    summarise(m_po_preference=mean(po_preference),
+              s=std.error(relevant_po_preference),
+              lower=m_po_preference-1.96*s,
+              upper=m_po_preference+1.96*s) %>%
+    ungroup() 
+
+h_by_def = h %>% 
+  group_by(item) %>%
+    mutate(relevant_acceptability=acceptability - mean(acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(WorkerId) %>%
+    mutate(relevant_acceptability=relevant_acceptability - mean(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(construction, theme_definiteness, recip_definiteness) %>%
+    summarise(n=n(),
+              m=mean(acceptability, na.rm=T),
+              sd=sd(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  unite(msn, m, sd, n) %>%
+  spread(construction, msn) %>%
+  separate(do, into=c("m_do", "sd_do", "n_do"), sep="_") %>%
+  separate(po, into=c("m_po", "sd_po", "n_po"), sep="_") %>%
+  mutate(m_do=as.numeric(m_do),
+         m_po=as.numeric(m_po),
+         sd_do=as.numeric(sd_do),
+         sd_po=as.numeric(sd_po),
+         n_do=as.numeric(n_do),
+         n_po=as.numeric(n_po)) %>%
+  mutate(m_po_preference=m_po-m_do,
+         s=sqrt(sd_po^2/n_po + sd_do^2/n_do),
+         upper=m_po_preference+1.96*s,
+         lower=m_po_preference-1.96*s) %>%
+  mutate(model="Human")
+  
+d_by_def %>%
+  bind_rows(h_by_def) %>%
+  rename_models() %>%
+  ggplot(aes(fill=recip_definiteness, x=theme_definiteness, y=m_po_preference, ymin=lower, ymax=upper)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9)) +
+    facet_wrap(~model, scale="free_y") +
+    labs(y="Preference for PO construction (bits)", x="Theme definiteness", fill="Recipient definiteness") +
+    theme(legend.position="bottom")
+
+ggsave("dative_alternation_definiteness.pdf", width=6, height=5)
+```
+
+Indefinite recipient favors DO (wrong), and indefinite theme favors PO (wrong). The definiteness preferences are in the wrong direction. Let's look at it word by word to figure out what's going on.
+
+```{r}
+
+d_by_region = d %>%
+  group_by(model, region, construction, theme_definiteness, recip_definiteness, theme_length, recip_length, sent_index) %>%
+    summarise(surprisal=sum(surprisal)) %>%
+    ungroup() %>%
+  group_by(model, region, construction, theme_definiteness, recip_definiteness) %>%
+    summarise(m=mean(surprisal),
+              s=std.error(surprisal),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+    ungroup() 
+
+d_by_region %>%
+  filter(construction == "po") %>%
+  filter(region != "Modifier") %>%
+  mutate(region=factor(region, levels=PO_REGION_ORDER)) %>%
+  rename_models() %>%
+  ggplot(aes(x=as.numeric(region), y=m, ymin=lower, ymax=upper, color=recip_definiteness, linetype=theme_definiteness)) +
+    geom_line() +
+    geom_errorbar() +
+    facet_wrap(~model) +
+    scale_x_continuous(labels=PO_EXEMPLARS, breaks=seq(1, length(PO_EXEMPLARS)))  +
+    theme(axis.text.x = element_text(angle=45, hjust=1))
+
+```
+
+```{r}
+
+d_by_region %>%
+  filter(construction == "do") %>%
+  filter(region != "Modifier") %>%
+  mutate(region=factor(region, levels=DO_REGION_ORDER)) %>%
+  rename_models() %>%
+  ggplot(aes(x=as.numeric(region), y=m, ymin=lower, ymax=upper, color=theme_definiteness, linetype=recip_definiteness)) +
+    geom_line() +
+    geom_errorbar() +
+    facet_wrap(~model) +
+    scale_x_continuous(labels=DO_EXEMPLARS, breaks=seq(1, length(DO_EXEMPLARS)))  +
+    theme(axis.text.x = element_text(angle=45, hjust=1))
+
+```
+
+
+```{r}
+
+di_agg = inner_join(d_agg, select(items, sent_index, motion)) 
+
+mi_google = lmer(surprisal ~ construction * (motion + theme_length + theme_definiteness + recip_length + recip_definiteness) +
+                    (construction * (theme_length + theme_definiteness + recip_length + recip_definiteness)|sent_index),
+           data=filter(di_agg, model == "google"))
+summary(mi_google)
+
+mi_gul = lmer(surprisal ~ construction * (motion + theme_length + theme_definiteness + recip_length + recip_definiteness) +
+                    (construction * (theme_length + theme_definiteness + recip_length + recip_definiteness)|sent_index),
+           data=filter(di_agg, model == "gulordava"))
+summary(mi_gul)
+
+```
+
+There is a marginally significant effect of semantic class: caused motion supports the PO construction, as expected.
+
+Basically everything comes out humanlike!

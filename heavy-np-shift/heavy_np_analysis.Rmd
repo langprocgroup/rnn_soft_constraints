@@ -1,0 +1,269 @@
+---
+title: "RNN Heavy NP Shift"
+output:
+  pdf_document: default
+  html_notebook: default
+---
+
+Do RNNs show evidence for humanlike preferences in heavy NP shift?
+
+```{r}
+rm(list = ls())
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+library(plotrix)
+library(stringr)
+library(readxl)
+
+remove_na = function(x) {
+  x[!is.na(x)]
+}
+
+remove_prefix = function(s) {
+  sapply(s, function(s) {
+    str_split(s, "-")[[1]][2]
+  })
+}
+
+rename_models = function(d) {
+  d %>% 
+    mutate(model=if_else(model == "gulordava", "GRNN",
+                 if_else(model == "google", "JRNN",
+                 if_else(model == "kenlm", "n-gram", model))))
+    
+}
+
+d = read_csv("tests/combined_results.csv") %>%
+  select(-1, -2) %>%
+  mutate(unk=unk == "True") %>%
+  separate(condition, sep="_", into=c("length", "verb_bias", "shifted"))
+  
+d_agg = d %>% 
+  group_by(model, sent_index, length, verb_bias, shifted) %>% 
+    summarise(surprisal=sum(surprisal),
+              unk=any(unk)) %>%
+    ungroup() %>% 
+  filter(!unk) %>%
+  mutate(shifted_numeric=if_else(shifted == "shifted", 1, -1),
+         shifted=factor(shifted, levels=c("unshifted", "shifted")),
+         length=factor(length, levels=c("short", "long")),
+         verb_bias=factor(verb_bias, levels=c("np", "nps")))
+
+h = read_csv("human_ratings.csv") %>%
+  mutate(shifted_numeric=if_else(shifted == "shifted", 1, -1),
+         shifted=factor(shifted, levels=c("unshifted", "shifted")),
+         length=factor(length, levels=c("short", "long")),
+         verb_bias=factor(verb_bias, levels=c("np", "nps")))
+  
+```
+
+In this regression, a positive interaction with construction indicates that the of-construction is favored, and a negative interaction with construction indicates that the s-construction is favored. (Logic: s is coded 1, so a negative effect means that surprisal for s decreases. of is coded -1, so a positive effect means that surprisal for of decreases.)
+
+```{r}
+
+m_gul = lmer(surprisal ~ shifted * length + (shifted * length|sent_index), data=filter(d_agg, model == "gulordava"))
+summary(m_gul)
+
+m_google = lmer(surprisal ~ shifted * length + (shifted * length|sent_index), data=filter(d_agg, model == "google"))
+summary(m_google)
+
+m_kenlm = lmer(surprisal ~ shifted * length + (shifted * length|sent_index), data=filter(d_agg, model == "kenlm"))
+summary(m_kenlm)
+
+m_human = lmer(acceptability ~ shifted * length + 
+                 (shifted * length|item) +
+                 (shifted * length|WorkerId), data=h)
+summary(m_human)
+
+```
+
+We get the effect, just barely! And it's significant in the LSTMs but not the N-gram model. Is that a significant difference?
+
+```{r}
+m_gul_kenlm = lmer(surprisal ~ shifted * length * model + (shifted * length * model|sent_index), data=filter(d_agg, model == "gulordava" | model == "kenlm"))
+summary(m_gul_kenlm)
+
+m_google_kenlm = lmer(surprisal ~ shifted * length * model + (shifted * length * model |sent_index), data=filter(d_agg, model == "google" | model == "kenlm"))
+summary(m_google_kenlm)
+
+m_google_gulordava = lmer(surprisal ~ shifted * length * model + (shifted * length * model |sent_index), data=filter(d_agg, model == "google" | model == "gulordava"))
+summary(m_google_gulordava)
+
+```
+
+The Google LSTM is significantly more humanlike than the KenLM, but not so for the Gulordava LSTM.
+
+How about the verb bias thing?
+
+```{r}
+
+m_gul = lmer(surprisal ~ shifted * length * verb_bias + (shifted * length + verb_bias|sent_index), data=filter(d_agg, model == "gulordava"))
+summary(m_gul)
+
+```
+
+Verb bias affects the acceptability of shiftedness, but not the actual Heavy NP shift effect.
+
+Let's do an overall visualization.
+
+```{r}
+
+d_agg %>%
+  group_by(mode, sent_index) %>%
+    mutate(relevant_surprisal=surprisal - mean(surprisal)) %>%
+    ungroup() %>%
+  group_by(model, shifted, length) %>%
+    summarise(m=mean(surprisal),
+              s=std.error(relevant_surprisal),
+              lower=m-1.96*s,
+              upper=m+1.96*s) %>%
+    ungroup() %>%
+  ggplot(aes(x=length, y=m, ymin=lower, ymax=upper, fill=shifted)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(width=.5, position=position_dodge(width=.9), color="black") +
+    facet_wrap(~model)
+
+```
+
+Heavy NP shift is an interaction such that the difference between the red and blue bars is smaller for the long condition than for the short condition. We might have hoped for a crossover, but this is very unlikely considering surprisals are computed incremantally.
+
+The visualization isn't so good, so let's instead plot the long-short surprisal difference ("NP length penalty").
+
+```{r}
+
+d_agg %>%
+  spread(length, surprisal) %>%
+  mutate(length_penalty=long - short) %>%
+  filter(!is.na(length_penalty)) %>%
+  group_by(model, shifted) %>%
+    summarise(m=mean(length_penalty),
+              s=std.error(length_penalty),
+              lower=m-1.96*s,
+              upper=m+1.96*s) %>%
+    ungroup() %>%
+    rename_models() %>%
+  ggplot(aes(x=shifted, y=m, ymin=lower, ymax=upper, fill=shifted)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(width=.5, position=position_dodge(width=.9), color="black") +
+    facet_wrap(~model) +
+    ylab("Surprisal penalty for long NP (bits)") +
+    xlab("") +
+    labs(fill="NP position")
+
+ggsave("heavy_np.pdf", width=7, height=5)
+
+```
+
+Or, let's plot the preference for shiftedness "V-PP-NP order".
+
+```{r}
+
+d_by_length = d_agg %>%
+  select(-shifted_numeric) %>%
+  spread(shifted, surprisal) %>%
+  mutate(shifted_preference = unshifted - shifted) %>%
+  group_by(model) %>%
+    mutate(relevant_shifted_preference = shifted_preference - mean(shifted_preference)) %>%
+    ungroup() %>%
+  group_by(model, length) %>%
+    summarise(m=mean(-shifted_preference),
+              s=std.error(-relevant_shifted_preference),
+              upper=m+1.96*s,
+              lower=m-1.96*s) %>%
+    ungroup()
+
+h_by_length = h %>%
+  group_by(item) %>%
+    mutate(relevant_acceptability=acceptability - mean(acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(WorkerId) %>%
+    mutate(relevant_acceptability=relevant_acceptability - mean(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(shifted, length) %>%
+    summarise(n=n(),
+              m=mean(acceptability, na.rm=T),
+              sd=sd(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  unite(msn, m, sd, n) %>%
+  spread(shifted, msn) %>%
+  separate(shifted, into=c("m_shifted", "sd_shifted", "n_shifted"), sep="_") %>%
+  separate(unshifted, into=c("m_unshifted", "sd_unshifted", "n_unshifted"), sep="_") %>%
+  mutate(m_shifted=as.numeric(m_shifted),
+         m_unshifted=as.numeric(m_unshifted),
+         sd_shifted=as.numeric(sd_shifted),
+         sd_unshifted=as.numeric(sd_unshifted),
+         n_shifted=as.numeric(n_shifted),
+         n_unshifted=as.numeric(n_unshifted)) %>%
+  mutate(m=m_unshifted - m_shifted,
+         s=sqrt(sd_shifted^2/n_shifted + sd_unshifted^2/n_unshifted),
+         upper=m+1.96*s,
+         lower=m-1.96*s) %>%
+  mutate(model="Human")
+  
+d_by_length %>%
+  bind_rows(h_by_length) %>%
+  rename_models() %>%
+  ggplot(aes(x=length, y=m, ymin=lower, ymax=upper, fill=length)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(width=.5, position=position_dodge(width=.9), color="black") +
+    facet_wrap(~model, scale="free_y") +
+    labs(x="NP Length", y="Preference for order V-NP-PP") +
+    guides(fill=FALSE)
+
+ggsave("heavy_np.pdf", width=6, height=5)
+```
+
+
+
+Where does the effect show up? The most intuitive pattern is that it all lives on the PP: the PP is more difficult generally in the shifted condition (because it comes unexpectedly after the verb), but it is a lot harder in the NP-long condition than the NP-short condition, thus producing the interaction. 
+
+Let's look at the above plot, but only for the PP.
+
+```{r}
+d_agg_pp = d %>% 
+  filter(region == "PP") %>%
+  group_by(model, sent_index, length, verb_bias, shifted) %>% 
+    summarise(surprisal=sum(surprisal),
+              unk=any(unk)) %>%
+    ungroup() %>% 
+  filter(!unk) %>%
+  mutate(shifted_numeric=if_else(shifted == "shifted", 1, -1),
+         shifted=factor(shifted, levels=c("unshifted", "shifted")),
+         length=factor(length, levels=c("short", "long")),
+         verb_bias=factor(verb_bias, levels=c("np", "nps")))
+
+d_agg_pp %>%
+  group_by(model, shifted, length) %>%
+    summarise(m=mean(surprisal),
+              s=std.error(surprisal),
+              lower=m-1.96*s,
+              upper=m+1.96*s) %>%
+    ungroup() %>%
+  ggplot(aes(x=length, y=m, ymin=lower, ymax=upper, fill=shifted)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(width=.5, position=position_dodge(width=.9), color="black") +
+    facet_wrap(~model)
+
+```
+
+In Gulordava, we actually do see a bit of a crossover here (though we should check significance). When the NP is short, the PP is harder when it's shifted (when it comes too early). When the NP is long, the PP is harder when it's unshifted (when it comes too late). 
+
+The Google LSTM likes the shifted order as a baseline... weird.
+
+Let's do the stats.
+```{r}
+
+m_pp_gul = lmer(surprisal ~ shifted * length + (shifted * length|sent_index), data=filter(d_agg_pp, model == "gulordava"))
+summary(m_pp_gul)
+
+m_pp_google = lmer(surprisal ~ shifted * length + (shifted * length|sent_index), data=filter(d_agg_pp, model == "google"))
+summary(m_pp_google) # NS interaction, NS main effect of length
+
+m_pp_kenlm = lmer(surprisal ~ shifted * length + (shifted * length|sent_index), data=filter(d_agg_pp, model == "kenlm"))
+summary(m_pp_kenlm) # NS interaction, NS main effect of length 
+
+
+```
+
+Yes, there is a (strong!) negative interaction. Shiftedness causes a small penalty to the PP (ns), and length causes a large penalty in the unshifted case; but that penalty is nearly entirely cancelled out in the unshifted case. The locality cost at the PP is entirely recovered through heavy NP shift.

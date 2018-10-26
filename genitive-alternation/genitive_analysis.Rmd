@@ -1,0 +1,304 @@
+---
+title: "RNN Genitive Alternation"
+output: html_notebook
+---
+
+Do RNNs show evidence for humanlike preferences in the genitive alternation? Specifically, do they show a preference for the NP that is more animate, definite, and short to come earlier? Are they sensitive to biases due to the semantic classes of the genitive relationship?
+
+```{r}
+rm(list = ls())
+library(tidyverse)
+library(lme4)
+library(lmerTest)
+library(plotrix)
+library(stringr)
+library(readxl)
+
+S_REGION_ORDER = c("Intro", "Def Possessor", "Indef Possessor", "S", "Possessum", "End")
+OF_REGION_ORDER = c("Intro", "the", "Possessum", "of", "Def Possessor", "Indef Possessor", "End")
+
+rename_models = function(d) {
+  d %>% 
+    mutate(model=if_else(model == "gulordava", "GRNN",
+                 if_else(model == "google", "JRNN",
+                 if_else(model == "kenlm", "n-gram", model))))
+    
+}
+
+remove_na = function(x) {
+  x[!is.na(x)]
+}
+
+remove_prefix = function(s) {
+  sapply(s, function(s) {
+    str_split(s, "-")[[1]][2]
+  })
+}
+
+items = read_excel("genitive-items.xlsx") %>%
+  mutate(sent_index=seq(0, 15)) %>%
+  rename(possessor_animacy=`Possessor Animate?`,
+         possessum_animacy=`Possessum Animate?`) %>%
+  mutate(possessor_animacy=if_else(possessor_animacy, "anim", "inanim"),
+         possessum_animacy=if_else(possessum_animacy, "anim", "inanim"))
+
+d = read_csv("tests/combined_results.csv") %>%
+  select(-1, -2) %>%
+  mutate(unk=unk == "True") %>%
+  separate(condition, sep="_", into=c("construction", "possessor_definiteness", "possessor_length")) %>%
+  inner_join(items)
+
+d_agg = d %>% 
+  group_by(model, sent_index, construction, possessor_definiteness, possessor_length, possessor_animacy, possessum_animacy) %>% 
+    summarise(surprisal=sum(surprisal),
+              unk=any(unk)) %>%
+    ungroup() %>% 
+  filter(!unk) %>%
+  mutate(construction_numeric=if_else(construction == "of", -1, 1),
+         possessor_length=factor(possessor_length, levels=c("short", "long")),
+         possessor_length_numeric=if_else(possessor_length == "short", -1, 1),
+         possessor_definiteness=factor(possessor_definiteness, levels=c("indef", "def")),
+         possessor_definiteness_numeric=if_else(possessor_definiteness=="indef", -1, 1),
+         possessor_animacy=factor(possessor_animacy, levels=c("inanim", "anim")),
+         possessor_animacy_numeric=if_else(possessor_animacy == "inanim", -1, 1),
+         possessum_animacy=factor(possessum_animacy, levels=c("inanim", "anim")),
+         possessum_animacy_numeric=if_else(possessum_animacy == "inanim", -1, 1))
+                                  
+
+h = read_csv("human_ratings.csv") %>%
+  rename(sent_index=item) %>%
+  inner_join(select(items, sent_index, possessor_animacy, possessum_animacy)) %>%
+  mutate(construction_numeric=if_else(construction == "of", -1, 1),
+         possessor_length=factor(possessor_length, levels=c("short", "long")),
+         possessor_length_numeric=if_else(possessor_length == "short", -1, 1),
+         possessor_definiteness=factor(possessor_definiteness, levels=c("indef", "def")),
+         possessor_definiteness_numeric=if_else(possessor_definiteness=="indef", -1, 1),
+         possessor_animacy=factor(possessor_animacy, levels=c("inanim", "anim")),
+         possessor_animacy_numeric=if_else(possessor_animacy == "inanim", -1, 1),
+         possessum_animacy=factor(possessum_animacy, levels=c("inanim", "anim")),
+         possessum_animacy_numeric=if_else(possessum_animacy == "inanim", -1, 1))
+  
+```
+
+In this regression, a positive interaction with construction indicates that the of-construction is favored, and a negative interaction with construction indicates that the s-construction is favored. (Logic: s is coded 1, so a negative effect means that surprisal for s decreases. of is coded -1, so a positive effect means that surprisal for of decreases.)
+
+```{r}
+
+m_google = lmer(surprisal ~ construction_numeric * 
+                  (possessor_length_numeric + possessor_definiteness_numeric + 
+                     possessor_animacy_numeric + possessum_animacy_numeric) +
+                    (construction_numeric * (possessor_length_numeric + possessor_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "google"))
+summary(m_google)
+
+m_gul =  lmer(surprisal ~ construction_numeric * 
+                  (possessor_length_numeric + possessor_definiteness_numeric + 
+                     possessor_animacy_numeric + possessum_animacy_numeric) +
+                    (construction_numeric * (possessor_length_numeric + possessor_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "gulordava"))
+summary(m_gul)
+
+m_kenlm = lmer(surprisal ~ construction_numeric * 
+                  (possessor_length_numeric + possessor_definiteness_numeric + 
+                     possessor_animacy_numeric + possessum_animacy_numeric) +
+                    (construction_numeric * (possessor_length_numeric + possessor_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "kenlm"))
+summary(m_kenlm)
+
+m_google_kenlm = lmer(surprisal ~ model * construction_numeric * 
+                  (possessor_length_numeric + possessor_definiteness_numeric + 
+                     possessor_animacy_numeric + possessum_animacy_numeric) +
+                    (model * construction_numeric * (possessor_length_numeric + possessor_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "google" | model == "kenlm"))
+summary(m_google_kenlm)
+
+m_gulordava_kenlm = lmer(surprisal ~ model * construction_numeric * 
+                  (possessor_length_numeric + possessor_definiteness_numeric + 
+                     possessor_animacy_numeric + possessum_animacy_numeric) +
+                    (model * construction_numeric * (possessor_length_numeric + possessor_definiteness_numeric)|sent_index),
+           data=filter(d_agg, model == "gulordava" | model == "kenlm"))
+summary(m_gulordava_kenlm)
+
+m_human = lmer(acceptability ~ 
+            construction_numeric * (possessor_length + possessor_definiteness + possessor_animacy + possessum_animacy) +
+           (construction_numeric * (possessor_length + possessor_definiteness + possessor_animacy + possessum_animacy)|sent_index) +
+           (construction_numeric * (possessor_length + possessor_definiteness + possessor_animacy + possessum_animacy)|WorkerId),
+           data=h)
+summary(m_human)
+
+```
+
+All as expected in the Gulordava LSTM, though not everything is significant.
+All is as expected in the Google LSTM, except the effect of possessor definiteness is in the wrong direction! (but ns)
+
+Let's visualize.
+
+```{r}
+
+d_effect = d_agg %>%
+  select(-construction_numeric) %>% 
+  spread(construction, surprisal) %>% 
+  mutate(of_preference=s - of)
+
+d_by_animacy = d_effect %>%
+  group_by(model, sent_index) %>%
+    mutate(relevant_of_preference=of_preference - mean(of_preference)) %>%
+    ungroup() %>%
+  group_by(model, possessor_animacy, possessum_animacy) %>%
+    summarise(m_of_preference=mean(of_preference),
+              s=std.error(relevant_of_preference),
+              lower=m_of_preference-1.96*s,
+              upper=m_of_preference+1.96*s) %>%
+    ungroup() 
+
+h_by_animacy = h %>%
+  group_by(sent_index) %>%
+    mutate(relevant_acceptability=acceptability - mean(acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(WorkerId) %>%
+    mutate(relevant_acceptability=relevant_acceptability - mean(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(construction, possessor_animacy, possessum_animacy) %>%
+    summarise(n=n(),
+              m=mean(acceptability,na.rm=T),
+              sd=sd(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  unite(msn, m, sd, n) %>%
+  spread(construction, msn) %>%
+  separate(s, into=c("m_s", "sd_s", "n_s"), sep="_") %>%
+  separate(of, into=c("m_of", "sd_of", "n_of"), sep="_") %>%
+  mutate(m_s=as.numeric(m_s),
+         m_of=as.numeric(m_of),
+         sd_s=as.numeric(sd_s),
+         sd_of=as.numeric(sd_of),
+         n_s=as.numeric(n_s),
+         n_of=as.numeric(n_of)) %>%
+  mutate(m_of_preference = m_of - m_s,
+         s=sqrt(sd_of^2/n_of + sd_s^2/n_s),
+         upper=m_of_preference+1.96*s,
+         lower=m_of_preference-1.96*s) %>%
+  mutate(model="Human")
+  
+d_by_animacy %>%
+  bind_rows(h_by_animacy) %>%
+  rename_models() %>%
+  ggplot(aes(x=possessum_animacy, fill=possessor_animacy, y=m_of_preference, ymin=lower, ymax=upper)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9)) +
+    facet_wrap(~model,scale="free_y") +
+    labs(x="Possessum animacy", y="Preference for of-construction", fill="Possessor animacy") +
+    theme(legend.position="bottom")
+
+ggsave("genitive_alternation_animacy.pdf", width=6, height=5)
+```
+
+Basically we favor the s-genitive with an animate posessor (as expected), and favor the of-genitive very slightly with an animate possessum in Google and Kenlm but not Gulordava.
+
+Let's look for animacy effects in regressions.
+
+```{r}
+m_google = lmer(surprisal ~ construction_numeric * (possessor_animacy + possessum_animacy) +
+                    (construction_numeric * (possessor_animacy + possessum_animacy)|sent_index),
+           data=filter(d_agg, model == "google"))
+summary(m_google)
+
+m_gul = lmer(surprisal ~ construction_numeric * (possessor_animacy + possessum_animacy)
+                 +  (1|sent_index),
+           data=filter(d_agg, model == "gulordava"))
+summary(m_gul)
+```
+
+Nothing anywhere... possibly the between-item design is too weak.
+
+Now what about by definiteness and length?
+
+```{r}
+d_by_def_length = d_effect %>%
+  group_by(model, sent_index) %>%
+    mutate(relevant_of_preference = of_preference - mean(of_preference)) %>%
+    ungroup() %>%
+  group_by(model, possessor_definiteness, possessor_length) %>%
+    summarise(m_of_preference=mean(of_preference),
+              s=std.error(relevant_of_preference),
+              lower=m_of_preference-1.96*s,
+              upper=m_of_preference+1.96*s) %>%
+    ungroup() 
+
+h_by_def_length = h %>%
+  group_by(sent_index) %>%
+    mutate(relevant_acceptability=acceptability - mean(acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(WorkerId) %>%
+    mutate(relevant_acceptability=relevant_acceptability - mean(relevant_acceptability, na.rm=T)) %>%
+    ungroup() %>%
+  group_by(construction, possessor_definiteness, possessor_length) %>%
+    summarise(n=n(),
+              m=mean(acceptability,na.rm=T),
+              sd=sd(relevant_acceptability,na.rm=T)) %>%
+    ungroup() %>%
+  unite(msn, m, sd, n) %>%
+  spread(construction, msn) %>%
+  separate(s, into=c("m_s", "sd_s", "n_s"), sep="_") %>%
+  separate(of, into=c("m_of", "sd_of", "n_of"), sep="_") %>%
+  mutate(m_s=as.numeric(m_s),
+         m_of=as.numeric(m_of),
+         sd_s=as.numeric(sd_s),
+         sd_of=as.numeric(sd_of),
+         n_s=as.numeric(n_s),
+         n_of=as.numeric(n_of)) %>%
+  mutate(m_of_preference = m_of - m_s,
+         s=sqrt(sd_of^2/n_of + sd_s^2/n_s),
+         upper=m_of_preference+1.96*s,
+         lower=m_of_preference-1.96*s) %>%
+  mutate(model="Human")
+
+
+d_by_def_length %>%
+  bind_rows(h_by_def_length) %>%
+  rename_models() %>%
+  ggplot(aes(x=possessor_length, fill=possessor_definiteness, y=m_of_preference, ymin=lower, ymax=upper)) +
+    geom_bar(stat="identity", position="dodge") +
+    geom_errorbar(color="black", width=.5, position=position_dodge(width=.9)) +
+    facet_wrap(~model, scale="free_y") +
+    labs(x="Possessor length", fill="Possessor definiteness", y="Preference for of-construction") +
+    theme(legend.position="bottom")
+
+ggsave("genitive_alternation_etc.pdf", width=6, height=5)
+```
+
+Long possessor strongly pulls for the of-genitive. There seems to be a preference for the s-genitive with a definite possessor when the possessor is short, but when the possessor is long this effect disappears or is reversed.
+
+```{r}
+m_google = lmer(surprisal ~ construction_numeric * (possessor_definiteness + possessor_length) +
+                    (construction_numeric * (possessor_definiteness + possessor_length)|sent_index),
+           data=filter(d_agg, model == "google"))
+summary(m_google)
+
+m_gul = lmer(surprisal ~ construction_numeric * (possessor_definiteness + possessor_length)
+                 +  (construction_numeric*(possessor_definiteness + possessor_length)|sent_index),
+           data=filter(d_agg, model == "gulordava"))
+summary(m_gul)
+
+m_kenlm = lmer(surprisal ~ construction_numeric * (possessor_definiteness + possessor_length)
+                 +  (construction_numeric*(possessor_definiteness + possessor_length)|sent_index),
+           data=filter(d_agg, model == "kenlm"))
+summary(m_kenlm)
+```
+
+Length effect is significant; definiteness effect is not.
+
+A particularly interesting case is when the possessor is long and definite or indefinite, because then the model can't rely on n-gram statistics and must carry forward a representation of the definiteness of the possessor. This analysis was not pre-registered, but let's restrict our attention to the long possessor case, and see if there is an effect of definiteness there.
+
+```{r}
+m_google = lmer(surprisal ~ construction_numeric * possessor_definiteness +
+                    (1|sent_index),
+           data=filter(d_agg, model == "google", possessor_length == "long"))
+summary(m_google)
+
+m_gul = lmer(surprisal ~ construction_numeric * (possessor_definiteness)
+                 +  (1|sent_index),
+           data=filter(d_agg, model == "gulordava", possessor_length == "long"))
+summary(m_gul)
+```
+
+Alas, none of them get it!

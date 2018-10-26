@@ -1,0 +1,807 @@
+WorkerId,item,construction,theme_length,theme_definiteness,recip_length,recip_definiteness,acceptability,sentence
+1,3,do,long,definite,short,definite,4,The mailman delivered the professor the package that contained a book.
+2,10,po,short,definite,short,definite,5,The caterer brought the meal to the man.
+3,9,po,short,indefinite,short,indefinite,4,The spy told a secret to an agent.
+4,8,po,short,definite,long,definite,4,The child kicked the ball to the playmate who was several feet away.
+5,0,do,short,definite,long,definite,4,The man gave the woman who enjoyed birdwatching the book.
+6,5,do,long,definite,short,definite,4,The doctor handed the nurse the form that contained patient information.
+7,11,po,long,indefinite,short,definite,4,The nurse mailed the report that was about the test results to a patient.
+8,14,do,short,definite,short,definite,4,The teacher taught the student the song.
+9,14,do,long,definite,short,indefinite,5,The teacher taught the student a song that was very catchy.
+10,12,po,short,indefinite,short,indefinite,5,The librarian loaned a novel to a retiree.
+11,4,po,long,definite,short,indefinite,5,The lawyer sent a message that contained confidential information to the client.
+12,6,po,long,definite,long,indefinite,4,The professor granted an extension that was rarely allowed to the student who suffered from a rare illness.
+13,1,do,long,indefinite,long,indefinite,4,The waiter handed a customer who was sitting at the table a cup that was full of water.
+14,12,do,long,indefinite,short,indefinite,4,The librarian loaned a retiree a novel that was about the future.
+15,12,do,long,indefinite,short,definite,4,The librarian loaned a retiree the novel that was about the future.
+16,5,do,short,indefinite,long,definite,5,The doctor handed a nurse who was standing in the hallway the form.
+17,1,po,short,indefinite,long,definite,4,The waiter handed the cup to a customer who was sitting at the table.
+18,13,po,short,indefinite,long,indefinite,4,The boss offered a raise to an employee who had been working for many years.
+19,1,po,long,indefinite,short,indefinite,4,The waiter handed a cup that was full of water to a customer.
+20,0,po,long,definite,short,definite,3,The man gave the book that was about birds to the woman.
+21,11,po,long,definite,short,definite,3,The nurse mailed the report that was about the test results to the patient.
+22,9,po,short,definite,short,definite,5,The spy told the secret to the agent.
+23,0,do,long,definite,short,definite,4,The man gave the woman the book that was about birds.
+1,1,po,short,definite,short,definite,5,The waiter handed the cup to the customer.
+2,5,do,long,definite,short,indefinite,4,The doctor handed the nurse a form that contained patient information.
+3,4,po,short,definite,short,definite,5,The lawyer sent the message to the client.
+4,7,po,long,indefinite,short,indefinite,5,The student showed a report that she had written for a class to a classmate.
+5,5,po,long,definite,short,indefinite,3,The doctor handed a form that contained patient information to the nurse.
+24,0,po,short,indefinite,short,definite,3,The man gave the book to a woman.
+6,11,po,short,definite,short,definite,5,The nurse mailed the report to the patient.
+7,4,po,short,indefinite,long,indefinite,5,The lawyer sent a message to a client who was awaiting trial.
+25,8,po,short,indefinite,short,definite,5,The child kicked the ball to a playmate.
+8,12,do,short,definite,long,definite,2,The librarian loaned the retiree who was looking for reading material the novel.
+26,15,do,long,indefinite,long,indefinite,4,The salesman sold a teenager who had come into some money a car that had a lot of miles.
+27,3,po,short,indefinite,long,definite,5,The mailman delivered the package to a professor who lived in an apartment.
+13,4,do,short,indefinite,short,definite,5,The lawyer sent a client the message.
+14,3,do,short,indefinite,long,definite,2,The mailman delivered a professor who lived in an apartment the package.
+15,15,do,short,definite,long,indefinite,4,The salesman sold the teenager who had come into some money a car.
+17,13,do,long,definite,long,definite,4,The boss offered the employee who had been working for many years the raise that was long overdue.
+18,14,po,short,indefinite,short,definite,4,The teacher taught the song to a student.
+20,4,po,short,indefinite,long,definite,5,The lawyer sent the message to a client who was awaiting trial.
+22,8,po,short,definite,long,indefinite,5,The child kicked a ball to the playmate who was several feet away.
+28,1,do,short,definite,long,definite,4,The waiter handed the customer who was sitting at the table the cup.
+23,7,do,short,indefinite,short,indefinite,5,The student showed a classmate a report.
+9,0,po,short,indefinite,long,indefinite,4,The man gave a book to a woman who enjoyed birdwatching.
+1,14,po,short,indefinite,short,indefinite,5,The teacher taught a song to a student.
+2,11,po,short,definite,short,indefinite,5,The nurse mailed a report to the patient.
+29,10,po,long,definite,short,indefinite,3,The caterer brought a meal that was specially prepared to the man.
+4,3,po,long,definite,short,indefinite,5,The mailman delivered a package that contained a book to the professor.
+5,10,do,short,definite,short,definite,4,The caterer brought the man the meal.
+24,9,do,short,indefinite,long,indefinite,NA,The spy told an agent who was working for a foreign government a secret.
+7,7,do,long,definite,long,definite,4,The student showed the classmate who was studying for a final the report that she had written for a class.
+26,0,po,short,indefinite,short,definite,5,The man gave the book to a woman.
+10,11,po,short,indefinite,short,definite,5,The nurse mailed the report to a patient.
+30,2,po,long,indefinite,short,definite,4,The quarterback threw the football that was slightly deflated to a teammate.
+14,9,po,long,definite,short,definite,4,The spy told the secret that was highly sensitive to the agent.
+16,15,do,short,definite,long,definite,4,The salesman sold the teenager who had come into some money the car.
+17,10,po,short,indefinite,long,indefinite,5,The caterer brought a meal to a man who was in a nursing home.
+31,6,do,long,indefinite,long,indefinite,5,The professor granted a student who suffered from a rare illness an extension that was rarely allowed.
+20,10,po,long,indefinite,long,definite,3,The caterer brought the meal that was specially prepared to a man who was in a nursing home.
+32,3,po,long,definite,long,indefinite,4,The mailman delivered a package that contained a book to the professor who lived in an apartment.
+9,1,po,short,indefinite,short,definite,3,The waiter handed the cup to a customer.
+1,0,po,short,definite,long,indefinite,5,The man gave a book to the woman who enjoyed birdwatching.
+2,14,po,short,indefinite,short,definite,5,The teacher taught the song to a student.
+4,4,po,long,indefinite,long,definite,4,The lawyer sent the message that contained confidential information to a client who was awaiting trial.
+25,6,po,short,indefinite,long,definite,4,The professor granted the extension to a student who suffered from a rare illness.
+22,6,po,long,indefinite,short,indefinite,5,The professor granted an extension that was rarely allowed to a student.
+33,5,do,long,indefinite,long,indefinite,2,The doctor handed a nurse who was standing in the hallway a form that contained patient information.
+34,2,po,short,indefinite,short,definite,5,The quarterback threw the football to a teammate.
+27,1,po,long,indefinite,long,definite,3,The waiter handed the cup that was full of water to a customer who was sitting at the table.
+12,7,po,long,definite,short,definite,5,The student showed the report that she had written for a class to the classmate.
+14,11,do,long,indefinite,short,definite,5,The nurse mailed a patient the report that was about the test results.
+16,11,do,long,indefinite,long,definite,5,The nurse mailed a patient who had some blood work done the report that was about the test results.
+31,4,do,long,definite,short,indefinite,5,The lawyer sent the client a message that contained confidential information.
+19,11,po,short,definite,long,indefinite,5,The nurse mailed a report to the patient who had some blood work done.
+1,4,do,long,definite,short,indefinite,5,The lawyer sent the client a message that contained confidential information.
+2,2,do,long,definite,long,definite,1,The quarterback threw the teammate who was in the endzone the football that was slightly deflated.
+35,15,po,short,indefinite,long,definite,5,The salesman sold the car to a teenager who had come into some money.
+4,5,po,long,indefinite,long,indefinite,5,The doctor handed a form that contained patient information to a nurse who was standing in the hallway.
+36,9,do,long,definite,short,indefinite,5,The spy told the agent a secret that was highly sensitive.
+25,0,po,long,definite,long,definite,4,The man gave the book that was about birds to the woman who enjoyed birdwatching.
+37,10,po,long,definite,long,definite,2,The caterer brought the meal that was specially prepared to the man who was in a nursing home.
+27,13,po,short,definite,long,definite,5,The boss offered the raise to the employee who had been working for many years.
+19,8,do,long,indefinite,long,definite,2,The child kicked a playmate who was several feet away the ball that was on the grass.
+20,2,po,short,definite,short,definite,4,The quarterback threw the football to the teammate.
+22,14,po,long,definite,long,indefinite,5,The teacher taught a song that was very catchy to the student who had a strong singing voice.
+28,2,do,short,indefinite,short,indefinite,4,The quarterback threw a teammate a football.
+1,9,do,short,definite,long,definite,2,The spy told the agent who was working for a foreign government the secret.
+13,10,do,long,indefinite,short,definite,4,The caterer brought a man the meal that was specially prepared.
+25,12,po,long,indefinite,long,definite,4,The librarian loaned the novel that was about the future to a retiree who was looking for reading material.
+38,12,do,short,indefinite,long,indefinite,1,The librarian loaned a retiree who was looking for reading material a novel.
+39,14,do,long,indefinite,short,definite,4,The teacher taught a student the song that was very catchy.
+26,3,do,long,indefinite,short,indefinite,2,The mailman delivered a professor a package that contained a book.
+9,11,do,long,definite,long,definite,4,The nurse mailed the patient who had some blood work done the report that was about the test results.
+40,1,do,short,indefinite,long,definite,2,The waiter handed a customer who was sitting at the table the cup.
+11,10,do,short,definite,short,indefinite,5,The caterer brought the man a meal.
+15,0,do,long,definite,short,definite,3,The man gave the woman the book that was about birds.
+24,8,do,short,indefinite,long,definite,3,The child kicked a playmate who was several feet away the ball.
+17,0,po,short,definite,short,indefinite,5,The man gave a book to the woman.
+36,2,po,short,indefinite,long,definite,5,The quarterback threw the football to a teammate who was in the endzone.
+41,14,po,long,definite,short,definite,5,The teacher taught the song that was very catchy to the student.
+42,4,po,long,indefinite,long,definite,5,The lawyer sent the message that contained confidential information to a client who was awaiting trial.
+28,4,po,long,definite,long,indefinite,5,The lawyer sent a message that contained confidential information to the client who was awaiting trial.
+33,13,po,short,indefinite,short,indefinite,4,The boss offered a raise to an employee.
+1,12,po,short,indefinite,long,indefinite,2,The librarian loaned a novel to a retiree who was looking for reading material.
+2,15,po,short,indefinite,short,indefinite,5,The salesman sold a car to a teenager.
+35,1,po,long,indefinite,short,definite,1,The waiter handed the cup that was full of water to a customer.
+19,2,po,short,indefinite,short,definite,5,The quarterback threw the football to a teammate.
+7,5,po,short,indefinite,short,definite,5,The doctor handed the form to a nurse.
+38,7,po,long,indefinite,short,definite,3,The student showed the report that she had written for a class to a classmate.
+10,15,do,long,definite,short,definite,5,The salesman sold the teenager the car that had a lot of miles.
+3,5,po,short,definite,short,indefinite,5,The doctor handed a form to the nurse.
+30,10,po,long,definite,long,definite,4,The caterer brought the meal that was specially prepared to the man who was in a nursing home.
+13,9,po,long,definite,short,indefinite,5,The spy told a secret that was highly sensitive to the agent.
+21,6,po,short,definite,short,indefinite,5,The professor granted an extension to the student.
+32,6,po,long,indefinite,long,definite,2,The professor granted the extension that was rarely allowed to a student who suffered from a rare illness.
+8,11,do,long,indefinite,short,indefinite,4,The nurse mailed a patient a report that was about the test results.
+1,13,po,short,indefinite,short,definite,4,The boss offered the raise to an employee.
+2,8,do,long,indefinite,short,definite,2,The child kicked a playmate the ball that was on the grass.
+35,14,po,short,definite,short,indefinite,5,The teacher taught a song to the student.
+40,15,po,long,definite,short,definite,5,The salesman sold the car that had a lot of miles to the teenager.
+15,2,do,short,definite,short,definite,5,The quarterback threw the teammate the football.
+36,13,po,short,definite,long,indefinite,4,The boss offered a raise to the employee who had been working for many years.
+25,15,po,long,indefinite,short,indefinite,5,The salesman sold a car that had a lot of miles to a teenager.
+26,10,do,long,definite,long,definite,5,The caterer brought the man who was in a nursing home the meal that was specially prepared.
+34,1,po,long,indefinite,short,indefinite,5,The waiter handed a cup that was full of water to a customer.
+14,1,do,long,indefinite,long,definite,3,The waiter handed a customer who was sitting at the table the cup that was full of water.
+43,0,po,short,indefinite,long,definite,5,The man gave the book to a woman who enjoyed birdwatching.
+18,3,do,long,definite,long,indefinite,2,The mailman delivered the professor who lived in an apartment a package that contained a book.
+42,0,do,short,definite,short,definite,5,The man gave the woman the book.
+32,5,po,long,definite,short,indefinite,4,The doctor handed a form that contained patient information to the nurse.
+28,3,po,long,definite,long,definite,4,The mailman delivered the package that contained a book to the professor who lived in an apartment.
+27,12,po,long,indefinite,short,indefinite,3,The librarian loaned a novel that was about the future to a retiree.
+29,8,po,short,indefinite,short,indefinite,5,The child kicked a ball to a playmate.
+44,5,po,long,indefinite,short,indefinite,4,The doctor handed a form that contained patient information to a nurse.
+40,9,po,short,definite,short,definite,5,The spy told the secret to the agent.
+11,7,po,long,indefinite,short,definite,2,The student showed the report that she had written for a class to a classmate.
+12,15,do,short,indefinite,long,definite,5,The salesman sold a teenager who had come into some money the car.
+25,13,po,long,indefinite,long,indefinite,5,The boss offered a raise that was long overdue to an employee who had been working for many years.
+21,9,po,short,indefinite,short,definite,5,The spy told the secret to an agent.
+9,9,do,short,indefinite,long,definite,3,The spy told an agent who was working for a foreign government the secret.
+10,1,po,short,indefinite,long,definite,5,The waiter handed the cup to a customer who was sitting at the table.
+45,8,po,short,indefinite,long,indefinite,4,The child kicked a ball to a playmate who was several feet away.
+24,6,do,short,definite,short,definite,4,The professor granted the student the extension.
+7,15,po,short,definite,short,definite,5,The salesman sold the car to the teenager.
+8,1,do,long,indefinite,long,indefinite,2,The waiter handed a customer who was sitting at the table a cup that was full of water.
+29,4,po,short,definite,short,indefinite,5,The lawyer sent a message to the client.
+44,0,do,short,indefinite,long,definite,2,The man gave a woman who enjoyed birdwatching the book.
+40,2,po,long,definite,short,indefinite,5,The quarterback threw a football that was slightly deflated to the teammate.
+4,1,do,short,definite,short,indefinite,5,The waiter handed the customer a cup.
+17,6,do,long,indefinite,short,indefinite,4,The professor granted a student an extension that was rarely allowed.
+25,3,po,short,definite,long,indefinite,5,The mailman delivered a package to the professor who lived in an apartment.
+41,12,po,long,definite,long,definite,4,The librarian loaned the novel that was about the future to the retiree who was looking for reading material.
+23,15,do,short,definite,long,indefinite,2,The salesman sold the teenager who had come into some money a car.
+26,4,do,short,definite,long,definite,5,The lawyer sent the client who was awaiting trial the message.
+33,3,do,long,definite,short,indefinite,4,The mailman delivered the professor a package that contained a book.
+43,1,po,short,indefinite,long,indefinite,5,The waiter handed a cup to a customer who was sitting at the table.
+38,13,do,short,indefinite,short,definite,5,The boss offered an employee the raise.
+32,15,do,short,indefinite,short,indefinite,5,The salesman sold a teenager a car.
+46,12,do,long,definite,long,definite,2,The librarian loaned the retiree who was looking for reading material the novel that was about the future.
+35,11,po,short,definite,long,definite,5,The nurse mailed the report to the patient who had some blood work done.
+44,14,po,long,definite,short,definite,2,The teacher taught the song that was very catchy to the student.
+11,8,po,long,indefinite,short,indefinite,2,The child kicked a ball that was on the grass to a playmate.
+5,2,po,long,definite,long,definite,5,The quarterback threw the football that was slightly deflated to the teammate who was in the endzone.
+47,9,po,long,indefinite,short,definite,3,The spy told the secret that was highly sensitive to an agent.
+24,4,do,short,definite,long,definite,4,The lawyer sent the client who was awaiting trial the message.
+18,12,po,short,indefinite,long,definite,4,The librarian loaned the novel to a retiree who was looking for reading material.
+20,11,po,long,indefinite,long,indefinite,4,The nurse mailed a report that was about the test results to a patient who had some blood work done.
+25,11,po,long,definite,short,indefinite,5,The nurse mailed a report that was about the test results to the patient.
+30,11,po,long,definite,long,indefinite,4,The nurse mailed a report that was about the test results to the patient who had some blood work done.
+40,8,po,short,definite,long,indefinite,5,The child kicked a ball to the playmate who was several feet away.
+15,3,do,short,definite,short,indefinite,1,The mailman delivered the professor a package.
+43,6,do,short,definite,long,definite,5,The professor granted the student who suffered from a rare illness the extension.
+31,8,do,long,indefinite,short,indefinite,4,The child kicked a playmate a ball that was on the grass.
+21,12,po,long,definite,short,indefinite,4,The librarian loaned a novel that was about the future to the retiree.
+37,15,po,long,indefinite,long,indefinite,3,The salesman sold a car that had a lot of miles to a teenager who had come into some money.
+46,1,po,short,indefinite,long,indefinite,5,The waiter handed a cup to a customer who was sitting at the table.
+45,13,po,long,indefinite,long,definite,2,The boss offered the raise that was long overdue to an employee who had been working for many years.
+47,13,do,short,indefinite,long,definite,3,The boss offered an employee who had been working for many years the raise.
+13,8,po,long,definite,short,definite,4,The child kicked the ball that was on the grass to the playmate.
+24,1,po,short,indefinite,short,indefinite,5,The waiter handed a cup to a customer.
+20,13,po,long,indefinite,short,indefinite,4,The boss offered a raise that was long overdue to an employee.
+1,2,do,long,definite,long,indefinite,4,The quarterback threw the teammate who was in the endzone a football that was slightly deflated.
+44,1,do,short,indefinite,long,indefinite,2,The waiter handed a customer who was sitting at the table a cup.
+32,10,do,short,definite,short,definite,5,The caterer brought the man the meal.
+48,1,do,long,definite,short,definite,4,The waiter handed the customer the cup that was full of water.
+46,14,do,long,definite,short,definite,5,The teacher taught the student the song that was very catchy.
+3,0,po,long,definite,long,definite,5,The man gave the book that was about birds to the woman who enjoyed birdwatching.
+47,2,do,short,indefinite,short,indefinite,5,The quarterback threw a teammate a football.
+14,2,do,short,definite,short,indefinite,4,The quarterback threw the teammate a football.
+49,6,do,short,definite,short,indefinite,5,The professor granted the student an extension.
+25,9,po,short,indefinite,short,indefinite,5,The spy told a secret to an agent.
+41,0,do,short,indefinite,long,definite,5,The man gave a woman who enjoyed birdwatching the book.
+38,2,po,long,definite,long,indefinite,4,The quarterback threw a football that was slightly deflated to the teammate who was in the endzone.
+23,5,do,short,indefinite,long,indefinite,5,The doctor handed a nurse who was standing in the hallway a form.
+33,10,po,short,indefinite,long,definite,3,The caterer brought the meal to a man who was in a nursing home.
+45,5,po,short,definite,short,definite,5,The doctor handed the form to the nurse.
+5,12,do,short,indefinite,long,definite,4,The librarian loaned a retiree who was looking for reading material the novel.
+15,14,do,short,definite,long,definite,4,The teacher taught the student who had a strong singing voice the song.
+31,11,po,short,indefinite,long,definite,5,The nurse mailed the report to a patient who had some blood work done.
+20,6,po,short,indefinite,short,definite,4,The professor granted the extension to a student.
+37,8,po,short,indefinite,long,definite,5,The child kicked the ball to a playmate who was several feet away.
+8,9,po,long,definite,short,indefinite,3,The spy told a secret that was highly sensitive to the agent.
+46,4,do,long,indefinite,short,definite,4,The lawyer sent a client the message that contained confidential information.
+12,0,do,long,indefinite,long,indefinite,5,The man gave a woman who enjoyed birdwatching a book that was about birds.
+13,14,do,short,definite,short,definite,5,The teacher taught the student the song.
+50,11,po,long,indefinite,short,indefinite,4,The nurse mailed a report that was about the test results to a patient.
+30,0,do,short,indefinite,short,definite,5,The man gave a woman the book.
+11,3,po,long,definite,short,definite,4,The mailman delivered the package that contained a book to the professor.
+49,10,do,long,definite,long,indefinite,5,The caterer brought the man who was in a nursing home a meal that was specially prepared.
+19,14,po,short,indefinite,long,definite,4,The teacher taught the song to a student who had a strong singing voice.
+22,15,po,long,definite,short,definite,5,The salesman sold the car that had a lot of miles to the teenager.
+32,11,do,short,definite,short,indefinite,5,The nurse mailed the patient a report.
+8,15,do,short,definite,short,indefinite,4,The salesman sold the teenager a car.
+23,14,do,short,definite,long,definite,4,The teacher taught the student who had a strong singing voice the song.
+51,5,do,short,definite,short,definite,5,The doctor handed the nurse the form.
+26,9,do,short,indefinite,long,indefinite,5,The spy told an agent who was working for a foreign government a secret.
+10,13,do,long,definite,long,definite,4,The boss offered the employee who had been working for many years the raise that was long overdue.
+1,15,do,long,definite,long,definite,3,The salesman sold the teenager who had come into some money the car that had a lot of miles.
+52,3,do,short,indefinite,short,indefinite,3,The mailman delivered a professor a package.
+6,1,po,short,definite,long,definite,4,The waiter handed the cup to the customer who was sitting at the table.
+36,1,po,long,indefinite,long,indefinite,5,The waiter handed a cup that was full of water to a customer who was sitting at the table.
+20,12,po,long,indefinite,short,definite,4,The librarian loaned the novel that was about the future to a retiree.
+37,14,po,long,indefinite,long,definite,4,The teacher taught the song that was very catchy to a student who had a strong singing voice.
+38,1,do,short,definite,short,definite,5,The waiter handed the customer the cup.
+9,5,do,short,definite,long,definite,4,The doctor handed the nurse who was standing in the hallway the form.
+33,1,po,short,definite,short,indefinite,5,The waiter handed a cup to the customer.
+50,2,po,short,indefinite,long,definite,4,The quarterback threw the football to a teammate who was in the endzone.
+12,13,do,short,definite,short,definite,5,The boss offered the employee the raise.
+16,3,do,short,definite,short,definite,3,The mailman delivered the professor the package.
+49,13,do,long,indefinite,long,definite,5,The boss offered an employee who had been working for many years the raise that was long overdue.
+24,12,do,long,definite,short,definite,4,The librarian loaned the retiree the novel that was about the future.
+18,6,do,long,indefinite,long,definite,2,The professor granted a student who suffered from a rare illness the extension that was rarely allowed.
+53,4,po,short,definite,short,indefinite,5,The lawyer sent a message to the client.
+21,3,po,short,definite,long,definite,4,The mailman delivered the package to the professor who lived in an apartment.
+10,2,do,long,definite,short,indefinite,NA,The quarterback threw the teammate a football that was slightly deflated.
+45,11,po,long,definite,short,definite,3,The nurse mailed the report that was about the test results to the patient.
+11,14,do,short,indefinite,short,indefinite,5,The teacher taught a student a song.
+47,8,po,long,indefinite,long,indefinite,5,The child kicked a ball that was on the grass to a playmate who was several feet away.
+37,11,po,long,definite,long,indefinite,4,The nurse mailed a report that was about the test results to the patient who had some blood work done.
+22,11,do,short,indefinite,short,definite,5,The nurse mailed a patient the report.
+23,3,do,short,definite,short,indefinite,5,The mailman delivered the professor a package.
+9,2,do,long,indefinite,long,indefinite,2,The quarterback threw a teammate who was in the endzone a football that was slightly deflated.
+50,10,po,long,indefinite,short,definite,1,The caterer brought the meal that was specially prepared to a man.
+30,12,po,long,definite,short,definite,4,The librarian loaned the novel that was about the future to the retiree.
+52,5,po,long,definite,long,indefinite,4,The doctor handed a form that contained patient information to the nurse who was standing in the hallway.
+14,6,do,short,indefinite,short,indefinite,5,The professor granted a student an extension.
+24,10,do,long,definite,long,definite,4,The caterer brought the man who was in a nursing home the meal that was specially prepared.
+43,13,do,long,definite,long,indefinite,5,The boss offered the employee who had been working for many years a raise that was long overdue.
+53,13,po,long,indefinite,short,definite,5,The boss offered the raise that was long overdue to an employee.
+21,2,po,long,indefinite,short,indefinite,5,The quarterback threw a football that was slightly deflated to a teammate.
+28,9,po,long,indefinite,short,definite,3,The spy told the secret that was highly sensitive to an agent.
+11,9,po,short,definite,long,definite,3,The spy told the secret to the agent who was working for a foreign government.
+20,1,po,long,definite,short,indefinite,5,The waiter handed a cup that was full of water to the customer.
+37,0,do,short,indefinite,short,definite,4,The man gave a woman the book.
+22,12,do,short,indefinite,short,indefinite,5,The librarian loaned a retiree a novel.
+42,9,po,short,definite,long,indefinite,5,The spy told a secret to the agent who was working for a foreign government.
+33,15,do,long,definite,long,indefinite,4,The salesman sold the teenager who had come into some money a car that had a lot of miles.
+3,11,po,long,definite,short,indefinite,3,The nurse mailed a report that was about the test results to the patient.
+45,3,po,short,definite,long,definite,3,The mailman delivered the package to the professor who lived in an apartment.
+30,3,po,long,indefinite,short,indefinite,5,The mailman delivered a package that contained a book to a professor.
+47,3,po,long,definite,long,definite,4,The mailman delivered the package that contained a book to the professor who lived in an apartment.
+16,2,do,short,definite,long,indefinite,4,The quarterback threw the teammate who was in the endzone a football.
+49,14,do,long,indefinite,long,indefinite,4,The teacher taught a student who had a strong singing voice a song that was very catchy.
+36,0,po,long,indefinite,long,definite,5,The man gave the book that was about birds to a woman who enjoyed birdwatching.
+28,11,do,short,definite,short,definite,5,The nurse mailed the patient the report.
+23,9,po,long,definite,long,indefinite,5,The spy told a secret that was highly sensitive to the agent who was working for a foreign government.
+46,3,do,long,indefinite,long,indefinite,2,The mailman delivered a professor who lived in an apartment a package that contained a book.
+5,13,do,short,indefinite,long,indefinite,3,The boss offered an employee who had been working for many years a raise.
+21,4,po,short,definite,long,indefinite,5,The lawyer sent a message to the client who was awaiting trial.
+22,10,do,short,indefinite,long,indefinite,5,The caterer brought a man who was in a nursing home a meal.
+42,8,po,short,definite,long,definite,5,The child kicked the ball to the playmate who was several feet away.
+38,11,do,short,indefinite,long,definite,3,The nurse mailed a patient who had some blood work done the report.
+45,2,po,long,indefinite,short,indefinite,4,The quarterback threw a football that was slightly deflated to a teammate.
+30,5,po,short,definite,long,indefinite,5,The doctor handed a form to the nurse who was standing in the hallway.
+11,5,po,long,indefinite,long,definite,5,The doctor handed the form that contained patient information to a nurse who was standing in the hallway.
+13,5,do,short,indefinite,short,indefinite,5,The doctor handed a nurse a form.
+43,14,do,long,definite,short,definite,5,The teacher taught the student the song that was very catchy.
+17,15,do,long,definite,short,definite,4,The salesman sold the teenager the car that had a lot of miles.
+19,10,po,short,definite,long,definite,4,The caterer brought the meal to the man who was in a nursing home.
+53,1,po,long,definite,short,definite,4,The waiter handed the cup that was full of water to the customer.
+32,0,do,short,definite,long,definite,4,The man gave the woman who enjoyed birdwatching the book.
+54,15,do,short,definite,short,definite,5,The salesman sold the teenager the car.
+9,10,po,short,indefinite,short,indefinite,3,The caterer brought a meal to a man.
+35,9,do,long,indefinite,long,definite,5,The spy told an agent who was working for a foreign government the secret that was highly sensitive.
+29,15,po,short,definite,long,definite,5,The salesman sold the car to the teenager who had come into some money.
+6,4,do,long,definite,long,indefinite,5,The lawyer sent the client who was awaiting trial a message that contained confidential information.
+37,6,po,short,definite,short,definite,4,The professor granted the extension to the student.
+41,5,po,long,indefinite,short,indefinite,5,The doctor handed a form that contained patient information to a nurse.
+42,3,po,long,definite,short,indefinite,5,The mailman delivered a package that contained a book to the professor.
+23,11,do,long,indefinite,long,indefinite,2,The nurse mailed a patient who had some blood work done a report that was about the test results.
+46,0,po,short,indefinite,long,definite,4,The man gave the book to a woman who enjoyed birdwatching.
+40,5,po,long,indefinite,short,definite,5,The doctor handed the form that contained patient information to a nurse.
+19,12,po,short,definite,short,definite,5,The librarian loaned the novel to the retiree.
+22,2,po,long,definite,short,indefinite,5,The quarterback threw a football that was slightly deflated to the teammate.
+32,9,po,long,indefinite,short,indefinite,5,The spy told a secret that was highly sensitive to an agent.
+9,15,do,long,indefinite,long,definite,1,The salesman sold a teenager who had come into some money the car that had a lot of miles.
+10,8,do,short,definite,long,indefinite,4,The child kicked the playmate who was several feet away a ball.
+35,0,po,long,indefinite,long,indefinite,5,The man gave a book that was about birds to a woman who enjoyed birdwatching.
+27,0,po,long,definite,short,indefinite,4,The man gave a book that was about birds to the woman.
+5,7,po,long,indefinite,long,indefinite,2,The student showed a report that she had written for a class to a classmate who was studying for a final.
+16,10,do,long,definite,short,indefinite,5,The caterer brought the man a meal that was specially prepared.
+36,3,po,short,indefinite,long,indefinite,5,The mailman delivered a package to a professor who lived in an apartment.
+41,4,po,long,indefinite,short,definite,5,The lawyer sent the message that contained confidential information to a client.
+28,13,do,short,indefinite,long,definite,4,The boss offered an employee who had been working for many years the raise.
+54,10,do,long,indefinite,long,indefinite,5,The caterer brought a man who was in a nursing home a meal that was specially prepared.
+29,9,do,long,definite,long,definite,5,The spy told the agent who was working for a foreign government the secret that was highly sensitive.
+11,2,po,long,definite,long,indefinite,5,The quarterback threw a football that was slightly deflated to the teammate who was in the endzone.
+47,6,po,long,definite,short,indefinite,4,The professor granted an extension that was rarely allowed to the student.
+18,1,po,short,definite,long,indefinite,4,The waiter handed a cup to the customer who was sitting at the table.
+7,1,po,long,indefinite,long,definite,4,The waiter handed the cup that was full of water to a customer who was sitting at the table.
+37,3,po,long,indefinite,short,indefinite,4,The mailman delivered a package that contained a book to a professor.
+42,6,po,long,indefinite,short,definite,4,The professor granted the extension that was rarely allowed to a student.
+38,5,po,long,indefinite,long,definite,5,The doctor handed the form that contained patient information to a nurse who was standing in the hallway.
+51,10,do,long,definite,long,indefinite,4,The caterer brought the man who was in a nursing home a meal that was specially prepared.
+26,13,do,long,definite,short,indefinite,5,The boss offered the employee a raise that was long overdue.
+46,13,do,long,definite,long,indefinite,4,The boss offered the employee who had been working for many years a raise that was long overdue.
+27,2,po,short,definite,short,indefinite,5,The quarterback threw a football to the teammate.
+4,14,po,long,definite,long,definite,3,The teacher taught the song that was very catchy to the student who had a strong singing voice.
+52,0,do,long,indefinite,short,definite,2,The man gave a woman the book that was about birds.
+12,2,do,short,indefinite,long,indefinite,5,The quarterback threw a teammate who was in the endzone a football.
+21,5,po,short,definite,short,definite,5,The doctor handed the form to the nurse.
+28,15,do,short,indefinite,short,definite,5,The salesman sold a teenager the car.
+8,2,do,short,indefinite,long,definite,2,The quarterback threw a teammate who was in the endzone the football.
+48,10,do,long,definite,short,indefinite,3,The caterer brought the man a meal that was specially prepared.
+44,11,do,short,indefinite,short,indefinite,4,The nurse mailed a patient a report.
+5,14,do,short,indefinite,short,definite,5,The teacher taught a student the song.
+14,5,do,short,indefinite,short,definite,4,The doctor handed a nurse the form.
+16,13,do,long,indefinite,short,definite,5,The boss offered an employee the raise that was long overdue.
+43,2,do,long,indefinite,long,definite,5,The quarterback threw a teammate who was in the endzone the football that was slightly deflated.
+17,9,do,short,definite,short,definite,5,The spy told the agent the secret.
+19,9,do,long,indefinite,long,indefinite,4,The spy told an agent who was working for a foreign government a secret that was highly sensitive.
+20,14,po,short,definite,long,definite,4,The teacher taught the song to the student who had a strong singing voice.
+37,1,do,short,indefinite,short,indefinite,5,The waiter handed a customer a cup.
+41,11,do,short,indefinite,short,indefinite,5,The nurse mailed a patient a report.
+39,10,do,long,definite,short,definite,4,The caterer brought the man the meal that was specially prepared.
+51,8,do,short,indefinite,long,indefinite,4,The child kicked a playmate who was several feet away a ball.
+50,1,po,long,indefinite,long,indefinite,2,The waiter handed a cup that was full of water to a customer who was sitting at the table.
+3,6,po,short,indefinite,long,definite,5,The professor granted the extension to a student who suffered from a rare illness.
+52,4,po,long,definite,long,definite,3,The lawyer sent the message that contained confidential information to the client who was awaiting trial.
+6,12,po,short,definite,short,indefinite,5,The librarian loaned a novel to the retiree.
+22,13,po,long,definite,long,definite,5,The boss offered the raise that was long overdue to the employee who had been working for many years.
+8,10,do,long,indefinite,short,definite,2,The caterer brought a man the meal that was specially prepared.
+54,7,po,long,definite,long,definite,5,The student showed the report that she had written for a class to the classmate who was studying for a final.
+48,14,do,long,indefinite,short,indefinite,5,The teacher taught a student a song that was very catchy.
+9,8,do,short,definite,short,indefinite,3,The child kicked the playmate a ball.
+30,4,po,short,definite,long,definite,5,The lawyer sent the message to the client who was awaiting trial.
+4,9,po,short,definite,long,indefinite,4,The spy told a secret to the agent who was working for a foreign government.
+5,9,po,long,indefinite,short,indefinite,4,The spy told a secret that was highly sensitive to an agent.
+17,2,do,long,definite,short,indefinite,4,The quarterback threw the teammate a football that was slightly deflated.
+31,9,do,short,definite,long,definite,4,The spy told the agent who was working for a foreign government the secret.
+18,10,po,short,definite,short,definite,5,The caterer brought the meal to the man.
+36,11,po,long,indefinite,short,indefinite,5,The nurse mailed a report that was about the test results to a patient.
+32,14,do,short,indefinite,short,definite,5,The teacher taught a student the song.
+33,7,do,long,indefinite,short,indefinite,3,The student showed a classmate a report that she had written for a class.
+29,3,po,short,definite,short,definite,5,The mailman delivered the package to the professor.
+3,14,po,long,indefinite,short,definite,4,The teacher taught the song that was very catchy to a student.
+52,13,do,short,definite,short,indefinite,5,The boss offered the employee a raise.
+16,0,do,long,definite,long,indefinite,5,The man gave the woman who enjoyed birdwatching a book that was about birds.
+49,3,do,short,definite,long,definite,2,The mailman delivered the professor who lived in an apartment the package.
+42,15,po,long,definite,long,indefinite,5,The salesman sold a car that had a lot of miles to the teenager who had come into some money.
+48,6,do,short,indefinite,long,indefinite,4,The professor granted a student who suffered from a rare illness an extension.
+51,6,do,short,definite,short,indefinite,5,The professor granted the student an extension.
+2,12,po,short,indefinite,long,definite,4,The librarian loaned the novel to a retiree who was looking for reading material.
+40,13,po,long,definite,long,definite,4,The boss offered the raise that was long overdue to the employee who had been working for many years.
+12,5,po,long,definite,long,definite,5,The doctor handed the form that contained patient information to the nurse who was standing in the hallway.
+31,0,po,short,definite,long,indefinite,5,The man gave a book to the woman who enjoyed birdwatching.
+18,11,po,short,definite,short,indefinite,5,The nurse mailed a report to the patient.
+28,0,do,long,indefinite,short,indefinite,3,The man gave a woman a book that was about birds.
+23,12,do,long,indefinite,short,definite,4,The librarian loaned a retiree the novel that was about the future.
+39,0,do,long,definite,long,definite,3,The man gave the woman who enjoyed birdwatching the book that was about birds.
+9,3,do,long,indefinite,short,definite,4,The mailman delivered a professor the package that contained a book.
+33,14,do,long,definite,long,definite,1,The teacher taught the student who had a strong singing voice the song that was very catchy.
+27,5,po,short,indefinite,short,definite,5,The doctor handed the form to a nurse.
+44,2,po,long,indefinite,long,definite,5,The quarterback threw the football that was slightly deflated to a teammate who was in the endzone.
+4,10,do,short,indefinite,long,definite,3,The caterer brought a man who was in a nursing home the meal.
+11,11,do,short,indefinite,long,definite,2,The nurse mailed a patient who had some blood work done the report.
+24,15,do,long,indefinite,long,indefinite,4,The salesman sold a teenager who had come into some money a car that had a lot of miles.
+6,14,po,short,indefinite,long,indefinite,4,The teacher taught a song to a student who had a strong singing voice.
+20,5,po,short,indefinite,long,indefinite,4,The doctor handed a form to a nurse who was standing in the hallway.
+41,9,po,short,definite,short,indefinite,5,The spy told a secret to the agent.
+54,5,do,short,indefinite,short,definite,5,The doctor handed a nurse the form.
+26,2,do,long,indefinite,short,definite,5,The quarterback threw a teammate the football that was slightly deflated.
+34,3,po,short,indefinite,short,indefinite,5,The mailman delivered a package to a professor.
+50,12,po,short,definite,long,definite,2,The librarian loaned the novel to the retiree who was looking for reading material.
+45,0,do,short,indefinite,short,indefinite,4,The man gave a woman a book.
+49,12,do,long,definite,short,indefinite,5,The librarian loaned the retiree a novel that was about the future.
+31,3,do,long,definite,short,definite,4,The mailman delivered the professor the package that contained a book.
+7,0,po,long,definite,short,indefinite,4,The man gave a book that was about birds to the woman.
+28,8,po,long,indefinite,long,indefinite,4,The child kicked a ball that was on the grass to a playmate who was several feet away.
+39,3,do,short,definite,long,indefinite,2,The mailman delivered the professor who lived in an apartment a package.
+51,0,po,short,indefinite,short,indefinite,5,The man gave a book to a woman.
+46,5,do,long,indefinite,short,indefinite,4,The doctor handed a nurse a form that contained patient information.
+29,13,po,long,indefinite,short,definite,4,The boss offered the raise that was long overdue to an employee.
+3,3,po,short,definite,long,indefinite,3,The mailman delivered a package to the professor who lived in an apartment.
+40,3,po,long,indefinite,long,definite,5,The mailman delivered the package that contained a book to a professor who lived in an apartment.
+15,10,do,long,indefinite,long,definite,4,The caterer brought a man who was in a nursing home the meal that was specially prepared.
+24,2,do,long,indefinite,short,definite,NA,The quarterback threw a teammate the football that was slightly deflated.
+6,6,do,long,definite,short,indefinite,4,The professor granted the student an extension that was rarely allowed.
+19,13,po,short,definite,short,indefinite,5,The boss offered a raise to the employee.
+36,5,po,short,indefinite,short,indefinite,5,The doctor handed a form to a nurse.
+53,3,po,short,definite,short,definite,5,The mailman delivered the package to the professor.
+42,12,do,short,indefinite,short,definite,5,The librarian loaned a retiree the novel.
+9,13,do,long,definite,short,definite,4,The boss offered the employee the raise that was long overdue.
+10,0,po,short,definite,short,indefinite,5,The man gave a book to the woman.
+2,1,po,short,definite,long,indefinite,4,The waiter handed a cup to the customer who was sitting at the table.
+45,14,po,long,indefinite,long,indefinite,2,The teacher taught a song that was very catchy to a student who had a strong singing voice.
+4,0,do,short,definite,short,definite,5,The man gave the woman the book.
+47,10,do,short,definite,long,indefinite,3,The caterer brought the man who was in a nursing home a meal.
+13,12,do,short,definite,long,definite,2,The librarian loaned the retiree who was looking for reading material the novel.
+43,4,do,long,indefinite,short,definite,5,The lawyer sent a client the message that contained confidential information.
+20,15,po,short,definite,long,indefinite,4,The salesman sold a car to the teenager who had come into some money.
+48,4,do,short,definite,short,indefinite,5,The lawyer sent the client a message.
+39,15,do,long,indefinite,short,indefinite,4,The salesman sold a teenager a car that had a lot of miles.
+51,15,do,long,indefinite,short,definite,4,The salesman sold a teenager the car that had a lot of miles.
+34,11,po,short,definite,long,indefinite,4,The nurse mailed a report to the patient who had some blood work done.
+44,3,po,long,indefinite,long,indefinite,4,The mailman delivered a package that contained a book to a professor who lived in an apartment.
+5,4,po,long,definite,short,definite,5,The lawyer sent the message that contained confidential information to the client.
+42,10,do,short,indefinite,long,definite,4,The caterer brought a man who was in a nursing home the meal.
+38,8,po,long,indefinite,short,indefinite,4,The child kicked a ball that was on the grass to a playmate.
+54,3,do,short,indefinite,long,definite,2,The mailman delivered a professor who lived in an apartment the package.
+33,0,po,short,definite,short,definite,5,The man gave the book to the woman.
+1,5,do,long,indefinite,long,definite,2,The doctor handed a nurse who was standing in the hallway the form that contained patient information.
+2,0,po,short,definite,long,definite,4,The man gave the book to the woman who enjoyed birdwatching.
+50,8,do,long,definite,short,definite,4,The child kicked the playmate the ball that was on the grass.
+30,6,po,short,definite,short,definite,5,The professor granted the extension to the student.
+11,15,po,long,definite,long,definite,5,The salesman sold the car that had a lot of miles to the teenager who had come into some money.
+13,6,po,long,definite,long,definite,4,The professor granted the extension that was rarely allowed to the student who suffered from a rare illness.
+14,4,do,short,indefinite,long,indefinite,4,The lawyer sent a client who was awaiting trial a message.
+17,4,do,long,indefinite,long,indefinite,5,The lawyer sent a client who was awaiting trial a message that contained confidential information.
+37,12,po,long,definite,short,definite,3,The librarian loaned the novel that was about the future to the retiree.
+32,12,do,short,indefinite,long,definite,3,The librarian loaned a retiree who was looking for reading material the novel.
+23,10,do,long,indefinite,long,definite,4,The caterer brought a man who was in a nursing home the meal that was specially prepared.
+10,3,do,long,indefinite,long,definite,2,The mailman delivered a professor who lived in an apartment the package that contained a book.
+27,10,po,long,indefinite,long,indefinite,5,The caterer brought a meal that was specially prepared to a man who was in a nursing home.
+47,4,po,long,definite,long,indefinite,5,The lawyer sent a message that contained confidential information to the client who was awaiting trial.
+12,12,do,short,definite,long,indefinite,5,The librarian loaned the retiree who was looking for reading material a novel.
+18,9,do,long,indefinite,short,indefinite,2,The spy told an agent a secret that was highly sensitive.
+36,14,po,short,definite,short,definite,5,The teacher taught the song to the student.
+53,0,po,long,definite,long,indefinite,4,The man gave a book that was about birds to the woman who enjoyed birdwatching.
+25,4,po,short,definite,short,definite,5,The lawyer sent the message to the client.
+42,5,po,long,indefinite,long,indefinite,5,The doctor handed a form that contained patient information to a nurse who was standing in the hallway.
+28,12,do,short,definite,short,indefinite,4,The librarian loaned the retiree a novel.
+34,0,po,long,indefinite,short,definite,3,The man gave the book that was about birds to a woman.
+29,0,po,long,definite,long,indefinite,5,The man gave a book that was about birds to the woman who enjoyed birdwatching.
+16,1,do,long,definite,short,definite,5,The waiter handed the customer the cup that was full of water.
+49,15,do,long,indefinite,short,definite,5,The salesman sold a teenager the car that had a lot of miles.
+38,0,do,short,definite,long,indefinite,4,The man gave the woman who enjoyed birdwatching a book.
+54,0,do,long,definite,short,indefinite,5,The man gave the woman a book that was about birds.
+48,8,do,short,indefinite,short,indefinite,2,The child kicked a playmate a ball.
+39,4,do,short,definite,short,definite,5,The lawyer sent the client the message.
+46,9,do,short,definite,short,indefinite,5,The spy told the agent a secret.
+33,12,po,short,indefinite,short,definite,4,The librarian loaned the novel to a retiree.
+2,9,do,long,indefinite,short,indefinite,4,The spy told an agent a secret that was highly sensitive.
+35,8,do,long,definite,short,indefinite,5,The child kicked the playmate a ball that was on the grass.
+50,5,po,short,indefinite,short,indefinite,5,The doctor handed a form to a nurse.
+52,8,po,long,indefinite,long,definite,3,The child kicked the ball that was on the grass to a playmate who was several feet away.
+43,15,do,long,definite,short,indefinite,5,The salesman sold the teenager a car that had a lot of miles.
+6,9,do,long,indefinite,short,definite,5,The spy told an agent the secret that was highly sensitive.
+41,3,po,long,indefinite,long,indefinite,4,The mailman delivered a package that contained a book to a professor who lived in an apartment.
+23,6,do,short,indefinite,short,definite,5,The professor granted a student the extension.
+51,11,do,long,definite,short,definite,4,The nurse mailed the patient the report that was about the test results.
+9,4,do,long,indefinite,short,indefinite,4,The lawyer sent a client a message that contained confidential information.
+27,6,po,short,indefinite,short,indefinite,5,The professor granted an extension to a student.
+29,2,po,short,definite,long,indefinite,5,The quarterback threw a football to the teammate who was in the endzone.
+45,4,po,short,definite,long,indefinite,5,The lawyer sent a message to the client who was awaiting trial.
+40,11,do,short,indefinite,short,definite,2,The nurse mailed a patient the report.
+11,1,do,short,definite,short,definite,5,The waiter handed the customer the cup.
+47,12,do,short,definite,short,indefinite,5,The librarian loaned the retiree a novel.
+15,4,do,short,indefinite,long,definite,2,The lawyer sent a client who was awaiting trial the message.
+16,8,do,short,indefinite,short,indefinite,2,The child kicked a playmate a ball.
+49,4,do,short,definite,long,indefinite,4,The lawyer sent the client who was awaiting trial a message.
+31,13,po,short,indefinite,short,definite,5,The boss offered the raise to an employee.
+39,11,do,long,definite,short,indefinite,3,The nurse mailed the patient a report that was about the test results.
+50,9,do,long,definite,short,indefinite,4,The spy told the agent a secret that was highly sensitive.
+3,12,po,long,indefinite,long,definite,5,The librarian loaned the novel that was about the future to a retiree who was looking for reading material.
+30,1,do,short,indefinite,short,indefinite,5,The waiter handed a customer a cup.
+4,13,do,short,indefinite,short,indefinite,4,The boss offered an employee a raise.
+5,1,do,short,definite,long,indefinite,4,The waiter handed the customer who was sitting at the table a cup.
+21,13,po,long,indefinite,long,definite,2,The boss offered the raise that was long overdue to an employee who had been working for many years.
+37,5,po,short,definite,long,indefinite,4,The doctor handed a form to the nurse who was standing in the hallway.
+23,8,po,long,definite,long,definite,4,The child kicked the ball that was on the grass to the playmate who was several feet away.
+48,0,do,long,definite,long,indefinite,4,The man gave the woman who enjoyed birdwatching a book that was about birds.
+51,4,do,short,definite,long,indefinite,4,The lawyer sent the client who was awaiting trial a message.
+10,10,po,short,indefinite,long,indefinite,5,The caterer brought a meal to a man who was in a nursing home.
+33,2,do,long,definite,short,definite,2,The quarterback threw the teammate the football that was slightly deflated.
+27,7,do,long,definite,long,definite,4,The student showed the classmate who was studying for a final the report that she had written for a class.
+47,15,do,short,indefinite,short,definite,5,The salesman sold a teenager the car.
+12,14,do,short,definite,short,indefinite,5,The teacher taught the student a song.
+15,5,do,short,indefinite,long,indefinite,4,The doctor handed a nurse who was standing in the hallway a form.
+36,8,do,long,definite,short,definite,3,The child kicked the playmate the ball that was on the grass.
+53,2,po,short,definite,long,indefinite,5,The quarterback threw a football to the teammate who was in the endzone.
+22,0,do,short,definite,short,indefinite,5,The man gave the woman a book.
+39,1,do,long,definite,long,indefinite,3,The waiter handed the customer who was sitting at the table a cup that was full of water.
+50,15,po,short,definite,short,indefinite,5,The salesman sold a car to the teenager.
+43,8,do,short,definite,short,definite,4,The child kicked the playmate the ball.
+54,9,po,long,definite,short,definite,2,The spy told the secret that was highly sensitive to the agent.
+51,13,do,long,indefinite,long,definite,4,The boss offered an employee who had been working for many years the raise that was long overdue.
+34,10,po,short,definite,long,definite,4,The caterer brought the meal to the man who was in a nursing home.
+35,3,po,short,indefinite,short,definite,5,The mailman delivered the package to a professor.
+29,6,po,short,indefinite,long,indefinite,5,The professor granted an extension to a student who suffered from a rare illness.
+3,2,po,short,definite,long,definite,5,The quarterback threw the football to the teammate who was in the endzone.
+12,3,do,short,indefinite,short,definite,5,The mailman delivered a professor the package.
+6,13,po,short,indefinite,long,definite,5,The boss offered the raise to an employee who had been working for many years.
+19,5,do,long,definite,long,indefinite,4,The doctor handed the nurse who was standing in the hallway a form that contained patient information.
+20,3,po,short,definite,short,indefinite,5,The mailman delivered a package to the professor.
+38,9,po,short,definite,long,definite,4,The spy told the secret to the agent who was working for a foreign government.
+49,11,do,long,definite,short,definite,5,The nurse mailed the patient the report that was about the test results.
+18,4,do,long,definite,short,definite,2,The lawyer sent the client the message that contained confidential information.
+7,13,po,short,definite,long,definite,4,The boss offered the raise to the employee who had been working for many years.
+28,10,do,short,definite,long,indefinite,4,The caterer brought the man who was in a nursing home a meal.
+39,13,do,long,indefinite,long,indefinite,4,The boss offered an employee who had been working for many years a raise that was long overdue.
+4,11,do,short,indefinite,long,indefinite,3,The nurse mailed a patient who had some blood work done a report.
+5,8,po,long,indefinite,short,definite,4,The child kicked the ball that was on the grass to a playmate.
+17,12,po,short,indefinite,short,indefinite,4,The librarian loaned a novel to a retiree.
+36,6,do,long,definite,long,definite,5,The professor granted the student who suffered from a rare illness the extension that was rarely allowed.
+25,14,po,long,indefinite,short,definite,4,The teacher taught the song that was very catchy to a student.
+41,15,po,long,definite,short,indefinite,4,The salesman sold a car that had a lot of miles to the teenager.
+38,15,po,long,definite,long,definite,3,The salesman sold the car that had a lot of miles to the teenager who had come into some money.
+50,4,po,short,indefinite,short,definite,5,The lawyer sent the message to a client.
+29,5,po,short,indefinite,long,definite,5,The doctor handed the form to a nurse who was standing in the hallway.
+24,14,do,long,indefinite,long,definite,2,The teacher taught a student who had a strong singing voice the song that was very catchy.
+18,0,po,short,definite,long,definite,1,The man gave the book to the woman who enjoyed birdwatching.
+21,10,po,long,definite,long,indefinite,4,The caterer brought a meal that was specially prepared to the man who was in a nursing home.
+8,6,po,long,definite,long,definite,1,The professor granted the extension that was rarely allowed to the student who suffered from a rare illness.
+54,1,do,long,indefinite,long,definite,4,The waiter handed a customer who was sitting at the table the cup that was full of water.
+48,13,do,long,indefinite,short,definite,4,The boss offered an employee the raise that was long overdue.
+26,14,do,long,indefinite,long,definite,5,The teacher taught a student who had a strong singing voice the song that was very catchy.
+46,2,do,long,indefinite,long,definite,3,The quarterback threw a teammate who was in the endzone the football that was slightly deflated.
+13,7,po,long,definite,long,indefinite,5,The student showed a report that she had written for a class to the classmate who was studying for a final.
+14,15,do,short,definite,short,definite,4,The salesman sold the teenager the car.
+49,0,po,short,indefinite,short,indefinite,5,The man gave a book to a woman.
+17,14,do,long,definite,long,indefinite,5,The teacher taught the student who had a strong singing voice a song that was very catchy.
+31,2,do,long,definite,long,indefinite,4,The quarterback threw the teammate who was in the endzone a football that was slightly deflated.
+37,4,po,short,definite,long,definite,5,The lawyer sent the message to the client who was awaiting trial.
+22,1,do,short,indefinite,long,definite,2,The waiter handed a customer who was sitting at the table the cup.
+42,11,do,short,indefinite,long,indefinite,4,The nurse mailed a patient who had some blood work done a report.
+35,4,po,short,indefinite,short,indefinite,5,The lawyer sent a message to a client.
+50,0,po,long,indefinite,long,definite,4,The man gave the book that was about birds to a woman who enjoyed birdwatching.
+3,10,po,long,definite,short,definite,5,The caterer brought the meal that was specially prepared to the man.
+5,11,do,short,definite,short,indefinite,5,The nurse mailed the patient a report.
+52,15,do,short,indefinite,long,indefinite,3,The salesman sold a teenager who had come into some money a car.
+21,0,do,short,indefinite,short,indefinite,5,The man gave a woman a book.
+48,11,do,long,indefinite,long,definite,1,The nurse mailed a patient who had some blood work done the report that was about the test results.
+10,4,do,long,indefinite,long,indefinite,4,The lawyer sent a client who was awaiting trial a message that contained confidential information.
+1,11,po,short,indefinite,long,definite,5,The nurse mailed the report to a patient who had some blood work done.
+40,0,do,short,definite,short,indefinite,4,The man gave the woman a book.
+12,8,po,long,definite,short,indefinite,4,The child kicked a ball that was on the grass to the playmate.
+19,0,po,long,indefinite,short,definite,4,The man gave the book that was about birds to a woman.
+7,14,po,short,definite,long,indefinite,4,The teacher taught a song to the student who had a strong singing voice.
+53,11,po,long,indefinite,long,definite,4,The nurse mailed the report that was about the test results to a patient who had some blood work done.
+28,6,po,long,definite,short,indefinite,5,The professor granted an extension that was rarely allowed to the student.
+8,7,po,long,definite,long,indefinite,2,The student showed a report that she had written for a class to the classmate who was studying for a final.
+54,4,do,short,indefinite,long,indefinite,4,The lawyer sent a client who was awaiting trial a message.
+27,4,po,short,indefinite,long,indefinite,4,The lawyer sent a message to a client who was awaiting trial.
+4,15,po,long,definite,long,indefinite,5,The salesman sold a car that had a lot of miles to the teenager who had come into some money.
+11,12,do,short,indefinite,long,indefinite,4,The librarian loaned a retiree who was looking for reading material a novel.
+52,11,do,short,definite,long,indefinite,4,The nurse mailed the patient who had some blood work done a report.
+13,11,do,long,indefinite,short,indefinite,5,The nurse mailed a patient a report that was about the test results.
+14,10,do,long,indefinite,long,indefinite,3,The caterer brought a man who was in a nursing home a meal that was specially prepared.
+43,3,do,long,indefinite,long,indefinite,1,The mailman delivered a professor who lived in an apartment a package that contained a book.
+21,1,po,long,definite,long,definite,2,The waiter handed the cup that was full of water to the customer who was sitting at the table.
+51,1,do,long,definite,long,definite,4,The waiter handed the customer who was sitting at the table the cup that was full of water.
+9,6,do,short,definite,long,indefinite,3,The professor granted the student who suffered from a rare illness an extension.
+2,4,do,long,definite,short,definite,4,The lawyer sent the client the message that contained confidential information.
+34,9,do,long,indefinite,long,indefinite,3,The spy told an agent who was working for a foreign government a secret that was highly sensitive.
+16,12,do,long,indefinite,long,indefinite,5,The librarian loaned a retiree who was looking for reading material a novel that was about the future.
+49,9,do,short,indefinite,short,definite,5,The spy told an agent the secret.
+31,7,do,long,indefinite,short,definite,5,The student showed a classmate the report that she had written for a class.
+53,5,po,short,indefinite,long,definite,5,The doctor handed the form to a nurse who was standing in the hallway.
+38,3,po,long,definite,short,definite,4,The mailman delivered the package that contained a book to the professor.
+48,2,do,short,definite,long,indefinite,4,The quarterback threw the teammate who was in the endzone a football.
+50,6,do,long,definite,long,definite,2,The professor granted the student who suffered from a rare illness the extension that was rarely allowed.
+40,10,do,short,indefinite,long,indefinite,4,The caterer brought a man who was in a nursing home a meal.
+11,6,po,long,indefinite,long,indefinite,5,The professor granted an extension that was rarely allowed to a student who suffered from a rare illness.
+47,0,do,long,indefinite,short,indefinite,5,The man gave a woman a book that was about birds.
+52,1,do,long,indefinite,short,indefinite,3,The waiter handed a customer a cup that was full of water.
+6,15,po,short,indefinite,short,definite,5,The salesman sold the car to a teenager.
+23,1,do,long,definite,short,indefinite,4,The waiter handed the customer a cup that was full of water.
+51,9,do,short,indefinite,short,definite,4,The spy told an agent the secret.
+45,9,po,short,indefinite,short,definite,4,The spy told the secret to an agent.
+13,2,do,short,indefinite,long,definite,2,The quarterback threw a teammate who was in the endzone the football.
+19,6,do,long,definite,short,definite,2,The professor granted the student the extension that was rarely allowed.
+36,7,do,long,definite,long,indefinite,4,The student showed the classmate who was studying for a final a report that she had written for a class.
+41,1,do,short,indefinite,long,indefinite,4,The waiter handed a customer who was sitting at the table a cup.
+32,8,po,long,indefinite,short,definite,5,The child kicked the ball that was on the grass to a playmate.
+48,7,do,short,indefinite,short,definite,5,The student showed a classmate the report.
+39,12,do,long,indefinite,long,definite,2,The librarian loaned a retiree who was looking for reading material the novel that was about the future.
+26,6,do,short,definite,short,definite,5,The professor granted the student the extension.
+35,2,po,short,indefinite,long,indefinite,5,The quarterback threw a football to a teammate who was in the endzone.
+27,11,po,long,indefinite,short,definite,4,The nurse mailed the report that was about the test results to a patient.
+30,15,po,long,indefinite,long,indefinite,4,The salesman sold a car that had a lot of miles to a teenager who had come into some money.
+44,9,po,short,definite,short,indefinite,5,The spy told a secret to the agent.
+47,14,do,short,indefinite,long,indefinite,5,The teacher taught a student who had a strong singing voice a song.
+12,1,do,long,indefinite,short,definite,5,The waiter handed a customer the cup that was full of water.
+24,13,do,long,definite,short,indefinite,4,The boss offered the employee a raise that was long overdue.
+7,12,po,long,indefinite,short,indefinite,5,The librarian loaned a novel that was about the future to a retiree.
+22,3,po,long,indefinite,long,definite,5,The mailman delivered the package that contained a book to a professor who lived in an apartment.
+38,14,do,short,indefinite,short,indefinite,5,The teacher taught a student a song.
+46,6,do,short,definite,long,definite,4,The professor granted the student who suffered from a rare illness the extension.
+34,6,do,long,definite,short,definite,5,The professor granted the student the extension that was rarely allowed.
+5,15,do,short,indefinite,short,indefinite,4,The salesman sold a teenager a car.
+25,10,po,long,definite,short,definite,4,The caterer brought the meal that was specially prepared to the man.
+21,15,po,long,indefinite,short,definite,4,The salesman sold the car that had a lot of miles to a teenager.
+42,7,po,long,indefinite,short,indefinite,4,The student showed a report that she had written for a class to a classmate.
+8,0,do,long,indefinite,long,definite,1,The man gave a woman who enjoyed birdwatching the book that was about birds.
+39,9,do,short,indefinite,short,indefinite,4,The spy told an agent a secret.
+1,10,po,short,definite,short,indefinite,5,The caterer brought a meal to the man.
+50,3,po,short,indefinite,long,indefinite,4,The mailman delivered a package to a professor who lived in an apartment.
+44,13,po,long,definite,long,indefinite,4,The boss offered a raise that was long overdue to the employee who had been working for many years.
+12,9,po,long,indefinite,long,definite,5,The spy told the secret that was highly sensitive to an agent who was working for a foreign government.
+16,9,po,long,definite,long,definite,5,The spy told the secret that was highly sensitive to the agent who was working for a foreign government.
+31,1,po,short,definite,short,definite,5,The waiter handed the cup to the customer.
+36,4,po,short,indefinite,short,definite,5,The lawyer sent the message to a client.
+7,2,po,short,definite,short,indefinite,5,The quarterback threw a football to the teammate.
+54,14,do,short,definite,long,indefinite,4,The teacher taught the student who had a strong singing voice a song.
+17,11,po,short,indefinite,short,definite,5,The nurse mailed the report to a patient.
+6,7,do,long,indefinite,long,definite,4,The student showed a classmate who was studying for a final the report that she had written for a class.
+20,8,do,long,definite,long,definite,2,The child kicked the playmate who was several feet away the ball that was on the grass.
+10,6,do,long,indefinite,short,indefinite,5,The professor granted a student an extension that was rarely allowed.
+45,6,po,short,definite,short,indefinite,5,The professor granted an extension to the student.
+30,9,po,short,indefinite,long,indefinite,5,The spy told a secret to an agent who was working for a foreign government.
+4,6,po,long,indefinite,short,definite,2,The professor granted the extension that was rarely allowed to a student.
+52,6,po,long,definite,short,definite,3,The professor granted the extension that was rarely allowed to the student.
+31,5,do,long,indefinite,long,definite,4,The doctor handed a nurse who was standing in the hallway the form that contained patient information.
+36,15,po,short,definite,short,indefinite,5,The salesman sold a car to the teenager.
+38,6,po,long,indefinite,long,indefinite,5,The professor granted an extension that was rarely allowed to a student who suffered from a rare illness.
+54,6,do,short,indefinite,short,indefinite,5,The professor granted a student an extension.
+33,11,po,short,indefinite,long,indefinite,3,The nurse mailed a report to a patient who had some blood work done.
+34,14,po,short,indefinite,long,definite,5,The teacher taught the song to a student who had a strong singing voice.
+35,5,do,long,definite,long,definite,5,The doctor handed the nurse who was standing in the hallway the form that contained patient information.
+27,14,po,short,definite,long,indefinite,3,The teacher taught a song to the student who had a strong singing voice.
+12,10,do,long,indefinite,short,indefinite,5,The caterer brought a man a meal that was specially prepared.
+13,15,do,short,definite,short,indefinite,5,The salesman sold the teenager a car.
+15,9,po,long,definite,long,indefinite,3,The spy told a secret that was highly sensitive to the agent who was working for a foreign government.
+6,2,po,short,indefinite,short,indefinite,5,The quarterback threw a football to a teammate.
+7,10,po,long,indefinite,long,indefinite,4,The caterer brought a meal that was specially prepared to a man who was in a nursing home.
+53,15,po,short,definite,long,definite,NA,The salesman sold the car to the teenager who had come into some money.
+41,2,po,long,indefinite,long,definite,5,The quarterback threw the football that was slightly deflated to a teammate who was in the endzone.
+42,1,do,short,definite,short,indefinite,5,The waiter handed the customer a cup.
+48,15,do,short,definite,long,definite,2,The salesman sold the teenager who had come into some money the car.
+1,8,do,long,indefinite,short,indefinite,5,The child kicked a playmate a ball that was on the grass.
+16,6,do,short,indefinite,long,indefinite,5,The professor granted a student who suffered from a rare illness an extension.
+37,2,po,long,indefinite,short,definite,4,The quarterback threw the football that was slightly deflated to a teammate.
+22,4,po,long,indefinite,long,indefinite,5,The lawyer sent a message that contained confidential information to a client who was awaiting trial.
+54,13,do,short,definite,long,definite,4,The boss offered the employee who had been working for many years the raise.
+33,4,do,long,indefinite,long,definite,2,The lawyer sent a client who was awaiting trial the message that contained confidential information.
+29,12,po,long,indefinite,long,indefinite,5,The librarian loaned a novel that was about the future to a retiree who was looking for reading material.
+30,14,po,long,indefinite,long,definite,4,The teacher taught the song that was very catchy to a student who had a strong singing voice.
+43,11,po,short,indefinite,short,indefinite,5,The nurse mailed a report to a patient.
+53,9,do,long,definite,long,definite,4,The spy told the agent who was working for a foreign government the secret that was highly sensitive.
+48,5,do,short,indefinite,long,definite,2,The doctor handed a nurse who was standing in the hallway the form.
+26,11,do,long,definite,long,indefinite,5,The nurse mailed the patient who had some blood work done a report that was about the test results.
+34,15,po,short,indefinite,long,indefinite,4,The salesman sold a car to a teenager who had come into some money.
+27,15,po,short,definite,short,definite,5,The salesman sold the car to the teenager.
+45,10,po,long,definite,long,indefinite,4,The caterer brought a meal that was specially prepared to the man who was in a nursing home.
+44,12,po,long,definite,long,definite,4,The librarian loaned the novel that was about the future to the retiree who was looking for reading material.
+14,8,po,long,definite,long,indefinite,4,The child kicked a ball that was on the grass to the playmate who was several feet away.
+49,5,do,short,definite,short,definite,5,The doctor handed the nurse the form.
+31,15,do,long,definite,long,definite,4,The salesman sold the teenager who had come into some money the car that had a lot of miles.
+18,2,do,long,definite,long,definite,2,The quarterback threw the teammate who was in the endzone the football that was slightly deflated.
+41,8,po,short,definite,short,definite,4,The child kicked the ball to the playmate.
+51,12,do,long,definite,short,indefinite,5,The librarian loaned the retiree a novel that was about the future.
+3,1,po,long,definite,long,indefinite,5,The waiter handed a cup that was full of water to the customer who was sitting at the table.
+52,2,do,short,indefinite,short,definite,3,The quarterback threw a teammate the football.
+24,3,do,long,indefinite,short,indefinite,5,The mailman delivered a professor a package that contained a book.
+43,5,do,long,indefinite,short,indefinite,5,The doctor handed a nurse a form that contained patient information.
+36,10,po,long,indefinite,short,definite,4,The caterer brought the meal that was specially prepared to a man.
+53,14,po,long,indefinite,short,indefinite,5,The teacher taught a song that was very catchy to a student.
+37,9,po,short,indefinite,long,indefinite,4,The spy told a secret to an agent who was working for a foreign government.
+32,2,po,long,definite,long,definite,4,The quarterback threw the football that was slightly deflated to the teammate who was in the endzone.
+54,2,do,short,definite,short,indefinite,4,The quarterback threw the teammate a football.
+46,11,po,short,indefinite,short,indefinite,4,The nurse mailed a report to a patient.
+34,13,po,short,definite,short,indefinite,5,The boss offered a raise to the employee.
+27,9,do,long,definite,short,definite,3,The spy told the agent the secret that was highly sensitive.
+40,14,po,long,definite,long,indefinite,5,The teacher taught a song that was very catchy to the student who had a strong singing voice.
+12,11,do,short,definite,long,definite,5,The nurse mailed the patient who had some blood work done the report.
+14,13,do,short,definite,long,definite,3,The boss offered the employee who had been working for many years the raise.
+18,7,do,long,indefinite,long,indefinite,1,The student showed a classmate who was studying for a final a report that she had written for a class.
+22,5,po,long,indefinite,short,definite,5,The doctor handed the form that contained patient information to a nurse.
+8,4,do,short,indefinite,short,definite,2,The lawyer sent a client the message.
+23,2,do,short,definite,short,definite,4,The quarterback threw the teammate the football.
+29,1,po,long,definite,short,definite,5,The waiter handed the cup that was full of water to the customer.
+11,13,do,short,indefinite,short,definite,5,The boss offered an employee the raise.
+17,3,do,long,indefinite,long,definite,4,The mailman delivered a professor who lived in an apartment the package that contained a book.
+41,13,po,long,definite,long,indefinite,5,The boss offered a raise that was long overdue to the employee who had been working for many years.
+32,13,do,short,indefinite,long,indefinite,4,The boss offered an employee who had been working for many years a raise.
+54,8,po,long,definite,long,indefinite,4,The child kicked a ball that was on the grass to the playmate who was several feet away.
+10,14,do,long,definite,long,indefinite,3,The teacher taught the student who had a strong singing voice a song that was very catchy.
+34,4,do,long,definite,long,definite,3,The lawyer sent the client who was awaiting trial the message that contained confidential information.
+52,9,po,long,indefinite,long,indefinite,4,The spy told a secret that was highly sensitive to an agent who was working for a foreign government.
+14,0,do,long,definite,short,indefinite,1,The man gave the woman a book that was about birds.
+15,11,do,long,indefinite,long,indefinite,3,The nurse mailed a patient who had some blood work done a report that was about the test results.
+43,9,do,short,definite,short,indefinite,5,The spy told the agent a secret.
+31,12,po,short,indefinite,long,indefinite,5,The librarian loaned a novel to a retiree who was looking for reading material.
+18,8,do,long,indefinite,short,definite,2,The child kicked a playmate the ball that was on the grass.
+53,12,po,long,indefinite,long,indefinite,4,The librarian loaned a novel that was about the future to a retiree who was looking for reading material.
+21,8,po,short,indefinite,long,indefinite,4,The child kicked a ball to a playmate who was several feet away.
+48,9,po,long,definite,long,definite,3,The spy told the secret that was highly sensitive to the agent who was working for a foreign government.
+39,2,do,short,definite,long,definite,2,The quarterback threw the teammate who was in the endzone the football.
+2,13,po,short,indefinite,long,indefinite,4,The boss offered a raise to an employee who had been working for many years.
+29,14,po,long,indefinite,short,indefinite,5,The teacher taught a song that was very catchy to a student.
+30,8,po,short,indefinite,long,definite,5,The child kicked the ball to a playmate who was several feet away.
+44,15,po,long,definite,short,indefinite,5,The salesman sold a car that had a lot of miles to the teenager.
+4,2,po,long,definite,short,definite,5,The quarterback threw the football that was slightly deflated to the teammate.
+5,3,po,long,definite,long,indefinite,4,The mailman delivered a package that contained a book to the professor who lived in an apartment.
+28,5,po,long,definite,short,definite,4,The doctor handed the form that contained patient information to the nurse.
+51,14,do,long,indefinite,long,indefinite,4,The teacher taught a student who had a strong singing voice a song that was very catchy.
+9,7,do,short,definite,short,definite,5,The student showed the classmate the report.
+33,6,do,long,indefinite,short,definite,4,The professor granted a student the extension that was rarely allowed.
+13,13,do,short,definite,long,indefinite,5,The boss offered the employee who had been working for many years a raise.
+49,2,do,long,indefinite,short,indefinite,1,The quarterback threw a teammate a football that was slightly deflated.
+43,12,do,long,definite,long,definite,5,The librarian loaned the retiree who was looking for reading material the novel that was about the future.
+18,15,po,short,indefinite,short,indefinite,5,The salesman sold a car to a teenager.
+36,12,po,short,definite,long,definite,5,The librarian loaned the novel to the retiree who was looking for reading material.
+48,3,do,short,definite,short,definite,2,The mailman delivered the professor the package.
+39,5,do,short,definite,short,indefinite,5,The doctor handed the nurse a form.
+46,10,po,short,indefinite,short,definite,4,The caterer brought the meal to a man.
+1,6,do,long,indefinite,long,indefinite,4,The professor granted a student who suffered from a rare illness an extension that was rarely allowed.
+34,5,do,long,definite,long,indefinite,4,The doctor handed the nurse who was standing in the hallway a form that contained patient information.
+45,1,po,long,definite,long,definite,5,The waiter handed the cup that was full of water to the customer who was sitting at the table.
+44,4,po,long,indefinite,short,definite,4,The lawyer sent the message that contained confidential information to a client.
+11,0,do,short,definite,long,indefinite,5,The man gave the woman who enjoyed birdwatching a book.
+52,12,do,short,definite,short,definite,4,The librarian loaned the retiree the novel.
+6,0,po,long,indefinite,short,indefinite,4,The man gave a book that was about birds to a woman.
+21,14,po,long,indefinite,long,indefinite,4,The teacher taught a song that was very catchy to a student who had a strong singing voice.
+28,14,do,short,indefinite,long,indefinite,4,The teacher taught a student who had a strong singing voice a song.
+50,13,po,short,definite,long,indefinite,4,The boss offered a raise to the employee who had been working for many years.
+40,4,po,long,indefinite,long,indefinite,5,The lawyer sent a message that contained confidential information to a client who was awaiting trial.
+43,10,po,short,indefinite,short,definite,5,The caterer brought the meal to a man.
+31,14,po,short,indefinite,short,indefinite,5,The teacher taught a song to a student.
+37,13,po,long,definite,short,indefinite,4,The boss offered a raise that was long overdue to the employee.
+42,13,do,short,indefinite,short,indefinite,5,The boss offered an employee a raise.
+26,1,po,short,indefinite,short,indefinite,5,The waiter handed a cup to a customer.
+46,15,do,long,definite,short,indefinite,4,The salesman sold the teenager a car that had a lot of miles.
+52,10,do,short,definite,long,definite,3,The caterer brought the man who was in a nursing home the meal.
+14,7,po,long,definite,long,definite,4,The student showed the report that she had written for a class to the classmate who was studying for a final.
+15,6,do,short,indefinite,short,definite,5,The professor granted a student the extension.
+16,14,do,long,indefinite,short,indefinite,5,The teacher taught a student a song that was very catchy.
+24,11,do,long,definite,long,indefinite,4,The nurse mailed the patient who had some blood work done a report that was about the test results.
+6,3,do,long,definite,long,definite,2,The mailman delivered the professor who lived in an apartment the package that contained a book.
+19,4,do,long,definite,long,definite,2,The lawyer sent the client who was awaiting trial the message that contained confidential information.
+7,6,po,short,indefinite,short,indefinite,5,The professor granted an extension to a student.
+41,7,po,short,definite,long,indefinite,4,The student showed a report to the classmate who was studying for a final.
+38,4,po,long,definite,short,indefinite,5,The lawyer sent a message that contained confidential information to the client.
+32,4,po,long,definite,short,definite,5,The lawyer sent the message that contained confidential information to the client.
+54,12,do,long,indefinite,short,indefinite,5,The librarian loaned a retiree a novel that was about the future.
+10,5,do,long,indefinite,short,definite,5,The doctor handed a nurse the form that contained patient information.
+33,9,do,short,definite,long,indefinite,3,The spy told the agent who was working for a foreign government a secret.
+3,13,po,long,indefinite,long,indefinite,5,The boss offered a raise that was long overdue to an employee who had been working for many years.
+45,15,po,long,indefinite,short,definite,4,The salesman sold the car that had a lot of miles to a teenager.
+13,0,do,long,indefinite,long,definite,4,The man gave a woman who enjoyed birdwatching the book that was about birds.
+17,5,do,long,indefinite,short,definite,5,The doctor handed a nurse the form that contained patient information.
+2,3,do,long,definite,long,indefinite,1,The mailman delivered the professor who lived in an apartment a package that contained a book.
+35,10,po,long,indefinite,short,indefinite,5,The caterer brought a meal that was specially prepared to a man.
+44,10,do,short,indefinite,short,definite,4,The caterer brought a man the meal.
+40,12,do,short,indefinite,short,indefinite,5,The librarian loaned a retiree a novel.
+47,7,po,long,indefinite,long,definite,5,The student showed the report that she had written for a class to a classmate who was studying for a final.
+52,7,po,long,definite,short,indefinite,2,The student showed a report that she had written for a class to the classmate.
+15,8,po,long,definite,long,definite,4,The child kicked the ball that was on the grass to the playmate who was several feet away.
+49,1,do,long,definite,long,definite,3,The waiter handed the customer who was sitting at the table the cup that was full of water.
+6,10,po,short,definite,long,indefinite,5,The caterer brought a meal to the man who was in a nursing home.
+19,15,po,short,indefinite,long,indefinite,5,The salesman sold a car to a teenager who had come into some money.
+20,9,do,long,definite,long,indefinite,3,The spy told the agent who was working for a foreign government a secret that was highly sensitive.
+41,10,do,short,indefinite,short,definite,5,The caterer brought a man the meal.
+38,10,do,short,definite,short,indefinite,5,The caterer brought the man a meal.
+32,1,do,short,definite,long,indefinite,4,The waiter handed the customer who was sitting at the table a cup.
+1,7,do,long,indefinite,short,definite,NA,The student showed a classmate the report that she had written for a class.
+29,11,po,long,indefinite,long,definite,5,The nurse mailed the report that was about the test results to a patient who had some blood work done.
+4,12,do,short,indefinite,short,definite,4,The librarian loaned a retiree the novel.
+12,4,do,short,indefinite,short,indefinite,5,The lawyer sent a client a message.
+13,3,do,short,indefinite,long,indefinite,3,The mailman delivered a professor who lived in an apartment a package.
+16,4,do,short,definite,short,indefinite,5,The lawyer sent the client a message.
+53,10,po,long,definite,short,indefinite,3,The caterer brought a meal that was specially prepared to the man.
+23,4,do,short,indefinite,long,definite,1,The lawyer sent a client who was awaiting trial the message.
+51,2,do,long,indefinite,short,indefinite,4,The quarterback threw a teammate a football that was slightly deflated.
+40,6,po,long,indefinite,short,indefinite,5,The professor granted an extension that was rarely allowed to a student.
+15,13,do,long,indefinite,short,indefinite,5,The boss offered an employee a raise that was long overdue.
+31,10,po,short,definite,short,indefinite,5,The caterer brought a meal to the man.
+19,3,po,short,indefinite,short,indefinite,5,The mailman delivered a package to a professor.
+7,3,po,short,indefinite,long,definite,4,The mailman delivered the package to a professor who lived in an apartment.
+41,6,po,short,definite,long,definite,5,The professor granted the extension to the student who suffered from a rare illness.
+42,2,po,long,definite,short,definite,4,The quarterback threw the football that was slightly deflated to the teammate.
+8,3,do,short,indefinite,long,indefinite,1,The mailman delivered a professor who lived in an apartment a package.
+54,11,do,long,indefinite,short,definite,4,The nurse mailed a patient the report that was about the test results.
+48,12,do,long,indefinite,long,indefinite,3,The librarian loaned a retiree who was looking for reading material a novel that was about the future.
+2,6,do,long,indefinite,long,definite,2,The professor granted a student who suffered from a rare illness the extension that was rarely allowed.
+50,14,po,short,definite,short,definite,5,The teacher taught the song to the student.
+47,11,do,short,definite,short,definite,5,The nurse mailed the patient the report.
+45,12,po,long,definite,short,indefinite,5,The librarian loaned a novel that was about the future to the retiree.
+30,13,po,long,definite,short,indefinite,4,The boss offered a raise that was long overdue to the employee.
+14,14,do,short,definite,long,indefinite,4,The teacher taught the student who had a strong singing voice a song.
+53,6,po,short,indefinite,long,indefinite,5,The professor granted an extension to a student who suffered from a rare illness.
+42,14,po,long,definite,long,definite,5,The teacher taught the song that was very catchy to the student who had a strong singing voice.
+23,13,do,long,indefinite,short,indefinite,5,The boss offered an employee a raise that was long overdue.
+39,6,do,short,indefinite,long,definite,5,The professor granted a student who suffered from a rare illness the extension.
+51,3,do,short,definite,long,definite,2,The mailman delivered the professor who lived in an apartment the package.
+10,9,do,short,definite,short,definite,4,The spy told the agent the secret.
+3,15,po,long,indefinite,short,indefinite,5,The salesman sold a car that had a lot of miles to a teenager.
+44,6,po,short,definite,long,definite,5,The professor granted the extension to the student who suffered from a rare illness.
+40,7,po,short,definite,long,definite,5,The student showed the report to the classmate who was studying for a final.
+52,14,do,short,indefinite,long,definite,3,The teacher taught a student who had a strong singing voice the song.
+15,7,do,short,indefinite,short,indefinite,4,The student showed a classmate a report.
+49,7,do,short,indefinite,long,definite,2,The student showed a classmate who was studying for a final the report.
+6,8,do,long,indefinite,long,indefinite,1,The child kicked a playmate who was several feet away a ball that was on the grass.
+8,13,do,short,definite,long,indefinite,2,The boss offered the employee who had been working for many years a raise.

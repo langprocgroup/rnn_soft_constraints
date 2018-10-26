@@ -1,0 +1,1421 @@
+	sent_index	word_index	word	region	condition
+0	0	0	I	Intro	s_indef_short
+1	0	1	forgot	Intro	s_indef_short
+2	0	2	a	Indef Possessor	s_indef_short
+3	0	3	movie	Indef Possessor	s_indef_short
+4	0	4	's	S	s_indef_short
+5	0	5	title	Possessum	s_indef_short
+6	0	7	.	End	s_indef_short
+7	0	8	<eos>	End	s_indef_short
+8	1	0	I	Intro	s_indef_short
+9	1	1	remembered	Intro	s_indef_short
+10	1	2	a	Indef Possessor	s_indef_short
+11	1	3	professor	Indef Possessor	s_indef_short
+12	1	4	's	S	s_indef_short
+13	1	5	face	Possessum	s_indef_short
+14	1	7	.	End	s_indef_short
+15	1	8	<eos>	End	s_indef_short
+16	2	0	I	Intro	s_indef_short
+17	2	1	know	Intro	s_indef_short
+18	2	2	a	Indef Possessor	s_indef_short
+19	2	3	university	Indef Possessor	s_indef_short
+20	2	4	's	S	s_indef_short
+21	2	5	president	Possessum	s_indef_short
+22	2	7	.	End	s_indef_short
+23	2	8	<eos>	End	s_indef_short
+24	3	0	I	Intro	s_indef_short
+25	3	1	met	Intro	s_indef_short
+26	3	2	a	Indef Possessor	s_indef_short
+27	3	3	man	Indef Possessor	s_indef_short
+28	3	4	's	S	s_indef_short
+29	3	5	wife	Possessum	s_indef_short
+30	3	7	.	End	s_indef_short
+31	3	8	<eos>	End	s_indef_short
+32	4	0	I	Intro	s_indef_short
+33	4	1	watched	Intro	s_indef_short
+34	4	2	a	Indef Possessor	s_indef_short
+35	4	3	television	Indef Possessor	s_indef_short
+36	4	4	's	S	s_indef_short
+37	4	5	screen	Possessum	s_indef_short
+38	4	7	.	End	s_indef_short
+39	4	8	<eos>	End	s_indef_short
+40	5	0	I	Intro	s_indef_short
+41	5	1	got	Intro	s_indef_short
+42	5	2	a	Indef Possessor	s_indef_short
+43	5	3	celebrity	Indef Possessor	s_indef_short
+44	5	4	's	S	s_indef_short
+45	5	5	autograph	Possessum	s_indef_short
+46	5	7	.	End	s_indef_short
+47	5	8	<eos>	End	s_indef_short
+48	6	0	I	Intro	s_indef_short
+49	6	1	saw	Intro	s_indef_short
+50	6	2	a	Indef Possessor	s_indef_short
+51	6	3	car	Indef Possessor	s_indef_short
+52	6	4	's	S	s_indef_short
+53	6	5	driver	Possessum	s_indef_short
+54	6	7	.	End	s_indef_short
+55	6	8	<eos>	End	s_indef_short
+56	7	0	I	Intro	s_indef_short
+57	7	1	knew	Intro	s_indef_short
+58	7	2	a	Indef Possessor	s_indef_short
+59	7	3	doctor	Indef Possessor	s_indef_short
+60	7	4	's	S	s_indef_short
+61	7	5	patient	Possessum	s_indef_short
+62	7	7	.	End	s_indef_short
+63	7	8	<eos>	End	s_indef_short
+64	8	0	I	Intro	s_indef_short
+65	8	1	opened	Intro	s_indef_short
+66	8	2	a	Indef Possessor	s_indef_short
+67	8	3	cabin	Indef Possessor	s_indef_short
+68	8	4	's	S	s_indef_short
+69	8	5	door	Possessum	s_indef_short
+70	8	7	.	End	s_indef_short
+71	8	8	<eos>	End	s_indef_short
+72	9	0	I	Intro	s_indef_short
+73	9	1	read	Intro	s_indef_short
+74	9	2	a	Indef Possessor	s_indef_short
+75	9	3	lawyer	Indef Possessor	s_indef_short
+76	9	4	's	S	s_indef_short
+77	9	5	book	Possessum	s_indef_short
+78	9	7	.	End	s_indef_short
+79	9	8	<eos>	End	s_indef_short
+80	10	0	I	Intro	s_indef_short
+81	10	1	yelled	Intro	s_indef_short
+82	10	2	at	Intro	s_indef_short
+83	10	3	a	Indef Possessor	s_indef_short
+84	10	4	boat	Indef Possessor	s_indef_short
+85	10	5	's	S	s_indef_short
+86	10	6	owner	Possessum	s_indef_short
+87	10	8	.	End	s_indef_short
+88	10	9	<eos>	End	s_indef_short
+89	11	0	I	Intro	s_indef_short
+90	11	1	encountered	Intro	s_indef_short
+91	11	2	a	Indef Possessor	s_indef_short
+92	11	3	client	Indef Possessor	s_indef_short
+93	11	4	's	S	s_indef_short
+94	11	5	lawyer	Possessum	s_indef_short
+95	11	7	.	End	s_indef_short
+96	11	8	<eos>	End	s_indef_short
+97	12	0	I	Intro	s_indef_short
+98	12	1	smelled	Intro	s_indef_short
+99	12	2	a	Indef Possessor	s_indef_short
+100	12	3	tree	Indef Possessor	s_indef_short
+101	12	4	's	S	s_indef_short
+102	12	5	flowers	Possessum	s_indef_short
+103	12	7	.	End	s_indef_short
+104	12	8	<eos>	End	s_indef_short
+105	13	0	I	Intro	s_indef_short
+106	13	1	took	Intro	s_indef_short
+107	13	2	a	Indef Possessor	s_indef_short
+108	13	3	child	Indef Possessor	s_indef_short
+109	13	4	's	S	s_indef_short
+110	13	5	toy	Possessum	s_indef_short
+111	13	7	.	End	s_indef_short
+112	13	8	<eos>	End	s_indef_short
+113	14	0	I	Intro	s_indef_short
+114	14	1	hated	Intro	s_indef_short
+115	14	2	a	Indef Possessor	s_indef_short
+116	14	3	store	Indef Possessor	s_indef_short
+117	14	4	's	S	s_indef_short
+118	14	5	manager	Possessum	s_indef_short
+119	14	7	.	End	s_indef_short
+120	14	8	<eos>	End	s_indef_short
+121	15	0	I	Intro	s_indef_short
+122	15	1	loved	Intro	s_indef_short
+123	15	2	a	Indef Possessor	s_indef_short
+124	15	3	policeman	Indef Possessor	s_indef_short
+125	15	4	's	S	s_indef_short
+126	15	5	sister	Possessum	s_indef_short
+127	15	7	.	End	s_indef_short
+128	15	8	<eos>	End	s_indef_short
+129	0	0	I	Intro	s_indef_long
+130	0	1	forgot	Intro	s_indef_long
+131	0	2	a	Indef Possessor	s_indef_long
+132	0	3	movie	Indef Possessor	s_indef_long
+133	0	4	that	Possessor Modifier	s_indef_long
+134	0	5	I	Possessor Modifier	s_indef_long
+135	0	6	saw	Possessor Modifier	s_indef_long
+136	0	7	yesterday	Possessor Modifier	s_indef_long
+137	0	8	's	S	s_indef_long
+138	0	9	title	Possessum	s_indef_long
+139	0	11	.	End	s_indef_long
+140	0	12	<eos>	End	s_indef_long
+141	1	0	I	Intro	s_indef_long
+142	1	1	remembered	Intro	s_indef_long
+143	1	2	a	Indef Possessor	s_indef_long
+144	1	3	professor	Indef Possessor	s_indef_long
+145	1	4	who	Possessor Modifier	s_indef_long
+146	1	5	I	Possessor Modifier	s_indef_long
+147	1	6	met	Possessor Modifier	s_indef_long
+148	1	7	two	Possessor Modifier	s_indef_long
+149	1	8	days	Possessor Modifier	s_indef_long
+150	1	9	ago	Possessor Modifier	s_indef_long
+151	1	10	's	S	s_indef_long
+152	1	11	face	Possessum	s_indef_long
+153	1	13	.	End	s_indef_long
+154	1	14	<eos>	End	s_indef_long
+155	2	0	I	Intro	s_indef_long
+156	2	1	know	Intro	s_indef_long
+157	2	2	a	Indef Possessor	s_indef_long
+158	2	3	university	Indef Possessor	s_indef_long
+159	2	4	that	Possessor Modifier	s_indef_long
+160	2	5	is	Possessor Modifier	s_indef_long
+161	2	6	in	Possessor Modifier	s_indef_long
+162	2	7	Maryland	Possessor Modifier	s_indef_long
+163	2	8	's	S	s_indef_long
+164	2	9	president	Possessum	s_indef_long
+165	2	11	.	End	s_indef_long
+166	2	12	<eos>	End	s_indef_long
+167	3	0	I	Intro	s_indef_long
+168	3	1	met	Intro	s_indef_long
+169	3	2	a	Indef Possessor	s_indef_long
+170	3	3	man	Indef Possessor	s_indef_long
+171	3	4	who	Possessor Modifier	s_indef_long
+172	3	5	worked	Possessor Modifier	s_indef_long
+173	3	6	at	Possessor Modifier	s_indef_long
+174	3	7	the	Possessor Modifier	s_indef_long
+175	3	8	store	Possessor Modifier	s_indef_long
+176	3	9	's	S	s_indef_long
+177	3	10	wife	Possessum	s_indef_long
+178	3	12	.	End	s_indef_long
+179	3	13	<eos>	End	s_indef_long
+180	4	0	I	Intro	s_indef_long
+181	4	1	watched	Intro	s_indef_long
+182	4	2	a	Indef Possessor	s_indef_long
+183	4	3	television	Indef Possessor	s_indef_long
+184	4	4	that	Possessor Modifier	s_indef_long
+185	4	5	was	Possessor Modifier	s_indef_long
+186	4	6	very	Possessor Modifier	s_indef_long
+187	4	7	large	Possessor Modifier	s_indef_long
+188	4	8	's	S	s_indef_long
+189	4	9	screen	Possessum	s_indef_long
+190	4	11	.	End	s_indef_long
+191	4	12	<eos>	End	s_indef_long
+192	5	0	I	Intro	s_indef_long
+193	5	1	got	Intro	s_indef_long
+194	5	2	a	Indef Possessor	s_indef_long
+195	5	3	celebrity	Indef Possessor	s_indef_long
+196	5	4	who	Possessor Modifier	s_indef_long
+197	5	5	was	Possessor Modifier	s_indef_long
+198	5	6	in	Possessor Modifier	s_indef_long
+199	5	7	a	Possessor Modifier	s_indef_long
+200	5	8	lot	Possessor Modifier	s_indef_long
+201	5	9	of	Possessor Modifier	s_indef_long
+202	5	10	movies	Possessor Modifier	s_indef_long
+203	5	11	's	S	s_indef_long
+204	5	12	autograph	Possessum	s_indef_long
+205	5	14	.	End	s_indef_long
+206	5	15	<eos>	End	s_indef_long
+207	6	0	I	Intro	s_indef_long
+208	6	1	saw	Intro	s_indef_long
+209	6	2	a	Indef Possessor	s_indef_long
+210	6	3	car	Indef Possessor	s_indef_long
+211	6	4	that	Possessor Modifier	s_indef_long
+212	6	5	was	Possessor Modifier	s_indef_long
+213	6	6	speeding	Possessor Modifier	s_indef_long
+214	6	7	down	Possessor Modifier	s_indef_long
+215	6	8	the	Possessor Modifier	s_indef_long
+216	6	9	street	Possessor Modifier	s_indef_long
+217	6	10	's	S	s_indef_long
+218	6	11	driver	Possessum	s_indef_long
+219	6	13	.	End	s_indef_long
+220	6	14	<eos>	End	s_indef_long
+221	7	0	I	Intro	s_indef_long
+222	7	1	knew	Intro	s_indef_long
+223	7	2	a	Indef Possessor	s_indef_long
+224	7	3	doctor	Indef Possessor	s_indef_long
+225	7	4	who	Possessor Modifier	s_indef_long
+226	7	5	worked	Possessor Modifier	s_indef_long
+227	7	6	in	Possessor Modifier	s_indef_long
+228	7	7	the	Possessor Modifier	s_indef_long
+229	7	8	hospital	Possessor Modifier	s_indef_long
+230	7	9	's	S	s_indef_long
+231	7	10	patient	Possessum	s_indef_long
+232	7	12	.	End	s_indef_long
+233	7	13	<eos>	End	s_indef_long
+234	8	0	I	Intro	s_indef_long
+235	8	1	opened	Intro	s_indef_long
+236	8	2	a	Indef Possessor	s_indef_long
+237	8	3	cabin	Indef Possessor	s_indef_long
+238	8	4	that	Possessor Modifier	s_indef_long
+239	8	5	was	Possessor Modifier	s_indef_long
+240	8	6	in	Possessor Modifier	s_indef_long
+241	8	7	the	Possessor Modifier	s_indef_long
+242	8	8	woods	Possessor Modifier	s_indef_long
+243	8	9	's	S	s_indef_long
+244	8	10	door	Possessum	s_indef_long
+245	8	12	.	End	s_indef_long
+246	8	13	<eos>	End	s_indef_long
+247	9	0	I	Intro	s_indef_long
+248	9	1	read	Intro	s_indef_long
+249	9	2	a	Indef Possessor	s_indef_long
+250	9	3	lawyer	Indef Possessor	s_indef_long
+251	9	4	who	Possessor Modifier	s_indef_long
+252	9	5	was	Possessor Modifier	s_indef_long
+253	9	6	from	Possessor Modifier	s_indef_long
+254	9	7	France	Possessor Modifier	s_indef_long
+255	9	8	's	S	s_indef_long
+256	9	9	book	Possessum	s_indef_long
+257	9	11	.	End	s_indef_long
+258	9	12	<eos>	End	s_indef_long
+259	10	0	I	Intro	s_indef_long
+260	10	1	yelled	Intro	s_indef_long
+261	10	2	at	Intro	s_indef_long
+262	10	3	a	Indef Possessor	s_indef_long
+263	10	4	boat	Indef Possessor	s_indef_long
+264	10	5	that	Possessor Modifier	s_indef_long
+265	10	6	crashed	Possessor Modifier	s_indef_long
+266	10	7	into	Possessor Modifier	s_indef_long
+267	10	8	the	Possessor Modifier	s_indef_long
+268	10	9	pier	Possessor Modifier	s_indef_long
+269	10	10	's	S	s_indef_long
+270	10	11	owner	Possessum	s_indef_long
+271	10	13	.	End	s_indef_long
+272	10	14	<eos>	End	s_indef_long
+273	11	0	I	Intro	s_indef_long
+274	11	1	encountered	Intro	s_indef_long
+275	11	2	a	Indef Possessor	s_indef_long
+276	11	3	client	Indef Possessor	s_indef_long
+277	11	4	who	Possessor Modifier	s_indef_long
+278	11	5	was	Possessor Modifier	s_indef_long
+279	11	6	guilty	Possessor Modifier	s_indef_long
+280	11	7	of	Possessor Modifier	s_indef_long
+281	11	8	a	Possessor Modifier	s_indef_long
+282	11	9	crime	Possessor Modifier	s_indef_long
+283	11	10	's	S	s_indef_long
+284	11	11	lawyer	Possessum	s_indef_long
+285	11	13	.	End	s_indef_long
+286	11	14	<eos>	End	s_indef_long
+287	12	0	I	Intro	s_indef_long
+288	12	1	smelled	Intro	s_indef_long
+289	12	2	a	Indef Possessor	s_indef_long
+290	12	3	tree	Indef Possessor	s_indef_long
+291	12	4	that	Possessor Modifier	s_indef_long
+292	12	5	was	Possessor Modifier	s_indef_long
+293	12	6	in	Possessor Modifier	s_indef_long
+294	12	7	the	Possessor Modifier	s_indef_long
+295	12	8	woods	Possessor Modifier	s_indef_long
+296	12	9	's	S	s_indef_long
+297	12	10	flowers	Possessum	s_indef_long
+298	12	12	.	End	s_indef_long
+299	12	13	<eos>	End	s_indef_long
+300	13	0	I	Intro	s_indef_long
+301	13	1	took	Intro	s_indef_long
+302	13	2	a	Indef Possessor	s_indef_long
+303	13	3	child	Indef Possessor	s_indef_long
+304	13	4	who	Possessor Modifier	s_indef_long
+305	13	5	was	Possessor Modifier	s_indef_long
+306	13	6	in	Possessor Modifier	s_indef_long
+307	13	7	first	Possessor Modifier	s_indef_long
+308	13	8	grade	Possessor Modifier	s_indef_long
+309	13	9	's	S	s_indef_long
+310	13	10	toy	Possessum	s_indef_long
+311	13	12	.	End	s_indef_long
+312	13	13	<eos>	End	s_indef_long
+313	14	0	I	Intro	s_indef_long
+314	14	1	hated	Intro	s_indef_long
+315	14	2	a	Indef Possessor	s_indef_long
+316	14	3	store	Indef Possessor	s_indef_long
+317	14	4	that	Possessor Modifier	s_indef_long
+318	14	5	was	Possessor Modifier	s_indef_long
+319	14	6	around	Possessor Modifier	s_indef_long
+320	14	7	the	Possessor Modifier	s_indef_long
+321	14	8	corner	Possessor Modifier	s_indef_long
+322	14	9	's	S	s_indef_long
+323	14	10	manager	Possessum	s_indef_long
+324	14	12	.	End	s_indef_long
+325	14	13	<eos>	End	s_indef_long
+326	15	0	I	Intro	s_indef_long
+327	15	1	loved	Intro	s_indef_long
+328	15	2	a	Indef Possessor	s_indef_long
+329	15	3	policeman	Indef Possessor	s_indef_long
+330	15	4	who	Possessor Modifier	s_indef_long
+331	15	5	was	Possessor Modifier	s_indef_long
+332	15	6	patrolling	Possessor Modifier	s_indef_long
+333	15	7	the	Possessor Modifier	s_indef_long
+334	15	8	neighborhood	Possessor Modifier	s_indef_long
+335	15	9	's	S	s_indef_long
+336	15	10	sister	Possessum	s_indef_long
+337	15	12	.	End	s_indef_long
+338	15	13	<eos>	End	s_indef_long
+339	0	0	I	Intro	s_def_short
+340	0	1	forgot	Intro	s_def_short
+341	0	2	the	Def Possessor	s_def_short
+342	0	3	movie	Def Possessor	s_def_short
+343	0	4	's	S	s_def_short
+344	0	5	title	Possessum	s_def_short
+345	0	7	.	End	s_def_short
+346	0	8	<eos>	End	s_def_short
+347	1	0	I	Intro	s_def_short
+348	1	1	remembered	Intro	s_def_short
+349	1	2	the	Def Possessor	s_def_short
+350	1	3	professor	Def Possessor	s_def_short
+351	1	4	's	S	s_def_short
+352	1	5	face	Possessum	s_def_short
+353	1	7	.	End	s_def_short
+354	1	8	<eos>	End	s_def_short
+355	2	0	I	Intro	s_def_short
+356	2	1	know	Intro	s_def_short
+357	2	2	the	Def Possessor	s_def_short
+358	2	3	university	Def Possessor	s_def_short
+359	2	4	's	S	s_def_short
+360	2	5	president	Possessum	s_def_short
+361	2	7	.	End	s_def_short
+362	2	8	<eos>	End	s_def_short
+363	3	0	I	Intro	s_def_short
+364	3	1	met	Intro	s_def_short
+365	3	2	the	Def Possessor	s_def_short
+366	3	3	man	Def Possessor	s_def_short
+367	3	4	's	S	s_def_short
+368	3	5	wife	Possessum	s_def_short
+369	3	7	.	End	s_def_short
+370	3	8	<eos>	End	s_def_short
+371	4	0	I	Intro	s_def_short
+372	4	1	watched	Intro	s_def_short
+373	4	2	the	Def Possessor	s_def_short
+374	4	3	television	Def Possessor	s_def_short
+375	4	4	's	S	s_def_short
+376	4	5	screen	Possessum	s_def_short
+377	4	7	.	End	s_def_short
+378	4	8	<eos>	End	s_def_short
+379	5	0	I	Intro	s_def_short
+380	5	1	got	Intro	s_def_short
+381	5	2	the	Def Possessor	s_def_short
+382	5	3	celebrity	Def Possessor	s_def_short
+383	5	4	's	S	s_def_short
+384	5	5	autograph	Possessum	s_def_short
+385	5	7	.	End	s_def_short
+386	5	8	<eos>	End	s_def_short
+387	6	0	I	Intro	s_def_short
+388	6	1	saw	Intro	s_def_short
+389	6	2	the	Def Possessor	s_def_short
+390	6	3	car	Def Possessor	s_def_short
+391	6	4	's	S	s_def_short
+392	6	5	driver	Possessum	s_def_short
+393	6	7	.	End	s_def_short
+394	6	8	<eos>	End	s_def_short
+395	7	0	I	Intro	s_def_short
+396	7	1	knew	Intro	s_def_short
+397	7	2	the	Def Possessor	s_def_short
+398	7	3	doctor	Def Possessor	s_def_short
+399	7	4	's	S	s_def_short
+400	7	5	patient	Possessum	s_def_short
+401	7	7	.	End	s_def_short
+402	7	8	<eos>	End	s_def_short
+403	8	0	I	Intro	s_def_short
+404	8	1	opened	Intro	s_def_short
+405	8	2	the	Def Possessor	s_def_short
+406	8	3	cabin	Def Possessor	s_def_short
+407	8	4	's	S	s_def_short
+408	8	5	door	Possessum	s_def_short
+409	8	7	.	End	s_def_short
+410	8	8	<eos>	End	s_def_short
+411	9	0	I	Intro	s_def_short
+412	9	1	read	Intro	s_def_short
+413	9	2	the	Def Possessor	s_def_short
+414	9	3	lawyer	Def Possessor	s_def_short
+415	9	4	's	S	s_def_short
+416	9	5	book	Possessum	s_def_short
+417	9	7	.	End	s_def_short
+418	9	8	<eos>	End	s_def_short
+419	10	0	I	Intro	s_def_short
+420	10	1	yelled	Intro	s_def_short
+421	10	2	at	Intro	s_def_short
+422	10	3	the	Def Possessor	s_def_short
+423	10	4	boat	Def Possessor	s_def_short
+424	10	5	's	S	s_def_short
+425	10	6	owner	Possessum	s_def_short
+426	10	8	.	End	s_def_short
+427	10	9	<eos>	End	s_def_short
+428	11	0	I	Intro	s_def_short
+429	11	1	encountered	Intro	s_def_short
+430	11	2	the	Def Possessor	s_def_short
+431	11	3	client	Def Possessor	s_def_short
+432	11	4	's	S	s_def_short
+433	11	5	lawyer	Possessum	s_def_short
+434	11	7	.	End	s_def_short
+435	11	8	<eos>	End	s_def_short
+436	12	0	I	Intro	s_def_short
+437	12	1	smelled	Intro	s_def_short
+438	12	2	the	Def Possessor	s_def_short
+439	12	3	tree	Def Possessor	s_def_short
+440	12	4	's	S	s_def_short
+441	12	5	flowers	Possessum	s_def_short
+442	12	7	.	End	s_def_short
+443	12	8	<eos>	End	s_def_short
+444	13	0	I	Intro	s_def_short
+445	13	1	took	Intro	s_def_short
+446	13	2	the	Def Possessor	s_def_short
+447	13	3	child	Def Possessor	s_def_short
+448	13	4	's	S	s_def_short
+449	13	5	toy	Possessum	s_def_short
+450	13	7	.	End	s_def_short
+451	13	8	<eos>	End	s_def_short
+452	14	0	I	Intro	s_def_short
+453	14	1	hated	Intro	s_def_short
+454	14	2	the	Def Possessor	s_def_short
+455	14	3	store	Def Possessor	s_def_short
+456	14	4	's	S	s_def_short
+457	14	5	manager	Possessum	s_def_short
+458	14	7	.	End	s_def_short
+459	14	8	<eos>	End	s_def_short
+460	15	0	I	Intro	s_def_short
+461	15	1	loved	Intro	s_def_short
+462	15	2	the	Def Possessor	s_def_short
+463	15	3	policeman	Def Possessor	s_def_short
+464	15	4	's	S	s_def_short
+465	15	5	sister	Possessum	s_def_short
+466	15	7	.	End	s_def_short
+467	15	8	<eos>	End	s_def_short
+468	0	0	I	Intro	s_def_long
+469	0	1	forgot	Intro	s_def_long
+470	0	2	the	Def Possessor	s_def_long
+471	0	3	movie	Def Possessor	s_def_long
+472	0	4	that	Possessor Modifier	s_def_long
+473	0	5	I	Possessor Modifier	s_def_long
+474	0	6	saw	Possessor Modifier	s_def_long
+475	0	7	yesterday	Possessor Modifier	s_def_long
+476	0	8	's	S	s_def_long
+477	0	9	title	Possessum	s_def_long
+478	0	11	.	End	s_def_long
+479	0	12	<eos>	End	s_def_long
+480	1	0	I	Intro	s_def_long
+481	1	1	remembered	Intro	s_def_long
+482	1	2	the	Def Possessor	s_def_long
+483	1	3	professor	Def Possessor	s_def_long
+484	1	4	who	Possessor Modifier	s_def_long
+485	1	5	I	Possessor Modifier	s_def_long
+486	1	6	met	Possessor Modifier	s_def_long
+487	1	7	two	Possessor Modifier	s_def_long
+488	1	8	days	Possessor Modifier	s_def_long
+489	1	9	ago	Possessor Modifier	s_def_long
+490	1	10	's	S	s_def_long
+491	1	11	face	Possessum	s_def_long
+492	1	13	.	End	s_def_long
+493	1	14	<eos>	End	s_def_long
+494	2	0	I	Intro	s_def_long
+495	2	1	know	Intro	s_def_long
+496	2	2	the	Def Possessor	s_def_long
+497	2	3	university	Def Possessor	s_def_long
+498	2	4	that	Possessor Modifier	s_def_long
+499	2	5	is	Possessor Modifier	s_def_long
+500	2	6	in	Possessor Modifier	s_def_long
+501	2	7	Maryland	Possessor Modifier	s_def_long
+502	2	8	's	S	s_def_long
+503	2	9	president	Possessum	s_def_long
+504	2	11	.	End	s_def_long
+505	2	12	<eos>	End	s_def_long
+506	3	0	I	Intro	s_def_long
+507	3	1	met	Intro	s_def_long
+508	3	2	the	Def Possessor	s_def_long
+509	3	3	man	Def Possessor	s_def_long
+510	3	4	who	Possessor Modifier	s_def_long
+511	3	5	worked	Possessor Modifier	s_def_long
+512	3	6	at	Possessor Modifier	s_def_long
+513	3	7	the	Possessor Modifier	s_def_long
+514	3	8	store	Possessor Modifier	s_def_long
+515	3	9	's	S	s_def_long
+516	3	10	wife	Possessum	s_def_long
+517	3	12	.	End	s_def_long
+518	3	13	<eos>	End	s_def_long
+519	4	0	I	Intro	s_def_long
+520	4	1	watched	Intro	s_def_long
+521	4	2	the	Def Possessor	s_def_long
+522	4	3	television	Def Possessor	s_def_long
+523	4	4	that	Possessor Modifier	s_def_long
+524	4	5	was	Possessor Modifier	s_def_long
+525	4	6	very	Possessor Modifier	s_def_long
+526	4	7	large	Possessor Modifier	s_def_long
+527	4	8	's	S	s_def_long
+528	4	9	screen	Possessum	s_def_long
+529	4	11	.	End	s_def_long
+530	4	12	<eos>	End	s_def_long
+531	5	0	I	Intro	s_def_long
+532	5	1	got	Intro	s_def_long
+533	5	2	the	Def Possessor	s_def_long
+534	5	3	celebrity	Def Possessor	s_def_long
+535	5	4	who	Possessor Modifier	s_def_long
+536	5	5	was	Possessor Modifier	s_def_long
+537	5	6	in	Possessor Modifier	s_def_long
+538	5	7	a	Possessor Modifier	s_def_long
+539	5	8	lot	Possessor Modifier	s_def_long
+540	5	9	of	Possessor Modifier	s_def_long
+541	5	10	movies	Possessor Modifier	s_def_long
+542	5	11	's	S	s_def_long
+543	5	12	autograph	Possessum	s_def_long
+544	5	14	.	End	s_def_long
+545	5	15	<eos>	End	s_def_long
+546	6	0	I	Intro	s_def_long
+547	6	1	saw	Intro	s_def_long
+548	6	2	the	Def Possessor	s_def_long
+549	6	3	car	Def Possessor	s_def_long
+550	6	4	that	Possessor Modifier	s_def_long
+551	6	5	was	Possessor Modifier	s_def_long
+552	6	6	speeding	Possessor Modifier	s_def_long
+553	6	7	down	Possessor Modifier	s_def_long
+554	6	8	the	Possessor Modifier	s_def_long
+555	6	9	street	Possessor Modifier	s_def_long
+556	6	10	's	S	s_def_long
+557	6	11	driver	Possessum	s_def_long
+558	6	13	.	End	s_def_long
+559	6	14	<eos>	End	s_def_long
+560	7	0	I	Intro	s_def_long
+561	7	1	knew	Intro	s_def_long
+562	7	2	the	Def Possessor	s_def_long
+563	7	3	doctor	Def Possessor	s_def_long
+564	7	4	who	Possessor Modifier	s_def_long
+565	7	5	worked	Possessor Modifier	s_def_long
+566	7	6	in	Possessor Modifier	s_def_long
+567	7	7	the	Possessor Modifier	s_def_long
+568	7	8	hospital	Possessor Modifier	s_def_long
+569	7	9	's	S	s_def_long
+570	7	10	patient	Possessum	s_def_long
+571	7	12	.	End	s_def_long
+572	7	13	<eos>	End	s_def_long
+573	8	0	I	Intro	s_def_long
+574	8	1	opened	Intro	s_def_long
+575	8	2	the	Def Possessor	s_def_long
+576	8	3	cabin	Def Possessor	s_def_long
+577	8	4	that	Possessor Modifier	s_def_long
+578	8	5	was	Possessor Modifier	s_def_long
+579	8	6	in	Possessor Modifier	s_def_long
+580	8	7	the	Possessor Modifier	s_def_long
+581	8	8	woods	Possessor Modifier	s_def_long
+582	8	9	's	S	s_def_long
+583	8	10	door	Possessum	s_def_long
+584	8	12	.	End	s_def_long
+585	8	13	<eos>	End	s_def_long
+586	9	0	I	Intro	s_def_long
+587	9	1	read	Intro	s_def_long
+588	9	2	the	Def Possessor	s_def_long
+589	9	3	lawyer	Def Possessor	s_def_long
+590	9	4	who	Possessor Modifier	s_def_long
+591	9	5	was	Possessor Modifier	s_def_long
+592	9	6	from	Possessor Modifier	s_def_long
+593	9	7	France	Possessor Modifier	s_def_long
+594	9	8	's	S	s_def_long
+595	9	9	book	Possessum	s_def_long
+596	9	11	.	End	s_def_long
+597	9	12	<eos>	End	s_def_long
+598	10	0	I	Intro	s_def_long
+599	10	1	yelled	Intro	s_def_long
+600	10	2	at	Intro	s_def_long
+601	10	3	the	Def Possessor	s_def_long
+602	10	4	boat	Def Possessor	s_def_long
+603	10	5	that	Possessor Modifier	s_def_long
+604	10	6	crashed	Possessor Modifier	s_def_long
+605	10	7	into	Possessor Modifier	s_def_long
+606	10	8	the	Possessor Modifier	s_def_long
+607	10	9	pier	Possessor Modifier	s_def_long
+608	10	10	's	S	s_def_long
+609	10	11	owner	Possessum	s_def_long
+610	10	13	.	End	s_def_long
+611	10	14	<eos>	End	s_def_long
+612	11	0	I	Intro	s_def_long
+613	11	1	encountered	Intro	s_def_long
+614	11	2	the	Def Possessor	s_def_long
+615	11	3	client	Def Possessor	s_def_long
+616	11	4	who	Possessor Modifier	s_def_long
+617	11	5	was	Possessor Modifier	s_def_long
+618	11	6	guilty	Possessor Modifier	s_def_long
+619	11	7	of	Possessor Modifier	s_def_long
+620	11	8	a	Possessor Modifier	s_def_long
+621	11	9	crime	Possessor Modifier	s_def_long
+622	11	10	's	S	s_def_long
+623	11	11	lawyer	Possessum	s_def_long
+624	11	13	.	End	s_def_long
+625	11	14	<eos>	End	s_def_long
+626	12	0	I	Intro	s_def_long
+627	12	1	smelled	Intro	s_def_long
+628	12	2	the	Def Possessor	s_def_long
+629	12	3	tree	Def Possessor	s_def_long
+630	12	4	that	Possessor Modifier	s_def_long
+631	12	5	was	Possessor Modifier	s_def_long
+632	12	6	in	Possessor Modifier	s_def_long
+633	12	7	the	Possessor Modifier	s_def_long
+634	12	8	woods	Possessor Modifier	s_def_long
+635	12	9	's	S	s_def_long
+636	12	10	flowers	Possessum	s_def_long
+637	12	12	.	End	s_def_long
+638	12	13	<eos>	End	s_def_long
+639	13	0	I	Intro	s_def_long
+640	13	1	took	Intro	s_def_long
+641	13	2	the	Def Possessor	s_def_long
+642	13	3	child	Def Possessor	s_def_long
+643	13	4	who	Possessor Modifier	s_def_long
+644	13	5	was	Possessor Modifier	s_def_long
+645	13	6	in	Possessor Modifier	s_def_long
+646	13	7	first	Possessor Modifier	s_def_long
+647	13	8	grade	Possessor Modifier	s_def_long
+648	13	9	's	S	s_def_long
+649	13	10	toy	Possessum	s_def_long
+650	13	12	.	End	s_def_long
+651	13	13	<eos>	End	s_def_long
+652	14	0	I	Intro	s_def_long
+653	14	1	hated	Intro	s_def_long
+654	14	2	the	Def Possessor	s_def_long
+655	14	3	store	Def Possessor	s_def_long
+656	14	4	that	Possessor Modifier	s_def_long
+657	14	5	was	Possessor Modifier	s_def_long
+658	14	6	around	Possessor Modifier	s_def_long
+659	14	7	the	Possessor Modifier	s_def_long
+660	14	8	corner	Possessor Modifier	s_def_long
+661	14	9	's	S	s_def_long
+662	14	10	manager	Possessum	s_def_long
+663	14	12	.	End	s_def_long
+664	14	13	<eos>	End	s_def_long
+665	15	0	I	Intro	s_def_long
+666	15	1	loved	Intro	s_def_long
+667	15	2	the	Def Possessor	s_def_long
+668	15	3	policeman	Def Possessor	s_def_long
+669	15	4	who	Possessor Modifier	s_def_long
+670	15	5	was	Possessor Modifier	s_def_long
+671	15	6	patrolling	Possessor Modifier	s_def_long
+672	15	7	the	Possessor Modifier	s_def_long
+673	15	8	neighborhood	Possessor Modifier	s_def_long
+674	15	9	's	S	s_def_long
+675	15	10	sister	Possessum	s_def_long
+676	15	12	.	End	s_def_long
+677	15	13	<eos>	End	s_def_long
+678	0	0	I	Intro	of_indef_short
+679	0	1	forgot	Intro	of_indef_short
+680	0	2	the	the	of_indef_short
+681	0	3	title	Possessum	of_indef_short
+682	0	4	of	of	of_indef_short
+683	0	5	a	Indef Possessor	of_indef_short
+684	0	6	movie	Indef Possessor	of_indef_short
+685	0	8	.	End	of_indef_short
+686	0	9	<eos>	End	of_indef_short
+687	1	0	I	Intro	of_indef_short
+688	1	1	remembered	Intro	of_indef_short
+689	1	2	the	the	of_indef_short
+690	1	3	face	Possessum	of_indef_short
+691	1	4	of	of	of_indef_short
+692	1	5	a	Indef Possessor	of_indef_short
+693	1	6	professor	Indef Possessor	of_indef_short
+694	1	8	.	End	of_indef_short
+695	1	9	<eos>	End	of_indef_short
+696	2	0	I	Intro	of_indef_short
+697	2	1	know	Intro	of_indef_short
+698	2	2	the	the	of_indef_short
+699	2	3	president	Possessum	of_indef_short
+700	2	4	of	of	of_indef_short
+701	2	5	a	Indef Possessor	of_indef_short
+702	2	6	university	Indef Possessor	of_indef_short
+703	2	8	.	End	of_indef_short
+704	2	9	<eos>	End	of_indef_short
+705	3	0	I	Intro	of_indef_short
+706	3	1	met	Intro	of_indef_short
+707	3	2	the	the	of_indef_short
+708	3	3	wife	Possessum	of_indef_short
+709	3	4	of	of	of_indef_short
+710	3	5	a	Indef Possessor	of_indef_short
+711	3	6	man	Indef Possessor	of_indef_short
+712	3	8	.	End	of_indef_short
+713	3	9	<eos>	End	of_indef_short
+714	4	0	I	Intro	of_indef_short
+715	4	1	watched	Intro	of_indef_short
+716	4	2	the	the	of_indef_short
+717	4	3	screen	Possessum	of_indef_short
+718	4	4	of	of	of_indef_short
+719	4	5	a	Indef Possessor	of_indef_short
+720	4	6	television	Indef Possessor	of_indef_short
+721	4	8	.	End	of_indef_short
+722	4	9	<eos>	End	of_indef_short
+723	5	0	I	Intro	of_indef_short
+724	5	1	got	Intro	of_indef_short
+725	5	2	the	the	of_indef_short
+726	5	3	autograph	Possessum	of_indef_short
+727	5	4	of	of	of_indef_short
+728	5	5	a	Indef Possessor	of_indef_short
+729	5	6	celebrity	Indef Possessor	of_indef_short
+730	5	8	.	End	of_indef_short
+731	5	9	<eos>	End	of_indef_short
+732	6	0	I	Intro	of_indef_short
+733	6	1	saw	Intro	of_indef_short
+734	6	2	the	the	of_indef_short
+735	6	3	driver	Possessum	of_indef_short
+736	6	4	of	of	of_indef_short
+737	6	5	a	Indef Possessor	of_indef_short
+738	6	6	car	Indef Possessor	of_indef_short
+739	6	8	.	End	of_indef_short
+740	6	9	<eos>	End	of_indef_short
+741	7	0	I	Intro	of_indef_short
+742	7	1	knew	Intro	of_indef_short
+743	7	2	the	the	of_indef_short
+744	7	3	patient	Possessum	of_indef_short
+745	7	4	of	of	of_indef_short
+746	7	5	a	Indef Possessor	of_indef_short
+747	7	6	doctor	Indef Possessor	of_indef_short
+748	7	8	.	End	of_indef_short
+749	7	9	<eos>	End	of_indef_short
+750	8	0	I	Intro	of_indef_short
+751	8	1	opened	Intro	of_indef_short
+752	8	2	the	the	of_indef_short
+753	8	3	door	Possessum	of_indef_short
+754	8	4	of	of	of_indef_short
+755	8	5	a	Indef Possessor	of_indef_short
+756	8	6	cabin	Indef Possessor	of_indef_short
+757	8	8	.	End	of_indef_short
+758	8	9	<eos>	End	of_indef_short
+759	9	0	I	Intro	of_indef_short
+760	9	1	read	Intro	of_indef_short
+761	9	2	the	the	of_indef_short
+762	9	3	book	Possessum	of_indef_short
+763	9	4	of	of	of_indef_short
+764	9	5	a	Indef Possessor	of_indef_short
+765	9	6	lawyer	Indef Possessor	of_indef_short
+766	9	8	.	End	of_indef_short
+767	9	9	<eos>	End	of_indef_short
+768	10	0	I	Intro	of_indef_short
+769	10	1	yelled	Intro	of_indef_short
+770	10	2	at	Intro	of_indef_short
+771	10	3	the	the	of_indef_short
+772	10	4	owner	Possessum	of_indef_short
+773	10	5	of	of	of_indef_short
+774	10	6	a	Indef Possessor	of_indef_short
+775	10	7	boat	Indef Possessor	of_indef_short
+776	10	9	.	End	of_indef_short
+777	10	10	<eos>	End	of_indef_short
+778	11	0	I	Intro	of_indef_short
+779	11	1	encountered	Intro	of_indef_short
+780	11	2	the	the	of_indef_short
+781	11	3	lawyer	Possessum	of_indef_short
+782	11	4	of	of	of_indef_short
+783	11	5	a	Indef Possessor	of_indef_short
+784	11	6	client	Indef Possessor	of_indef_short
+785	11	8	.	End	of_indef_short
+786	11	9	<eos>	End	of_indef_short
+787	12	0	I	Intro	of_indef_short
+788	12	1	smelled	Intro	of_indef_short
+789	12	2	the	the	of_indef_short
+790	12	3	flowers	Possessum	of_indef_short
+791	12	4	of	of	of_indef_short
+792	12	5	a	Indef Possessor	of_indef_short
+793	12	6	tree	Indef Possessor	of_indef_short
+794	12	8	.	End	of_indef_short
+795	12	9	<eos>	End	of_indef_short
+796	13	0	I	Intro	of_indef_short
+797	13	1	took	Intro	of_indef_short
+798	13	2	the	the	of_indef_short
+799	13	3	toy	Possessum	of_indef_short
+800	13	4	of	of	of_indef_short
+801	13	5	a	Indef Possessor	of_indef_short
+802	13	6	child	Indef Possessor	of_indef_short
+803	13	8	.	End	of_indef_short
+804	13	9	<eos>	End	of_indef_short
+805	14	0	I	Intro	of_indef_short
+806	14	1	hated	Intro	of_indef_short
+807	14	2	the	the	of_indef_short
+808	14	3	manager	Possessum	of_indef_short
+809	14	4	of	of	of_indef_short
+810	14	5	a	Indef Possessor	of_indef_short
+811	14	6	store	Indef Possessor	of_indef_short
+812	14	8	.	End	of_indef_short
+813	14	9	<eos>	End	of_indef_short
+814	15	0	I	Intro	of_indef_short
+815	15	1	loved	Intro	of_indef_short
+816	15	2	the	the	of_indef_short
+817	15	3	sister	Possessum	of_indef_short
+818	15	4	of	of	of_indef_short
+819	15	5	a	Indef Possessor	of_indef_short
+820	15	6	policeman	Indef Possessor	of_indef_short
+821	15	8	.	End	of_indef_short
+822	15	9	<eos>	End	of_indef_short
+823	0	0	I	Intro	of_indef_long
+824	0	1	forgot	Intro	of_indef_long
+825	0	2	the	the	of_indef_long
+826	0	3	title	Possessum	of_indef_long
+827	0	4	of	of	of_indef_long
+828	0	5	a	Indef Possessor	of_indef_long
+829	0	6	movie	Indef Possessor	of_indef_long
+830	0	7	that	Possessor Modifier	of_indef_long
+831	0	8	I	Possessor Modifier	of_indef_long
+832	0	9	saw	Possessor Modifier	of_indef_long
+833	0	10	yesterday	Possessor Modifier	of_indef_long
+834	0	12	.	End	of_indef_long
+835	0	13	<eos>	End	of_indef_long
+836	1	0	I	Intro	of_indef_long
+837	1	1	remembered	Intro	of_indef_long
+838	1	2	the	the	of_indef_long
+839	1	3	face	Possessum	of_indef_long
+840	1	4	of	of	of_indef_long
+841	1	5	a	Indef Possessor	of_indef_long
+842	1	6	professor	Indef Possessor	of_indef_long
+843	1	7	who	Possessor Modifier	of_indef_long
+844	1	8	I	Possessor Modifier	of_indef_long
+845	1	9	met	Possessor Modifier	of_indef_long
+846	1	10	two	Possessor Modifier	of_indef_long
+847	1	11	days	Possessor Modifier	of_indef_long
+848	1	12	ago	Possessor Modifier	of_indef_long
+849	1	14	.	End	of_indef_long
+850	1	15	<eos>	End	of_indef_long
+851	2	0	I	Intro	of_indef_long
+852	2	1	know	Intro	of_indef_long
+853	2	2	the	the	of_indef_long
+854	2	3	president	Possessum	of_indef_long
+855	2	4	of	of	of_indef_long
+856	2	5	a	Indef Possessor	of_indef_long
+857	2	6	university	Indef Possessor	of_indef_long
+858	2	7	that	Possessor Modifier	of_indef_long
+859	2	8	is	Possessor Modifier	of_indef_long
+860	2	9	in	Possessor Modifier	of_indef_long
+861	2	10	Maryland	Possessor Modifier	of_indef_long
+862	2	12	.	End	of_indef_long
+863	2	13	<eos>	End	of_indef_long
+864	3	0	I	Intro	of_indef_long
+865	3	1	met	Intro	of_indef_long
+866	3	2	the	the	of_indef_long
+867	3	3	wife	Possessum	of_indef_long
+868	3	4	of	of	of_indef_long
+869	3	5	a	Indef Possessor	of_indef_long
+870	3	6	man	Indef Possessor	of_indef_long
+871	3	7	who	Possessor Modifier	of_indef_long
+872	3	8	worked	Possessor Modifier	of_indef_long
+873	3	9	at	Possessor Modifier	of_indef_long
+874	3	10	the	Possessor Modifier	of_indef_long
+875	3	11	store	Possessor Modifier	of_indef_long
+876	3	13	.	End	of_indef_long
+877	3	14	<eos>	End	of_indef_long
+878	4	0	I	Intro	of_indef_long
+879	4	1	watched	Intro	of_indef_long
+880	4	2	the	the	of_indef_long
+881	4	3	screen	Possessum	of_indef_long
+882	4	4	of	of	of_indef_long
+883	4	5	a	Indef Possessor	of_indef_long
+884	4	6	television	Indef Possessor	of_indef_long
+885	4	7	that	Possessor Modifier	of_indef_long
+886	4	8	was	Possessor Modifier	of_indef_long
+887	4	9	very	Possessor Modifier	of_indef_long
+888	4	10	large	Possessor Modifier	of_indef_long
+889	4	12	.	End	of_indef_long
+890	4	13	<eos>	End	of_indef_long
+891	5	0	I	Intro	of_indef_long
+892	5	1	got	Intro	of_indef_long
+893	5	2	the	the	of_indef_long
+894	5	3	autograph	Possessum	of_indef_long
+895	5	4	of	of	of_indef_long
+896	5	5	a	Indef Possessor	of_indef_long
+897	5	6	celebrity	Indef Possessor	of_indef_long
+898	5	7	who	Possessor Modifier	of_indef_long
+899	5	8	was	Possessor Modifier	of_indef_long
+900	5	9	in	Possessor Modifier	of_indef_long
+901	5	10	a	Possessor Modifier	of_indef_long
+902	5	11	lot	Possessor Modifier	of_indef_long
+903	5	12	of	Possessor Modifier	of_indef_long
+904	5	13	movies	Possessor Modifier	of_indef_long
+905	5	15	.	End	of_indef_long
+906	5	16	<eos>	End	of_indef_long
+907	6	0	I	Intro	of_indef_long
+908	6	1	saw	Intro	of_indef_long
+909	6	2	the	the	of_indef_long
+910	6	3	driver	Possessum	of_indef_long
+911	6	4	of	of	of_indef_long
+912	6	5	a	Indef Possessor	of_indef_long
+913	6	6	car	Indef Possessor	of_indef_long
+914	6	7	that	Possessor Modifier	of_indef_long
+915	6	8	was	Possessor Modifier	of_indef_long
+916	6	9	speeding	Possessor Modifier	of_indef_long
+917	6	10	down	Possessor Modifier	of_indef_long
+918	6	11	the	Possessor Modifier	of_indef_long
+919	6	12	street	Possessor Modifier	of_indef_long
+920	6	14	.	End	of_indef_long
+921	6	15	<eos>	End	of_indef_long
+922	7	0	I	Intro	of_indef_long
+923	7	1	knew	Intro	of_indef_long
+924	7	2	the	the	of_indef_long
+925	7	3	patient	Possessum	of_indef_long
+926	7	4	of	of	of_indef_long
+927	7	5	a	Indef Possessor	of_indef_long
+928	7	6	doctor	Indef Possessor	of_indef_long
+929	7	7	who	Possessor Modifier	of_indef_long
+930	7	8	worked	Possessor Modifier	of_indef_long
+931	7	9	in	Possessor Modifier	of_indef_long
+932	7	10	the	Possessor Modifier	of_indef_long
+933	7	11	hospital	Possessor Modifier	of_indef_long
+934	7	13	.	End	of_indef_long
+935	7	14	<eos>	End	of_indef_long
+936	8	0	I	Intro	of_indef_long
+937	8	1	opened	Intro	of_indef_long
+938	8	2	the	the	of_indef_long
+939	8	3	door	Possessum	of_indef_long
+940	8	4	of	of	of_indef_long
+941	8	5	a	Indef Possessor	of_indef_long
+942	8	6	cabin	Indef Possessor	of_indef_long
+943	8	7	that	Possessor Modifier	of_indef_long
+944	8	8	was	Possessor Modifier	of_indef_long
+945	8	9	in	Possessor Modifier	of_indef_long
+946	8	10	the	Possessor Modifier	of_indef_long
+947	8	11	woods	Possessor Modifier	of_indef_long
+948	8	13	.	End	of_indef_long
+949	8	14	<eos>	End	of_indef_long
+950	9	0	I	Intro	of_indef_long
+951	9	1	read	Intro	of_indef_long
+952	9	2	the	the	of_indef_long
+953	9	3	book	Possessum	of_indef_long
+954	9	4	of	of	of_indef_long
+955	9	5	a	Indef Possessor	of_indef_long
+956	9	6	lawyer	Indef Possessor	of_indef_long
+957	9	7	who	Possessor Modifier	of_indef_long
+958	9	8	was	Possessor Modifier	of_indef_long
+959	9	9	from	Possessor Modifier	of_indef_long
+960	9	10	France	Possessor Modifier	of_indef_long
+961	9	12	.	End	of_indef_long
+962	9	13	<eos>	End	of_indef_long
+963	10	0	I	Intro	of_indef_long
+964	10	1	yelled	Intro	of_indef_long
+965	10	2	at	Intro	of_indef_long
+966	10	3	the	the	of_indef_long
+967	10	4	owner	Possessum	of_indef_long
+968	10	5	of	of	of_indef_long
+969	10	6	a	Indef Possessor	of_indef_long
+970	10	7	boat	Indef Possessor	of_indef_long
+971	10	8	that	Possessor Modifier	of_indef_long
+972	10	9	crashed	Possessor Modifier	of_indef_long
+973	10	10	into	Possessor Modifier	of_indef_long
+974	10	11	the	Possessor Modifier	of_indef_long
+975	10	12	pier	Possessor Modifier	of_indef_long
+976	10	14	.	End	of_indef_long
+977	10	15	<eos>	End	of_indef_long
+978	11	0	I	Intro	of_indef_long
+979	11	1	encountered	Intro	of_indef_long
+980	11	2	the	the	of_indef_long
+981	11	3	lawyer	Possessum	of_indef_long
+982	11	4	of	of	of_indef_long
+983	11	5	a	Indef Possessor	of_indef_long
+984	11	6	client	Indef Possessor	of_indef_long
+985	11	7	who	Possessor Modifier	of_indef_long
+986	11	8	was	Possessor Modifier	of_indef_long
+987	11	9	guilty	Possessor Modifier	of_indef_long
+988	11	10	of	Possessor Modifier	of_indef_long
+989	11	11	a	Possessor Modifier	of_indef_long
+990	11	12	crime	Possessor Modifier	of_indef_long
+991	11	14	.	End	of_indef_long
+992	11	15	<eos>	End	of_indef_long
+993	12	0	I	Intro	of_indef_long
+994	12	1	smelled	Intro	of_indef_long
+995	12	2	the	the	of_indef_long
+996	12	3	flowers	Possessum	of_indef_long
+997	12	4	of	of	of_indef_long
+998	12	5	a	Indef Possessor	of_indef_long
+999	12	6	tree	Indef Possessor	of_indef_long
+1000	12	7	that	Possessor Modifier	of_indef_long
+1001	12	8	was	Possessor Modifier	of_indef_long
+1002	12	9	in	Possessor Modifier	of_indef_long
+1003	12	10	the	Possessor Modifier	of_indef_long
+1004	12	11	woods	Possessor Modifier	of_indef_long
+1005	12	13	.	End	of_indef_long
+1006	12	14	<eos>	End	of_indef_long
+1007	13	0	I	Intro	of_indef_long
+1008	13	1	took	Intro	of_indef_long
+1009	13	2	the	the	of_indef_long
+1010	13	3	toy	Possessum	of_indef_long
+1011	13	4	of	of	of_indef_long
+1012	13	5	a	Indef Possessor	of_indef_long
+1013	13	6	child	Indef Possessor	of_indef_long
+1014	13	7	who	Possessor Modifier	of_indef_long
+1015	13	8	was	Possessor Modifier	of_indef_long
+1016	13	9	in	Possessor Modifier	of_indef_long
+1017	13	10	first	Possessor Modifier	of_indef_long
+1018	13	11	grade	Possessor Modifier	of_indef_long
+1019	13	13	.	End	of_indef_long
+1020	13	14	<eos>	End	of_indef_long
+1021	14	0	I	Intro	of_indef_long
+1022	14	1	hated	Intro	of_indef_long
+1023	14	2	the	the	of_indef_long
+1024	14	3	manager	Possessum	of_indef_long
+1025	14	4	of	of	of_indef_long
+1026	14	5	a	Indef Possessor	of_indef_long
+1027	14	6	store	Indef Possessor	of_indef_long
+1028	14	7	that	Possessor Modifier	of_indef_long
+1029	14	8	was	Possessor Modifier	of_indef_long
+1030	14	9	around	Possessor Modifier	of_indef_long
+1031	14	10	the	Possessor Modifier	of_indef_long
+1032	14	11	corner	Possessor Modifier	of_indef_long
+1033	14	13	.	End	of_indef_long
+1034	14	14	<eos>	End	of_indef_long
+1035	15	0	I	Intro	of_indef_long
+1036	15	1	loved	Intro	of_indef_long
+1037	15	2	the	the	of_indef_long
+1038	15	3	sister	Possessum	of_indef_long
+1039	15	4	of	of	of_indef_long
+1040	15	5	a	Indef Possessor	of_indef_long
+1041	15	6	policeman	Indef Possessor	of_indef_long
+1042	15	7	who	Possessor Modifier	of_indef_long
+1043	15	8	was	Possessor Modifier	of_indef_long
+1044	15	9	patrolling	Possessor Modifier	of_indef_long
+1045	15	10	the	Possessor Modifier	of_indef_long
+1046	15	11	neighborhood	Possessor Modifier	of_indef_long
+1047	15	13	.	End	of_indef_long
+1048	15	14	<eos>	End	of_indef_long
+1049	0	0	I	Intro	of_def_short
+1050	0	1	forgot	Intro	of_def_short
+1051	0	2	the	the	of_def_short
+1052	0	3	title	Possessum	of_def_short
+1053	0	4	of	of	of_def_short
+1054	0	5	the	Def Possessor	of_def_short
+1055	0	6	movie	Def Possessor	of_def_short
+1056	0	8	.	End	of_def_short
+1057	0	9	<eos>	End	of_def_short
+1058	1	0	I	Intro	of_def_short
+1059	1	1	remembered	Intro	of_def_short
+1060	1	2	the	the	of_def_short
+1061	1	3	face	Possessum	of_def_short
+1062	1	4	of	of	of_def_short
+1063	1	5	the	Def Possessor	of_def_short
+1064	1	6	professor	Def Possessor	of_def_short
+1065	1	8	.	End	of_def_short
+1066	1	9	<eos>	End	of_def_short
+1067	2	0	I	Intro	of_def_short
+1068	2	1	know	Intro	of_def_short
+1069	2	2	the	the	of_def_short
+1070	2	3	president	Possessum	of_def_short
+1071	2	4	of	of	of_def_short
+1072	2	5	the	Def Possessor	of_def_short
+1073	2	6	university	Def Possessor	of_def_short
+1074	2	8	.	End	of_def_short
+1075	2	9	<eos>	End	of_def_short
+1076	3	0	I	Intro	of_def_short
+1077	3	1	met	Intro	of_def_short
+1078	3	2	the	the	of_def_short
+1079	3	3	wife	Possessum	of_def_short
+1080	3	4	of	of	of_def_short
+1081	3	5	the	Def Possessor	of_def_short
+1082	3	6	man	Def Possessor	of_def_short
+1083	3	8	.	End	of_def_short
+1084	3	9	<eos>	End	of_def_short
+1085	4	0	I	Intro	of_def_short
+1086	4	1	watched	Intro	of_def_short
+1087	4	2	the	the	of_def_short
+1088	4	3	screen	Possessum	of_def_short
+1089	4	4	of	of	of_def_short
+1090	4	5	the	Def Possessor	of_def_short
+1091	4	6	television	Def Possessor	of_def_short
+1092	4	8	.	End	of_def_short
+1093	4	9	<eos>	End	of_def_short
+1094	5	0	I	Intro	of_def_short
+1095	5	1	got	Intro	of_def_short
+1096	5	2	the	the	of_def_short
+1097	5	3	autograph	Possessum	of_def_short
+1098	5	4	of	of	of_def_short
+1099	5	5	the	Def Possessor	of_def_short
+1100	5	6	celebrity	Def Possessor	of_def_short
+1101	5	8	.	End	of_def_short
+1102	5	9	<eos>	End	of_def_short
+1103	6	0	I	Intro	of_def_short
+1104	6	1	saw	Intro	of_def_short
+1105	6	2	the	the	of_def_short
+1106	6	3	driver	Possessum	of_def_short
+1107	6	4	of	of	of_def_short
+1108	6	5	the	Def Possessor	of_def_short
+1109	6	6	car	Def Possessor	of_def_short
+1110	6	8	.	End	of_def_short
+1111	6	9	<eos>	End	of_def_short
+1112	7	0	I	Intro	of_def_short
+1113	7	1	knew	Intro	of_def_short
+1114	7	2	the	the	of_def_short
+1115	7	3	patient	Possessum	of_def_short
+1116	7	4	of	of	of_def_short
+1117	7	5	the	Def Possessor	of_def_short
+1118	7	6	doctor	Def Possessor	of_def_short
+1119	7	8	.	End	of_def_short
+1120	7	9	<eos>	End	of_def_short
+1121	8	0	I	Intro	of_def_short
+1122	8	1	opened	Intro	of_def_short
+1123	8	2	the	the	of_def_short
+1124	8	3	door	Possessum	of_def_short
+1125	8	4	of	of	of_def_short
+1126	8	5	the	Def Possessor	of_def_short
+1127	8	6	cabin	Def Possessor	of_def_short
+1128	8	8	.	End	of_def_short
+1129	8	9	<eos>	End	of_def_short
+1130	9	0	I	Intro	of_def_short
+1131	9	1	read	Intro	of_def_short
+1132	9	2	the	the	of_def_short
+1133	9	3	book	Possessum	of_def_short
+1134	9	4	of	of	of_def_short
+1135	9	5	the	Def Possessor	of_def_short
+1136	9	6	lawyer	Def Possessor	of_def_short
+1137	9	8	.	End	of_def_short
+1138	9	9	<eos>	End	of_def_short
+1139	10	0	I	Intro	of_def_short
+1140	10	1	yelled	Intro	of_def_short
+1141	10	2	at	Intro	of_def_short
+1142	10	3	the	the	of_def_short
+1143	10	4	owner	Possessum	of_def_short
+1144	10	5	of	of	of_def_short
+1145	10	6	the	Def Possessor	of_def_short
+1146	10	7	boat	Def Possessor	of_def_short
+1147	10	9	.	End	of_def_short
+1148	10	10	<eos>	End	of_def_short
+1149	11	0	I	Intro	of_def_short
+1150	11	1	encountered	Intro	of_def_short
+1151	11	2	the	the	of_def_short
+1152	11	3	lawyer	Possessum	of_def_short
+1153	11	4	of	of	of_def_short
+1154	11	5	the	Def Possessor	of_def_short
+1155	11	6	client	Def Possessor	of_def_short
+1156	11	8	.	End	of_def_short
+1157	11	9	<eos>	End	of_def_short
+1158	12	0	I	Intro	of_def_short
+1159	12	1	smelled	Intro	of_def_short
+1160	12	2	the	the	of_def_short
+1161	12	3	flowers	Possessum	of_def_short
+1162	12	4	of	of	of_def_short
+1163	12	5	the	Def Possessor	of_def_short
+1164	12	6	tree	Def Possessor	of_def_short
+1165	12	8	.	End	of_def_short
+1166	12	9	<eos>	End	of_def_short
+1167	13	0	I	Intro	of_def_short
+1168	13	1	took	Intro	of_def_short
+1169	13	2	the	the	of_def_short
+1170	13	3	toy	Possessum	of_def_short
+1171	13	4	of	of	of_def_short
+1172	13	5	the	Def Possessor	of_def_short
+1173	13	6	child	Def Possessor	of_def_short
+1174	13	8	.	End	of_def_short
+1175	13	9	<eos>	End	of_def_short
+1176	14	0	I	Intro	of_def_short
+1177	14	1	hated	Intro	of_def_short
+1178	14	2	the	the	of_def_short
+1179	14	3	manager	Possessum	of_def_short
+1180	14	4	of	of	of_def_short
+1181	14	5	the	Def Possessor	of_def_short
+1182	14	6	store	Def Possessor	of_def_short
+1183	14	8	.	End	of_def_short
+1184	14	9	<eos>	End	of_def_short
+1185	15	0	I	Intro	of_def_short
+1186	15	1	loved	Intro	of_def_short
+1187	15	2	the	the	of_def_short
+1188	15	3	sister	Possessum	of_def_short
+1189	15	4	of	of	of_def_short
+1190	15	5	the	Def Possessor	of_def_short
+1191	15	6	policeman	Def Possessor	of_def_short
+1192	15	8	.	End	of_def_short
+1193	15	9	<eos>	End	of_def_short
+1194	0	0	I	Intro	of_def_long
+1195	0	1	forgot	Intro	of_def_long
+1196	0	2	the	the	of_def_long
+1197	0	3	title	Possessum	of_def_long
+1198	0	4	of	of	of_def_long
+1199	0	5	the	Def Possessor	of_def_long
+1200	0	6	movie	Def Possessor	of_def_long
+1201	0	7	that	Possessor Modifier	of_def_long
+1202	0	8	I	Possessor Modifier	of_def_long
+1203	0	9	saw	Possessor Modifier	of_def_long
+1204	0	10	yesterday	Possessor Modifier	of_def_long
+1205	0	12	.	End	of_def_long
+1206	0	13	<eos>	End	of_def_long
+1207	1	0	I	Intro	of_def_long
+1208	1	1	remembered	Intro	of_def_long
+1209	1	2	the	the	of_def_long
+1210	1	3	face	Possessum	of_def_long
+1211	1	4	of	of	of_def_long
+1212	1	5	the	Def Possessor	of_def_long
+1213	1	6	professor	Def Possessor	of_def_long
+1214	1	7	who	Possessor Modifier	of_def_long
+1215	1	8	I	Possessor Modifier	of_def_long
+1216	1	9	met	Possessor Modifier	of_def_long
+1217	1	10	two	Possessor Modifier	of_def_long
+1218	1	11	days	Possessor Modifier	of_def_long
+1219	1	12	ago	Possessor Modifier	of_def_long
+1220	1	14	.	End	of_def_long
+1221	1	15	<eos>	End	of_def_long
+1222	2	0	I	Intro	of_def_long
+1223	2	1	know	Intro	of_def_long
+1224	2	2	the	the	of_def_long
+1225	2	3	president	Possessum	of_def_long
+1226	2	4	of	of	of_def_long
+1227	2	5	the	Def Possessor	of_def_long
+1228	2	6	university	Def Possessor	of_def_long
+1229	2	7	that	Possessor Modifier	of_def_long
+1230	2	8	is	Possessor Modifier	of_def_long
+1231	2	9	in	Possessor Modifier	of_def_long
+1232	2	10	Maryland	Possessor Modifier	of_def_long
+1233	2	12	.	End	of_def_long
+1234	2	13	<eos>	End	of_def_long
+1235	3	0	I	Intro	of_def_long
+1236	3	1	met	Intro	of_def_long
+1237	3	2	the	the	of_def_long
+1238	3	3	wife	Possessum	of_def_long
+1239	3	4	of	of	of_def_long
+1240	3	5	the	Def Possessor	of_def_long
+1241	3	6	man	Def Possessor	of_def_long
+1242	3	7	who	Possessor Modifier	of_def_long
+1243	3	8	worked	Possessor Modifier	of_def_long
+1244	3	9	at	Possessor Modifier	of_def_long
+1245	3	10	the	Possessor Modifier	of_def_long
+1246	3	11	store	Possessor Modifier	of_def_long
+1247	3	13	.	End	of_def_long
+1248	3	14	<eos>	End	of_def_long
+1249	4	0	I	Intro	of_def_long
+1250	4	1	watched	Intro	of_def_long
+1251	4	2	the	the	of_def_long
+1252	4	3	screen	Possessum	of_def_long
+1253	4	4	of	of	of_def_long
+1254	4	5	the	Def Possessor	of_def_long
+1255	4	6	television	Def Possessor	of_def_long
+1256	4	7	that	Possessor Modifier	of_def_long
+1257	4	8	was	Possessor Modifier	of_def_long
+1258	4	9	very	Possessor Modifier	of_def_long
+1259	4	10	large	Possessor Modifier	of_def_long
+1260	4	12	.	End	of_def_long
+1261	4	13	<eos>	End	of_def_long
+1262	5	0	I	Intro	of_def_long
+1263	5	1	got	Intro	of_def_long
+1264	5	2	the	the	of_def_long
+1265	5	3	autograph	Possessum	of_def_long
+1266	5	4	of	of	of_def_long
+1267	5	5	the	Def Possessor	of_def_long
+1268	5	6	celebrity	Def Possessor	of_def_long
+1269	5	7	who	Possessor Modifier	of_def_long
+1270	5	8	was	Possessor Modifier	of_def_long
+1271	5	9	in	Possessor Modifier	of_def_long
+1272	5	10	a	Possessor Modifier	of_def_long
+1273	5	11	lot	Possessor Modifier	of_def_long
+1274	5	12	of	Possessor Modifier	of_def_long
+1275	5	13	movies	Possessor Modifier	of_def_long
+1276	5	15	.	End	of_def_long
+1277	5	16	<eos>	End	of_def_long
+1278	6	0	I	Intro	of_def_long
+1279	6	1	saw	Intro	of_def_long
+1280	6	2	the	the	of_def_long
+1281	6	3	driver	Possessum	of_def_long
+1282	6	4	of	of	of_def_long
+1283	6	5	the	Def Possessor	of_def_long
+1284	6	6	car	Def Possessor	of_def_long
+1285	6	7	that	Possessor Modifier	of_def_long
+1286	6	8	was	Possessor Modifier	of_def_long
+1287	6	9	speeding	Possessor Modifier	of_def_long
+1288	6	10	down	Possessor Modifier	of_def_long
+1289	6	11	the	Possessor Modifier	of_def_long
+1290	6	12	street	Possessor Modifier	of_def_long
+1291	6	14	.	End	of_def_long
+1292	6	15	<eos>	End	of_def_long
+1293	7	0	I	Intro	of_def_long
+1294	7	1	knew	Intro	of_def_long
+1295	7	2	the	the	of_def_long
+1296	7	3	patient	Possessum	of_def_long
+1297	7	4	of	of	of_def_long
+1298	7	5	the	Def Possessor	of_def_long
+1299	7	6	doctor	Def Possessor	of_def_long
+1300	7	7	who	Possessor Modifier	of_def_long
+1301	7	8	worked	Possessor Modifier	of_def_long
+1302	7	9	in	Possessor Modifier	of_def_long
+1303	7	10	the	Possessor Modifier	of_def_long
+1304	7	11	hospital	Possessor Modifier	of_def_long
+1305	7	13	.	End	of_def_long
+1306	7	14	<eos>	End	of_def_long
+1307	8	0	I	Intro	of_def_long
+1308	8	1	opened	Intro	of_def_long
+1309	8	2	the	the	of_def_long
+1310	8	3	door	Possessum	of_def_long
+1311	8	4	of	of	of_def_long
+1312	8	5	the	Def Possessor	of_def_long
+1313	8	6	cabin	Def Possessor	of_def_long
+1314	8	7	that	Possessor Modifier	of_def_long
+1315	8	8	was	Possessor Modifier	of_def_long
+1316	8	9	in	Possessor Modifier	of_def_long
+1317	8	10	the	Possessor Modifier	of_def_long
+1318	8	11	woods	Possessor Modifier	of_def_long
+1319	8	13	.	End	of_def_long
+1320	8	14	<eos>	End	of_def_long
+1321	9	0	I	Intro	of_def_long
+1322	9	1	read	Intro	of_def_long
+1323	9	2	the	the	of_def_long
+1324	9	3	book	Possessum	of_def_long
+1325	9	4	of	of	of_def_long
+1326	9	5	the	Def Possessor	of_def_long
+1327	9	6	lawyer	Def Possessor	of_def_long
+1328	9	7	who	Possessor Modifier	of_def_long
+1329	9	8	was	Possessor Modifier	of_def_long
+1330	9	9	from	Possessor Modifier	of_def_long
+1331	9	10	France	Possessor Modifier	of_def_long
+1332	9	12	.	End	of_def_long
+1333	9	13	<eos>	End	of_def_long
+1334	10	0	I	Intro	of_def_long
+1335	10	1	yelled	Intro	of_def_long
+1336	10	2	at	Intro	of_def_long
+1337	10	3	the	the	of_def_long
+1338	10	4	owner	Possessum	of_def_long
+1339	10	5	of	of	of_def_long
+1340	10	6	the	Def Possessor	of_def_long
+1341	10	7	boat	Def Possessor	of_def_long
+1342	10	8	that	Possessor Modifier	of_def_long
+1343	10	9	crashed	Possessor Modifier	of_def_long
+1344	10	10	into	Possessor Modifier	of_def_long
+1345	10	11	the	Possessor Modifier	of_def_long
+1346	10	12	pier	Possessor Modifier	of_def_long
+1347	10	14	.	End	of_def_long
+1348	10	15	<eos>	End	of_def_long
+1349	11	0	I	Intro	of_def_long
+1350	11	1	encountered	Intro	of_def_long
+1351	11	2	the	the	of_def_long
+1352	11	3	lawyer	Possessum	of_def_long
+1353	11	4	of	of	of_def_long
+1354	11	5	the	Def Possessor	of_def_long
+1355	11	6	client	Def Possessor	of_def_long
+1356	11	7	who	Possessor Modifier	of_def_long
+1357	11	8	was	Possessor Modifier	of_def_long
+1358	11	9	guilty	Possessor Modifier	of_def_long
+1359	11	10	of	Possessor Modifier	of_def_long
+1360	11	11	a	Possessor Modifier	of_def_long
+1361	11	12	crime	Possessor Modifier	of_def_long
+1362	11	14	.	End	of_def_long
+1363	11	15	<eos>	End	of_def_long
+1364	12	0	I	Intro	of_def_long
+1365	12	1	smelled	Intro	of_def_long
+1366	12	2	the	the	of_def_long
+1367	12	3	flowers	Possessum	of_def_long
+1368	12	4	of	of	of_def_long
+1369	12	5	the	Def Possessor	of_def_long
+1370	12	6	tree	Def Possessor	of_def_long
+1371	12	7	that	Possessor Modifier	of_def_long
+1372	12	8	was	Possessor Modifier	of_def_long
+1373	12	9	in	Possessor Modifier	of_def_long
+1374	12	10	the	Possessor Modifier	of_def_long
+1375	12	11	woods	Possessor Modifier	of_def_long
+1376	12	13	.	End	of_def_long
+1377	12	14	<eos>	End	of_def_long
+1378	13	0	I	Intro	of_def_long
+1379	13	1	took	Intro	of_def_long
+1380	13	2	the	the	of_def_long
+1381	13	3	toy	Possessum	of_def_long
+1382	13	4	of	of	of_def_long
+1383	13	5	the	Def Possessor	of_def_long
+1384	13	6	child	Def Possessor	of_def_long
+1385	13	7	who	Possessor Modifier	of_def_long
+1386	13	8	was	Possessor Modifier	of_def_long
+1387	13	9	in	Possessor Modifier	of_def_long
+1388	13	10	first	Possessor Modifier	of_def_long
+1389	13	11	grade	Possessor Modifier	of_def_long
+1390	13	13	.	End	of_def_long
+1391	13	14	<eos>	End	of_def_long
+1392	14	0	I	Intro	of_def_long
+1393	14	1	hated	Intro	of_def_long
+1394	14	2	the	the	of_def_long
+1395	14	3	manager	Possessum	of_def_long
+1396	14	4	of	of	of_def_long
+1397	14	5	the	Def Possessor	of_def_long
+1398	14	6	store	Def Possessor	of_def_long
+1399	14	7	that	Possessor Modifier	of_def_long
+1400	14	8	was	Possessor Modifier	of_def_long
+1401	14	9	around	Possessor Modifier	of_def_long
+1402	14	10	the	Possessor Modifier	of_def_long
+1403	14	11	corner	Possessor Modifier	of_def_long
+1404	14	13	.	End	of_def_long
+1405	14	14	<eos>	End	of_def_long
+1406	15	0	I	Intro	of_def_long
+1407	15	1	loved	Intro	of_def_long
+1408	15	2	the	the	of_def_long
+1409	15	3	sister	Possessum	of_def_long
+1410	15	4	of	of	of_def_long
+1411	15	5	the	Def Possessor	of_def_long
+1412	15	6	policeman	Def Possessor	of_def_long
+1413	15	7	who	Possessor Modifier	of_def_long
+1414	15	8	was	Possessor Modifier	of_def_long
+1415	15	9	patrolling	Possessor Modifier	of_def_long
+1416	15	10	the	Possessor Modifier	of_def_long
+1417	15	11	neighborhood	Possessor Modifier	of_def_long
+1418	15	13	.	End	of_def_long
+1419	15	14	<eos>	End	of_def_long

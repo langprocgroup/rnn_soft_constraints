@@ -1,0 +1,3949 @@
+	sent_index	word_index	word	region	condition
+0	0	0	The	Subject	short_np_unshifted
+1	0	1	manager	Subject	short_np_unshifted
+2	0	2	presented	NP Verb	short_np_unshifted
+3	0	3	the	Short NP	short_np_unshifted
+4	0	4	styles	Short NP	short_np_unshifted
+5	0	5	at	PP	short_np_unshifted
+6	0	6	noon	PP	short_np_unshifted
+7	0	8	.	End	short_np_unshifted
+8	0	9	<eos>	End	short_np_unshifted
+9	1	0	The	Subject	short_np_unshifted
+10	1	1	contractor	Subject	short_np_unshifted
+11	1	2	presented	NP Verb	short_np_unshifted
+12	1	3	the	Short NP	short_np_unshifted
+13	1	4	display	Short NP	short_np_unshifted
+14	1	5	in	PP	short_np_unshifted
+15	1	6	July	PP	short_np_unshifted
+16	1	8	.	End	short_np_unshifted
+17	1	9	<eos>	End	short_np_unshifted
+18	2	0	Mary	Subject	short_np_unshifted
+19	2	1	returned	NP Verb	short_np_unshifted
+20	2	2	the	Short NP	short_np_unshifted
+21	2	3	ads	Short NP	short_np_unshifted
+22	2	4	at	PP	short_np_unshifted
+23	2	5	tea	PP	short_np_unshifted
+24	2	7	.	End	short_np_unshifted
+25	2	8	<eos>	End	short_np_unshifted
+26	3	0	Mark	Subject	short_np_unshifted
+27	3	1	returned	NP Verb	short_np_unshifted
+28	3	2	the	Short NP	short_np_unshifted
+29	3	3	flyers	Short NP	short_np_unshifted
+30	3	4	very	PP	short_np_unshifted
+31	3	5	quickly	PP	short_np_unshifted
+32	3	7	.	End	short_np_unshifted
+33	3	8	<eos>	End	short_np_unshifted
+34	4	0	The	Subject	short_np_unshifted
+35	4	1	dealer	Subject	short_np_unshifted
+36	4	2	transported	NP Verb	short_np_unshifted
+37	4	3	a	Short NP	short_np_unshifted
+38	4	4	car	Short NP	short_np_unshifted
+39	4	5	at	PP	short_np_unshifted
+40	4	6	ten	PP	short_np_unshifted
+41	4	8	.	End	short_np_unshifted
+42	4	9	<eos>	End	short_np_unshifted
+43	5	0	The	Subject	short_np_unshifted
+44	5	1	manager	Subject	short_np_unshifted
+45	5	2	transported	NP Verb	short_np_unshifted
+46	5	3	the	Short NP	short_np_unshifted
+47	5	4	sports	Short NP	short_np_unshifted
+48	5	5	gear	Short NP	short_np_unshifted
+49	5	6	at	PP	short_np_unshifted
+50	5	7	three	PP	short_np_unshifted
+51	5	9	.	End	short_np_unshifted
+52	5	10	<eos>	End	short_np_unshifted
+53	6	0	Robert	Subject	short_np_unshifted
+54	6	1	relinquished	NP Verb	short_np_unshifted
+55	6	2	one	Short NP	short_np_unshifted
+56	6	3	plane	Short NP	short_np_unshifted
+57	6	4	ticket	Short NP	short_np_unshifted
+58	6	5	last	PP	short_np_unshifted
+59	6	6	semester	PP	short_np_unshifted
+60	6	8	.	End	short_np_unshifted
+61	6	9	<eos>	End	short_np_unshifted
+62	7	0	Donald	Subject	short_np_unshifted
+63	7	1	relinquished	NP Verb	short_np_unshifted
+64	7	2	some	Short NP	short_np_unshifted
+65	7	3	drafts	Short NP	short_np_unshifted
+66	7	4	with	PP	short_np_unshifted
+67	7	5	joy	PP	short_np_unshifted
+68	7	7	.	End	short_np_unshifted
+69	7	8	<eos>	End	short_np_unshifted
+70	8	0	Jake	Subject	short_np_unshifted
+71	8	1	released	NP Verb	short_np_unshifted
+72	8	2	the	Short NP	short_np_unshifted
+73	8	3	figures	Short NP	short_np_unshifted
+74	8	4	on	PP	short_np_unshifted
+75	8	5	Friday	PP	short_np_unshifted
+76	8	7	.	End	short_np_unshifted
+77	8	8	<eos>	End	short_np_unshifted
+78	9	0	Brian	Subject	short_np_unshifted
+79	9	1	released	NP Verb	short_np_unshifted
+80	9	2	the	Short NP	short_np_unshifted
+81	9	3	quiz	Short NP	short_np_unshifted
+82	9	4	at	PP	short_np_unshifted
+83	9	5	lunch	PP	short_np_unshifted
+84	9	7	.	End	short_np_unshifted
+85	9	8	<eos>	End	short_np_unshifted
+86	10	0	Alex	Subject	short_np_unshifted
+87	10	1	described	NP Verb	short_np_unshifted
+88	10	2	the	Short NP	short_np_unshifted
+89	10	3	offer	Short NP	short_np_unshifted
+90	10	4	in	PP	short_np_unshifted
+91	10	5	detail	PP	short_np_unshifted
+92	10	7	.	End	short_np_unshifted
+93	10	8	<eos>	End	short_np_unshifted
+94	11	0	The	Subject	short_np_unshifted
+95	11	1	woman	Subject	short_np_unshifted
+96	11	2	described	NP Verb	short_np_unshifted
+97	11	3	the	Short NP	short_np_unshifted
+98	11	4	route	Short NP	short_np_unshifted
+99	11	5	by	PP	short_np_unshifted
+100	11	6	phone	PP	short_np_unshifted
+101	11	8	.	End	short_np_unshifted
+102	11	9	<eos>	End	short_np_unshifted
+103	12	0	The	Subject	short_np_unshifted
+104	12	1	lawyer	Subject	short_np_unshifted
+105	12	2	distributed	NP Verb	short_np_unshifted
+106	12	3	the	Short NP	short_np_unshifted
+107	12	4	dividends	Short NP	short_np_unshifted
+108	12	5	with	PP	short_np_unshifted
+109	12	6	confidence	PP	short_np_unshifted
+110	12	8	.	End	short_np_unshifted
+111	12	9	<eos>	End	short_np_unshifted
+112	13	0	The	Subject	short_np_unshifted
+113	13	1	editor	Subject	short_np_unshifted
+114	13	2	distributed	NP Verb	short_np_unshifted
+115	13	3	the	Short NP	short_np_unshifted
+116	13	4	details	Short NP	short_np_unshifted
+117	13	5	at	PP	short_np_unshifted
+118	13	6	supper	PP	short_np_unshifted
+119	13	8	.	End	short_np_unshifted
+120	13	9	<eos>	End	short_np_unshifted
+121	14	0	The	Subject	short_np_unshifted
+122	14	1	president	Subject	short_np_unshifted
+123	14	2	introduced	NP Verb	short_np_unshifted
+124	14	3	the	Short NP	short_np_unshifted
+125	14	4	captain	Short NP	short_np_unshifted
+126	14	5	on	PP	short_np_unshifted
+127	14	6	Monday	PP	short_np_unshifted
+128	14	8	.	End	short_np_unshifted
+129	14	9	<eos>	End	short_np_unshifted
+130	15	0	The	Subject	short_np_unshifted
+131	15	1	teacher	Subject	short_np_unshifted
+132	15	2	introduced	NP Verb	short_np_unshifted
+133	15	3	the	Short NP	short_np_unshifted
+134	15	4	test	Short NP	short_np_unshifted
+135	15	5	with	PP	short_np_unshifted
+136	15	6	care	PP	short_np_unshifted
+137	15	8	.	End	short_np_unshifted
+138	15	9	<eos>	End	short_np_unshifted
+139	16	0	Judy	Subject	short_np_unshifted
+140	16	1	delivered	NP Verb	short_np_unshifted
+141	16	2	a	Short NP	short_np_unshifted
+142	16	3	dress	Short NP	short_np_unshifted
+143	16	4	in	PP	short_np_unshifted
+144	16	5	March	PP	short_np_unshifted
+145	16	7	.	End	short_np_unshifted
+146	16	8	<eos>	End	short_np_unshifted
+147	17	0	Todd	Subject	short_np_unshifted
+148	17	1	delivered	NP Verb	short_np_unshifted
+149	17	2	some	Short NP	short_np_unshifted
+150	17	3	gifts	Short NP	short_np_unshifted
+151	17	4	at	PP	short_np_unshifted
+152	17	5	once	PP	short_np_unshifted
+153	17	7	.	End	short_np_unshifted
+154	17	8	<eos>	End	short_np_unshifted
+155	18	0	Shelly	Subject	short_np_unshifted
+156	18	1	carried	NP Verb	short_np_unshifted
+157	18	2	notes	Short NP	short_np_unshifted
+158	18	3	in	PP	short_np_unshifted
+159	18	4	May	PP	short_np_unshifted
+160	18	6	.	End	short_np_unshifted
+161	18	7	<eos>	End	short_np_unshifted
+162	19	0	The	Subject	short_np_unshifted
+163	19	1	woman	Subject	short_np_unshifted
+164	19	2	carried	NP Verb	short_np_unshifted
+165	19	3	the	Short NP	short_np_unshifted
+166	19	4	records	Short NP	short_np_unshifted
+167	19	5	in	PP	short_np_unshifted
+168	19	6	August	PP	short_np_unshifted
+169	19	8	.	End	short_np_unshifted
+170	19	9	<eos>	End	short_np_unshifted
+171	20	0	David	Subject	short_np_unshifted
+172	20	1	furnished	NP Verb	short_np_unshifted
+173	20	2	the	Short NP	short_np_unshifted
+174	20	3	facts	Short NP	short_np_unshifted
+175	20	4	with	PP	short_np_unshifted
+176	20	5	hesitation	PP	short_np_unshifted
+177	20	7	.	End	short_np_unshifted
+178	20	8	<eos>	End	short_np_unshifted
+179	21	0	Jessica	Subject	short_np_unshifted
+180	21	1	furnished	NP Verb	short_np_unshifted
+181	21	2	the	Short NP	short_np_unshifted
+182	21	3	news	Short NP	short_np_unshifted
+183	21	4	last	PP	short_np_unshifted
+184	21	5	summer	PP	short_np_unshifted
+185	21	7	.	End	short_np_unshifted
+186	21	8	<eos>	End	short_np_unshifted
+187	22	0	Steven	Subject	short_np_unshifted
+188	22	1	addressed	NP Verb	short_np_unshifted
+189	22	2	a	Short NP	short_np_unshifted
+190	22	3	letter	Short NP	short_np_unshifted
+191	22	4	during	PP	short_np_unshifted
+192	22	5	break	PP	short_np_unshifted
+193	22	7	.	End	short_np_unshifted
+194	22	8	<eos>	End	short_np_unshifted
+195	23	0	Raymond	Subject	short_np_unshifted
+196	23	1	addressed	NP Verb	short_np_unshifted
+197	23	2	a	Short NP	short_np_unshifted
+198	23	3	memo	Short NP	short_np_unshifted
+199	23	4	very	PP	short_np_unshifted
+200	23	5	loudly	PP	short_np_unshifted
+201	23	7	.	End	short_np_unshifted
+202	23	8	<eos>	End	short_np_unshifted
+203	24	0	Sam	Subject	short_np_unshifted
+204	24	1	donated	NP Verb	short_np_unshifted
+205	24	2	a	Short NP	short_np_unshifted
+206	24	3	treasure	Short NP	short_np_unshifted
+207	24	4	on	PP	short_np_unshifted
+208	24	5	Sunday	PP	short_np_unshifted
+209	24	7	.	End	short_np_unshifted
+210	24	8	<eos>	End	short_np_unshifted
+211	25	0	The	Subject	short_np_unshifted
+212	25	1	generous	Subject	short_np_unshifted
+213	25	2	man	Subject	short_np_unshifted
+214	25	3	donated	NP Verb	short_np_unshifted
+215	25	4	some	Short NP	short_np_unshifted
+216	25	5	clothes	Short NP	short_np_unshifted
+217	25	6	in	PP	short_np_unshifted
+218	25	7	person	PP	short_np_unshifted
+219	25	9	.	End	short_np_unshifted
+220	25	10	<eos>	End	short_np_unshifted
+221	26	0	Janet	Subject	short_np_unshifted
+222	26	1	transferred	NP Verb	short_np_unshifted
+223	26	2	some	Short NP	short_np_unshifted
+224	26	3	graphs	Short NP	short_np_unshifted
+225	26	4	at	PP	short_np_unshifted
+226	26	5	dawn	PP	short_np_unshifted
+227	26	7	.	End	short_np_unshifted
+228	26	8	<eos>	End	short_np_unshifted
+229	27	0	Bobby	Subject	short_np_unshifted
+230	27	1	transferred	NP Verb	short_np_unshifted
+231	27	2	the	Short NP	short_np_unshifted
+232	27	3	deeds	Short NP	short_np_unshifted
+233	27	4	at	PP	short_np_unshifted
+234	27	5	dusk	PP	short_np_unshifted
+235	27	7	.	End	short_np_unshifted
+236	27	8	<eos>	End	short_np_unshifted
+237	28	0	Kathy	Subject	short_np_unshifted
+238	28	1	recited	NP Verb	short_np_unshifted
+239	28	2	the	Short NP	short_np_unshifted
+240	28	3	poem	Short NP	short_np_unshifted
+241	28	4	last	PP	short_np_unshifted
+242	28	5	night	PP	short_np_unshifted
+243	28	7	.	End	short_np_unshifted
+244	28	8	<eos>	End	short_np_unshifted
+245	29	0	Mike	Subject	short_np_unshifted
+246	29	1	recited	NP Verb	short_np_unshifted
+247	29	2	the	Short NP	short_np_unshifted
+248	29	3	words	Short NP	short_np_unshifted
+249	29	4	last	PP	short_np_unshifted
+250	29	5	year	PP	short_np_unshifted
+251	29	7	.	End	short_np_unshifted
+252	29	8	<eos>	End	short_np_unshifted
+253	30	0	Amy	Subject	short_np_unshifted
+254	30	1	forfeited	NP Verb	short_np_unshifted
+255	30	2	the	Short NP	short_np_unshifted
+256	30	3	game	Short NP	short_np_unshifted
+257	30	4	last	PP	short_np_unshifted
+258	30	5	week	PP	short_np_unshifted
+259	30	7	.	End	short_np_unshifted
+260	30	8	<eos>	End	short_np_unshifted
+261	31	0	Jason	Subject	short_np_unshifted
+262	31	1	forfeited	NP Verb	short_np_unshifted
+263	31	2	the	Short NP	short_np_unshifted
+264	31	3	race	Short NP	short_np_unshifted
+265	31	4	with	PP	short_np_unshifted
+266	31	5	glee	PP	short_np_unshifted
+267	31	7	.	End	short_np_unshifted
+268	31	8	<eos>	End	short_np_unshifted
+269	32	0	Josh	Subject	short_np_unshifted
+270	32	1	dispatched	NP Verb	short_np_unshifted
+271	32	2	a	Short NP	short_np_unshifted
+272	32	3	message	Short NP	short_np_unshifted
+273	32	4	at	PP	short_np_unshifted
+274	32	5	breakfast	PP	short_np_unshifted
+275	32	7	.	End	short_np_unshifted
+276	32	8	<eos>	End	short_np_unshifted
+277	33	0	Brad	Subject	short_np_unshifted
+278	33	1	dispatched	NP Verb	short_np_unshifted
+279	33	2	the	Short NP	short_np_unshifted
+280	33	3	thoughts	Short NP	short_np_unshifted
+281	33	4	at	PP	short_np_unshifted
+282	33	5	nine	PP	short_np_unshifted
+283	33	7	.	End	short_np_unshifted
+284	33	8	<eos>	End	short_np_unshifted
+285	34	0	The	Subject	short_np_unshifted
+286	34	1	teacher	Subject	short_np_unshifted
+287	34	2	narrated	NP Verb	short_np_unshifted
+288	34	3	the	Short NP	short_np_unshifted
+289	34	4	events	Short NP	short_np_unshifted
+290	34	5	with	PP	short_np_unshifted
+291	34	6	caution	PP	short_np_unshifted
+292	34	8	.	End	short_np_unshifted
+293	34	9	<eos>	End	short_np_unshifted
+294	35	0	Matthew	Subject	short_np_unshifted
+295	35	1	narrated	NP Verb	short_np_unshifted
+296	35	2	the	Short NP	short_np_unshifted
+297	35	3	story	Short NP	short_np_unshifted
+298	35	4	in	PP	short_np_unshifted
+299	35	5	secret	PP	short_np_unshifted
+300	35	7	.	End	short_np_unshifted
+301	35	8	<eos>	End	short_np_unshifted
+302	36	0	Tim	Subject	short_np_unshifted
+303	36	1	contributed	NP Verb	short_np_unshifted
+304	36	2	the	Short NP	short_np_unshifted
+305	36	3	reward	Short NP	short_np_unshifted
+306	36	4	with	PP	short_np_unshifted
+307	36	5	reluctance	PP	short_np_unshifted
+308	36	7	.	End	short_np_unshifted
+309	36	8	<eos>	End	short_np_unshifted
+310	37	0	Bobby	Subject	short_np_unshifted
+311	37	1	contributed	NP Verb	short_np_unshifted
+312	37	2	the	Short NP	short_np_unshifted
+313	37	3	earnings	Short NP	short_np_unshifted
+314	37	4	with	PP	short_np_unshifted
+315	37	5	pleasure	PP	short_np_unshifted
+316	37	7	.	End	short_np_unshifted
+317	37	8	<eos>	End	short_np_unshifted
+318	38	0	Ed	Subject	short_np_unshifted
+319	38	1	entrusted	NP Verb	short_np_unshifted
+320	38	2	a	Short NP	short_np_unshifted
+321	38	3	script	Short NP	short_np_unshifted
+322	38	4	at	PP	short_np_unshifted
+323	38	5	brunch	PP	short_np_unshifted
+324	38	7	.	End	short_np_unshifted
+325	38	8	<eos>	End	short_np_unshifted
+326	39	0	Angie	Subject	short_np_unshifted
+327	39	1	entrusted	NP Verb	short_np_unshifted
+328	39	2	the	Short NP	short_np_unshifted
+329	39	3	plan	Short NP	short_np_unshifted
+330	39	4	with	PP	short_np_unshifted
+331	39	5	hope	PP	short_np_unshifted
+332	39	7	.	End	short_np_unshifted
+333	39	8	<eos>	End	short_np_unshifted
+334	0	0	The	Subject	short_np_shifted
+335	0	1	manager	Subject	short_np_shifted
+336	0	2	presented	NP Verb	short_np_shifted
+337	0	3	at	PP	short_np_shifted
+338	0	4	noon	PP	short_np_shifted
+339	0	5	the	Short NP	short_np_shifted
+340	0	6	styles	Short NP	short_np_shifted
+341	0	8	.	End	short_np_shifted
+342	0	9	<eos>	End	short_np_shifted
+343	1	0	The	Subject	short_np_shifted
+344	1	1	contractor	Subject	short_np_shifted
+345	1	2	presented	NP Verb	short_np_shifted
+346	1	3	in	PP	short_np_shifted
+347	1	4	July	PP	short_np_shifted
+348	1	5	the	Short NP	short_np_shifted
+349	1	6	display	Short NP	short_np_shifted
+350	1	8	.	End	short_np_shifted
+351	1	9	<eos>	End	short_np_shifted
+352	2	0	Mary	Subject	short_np_shifted
+353	2	1	returned	NP Verb	short_np_shifted
+354	2	2	at	PP	short_np_shifted
+355	2	3	tea	PP	short_np_shifted
+356	2	4	the	Short NP	short_np_shifted
+357	2	5	ads	Short NP	short_np_shifted
+358	2	7	.	End	short_np_shifted
+359	2	8	<eos>	End	short_np_shifted
+360	3	0	Mark	Subject	short_np_shifted
+361	3	1	returned	NP Verb	short_np_shifted
+362	3	2	very	PP	short_np_shifted
+363	3	3	quickly	PP	short_np_shifted
+364	3	4	the	Short NP	short_np_shifted
+365	3	5	flyers	Short NP	short_np_shifted
+366	3	7	.	End	short_np_shifted
+367	3	8	<eos>	End	short_np_shifted
+368	4	0	The	Subject	short_np_shifted
+369	4	1	dealer	Subject	short_np_shifted
+370	4	2	transported	NP Verb	short_np_shifted
+371	4	3	at	PP	short_np_shifted
+372	4	4	ten	PP	short_np_shifted
+373	4	5	a	Short NP	short_np_shifted
+374	4	6	car	Short NP	short_np_shifted
+375	4	8	.	End	short_np_shifted
+376	4	9	<eos>	End	short_np_shifted
+377	5	0	The	Subject	short_np_shifted
+378	5	1	manager	Subject	short_np_shifted
+379	5	2	transported	NP Verb	short_np_shifted
+380	5	3	at	PP	short_np_shifted
+381	5	4	three	PP	short_np_shifted
+382	5	5	the	Short NP	short_np_shifted
+383	5	6	sports	Short NP	short_np_shifted
+384	5	7	gear	Short NP	short_np_shifted
+385	5	9	.	End	short_np_shifted
+386	5	10	<eos>	End	short_np_shifted
+387	6	0	Robert	Subject	short_np_shifted
+388	6	1	relinquished	NP Verb	short_np_shifted
+389	6	2	last	PP	short_np_shifted
+390	6	3	semester	PP	short_np_shifted
+391	6	4	one	Short NP	short_np_shifted
+392	6	5	plane	Short NP	short_np_shifted
+393	6	6	ticket	Short NP	short_np_shifted
+394	6	8	.	End	short_np_shifted
+395	6	9	<eos>	End	short_np_shifted
+396	7	0	Donald	Subject	short_np_shifted
+397	7	1	relinquished	NP Verb	short_np_shifted
+398	7	2	with	PP	short_np_shifted
+399	7	3	joy	PP	short_np_shifted
+400	7	4	some	Short NP	short_np_shifted
+401	7	5	drafts	Short NP	short_np_shifted
+402	7	7	.	End	short_np_shifted
+403	7	8	<eos>	End	short_np_shifted
+404	8	0	Jake	Subject	short_np_shifted
+405	8	1	released	NP Verb	short_np_shifted
+406	8	2	on	PP	short_np_shifted
+407	8	3	Friday	PP	short_np_shifted
+408	8	4	the	Short NP	short_np_shifted
+409	8	5	figures	Short NP	short_np_shifted
+410	8	7	.	End	short_np_shifted
+411	8	8	<eos>	End	short_np_shifted
+412	9	0	Brian	Subject	short_np_shifted
+413	9	1	released	NP Verb	short_np_shifted
+414	9	2	at	PP	short_np_shifted
+415	9	3	lunch	PP	short_np_shifted
+416	9	4	the	Short NP	short_np_shifted
+417	9	5	quiz	Short NP	short_np_shifted
+418	9	7	.	End	short_np_shifted
+419	9	8	<eos>	End	short_np_shifted
+420	10	0	Alex	Subject	short_np_shifted
+421	10	1	described	NP Verb	short_np_shifted
+422	10	2	in	PP	short_np_shifted
+423	10	3	detail	PP	short_np_shifted
+424	10	4	the	Short NP	short_np_shifted
+425	10	5	offer	Short NP	short_np_shifted
+426	10	7	.	End	short_np_shifted
+427	10	8	<eos>	End	short_np_shifted
+428	11	0	The	Subject	short_np_shifted
+429	11	1	woman	Subject	short_np_shifted
+430	11	2	described	NP Verb	short_np_shifted
+431	11	3	by	PP	short_np_shifted
+432	11	4	phone	PP	short_np_shifted
+433	11	5	the	Short NP	short_np_shifted
+434	11	6	route	Short NP	short_np_shifted
+435	11	8	.	End	short_np_shifted
+436	11	9	<eos>	End	short_np_shifted
+437	12	0	The	Subject	short_np_shifted
+438	12	1	lawyer	Subject	short_np_shifted
+439	12	2	distributed	NP Verb	short_np_shifted
+440	12	3	with	PP	short_np_shifted
+441	12	4	confidence	PP	short_np_shifted
+442	12	5	the	Short NP	short_np_shifted
+443	12	6	dividends	Short NP	short_np_shifted
+444	12	8	.	End	short_np_shifted
+445	12	9	<eos>	End	short_np_shifted
+446	13	0	The	Subject	short_np_shifted
+447	13	1	editor	Subject	short_np_shifted
+448	13	2	distributed	NP Verb	short_np_shifted
+449	13	3	at	PP	short_np_shifted
+450	13	4	supper	PP	short_np_shifted
+451	13	5	the	Short NP	short_np_shifted
+452	13	6	details	Short NP	short_np_shifted
+453	13	8	.	End	short_np_shifted
+454	13	9	<eos>	End	short_np_shifted
+455	14	0	The	Subject	short_np_shifted
+456	14	1	president	Subject	short_np_shifted
+457	14	2	introduced	NP Verb	short_np_shifted
+458	14	3	on	PP	short_np_shifted
+459	14	4	Monday	PP	short_np_shifted
+460	14	5	the	Short NP	short_np_shifted
+461	14	6	captain	Short NP	short_np_shifted
+462	14	8	.	End	short_np_shifted
+463	14	9	<eos>	End	short_np_shifted
+464	15	0	The	Subject	short_np_shifted
+465	15	1	teacher	Subject	short_np_shifted
+466	15	2	introduced	NP Verb	short_np_shifted
+467	15	3	with	PP	short_np_shifted
+468	15	4	care	PP	short_np_shifted
+469	15	5	the	Short NP	short_np_shifted
+470	15	6	test	Short NP	short_np_shifted
+471	15	8	.	End	short_np_shifted
+472	15	9	<eos>	End	short_np_shifted
+473	16	0	Judy	Subject	short_np_shifted
+474	16	1	delivered	NP Verb	short_np_shifted
+475	16	2	in	PP	short_np_shifted
+476	16	3	March	PP	short_np_shifted
+477	16	4	a	Short NP	short_np_shifted
+478	16	5	dress	Short NP	short_np_shifted
+479	16	7	.	End	short_np_shifted
+480	16	8	<eos>	End	short_np_shifted
+481	17	0	Todd	Subject	short_np_shifted
+482	17	1	delivered	NP Verb	short_np_shifted
+483	17	2	at	PP	short_np_shifted
+484	17	3	once	PP	short_np_shifted
+485	17	4	some	Short NP	short_np_shifted
+486	17	5	gifts	Short NP	short_np_shifted
+487	17	7	.	End	short_np_shifted
+488	17	8	<eos>	End	short_np_shifted
+489	18	0	Shelly	Subject	short_np_shifted
+490	18	1	carried	NP Verb	short_np_shifted
+491	18	2	in	PP	short_np_shifted
+492	18	3	May	PP	short_np_shifted
+493	18	4	notes	Short NP	short_np_shifted
+494	18	6	.	End	short_np_shifted
+495	18	7	<eos>	End	short_np_shifted
+496	19	0	The	Subject	short_np_shifted
+497	19	1	woman	Subject	short_np_shifted
+498	19	2	carried	NP Verb	short_np_shifted
+499	19	3	in	PP	short_np_shifted
+500	19	4	August	PP	short_np_shifted
+501	19	5	the	Short NP	short_np_shifted
+502	19	6	records	Short NP	short_np_shifted
+503	19	8	.	End	short_np_shifted
+504	19	9	<eos>	End	short_np_shifted
+505	20	0	David	Subject	short_np_shifted
+506	20	1	furnished	NP Verb	short_np_shifted
+507	20	2	with	PP	short_np_shifted
+508	20	3	hesitation	PP	short_np_shifted
+509	20	4	the	Short NP	short_np_shifted
+510	20	5	facts	Short NP	short_np_shifted
+511	20	7	.	End	short_np_shifted
+512	20	8	<eos>	End	short_np_shifted
+513	21	0	Jessica	Subject	short_np_shifted
+514	21	1	furnished	NP Verb	short_np_shifted
+515	21	2	last	PP	short_np_shifted
+516	21	3	summer	PP	short_np_shifted
+517	21	4	the	Short NP	short_np_shifted
+518	21	5	news	Short NP	short_np_shifted
+519	21	7	.	End	short_np_shifted
+520	21	8	<eos>	End	short_np_shifted
+521	22	0	Steven	Subject	short_np_shifted
+522	22	1	addressed	NP Verb	short_np_shifted
+523	22	2	during	PP	short_np_shifted
+524	22	3	break	PP	short_np_shifted
+525	22	4	a	Short NP	short_np_shifted
+526	22	5	letter	Short NP	short_np_shifted
+527	22	7	.	End	short_np_shifted
+528	22	8	<eos>	End	short_np_shifted
+529	23	0	Raymond	Subject	short_np_shifted
+530	23	1	addressed	NP Verb	short_np_shifted
+531	23	2	very	PP	short_np_shifted
+532	23	3	loudly	PP	short_np_shifted
+533	23	4	a	Short NP	short_np_shifted
+534	23	5	memo	Short NP	short_np_shifted
+535	23	7	.	End	short_np_shifted
+536	23	8	<eos>	End	short_np_shifted
+537	24	0	Sam	Subject	short_np_shifted
+538	24	1	donated	NP Verb	short_np_shifted
+539	24	2	on	PP	short_np_shifted
+540	24	3	Sunday	PP	short_np_shifted
+541	24	4	a	Short NP	short_np_shifted
+542	24	5	treasure	Short NP	short_np_shifted
+543	24	7	.	End	short_np_shifted
+544	24	8	<eos>	End	short_np_shifted
+545	25	0	The	Subject	short_np_shifted
+546	25	1	generous	Subject	short_np_shifted
+547	25	2	man	Subject	short_np_shifted
+548	25	3	donated	NP Verb	short_np_shifted
+549	25	4	in	PP	short_np_shifted
+550	25	5	person	PP	short_np_shifted
+551	25	6	some	Short NP	short_np_shifted
+552	25	7	clothes	Short NP	short_np_shifted
+553	25	9	.	End	short_np_shifted
+554	25	10	<eos>	End	short_np_shifted
+555	26	0	Janet	Subject	short_np_shifted
+556	26	1	transferred	NP Verb	short_np_shifted
+557	26	2	at	PP	short_np_shifted
+558	26	3	dawn	PP	short_np_shifted
+559	26	4	some	Short NP	short_np_shifted
+560	26	5	graphs	Short NP	short_np_shifted
+561	26	7	.	End	short_np_shifted
+562	26	8	<eos>	End	short_np_shifted
+563	27	0	Bobby	Subject	short_np_shifted
+564	27	1	transferred	NP Verb	short_np_shifted
+565	27	2	at	PP	short_np_shifted
+566	27	3	dusk	PP	short_np_shifted
+567	27	4	the	Short NP	short_np_shifted
+568	27	5	deeds	Short NP	short_np_shifted
+569	27	7	.	End	short_np_shifted
+570	27	8	<eos>	End	short_np_shifted
+571	28	0	Kathy	Subject	short_np_shifted
+572	28	1	recited	NP Verb	short_np_shifted
+573	28	2	last	PP	short_np_shifted
+574	28	3	night	PP	short_np_shifted
+575	28	4	the	Short NP	short_np_shifted
+576	28	5	poem	Short NP	short_np_shifted
+577	28	7	.	End	short_np_shifted
+578	28	8	<eos>	End	short_np_shifted
+579	29	0	Mike	Subject	short_np_shifted
+580	29	1	recited	NP Verb	short_np_shifted
+581	29	2	last	PP	short_np_shifted
+582	29	3	year	PP	short_np_shifted
+583	29	4	the	Short NP	short_np_shifted
+584	29	5	words	Short NP	short_np_shifted
+585	29	7	.	End	short_np_shifted
+586	29	8	<eos>	End	short_np_shifted
+587	30	0	Amy	Subject	short_np_shifted
+588	30	1	forfeited	NP Verb	short_np_shifted
+589	30	2	last	PP	short_np_shifted
+590	30	3	week	PP	short_np_shifted
+591	30	4	the	Short NP	short_np_shifted
+592	30	5	game	Short NP	short_np_shifted
+593	30	7	.	End	short_np_shifted
+594	30	8	<eos>	End	short_np_shifted
+595	31	0	Jason	Subject	short_np_shifted
+596	31	1	forfeited	NP Verb	short_np_shifted
+597	31	2	with	PP	short_np_shifted
+598	31	3	glee	PP	short_np_shifted
+599	31	4	the	Short NP	short_np_shifted
+600	31	5	race	Short NP	short_np_shifted
+601	31	7	.	End	short_np_shifted
+602	31	8	<eos>	End	short_np_shifted
+603	32	0	Josh	Subject	short_np_shifted
+604	32	1	dispatched	NP Verb	short_np_shifted
+605	32	2	at	PP	short_np_shifted
+606	32	3	breakfast	PP	short_np_shifted
+607	32	4	a	Short NP	short_np_shifted
+608	32	5	message	Short NP	short_np_shifted
+609	32	7	.	End	short_np_shifted
+610	32	8	<eos>	End	short_np_shifted
+611	33	0	Brad	Subject	short_np_shifted
+612	33	1	dispatched	NP Verb	short_np_shifted
+613	33	2	at	PP	short_np_shifted
+614	33	3	nine	PP	short_np_shifted
+615	33	4	the	Short NP	short_np_shifted
+616	33	5	thoughts	Short NP	short_np_shifted
+617	33	7	.	End	short_np_shifted
+618	33	8	<eos>	End	short_np_shifted
+619	34	0	The	Subject	short_np_shifted
+620	34	1	teacher	Subject	short_np_shifted
+621	34	2	narrated	NP Verb	short_np_shifted
+622	34	3	with	PP	short_np_shifted
+623	34	4	caution	PP	short_np_shifted
+624	34	5	the	Short NP	short_np_shifted
+625	34	6	events	Short NP	short_np_shifted
+626	34	8	.	End	short_np_shifted
+627	34	9	<eos>	End	short_np_shifted
+628	35	0	Matthew	Subject	short_np_shifted
+629	35	1	narrated	NP Verb	short_np_shifted
+630	35	2	in	PP	short_np_shifted
+631	35	3	secret	PP	short_np_shifted
+632	35	4	the	Short NP	short_np_shifted
+633	35	5	story	Short NP	short_np_shifted
+634	35	7	.	End	short_np_shifted
+635	35	8	<eos>	End	short_np_shifted
+636	36	0	Tim	Subject	short_np_shifted
+637	36	1	contributed	NP Verb	short_np_shifted
+638	36	2	with	PP	short_np_shifted
+639	36	3	reluctance	PP	short_np_shifted
+640	36	4	the	Short NP	short_np_shifted
+641	36	5	reward	Short NP	short_np_shifted
+642	36	7	.	End	short_np_shifted
+643	36	8	<eos>	End	short_np_shifted
+644	37	0	Bobby	Subject	short_np_shifted
+645	37	1	contributed	NP Verb	short_np_shifted
+646	37	2	with	PP	short_np_shifted
+647	37	3	pleasure	PP	short_np_shifted
+648	37	4	the	Short NP	short_np_shifted
+649	37	5	earnings	Short NP	short_np_shifted
+650	37	7	.	End	short_np_shifted
+651	37	8	<eos>	End	short_np_shifted
+652	38	0	Ed	Subject	short_np_shifted
+653	38	1	entrusted	NP Verb	short_np_shifted
+654	38	2	at	PP	short_np_shifted
+655	38	3	brunch	PP	short_np_shifted
+656	38	4	a	Short NP	short_np_shifted
+657	38	5	script	Short NP	short_np_shifted
+658	38	7	.	End	short_np_shifted
+659	38	8	<eos>	End	short_np_shifted
+660	39	0	Angie	Subject	short_np_shifted
+661	39	1	entrusted	NP Verb	short_np_shifted
+662	39	2	with	PP	short_np_shifted
+663	39	3	hope	PP	short_np_shifted
+664	39	4	the	Short NP	short_np_shifted
+665	39	5	plan	Short NP	short_np_shifted
+666	39	7	.	End	short_np_shifted
+667	39	8	<eos>	End	short_np_shifted
+668	0	0	The	Subject	short_nps_unshifted
+669	0	1	manager	Subject	short_nps_unshifted
+670	0	2	exhibited	NP/S Verb	short_nps_unshifted
+671	0	3	the	Short NP	short_nps_unshifted
+672	0	4	styles	Short NP	short_nps_unshifted
+673	0	5	at	PP	short_nps_unshifted
+674	0	6	noon	PP	short_nps_unshifted
+675	0	8	.	End	short_nps_unshifted
+676	0	9	<eos>	End	short_nps_unshifted
+677	1	0	The	Subject	short_nps_unshifted
+678	1	1	contractor	Subject	short_nps_unshifted
+679	1	2	exhibited	NP/S Verb	short_nps_unshifted
+680	1	3	the	Short NP	short_nps_unshifted
+681	1	4	display	Short NP	short_nps_unshifted
+682	1	5	in	PP	short_nps_unshifted
+683	1	6	July	PP	short_nps_unshifted
+684	1	8	.	End	short_nps_unshifted
+685	1	9	<eos>	End	short_nps_unshifted
+686	2	0	Mary	Subject	short_nps_unshifted
+687	2	1	mentioned	NP/S Verb	short_nps_unshifted
+688	2	2	the	Short NP	short_nps_unshifted
+689	2	3	ads	Short NP	short_nps_unshifted
+690	2	4	at	PP	short_nps_unshifted
+691	2	5	tea	PP	short_nps_unshifted
+692	2	7	.	End	short_nps_unshifted
+693	2	8	<eos>	End	short_nps_unshifted
+694	3	0	Mark	Subject	short_nps_unshifted
+695	3	1	mentioned	NP/S Verb	short_nps_unshifted
+696	3	2	the	Short NP	short_nps_unshifted
+697	3	3	flyers	Short NP	short_nps_unshifted
+698	3	4	very	PP	short_nps_unshifted
+699	3	5	quickly	PP	short_nps_unshifted
+700	3	7	.	End	short_nps_unshifted
+701	3	8	<eos>	End	short_nps_unshifted
+702	4	0	The	Subject	short_nps_unshifted
+703	4	1	dealer	Subject	short_nps_unshifted
+704	4	2	demonstrated	NP/S Verb	short_nps_unshifted
+705	4	3	a	Short NP	short_nps_unshifted
+706	4	4	car	Short NP	short_nps_unshifted
+707	4	5	at	PP	short_nps_unshifted
+708	4	6	ten	PP	short_nps_unshifted
+709	4	8	.	End	short_nps_unshifted
+710	4	9	<eos>	End	short_nps_unshifted
+711	5	0	The	Subject	short_nps_unshifted
+712	5	1	manager	Subject	short_nps_unshifted
+713	5	2	demonstrated	NP/S Verb	short_nps_unshifted
+714	5	3	the	Short NP	short_nps_unshifted
+715	5	4	sports	Short NP	short_nps_unshifted
+716	5	5	gear	Short NP	short_nps_unshifted
+717	5	6	at	PP	short_nps_unshifted
+718	5	7	three	PP	short_nps_unshifted
+719	5	9	.	End	short_nps_unshifted
+720	5	10	<eos>	End	short_nps_unshifted
+721	6	0	Robert	Subject	short_nps_unshifted
+722	6	1	proposed	NP/S Verb	short_nps_unshifted
+723	6	2	one	Short NP	short_nps_unshifted
+724	6	3	plane	Short NP	short_nps_unshifted
+725	6	4	ticket	Short NP	short_nps_unshifted
+726	6	5	last	PP	short_nps_unshifted
+727	6	6	semester	PP	short_nps_unshifted
+728	6	8	.	End	short_nps_unshifted
+729	6	9	<eos>	End	short_nps_unshifted
+730	7	0	Donald	Subject	short_nps_unshifted
+731	7	1	proposed	NP/S Verb	short_nps_unshifted
+732	7	2	some	Short NP	short_nps_unshifted
+733	7	3	drafts	Short NP	short_nps_unshifted
+734	7	4	with	PP	short_nps_unshifted
+735	7	5	joy	PP	short_nps_unshifted
+736	7	7	.	End	short_nps_unshifted
+737	7	8	<eos>	End	short_nps_unshifted
+738	8	0	Jake	Subject	short_nps_unshifted
+739	8	1	explained	NP/S Verb	short_nps_unshifted
+740	8	2	the	Short NP	short_nps_unshifted
+741	8	3	figures	Short NP	short_nps_unshifted
+742	8	4	on	PP	short_nps_unshifted
+743	8	5	Friday	PP	short_nps_unshifted
+744	8	7	.	End	short_nps_unshifted
+745	8	8	<eos>	End	short_nps_unshifted
+746	9	0	Brian	Subject	short_nps_unshifted
+747	9	1	explained	NP/S Verb	short_nps_unshifted
+748	9	2	the	Short NP	short_nps_unshifted
+749	9	3	quiz	Short NP	short_nps_unshifted
+750	9	4	at	PP	short_nps_unshifted
+751	9	5	lunch	PP	short_nps_unshifted
+752	9	7	.	End	short_nps_unshifted
+753	9	8	<eos>	End	short_nps_unshifted
+754	10	0	Alex	Subject	short_nps_unshifted
+755	10	1	indicated	NP/S Verb	short_nps_unshifted
+756	10	2	the	Short NP	short_nps_unshifted
+757	10	3	offer	Short NP	short_nps_unshifted
+758	10	4	in	PP	short_nps_unshifted
+759	10	5	detail	PP	short_nps_unshifted
+760	10	7	.	End	short_nps_unshifted
+761	10	8	<eos>	End	short_nps_unshifted
+762	11	0	The	Subject	short_nps_unshifted
+763	11	1	woman	Subject	short_nps_unshifted
+764	11	2	indicated	NP/S Verb	short_nps_unshifted
+765	11	3	the	Short NP	short_nps_unshifted
+766	11	4	route	Short NP	short_nps_unshifted
+767	11	5	by	PP	short_nps_unshifted
+768	11	6	phone	PP	short_nps_unshifted
+769	11	8	.	End	short_nps_unshifted
+770	11	9	<eos>	End	short_nps_unshifted
+771	12	0	The	Subject	short_nps_unshifted
+772	12	1	lawyer	Subject	short_nps_unshifted
+773	12	2	acknowledged	NP/S Verb	short_nps_unshifted
+774	12	3	the	Short NP	short_nps_unshifted
+775	12	4	dividends	Short NP	short_nps_unshifted
+776	12	5	with	PP	short_nps_unshifted
+777	12	6	confidence	PP	short_nps_unshifted
+778	12	8	.	End	short_nps_unshifted
+779	12	9	<eos>	End	short_nps_unshifted
+780	13	0	The	Subject	short_nps_unshifted
+781	13	1	editor	Subject	short_nps_unshifted
+782	13	2	acknowledged	NP/S Verb	short_nps_unshifted
+783	13	3	the	Short NP	short_nps_unshifted
+784	13	4	details	Short NP	short_nps_unshifted
+785	13	5	at	PP	short_nps_unshifted
+786	13	6	supper	PP	short_nps_unshifted
+787	13	8	.	End	short_nps_unshifted
+788	13	9	<eos>	End	short_nps_unshifted
+789	14	0	The	Subject	short_nps_unshifted
+790	14	1	president	Subject	short_nps_unshifted
+791	14	2	announced	NP/S Verb	short_nps_unshifted
+792	14	3	the	Short NP	short_nps_unshifted
+793	14	4	captain	Short NP	short_nps_unshifted
+794	14	5	on	PP	short_nps_unshifted
+795	14	6	Monday	PP	short_nps_unshifted
+796	14	8	.	End	short_nps_unshifted
+797	14	9	<eos>	End	short_nps_unshifted
+798	15	0	The	Subject	short_nps_unshifted
+799	15	1	teacher	Subject	short_nps_unshifted
+800	15	2	announced	NP/S Verb	short_nps_unshifted
+801	15	3	the	Short NP	short_nps_unshifted
+802	15	4	test	Short NP	short_nps_unshifted
+803	15	5	with	PP	short_nps_unshifted
+804	15	6	care	PP	short_nps_unshifted
+805	15	8	.	End	short_nps_unshifted
+806	15	9	<eos>	End	short_nps_unshifted
+807	16	0	Judy	Subject	short_nps_unshifted
+808	16	1	suggested	NP/S Verb	short_nps_unshifted
+809	16	2	a	Short NP	short_nps_unshifted
+810	16	3	dress	Short NP	short_nps_unshifted
+811	16	4	in	PP	short_nps_unshifted
+812	16	5	March	PP	short_nps_unshifted
+813	16	7	.	End	short_nps_unshifted
+814	16	8	<eos>	End	short_nps_unshifted
+815	17	0	Todd	Subject	short_nps_unshifted
+816	17	1	suggested	NP/S Verb	short_nps_unshifted
+817	17	2	some	Short NP	short_nps_unshifted
+818	17	3	gifts	Short NP	short_nps_unshifted
+819	17	4	at	PP	short_nps_unshifted
+820	17	5	once	PP	short_nps_unshifted
+821	17	7	.	End	short_nps_unshifted
+822	17	8	<eos>	End	short_nps_unshifted
+823	18	0	Shelly	Subject	short_nps_unshifted
+824	18	1	disclosed	NP/S Verb	short_nps_unshifted
+825	18	2	notes	Short NP	short_nps_unshifted
+826	18	3	in	PP	short_nps_unshifted
+827	18	4	May	PP	short_nps_unshifted
+828	18	6	.	End	short_nps_unshifted
+829	18	7	<eos>	End	short_nps_unshifted
+830	19	0	The	Subject	short_nps_unshifted
+831	19	1	woman	Subject	short_nps_unshifted
+832	19	2	disclosed	NP/S Verb	short_nps_unshifted
+833	19	3	the	Short NP	short_nps_unshifted
+834	19	4	records	Short NP	short_nps_unshifted
+835	19	5	in	PP	short_nps_unshifted
+836	19	6	August	PP	short_nps_unshifted
+837	19	8	.	End	short_nps_unshifted
+838	19	9	<eos>	End	short_nps_unshifted
+839	20	0	David	Subject	short_nps_unshifted
+840	20	1	reported	NP/S Verb	short_nps_unshifted
+841	20	2	the	Short NP	short_nps_unshifted
+842	20	3	facts	Short NP	short_nps_unshifted
+843	20	4	with	PP	short_nps_unshifted
+844	20	5	hesitation	PP	short_nps_unshifted
+845	20	7	.	End	short_nps_unshifted
+846	20	8	<eos>	End	short_nps_unshifted
+847	21	0	Jessica	Subject	short_nps_unshifted
+848	21	1	reported	NP/S Verb	short_nps_unshifted
+849	21	2	the	Short NP	short_nps_unshifted
+850	21	3	news	Short NP	short_nps_unshifted
+851	21	4	last	PP	short_nps_unshifted
+852	21	5	summer	PP	short_nps_unshifted
+853	21	7	.	End	short_nps_unshifted
+854	21	8	<eos>	End	short_nps_unshifted
+855	22	0	Steven	Subject	short_nps_unshifted
+856	22	1	communicated	NP/S Verb	short_nps_unshifted
+857	22	2	a	Short NP	short_nps_unshifted
+858	22	3	letter	Short NP	short_nps_unshifted
+859	22	4	during	PP	short_nps_unshifted
+860	22	5	break	PP	short_nps_unshifted
+861	22	7	.	End	short_nps_unshifted
+862	22	8	<eos>	End	short_nps_unshifted
+863	23	0	Raymond	Subject	short_nps_unshifted
+864	23	1	communicated	NP/S Verb	short_nps_unshifted
+865	23	2	a	Short NP	short_nps_unshifted
+866	23	3	memo	Short NP	short_nps_unshifted
+867	23	4	very	PP	short_nps_unshifted
+868	23	5	loudly	PP	short_nps_unshifted
+869	23	7	.	End	short_nps_unshifted
+870	23	8	<eos>	End	short_nps_unshifted
+871	24	0	Sam	Subject	short_nps_unshifted
+872	24	1	recommended	NP/S Verb	short_nps_unshifted
+873	24	2	a	Short NP	short_nps_unshifted
+874	24	3	treasure	Short NP	short_nps_unshifted
+875	24	4	on	PP	short_nps_unshifted
+876	24	5	Sunday	PP	short_nps_unshifted
+877	24	7	.	End	short_nps_unshifted
+878	24	8	<eos>	End	short_nps_unshifted
+879	25	0	The	Subject	short_nps_unshifted
+880	25	1	generous	Subject	short_nps_unshifted
+881	25	2	man	Subject	short_nps_unshifted
+882	25	3	recommended	NP/S Verb	short_nps_unshifted
+883	25	4	some	Short NP	short_nps_unshifted
+884	25	5	clothes	Short NP	short_nps_unshifted
+885	25	6	in	PP	short_nps_unshifted
+886	25	7	person	PP	short_nps_unshifted
+887	25	9	.	End	short_nps_unshifted
+888	25	10	<eos>	End	short_nps_unshifted
+889	26	0	Janet	Subject	short_nps_unshifted
+890	26	1	revealed	NP/S Verb	short_nps_unshifted
+891	26	2	some	Short NP	short_nps_unshifted
+892	26	3	graphs	Short NP	short_nps_unshifted
+893	26	4	at	PP	short_nps_unshifted
+894	26	5	dawn	PP	short_nps_unshifted
+895	26	7	.	End	short_nps_unshifted
+896	26	8	<eos>	End	short_nps_unshifted
+897	27	0	Bobby	Subject	short_nps_unshifted
+898	27	1	revealed	NP/S Verb	short_nps_unshifted
+899	27	2	the	Short NP	short_nps_unshifted
+900	27	3	deeds	Short NP	short_nps_unshifted
+901	27	4	at	PP	short_nps_unshifted
+902	27	5	dusk	PP	short_nps_unshifted
+903	27	7	.	End	short_nps_unshifted
+904	27	8	<eos>	End	short_nps_unshifted
+905	28	0	Kathy	Subject	short_nps_unshifted
+906	28	1	dictated	NP/S Verb	short_nps_unshifted
+907	28	2	the	Short NP	short_nps_unshifted
+908	28	3	poem	Short NP	short_nps_unshifted
+909	28	4	last	PP	short_nps_unshifted
+910	28	5	night	PP	short_nps_unshifted
+911	28	7	.	End	short_nps_unshifted
+912	28	8	<eos>	End	short_nps_unshifted
+913	29	0	Mike	Subject	short_nps_unshifted
+914	29	1	dictated	NP/S Verb	short_nps_unshifted
+915	29	2	the	Short NP	short_nps_unshifted
+916	29	3	words	Short NP	short_nps_unshifted
+917	29	4	last	PP	short_nps_unshifted
+918	29	5	year	PP	short_nps_unshifted
+919	29	7	.	End	short_nps_unshifted
+920	29	8	<eos>	End	short_nps_unshifted
+921	30	0	Amy	Subject	short_nps_unshifted
+922	30	1	broadcast	NP/S Verb	short_nps_unshifted
+923	30	2	the	Short NP	short_nps_unshifted
+924	30	3	game	Short NP	short_nps_unshifted
+925	30	4	last	PP	short_nps_unshifted
+926	30	5	week	PP	short_nps_unshifted
+927	30	7	.	End	short_nps_unshifted
+928	30	8	<eos>	End	short_nps_unshifted
+929	31	0	Jason	Subject	short_nps_unshifted
+930	31	1	broadcast	NP/S Verb	short_nps_unshifted
+931	31	2	the	Short NP	short_nps_unshifted
+932	31	3	race	Short NP	short_nps_unshifted
+933	31	4	with	PP	short_nps_unshifted
+934	31	5	glee	PP	short_nps_unshifted
+935	31	7	.	End	short_nps_unshifted
+936	31	8	<eos>	End	short_nps_unshifted
+937	32	0	Josh	Subject	short_nps_unshifted
+938	32	1	conveyed	NP/S Verb	short_nps_unshifted
+939	32	2	a	Short NP	short_nps_unshifted
+940	32	3	message	Short NP	short_nps_unshifted
+941	32	4	at	PP	short_nps_unshifted
+942	32	5	breakfast	PP	short_nps_unshifted
+943	32	7	.	End	short_nps_unshifted
+944	32	8	<eos>	End	short_nps_unshifted
+945	33	0	Brad	Subject	short_nps_unshifted
+946	33	1	conveyed	NP/S Verb	short_nps_unshifted
+947	33	2	the	Short NP	short_nps_unshifted
+948	33	3	thoughts	Short NP	short_nps_unshifted
+949	33	4	at	PP	short_nps_unshifted
+950	33	5	nine	PP	short_nps_unshifted
+951	33	7	.	End	short_nps_unshifted
+952	33	8	<eos>	End	short_nps_unshifted
+953	34	0	The	Subject	short_nps_unshifted
+954	34	1	teacher	Subject	short_nps_unshifted
+955	34	2	confessed	NP/S Verb	short_nps_unshifted
+956	34	3	the	Short NP	short_nps_unshifted
+957	34	4	events	Short NP	short_nps_unshifted
+958	34	5	with	PP	short_nps_unshifted
+959	34	6	caution	PP	short_nps_unshifted
+960	34	8	.	End	short_nps_unshifted
+961	34	9	<eos>	End	short_nps_unshifted
+962	35	0	Matthew	Subject	short_nps_unshifted
+963	35	1	confessed	NP/S Verb	short_nps_unshifted
+964	35	2	the	Short NP	short_nps_unshifted
+965	35	3	story	Short NP	short_nps_unshifted
+966	35	4	in	PP	short_nps_unshifted
+967	35	5	secret	PP	short_nps_unshifted
+968	35	7	.	End	short_nps_unshifted
+969	35	8	<eos>	End	short_nps_unshifted
+970	36	0	Tim	Subject	short_nps_unshifted
+971	36	1	stated	NP/S Verb	short_nps_unshifted
+972	36	2	the	Short NP	short_nps_unshifted
+973	36	3	reward	Short NP	short_nps_unshifted
+974	36	4	with	PP	short_nps_unshifted
+975	36	5	reluctance	PP	short_nps_unshifted
+976	36	7	.	End	short_nps_unshifted
+977	36	8	<eos>	End	short_nps_unshifted
+978	37	0	Bobby	Subject	short_nps_unshifted
+979	37	1	stated	NP/S Verb	short_nps_unshifted
+980	37	2	the	Short NP	short_nps_unshifted
+981	37	3	earnings	Short NP	short_nps_unshifted
+982	37	4	with	PP	short_nps_unshifted
+983	37	5	pleasure	PP	short_nps_unshifted
+984	37	7	.	End	short_nps_unshifted
+985	37	8	<eos>	End	short_nps_unshifted
+986	38	0	Ed	Subject	short_nps_unshifted
+987	38	1	muttered	NP/S Verb	short_nps_unshifted
+988	38	2	a	Short NP	short_nps_unshifted
+989	38	3	script	Short NP	short_nps_unshifted
+990	38	4	at	PP	short_nps_unshifted
+991	38	5	brunch	PP	short_nps_unshifted
+992	38	7	.	End	short_nps_unshifted
+993	38	8	<eos>	End	short_nps_unshifted
+994	39	0	Angie	Subject	short_nps_unshifted
+995	39	1	muttered	NP/S Verb	short_nps_unshifted
+996	39	2	the	Short NP	short_nps_unshifted
+997	39	3	plan	Short NP	short_nps_unshifted
+998	39	4	with	PP	short_nps_unshifted
+999	39	5	hope	PP	short_nps_unshifted
+1000	39	7	.	End	short_nps_unshifted
+1001	39	8	<eos>	End	short_nps_unshifted
+1002	0	0	The	Subject	short_nps_shifted
+1003	0	1	manager	Subject	short_nps_shifted
+1004	0	2	exhibited	NP/S Verb	short_nps_shifted
+1005	0	3	at	PP	short_nps_shifted
+1006	0	4	noon	PP	short_nps_shifted
+1007	0	5	the	Short NP	short_nps_shifted
+1008	0	6	styles	Short NP	short_nps_shifted
+1009	0	8	.	End	short_nps_shifted
+1010	0	9	<eos>	End	short_nps_shifted
+1011	1	0	The	Subject	short_nps_shifted
+1012	1	1	contractor	Subject	short_nps_shifted
+1013	1	2	exhibited	NP/S Verb	short_nps_shifted
+1014	1	3	in	PP	short_nps_shifted
+1015	1	4	July	PP	short_nps_shifted
+1016	1	5	the	Short NP	short_nps_shifted
+1017	1	6	display	Short NP	short_nps_shifted
+1018	1	8	.	End	short_nps_shifted
+1019	1	9	<eos>	End	short_nps_shifted
+1020	2	0	Mary	Subject	short_nps_shifted
+1021	2	1	mentioned	NP/S Verb	short_nps_shifted
+1022	2	2	at	PP	short_nps_shifted
+1023	2	3	tea	PP	short_nps_shifted
+1024	2	4	the	Short NP	short_nps_shifted
+1025	2	5	ads	Short NP	short_nps_shifted
+1026	2	7	.	End	short_nps_shifted
+1027	2	8	<eos>	End	short_nps_shifted
+1028	3	0	Mark	Subject	short_nps_shifted
+1029	3	1	mentioned	NP/S Verb	short_nps_shifted
+1030	3	2	very	PP	short_nps_shifted
+1031	3	3	quickly	PP	short_nps_shifted
+1032	3	4	the	Short NP	short_nps_shifted
+1033	3	5	flyers	Short NP	short_nps_shifted
+1034	3	7	.	End	short_nps_shifted
+1035	3	8	<eos>	End	short_nps_shifted
+1036	4	0	The	Subject	short_nps_shifted
+1037	4	1	dealer	Subject	short_nps_shifted
+1038	4	2	demonstrated	NP/S Verb	short_nps_shifted
+1039	4	3	at	PP	short_nps_shifted
+1040	4	4	ten	PP	short_nps_shifted
+1041	4	5	a	Short NP	short_nps_shifted
+1042	4	6	car	Short NP	short_nps_shifted
+1043	4	8	.	End	short_nps_shifted
+1044	4	9	<eos>	End	short_nps_shifted
+1045	5	0	The	Subject	short_nps_shifted
+1046	5	1	manager	Subject	short_nps_shifted
+1047	5	2	demonstrated	NP/S Verb	short_nps_shifted
+1048	5	3	at	PP	short_nps_shifted
+1049	5	4	three	PP	short_nps_shifted
+1050	5	5	the	Short NP	short_nps_shifted
+1051	5	6	sports	Short NP	short_nps_shifted
+1052	5	7	gear	Short NP	short_nps_shifted
+1053	5	9	.	End	short_nps_shifted
+1054	5	10	<eos>	End	short_nps_shifted
+1055	6	0	Robert	Subject	short_nps_shifted
+1056	6	1	proposed	NP/S Verb	short_nps_shifted
+1057	6	2	last	PP	short_nps_shifted
+1058	6	3	semester	PP	short_nps_shifted
+1059	6	4	one	Short NP	short_nps_shifted
+1060	6	5	plane	Short NP	short_nps_shifted
+1061	6	6	ticket	Short NP	short_nps_shifted
+1062	6	8	.	End	short_nps_shifted
+1063	6	9	<eos>	End	short_nps_shifted
+1064	7	0	Donald	Subject	short_nps_shifted
+1065	7	1	proposed	NP/S Verb	short_nps_shifted
+1066	7	2	with	PP	short_nps_shifted
+1067	7	3	joy	PP	short_nps_shifted
+1068	7	4	some	Short NP	short_nps_shifted
+1069	7	5	drafts	Short NP	short_nps_shifted
+1070	7	7	.	End	short_nps_shifted
+1071	7	8	<eos>	End	short_nps_shifted
+1072	8	0	Jake	Subject	short_nps_shifted
+1073	8	1	explained	NP/S Verb	short_nps_shifted
+1074	8	2	on	PP	short_nps_shifted
+1075	8	3	Friday	PP	short_nps_shifted
+1076	8	4	the	Short NP	short_nps_shifted
+1077	8	5	figures	Short NP	short_nps_shifted
+1078	8	7	.	End	short_nps_shifted
+1079	8	8	<eos>	End	short_nps_shifted
+1080	9	0	Brian	Subject	short_nps_shifted
+1081	9	1	explained	NP/S Verb	short_nps_shifted
+1082	9	2	at	PP	short_nps_shifted
+1083	9	3	lunch	PP	short_nps_shifted
+1084	9	4	the	Short NP	short_nps_shifted
+1085	9	5	quiz	Short NP	short_nps_shifted
+1086	9	7	.	End	short_nps_shifted
+1087	9	8	<eos>	End	short_nps_shifted
+1088	10	0	Alex	Subject	short_nps_shifted
+1089	10	1	indicated	NP/S Verb	short_nps_shifted
+1090	10	2	in	PP	short_nps_shifted
+1091	10	3	detail	PP	short_nps_shifted
+1092	10	4	the	Short NP	short_nps_shifted
+1093	10	5	offer	Short NP	short_nps_shifted
+1094	10	7	.	End	short_nps_shifted
+1095	10	8	<eos>	End	short_nps_shifted
+1096	11	0	The	Subject	short_nps_shifted
+1097	11	1	woman	Subject	short_nps_shifted
+1098	11	2	indicated	NP/S Verb	short_nps_shifted
+1099	11	3	by	PP	short_nps_shifted
+1100	11	4	phone	PP	short_nps_shifted
+1101	11	5	the	Short NP	short_nps_shifted
+1102	11	6	route	Short NP	short_nps_shifted
+1103	11	8	.	End	short_nps_shifted
+1104	11	9	<eos>	End	short_nps_shifted
+1105	12	0	The	Subject	short_nps_shifted
+1106	12	1	lawyer	Subject	short_nps_shifted
+1107	12	2	acknowledged	NP/S Verb	short_nps_shifted
+1108	12	3	with	PP	short_nps_shifted
+1109	12	4	confidence	PP	short_nps_shifted
+1110	12	5	the	Short NP	short_nps_shifted
+1111	12	6	dividends	Short NP	short_nps_shifted
+1112	12	8	.	End	short_nps_shifted
+1113	12	9	<eos>	End	short_nps_shifted
+1114	13	0	The	Subject	short_nps_shifted
+1115	13	1	editor	Subject	short_nps_shifted
+1116	13	2	acknowledged	NP/S Verb	short_nps_shifted
+1117	13	3	at	PP	short_nps_shifted
+1118	13	4	supper	PP	short_nps_shifted
+1119	13	5	the	Short NP	short_nps_shifted
+1120	13	6	details	Short NP	short_nps_shifted
+1121	13	8	.	End	short_nps_shifted
+1122	13	9	<eos>	End	short_nps_shifted
+1123	14	0	The	Subject	short_nps_shifted
+1124	14	1	president	Subject	short_nps_shifted
+1125	14	2	announced	NP/S Verb	short_nps_shifted
+1126	14	3	on	PP	short_nps_shifted
+1127	14	4	Monday	PP	short_nps_shifted
+1128	14	5	the	Short NP	short_nps_shifted
+1129	14	6	captain	Short NP	short_nps_shifted
+1130	14	8	.	End	short_nps_shifted
+1131	14	9	<eos>	End	short_nps_shifted
+1132	15	0	The	Subject	short_nps_shifted
+1133	15	1	teacher	Subject	short_nps_shifted
+1134	15	2	announced	NP/S Verb	short_nps_shifted
+1135	15	3	with	PP	short_nps_shifted
+1136	15	4	care	PP	short_nps_shifted
+1137	15	5	the	Short NP	short_nps_shifted
+1138	15	6	test	Short NP	short_nps_shifted
+1139	15	8	.	End	short_nps_shifted
+1140	15	9	<eos>	End	short_nps_shifted
+1141	16	0	Judy	Subject	short_nps_shifted
+1142	16	1	suggested	NP/S Verb	short_nps_shifted
+1143	16	2	in	PP	short_nps_shifted
+1144	16	3	March	PP	short_nps_shifted
+1145	16	4	a	Short NP	short_nps_shifted
+1146	16	5	dress	Short NP	short_nps_shifted
+1147	16	7	.	End	short_nps_shifted
+1148	16	8	<eos>	End	short_nps_shifted
+1149	17	0	Todd	Subject	short_nps_shifted
+1150	17	1	suggested	NP/S Verb	short_nps_shifted
+1151	17	2	at	PP	short_nps_shifted
+1152	17	3	once	PP	short_nps_shifted
+1153	17	4	some	Short NP	short_nps_shifted
+1154	17	5	gifts	Short NP	short_nps_shifted
+1155	17	7	.	End	short_nps_shifted
+1156	17	8	<eos>	End	short_nps_shifted
+1157	18	0	Shelly	Subject	short_nps_shifted
+1158	18	1	disclosed	NP/S Verb	short_nps_shifted
+1159	18	2	in	PP	short_nps_shifted
+1160	18	3	May	PP	short_nps_shifted
+1161	18	4	notes	Short NP	short_nps_shifted
+1162	18	6	.	End	short_nps_shifted
+1163	18	7	<eos>	End	short_nps_shifted
+1164	19	0	The	Subject	short_nps_shifted
+1165	19	1	woman	Subject	short_nps_shifted
+1166	19	2	disclosed	NP/S Verb	short_nps_shifted
+1167	19	3	in	PP	short_nps_shifted
+1168	19	4	August	PP	short_nps_shifted
+1169	19	5	the	Short NP	short_nps_shifted
+1170	19	6	records	Short NP	short_nps_shifted
+1171	19	8	.	End	short_nps_shifted
+1172	19	9	<eos>	End	short_nps_shifted
+1173	20	0	David	Subject	short_nps_shifted
+1174	20	1	reported	NP/S Verb	short_nps_shifted
+1175	20	2	with	PP	short_nps_shifted
+1176	20	3	hesitation	PP	short_nps_shifted
+1177	20	4	the	Short NP	short_nps_shifted
+1178	20	5	facts	Short NP	short_nps_shifted
+1179	20	7	.	End	short_nps_shifted
+1180	20	8	<eos>	End	short_nps_shifted
+1181	21	0	Jessica	Subject	short_nps_shifted
+1182	21	1	reported	NP/S Verb	short_nps_shifted
+1183	21	2	last	PP	short_nps_shifted
+1184	21	3	summer	PP	short_nps_shifted
+1185	21	4	the	Short NP	short_nps_shifted
+1186	21	5	news	Short NP	short_nps_shifted
+1187	21	7	.	End	short_nps_shifted
+1188	21	8	<eos>	End	short_nps_shifted
+1189	22	0	Steven	Subject	short_nps_shifted
+1190	22	1	communicated	NP/S Verb	short_nps_shifted
+1191	22	2	during	PP	short_nps_shifted
+1192	22	3	break	PP	short_nps_shifted
+1193	22	4	a	Short NP	short_nps_shifted
+1194	22	5	letter	Short NP	short_nps_shifted
+1195	22	7	.	End	short_nps_shifted
+1196	22	8	<eos>	End	short_nps_shifted
+1197	23	0	Raymond	Subject	short_nps_shifted
+1198	23	1	communicated	NP/S Verb	short_nps_shifted
+1199	23	2	very	PP	short_nps_shifted
+1200	23	3	loudly	PP	short_nps_shifted
+1201	23	4	a	Short NP	short_nps_shifted
+1202	23	5	memo	Short NP	short_nps_shifted
+1203	23	7	.	End	short_nps_shifted
+1204	23	8	<eos>	End	short_nps_shifted
+1205	24	0	Sam	Subject	short_nps_shifted
+1206	24	1	recommended	NP/S Verb	short_nps_shifted
+1207	24	2	on	PP	short_nps_shifted
+1208	24	3	Sunday	PP	short_nps_shifted
+1209	24	4	a	Short NP	short_nps_shifted
+1210	24	5	treasure	Short NP	short_nps_shifted
+1211	24	7	.	End	short_nps_shifted
+1212	24	8	<eos>	End	short_nps_shifted
+1213	25	0	The	Subject	short_nps_shifted
+1214	25	1	generous	Subject	short_nps_shifted
+1215	25	2	man	Subject	short_nps_shifted
+1216	25	3	recommended	NP/S Verb	short_nps_shifted
+1217	25	4	in	PP	short_nps_shifted
+1218	25	5	person	PP	short_nps_shifted
+1219	25	6	some	Short NP	short_nps_shifted
+1220	25	7	clothes	Short NP	short_nps_shifted
+1221	25	9	.	End	short_nps_shifted
+1222	25	10	<eos>	End	short_nps_shifted
+1223	26	0	Janet	Subject	short_nps_shifted
+1224	26	1	revealed	NP/S Verb	short_nps_shifted
+1225	26	2	at	PP	short_nps_shifted
+1226	26	3	dawn	PP	short_nps_shifted
+1227	26	4	some	Short NP	short_nps_shifted
+1228	26	5	graphs	Short NP	short_nps_shifted
+1229	26	7	.	End	short_nps_shifted
+1230	26	8	<eos>	End	short_nps_shifted
+1231	27	0	Bobby	Subject	short_nps_shifted
+1232	27	1	revealed	NP/S Verb	short_nps_shifted
+1233	27	2	at	PP	short_nps_shifted
+1234	27	3	dusk	PP	short_nps_shifted
+1235	27	4	the	Short NP	short_nps_shifted
+1236	27	5	deeds	Short NP	short_nps_shifted
+1237	27	7	.	End	short_nps_shifted
+1238	27	8	<eos>	End	short_nps_shifted
+1239	28	0	Kathy	Subject	short_nps_shifted
+1240	28	1	dictated	NP/S Verb	short_nps_shifted
+1241	28	2	last	PP	short_nps_shifted
+1242	28	3	night	PP	short_nps_shifted
+1243	28	4	the	Short NP	short_nps_shifted
+1244	28	5	poem	Short NP	short_nps_shifted
+1245	28	7	.	End	short_nps_shifted
+1246	28	8	<eos>	End	short_nps_shifted
+1247	29	0	Mike	Subject	short_nps_shifted
+1248	29	1	dictated	NP/S Verb	short_nps_shifted
+1249	29	2	last	PP	short_nps_shifted
+1250	29	3	year	PP	short_nps_shifted
+1251	29	4	the	Short NP	short_nps_shifted
+1252	29	5	words	Short NP	short_nps_shifted
+1253	29	7	.	End	short_nps_shifted
+1254	29	8	<eos>	End	short_nps_shifted
+1255	30	0	Amy	Subject	short_nps_shifted
+1256	30	1	broadcast	NP/S Verb	short_nps_shifted
+1257	30	2	last	PP	short_nps_shifted
+1258	30	3	week	PP	short_nps_shifted
+1259	30	4	the	Short NP	short_nps_shifted
+1260	30	5	game	Short NP	short_nps_shifted
+1261	30	7	.	End	short_nps_shifted
+1262	30	8	<eos>	End	short_nps_shifted
+1263	31	0	Jason	Subject	short_nps_shifted
+1264	31	1	broadcast	NP/S Verb	short_nps_shifted
+1265	31	2	with	PP	short_nps_shifted
+1266	31	3	glee	PP	short_nps_shifted
+1267	31	4	the	Short NP	short_nps_shifted
+1268	31	5	race	Short NP	short_nps_shifted
+1269	31	7	.	End	short_nps_shifted
+1270	31	8	<eos>	End	short_nps_shifted
+1271	32	0	Josh	Subject	short_nps_shifted
+1272	32	1	conveyed	NP/S Verb	short_nps_shifted
+1273	32	2	at	PP	short_nps_shifted
+1274	32	3	breakfast	PP	short_nps_shifted
+1275	32	4	a	Short NP	short_nps_shifted
+1276	32	5	message	Short NP	short_nps_shifted
+1277	32	7	.	End	short_nps_shifted
+1278	32	8	<eos>	End	short_nps_shifted
+1279	33	0	Brad	Subject	short_nps_shifted
+1280	33	1	conveyed	NP/S Verb	short_nps_shifted
+1281	33	2	at	PP	short_nps_shifted
+1282	33	3	nine	PP	short_nps_shifted
+1283	33	4	the	Short NP	short_nps_shifted
+1284	33	5	thoughts	Short NP	short_nps_shifted
+1285	33	7	.	End	short_nps_shifted
+1286	33	8	<eos>	End	short_nps_shifted
+1287	34	0	The	Subject	short_nps_shifted
+1288	34	1	teacher	Subject	short_nps_shifted
+1289	34	2	confessed	NP/S Verb	short_nps_shifted
+1290	34	3	with	PP	short_nps_shifted
+1291	34	4	caution	PP	short_nps_shifted
+1292	34	5	the	Short NP	short_nps_shifted
+1293	34	6	events	Short NP	short_nps_shifted
+1294	34	8	.	End	short_nps_shifted
+1295	34	9	<eos>	End	short_nps_shifted
+1296	35	0	Matthew	Subject	short_nps_shifted
+1297	35	1	confessed	NP/S Verb	short_nps_shifted
+1298	35	2	in	PP	short_nps_shifted
+1299	35	3	secret	PP	short_nps_shifted
+1300	35	4	the	Short NP	short_nps_shifted
+1301	35	5	story	Short NP	short_nps_shifted
+1302	35	7	.	End	short_nps_shifted
+1303	35	8	<eos>	End	short_nps_shifted
+1304	36	0	Tim	Subject	short_nps_shifted
+1305	36	1	stated	NP/S Verb	short_nps_shifted
+1306	36	2	with	PP	short_nps_shifted
+1307	36	3	reluctance	PP	short_nps_shifted
+1308	36	4	the	Short NP	short_nps_shifted
+1309	36	5	reward	Short NP	short_nps_shifted
+1310	36	7	.	End	short_nps_shifted
+1311	36	8	<eos>	End	short_nps_shifted
+1312	37	0	Bobby	Subject	short_nps_shifted
+1313	37	1	stated	NP/S Verb	short_nps_shifted
+1314	37	2	with	PP	short_nps_shifted
+1315	37	3	pleasure	PP	short_nps_shifted
+1316	37	4	the	Short NP	short_nps_shifted
+1317	37	5	earnings	Short NP	short_nps_shifted
+1318	37	7	.	End	short_nps_shifted
+1319	37	8	<eos>	End	short_nps_shifted
+1320	38	0	Ed	Subject	short_nps_shifted
+1321	38	1	muttered	NP/S Verb	short_nps_shifted
+1322	38	2	at	PP	short_nps_shifted
+1323	38	3	brunch	PP	short_nps_shifted
+1324	38	4	a	Short NP	short_nps_shifted
+1325	38	5	script	Short NP	short_nps_shifted
+1326	38	7	.	End	short_nps_shifted
+1327	38	8	<eos>	End	short_nps_shifted
+1328	39	0	Angie	Subject	short_nps_shifted
+1329	39	1	muttered	NP/S Verb	short_nps_shifted
+1330	39	2	with	PP	short_nps_shifted
+1331	39	3	hope	PP	short_nps_shifted
+1332	39	4	the	Short NP	short_nps_shifted
+1333	39	5	plan	Short NP	short_nps_shifted
+1334	39	7	.	End	short_nps_shifted
+1335	39	8	<eos>	End	short_nps_shifted
+1336	0	0	The	Subject	long_np_unshifted
+1337	0	1	manager	Subject	long_np_unshifted
+1338	0	2	presented	NP Verb	long_np_unshifted
+1339	0	3	the	Long NP	long_np_unshifted
+1340	0	4	new	Long NP	long_np_unshifted
+1341	0	5	line	Long NP	long_np_unshifted
+1342	0	6	of	Long NP	long_np_unshifted
+1343	0	7	bright	Long NP	long_np_unshifted
+1344	0	8	summer	Long NP	long_np_unshifted
+1345	0	9	beach	Long NP	long_np_unshifted
+1346	0	10	and	Long NP	long_np_unshifted
+1347	0	11	resort	Long NP	long_np_unshifted
+1348	0	12	fashions	Long NP	long_np_unshifted
+1349	0	13	at	PP	long_np_unshifted
+1350	0	14	noon	PP	long_np_unshifted
+1351	0	16	.	End	long_np_unshifted
+1352	0	17	<eos>	End	long_np_unshifted
+1353	1	0	The	Subject	long_np_unshifted
+1354	1	1	contractor	Subject	long_np_unshifted
+1355	1	2	presented	NP Verb	long_np_unshifted
+1356	1	3	the	Long NP	long_np_unshifted
+1357	1	4	plans	Long NP	long_np_unshifted
+1358	1	5	for	Long NP	long_np_unshifted
+1359	1	6	a	Long NP	long_np_unshifted
+1360	1	7	lagoon	Long NP	long_np_unshifted
+1361	1	8	and	Long NP	long_np_unshifted
+1362	1	9	waterfall	Long NP	long_np_unshifted
+1363	1	10	with	Long NP	long_np_unshifted
+1364	1	11	red	Long NP	long_np_unshifted
+1365	1	12	clay	Long NP	long_np_unshifted
+1366	1	13	in	PP	long_np_unshifted
+1367	1	14	July	PP	long_np_unshifted
+1368	1	16	.	End	long_np_unshifted
+1369	1	17	<eos>	End	long_np_unshifted
+1370	2	0	Mary	Subject	long_np_unshifted
+1371	2	1	returned	NP Verb	long_np_unshifted
+1372	2	2	the	Long NP	long_np_unshifted
+1373	2	3	used	Long NP	long_np_unshifted
+1374	2	4	car	Long NP	long_np_unshifted
+1375	2	5	ad	Long NP	long_np_unshifted
+1376	2	6	for	Long NP	long_np_unshifted
+1377	2	7	a	Long NP	long_np_unshifted
+1378	2	8	Chevrolet	Long NP	long_np_unshifted
+1379	2	9	with	Long NP	long_np_unshifted
+1380	2	10	low	Long NP	long_np_unshifted
+1381	2	11	mileage	Long NP	long_np_unshifted
+1382	2	12	at	PP	long_np_unshifted
+1383	2	13	tea	PP	long_np_unshifted
+1384	2	15	.	End	long_np_unshifted
+1385	2	16	<eos>	End	long_np_unshifted
+1386	3	0	Mark	Subject	long_np_unshifted
+1387	3	1	returned	NP Verb	long_np_unshifted
+1388	3	2	the	Long NP	long_np_unshifted
+1389	3	3	flyers	Long NP	long_np_unshifted
+1390	3	4	for	Long NP	long_np_unshifted
+1391	3	5	some	Long NP	long_np_unshifted
+1392	3	6	lectures	Long NP	long_np_unshifted
+1393	3	7	and	Long NP	long_np_unshifted
+1394	3	8	slide	Long NP	long_np_unshifted
+1395	3	9	shows	Long NP	long_np_unshifted
+1396	3	10	on	Long NP	long_np_unshifted
+1397	3	11	campus	Long NP	long_np_unshifted
+1398	3	12	very	PP	long_np_unshifted
+1399	3	13	quickly	PP	long_np_unshifted
+1400	3	15	.	End	long_np_unshifted
+1401	3	16	<eos>	End	long_np_unshifted
+1402	4	0	The	Subject	long_np_unshifted
+1403	4	1	dealer	Subject	long_np_unshifted
+1404	4	2	transported	NP Verb	long_np_unshifted
+1405	4	3	a	Long NP	long_np_unshifted
+1406	4	4	brand	Long NP	long_np_unshifted
+1407	4	5	new	Long NP	long_np_unshifted
+1408	4	6	speedy	Long NP	long_np_unshifted
+1409	4	7	silver	Long NP	long_np_unshifted
+1410	4	8	sports	Long NP	long_np_unshifted
+1411	4	9	car	Long NP	long_np_unshifted
+1412	4	10	with	Long NP	long_np_unshifted
+1413	4	11	chrome	Long NP	long_np_unshifted
+1414	4	12	bumpers	Long NP	long_np_unshifted
+1415	4	13	at	PP	long_np_unshifted
+1416	4	14	ten	PP	long_np_unshifted
+1417	4	16	.	End	long_np_unshifted
+1418	4	17	<eos>	End	long_np_unshifted
+1419	5	0	The	Subject	long_np_unshifted
+1420	5	1	manager	Subject	long_np_unshifted
+1421	5	2	transported	NP Verb	long_np_unshifted
+1422	5	3	the	Long NP	long_np_unshifted
+1423	5	4	new	Long NP	long_np_unshifted
+1424	5	5	sports	Long NP	long_np_unshifted
+1425	5	6	line	Long NP	long_np_unshifted
+1426	5	7	of	Long NP	long_np_unshifted
+1427	5	8	running	Long NP	long_np_unshifted
+1428	5	9	shoes	Long NP	long_np_unshifted
+1429	5	10	and	Long NP	long_np_unshifted
+1430	5	11	bicycling	Long NP	long_np_unshifted
+1431	5	12	gear	Long NP	long_np_unshifted
+1432	5	13	at	PP	long_np_unshifted
+1433	5	14	three	PP	long_np_unshifted
+1434	5	16	.	End	long_np_unshifted
+1435	5	17	<eos>	End	long_np_unshifted
+1436	6	0	Robert	Subject	long_np_unshifted
+1437	6	1	relinquished	NP Verb	long_np_unshifted
+1438	6	2	one	Long NP	long_np_unshifted
+1439	6	3	round	Long NP	long_np_unshifted
+1440	6	4	trip	Long NP	long_np_unshifted
+1441	6	5	plane	Long NP	long_np_unshifted
+1442	6	6	ticket	Long NP	long_np_unshifted
+1443	6	7	from	Long NP	long_np_unshifted
+1444	6	8	New	Long NP	long_np_unshifted
+1445	6	9	York	Long NP	long_np_unshifted
+1446	6	10	to	Long NP	long_np_unshifted
+1447	6	11	Atlanta	Long NP	long_np_unshifted
+1448	6	12	last	PP	long_np_unshifted
+1449	6	13	semester	PP	long_np_unshifted
+1450	6	15	.	End	long_np_unshifted
+1451	6	16	<eos>	End	long_np_unshifted
+1452	7	0	Donald	Subject	long_np_unshifted
+1453	7	1	relinquished	NP Verb	long_np_unshifted
+1454	7	2	some	Long NP	long_np_unshifted
+1455	7	3	great	Long NP	long_np_unshifted
+1456	7	4	front	Long NP	long_np_unshifted
+1457	7	5	row	Long NP	long_np_unshifted
+1458	7	6	center	Long NP	long_np_unshifted
+1459	7	7	seats	Long NP	long_np_unshifted
+1460	7	8	for	Long NP	long_np_unshifted
+1461	7	9	the	Long NP	long_np_unshifted
+1462	7	10	last	Long NP	long_np_unshifted
+1463	7	11	performance	Long NP	long_np_unshifted
+1464	7	12	with	PP	long_np_unshifted
+1465	7	13	joy	PP	long_np_unshifted
+1466	7	15	.	End	long_np_unshifted
+1467	7	16	<eos>	End	long_np_unshifted
+1468	8	0	Jake	Subject	long_np_unshifted
+1469	8	1	released	NP Verb	long_np_unshifted
+1470	8	2	all	Long NP	long_np_unshifted
+1471	8	3	of	Long NP	long_np_unshifted
+1472	8	4	the	Long NP	long_np_unshifted
+1473	8	5	facts	Long NP	long_np_unshifted
+1474	8	6	for	Long NP	long_np_unshifted
+1475	8	7	the	Long NP	long_np_unshifted
+1476	8	8	import	Long NP	long_np_unshifted
+1477	8	9	and	Long NP	long_np_unshifted
+1478	8	10	export	Long NP	long_np_unshifted
+1479	8	11	taxes	Long NP	long_np_unshifted
+1480	8	12	on	PP	long_np_unshifted
+1481	8	13	Friday	PP	long_np_unshifted
+1482	8	15	.	End	long_np_unshifted
+1483	8	16	<eos>	End	long_np_unshifted
+1484	9	0	Brian	Subject	long_np_unshifted
+1485	9	1	released	NP Verb	long_np_unshifted
+1486	9	2	all	Long NP	long_np_unshifted
+1487	9	3	of	Long NP	long_np_unshifted
+1488	9	4	the	Long NP	long_np_unshifted
+1489	9	5	answers	Long NP	long_np_unshifted
+1490	9	6	on	Long NP	long_np_unshifted
+1491	9	7	the	Long NP	long_np_unshifted
+1492	9	8	twenty	Long NP	long_np_unshifted
+1493	9	9	point	Long NP	long_np_unshifted
+1494	9	10	English	Long NP	long_np_unshifted
+1495	9	11	quiz	Long NP	long_np_unshifted
+1496	9	12	at	PP	long_np_unshifted
+1497	9	13	lunch	PP	long_np_unshifted
+1498	9	15	.	End	long_np_unshifted
+1499	9	16	<eos>	End	long_np_unshifted
+1500	10	0	Alex	Subject	long_np_unshifted
+1501	10	1	described	NP Verb	long_np_unshifted
+1502	10	2	each	Long NP	long_np_unshifted
+1503	10	3	of	Long NP	long_np_unshifted
+1504	10	4	the	Long NP	long_np_unshifted
+1505	10	5	key	Long NP	long_np_unshifted
+1506	10	6	points	Long NP	long_np_unshifted
+1507	10	7	of	Long NP	long_np_unshifted
+1508	10	8	conflict	Long NP	long_np_unshifted
+1509	10	9	in	Long NP	long_np_unshifted
+1510	10	10	an	Long NP	long_np_unshifted
+1511	10	11	interview	Long NP	long_np_unshifted
+1512	10	12	in	PP	long_np_unshifted
+1513	10	13	detail	PP	long_np_unshifted
+1514	10	15	.	End	long_np_unshifted
+1515	10	16	<eos>	End	long_np_unshifted
+1516	11	0	The	Subject	long_np_unshifted
+1517	11	1	woman	Subject	long_np_unshifted
+1518	11	2	described	NP Verb	long_np_unshifted
+1519	11	3	the	Long NP	long_np_unshifted
+1520	11	4	best	Long NP	long_np_unshifted
+1521	11	5	routes	Long NP	long_np_unshifted
+1522	11	6	to	Long NP	long_np_unshifted
+1523	11	7	the	Long NP	long_np_unshifted
+1524	11	8	Santa	Long NP	long_np_unshifted
+1525	11	9	Monica	Long NP	long_np_unshifted
+1526	11	10	beach	Long NP	long_np_unshifted
+1527	11	11	and	Long NP	long_np_unshifted
+1528	11	12	pier	Long NP	long_np_unshifted
+1529	11	13	by	PP	long_np_unshifted
+1530	11	14	phone	PP	long_np_unshifted
+1531	11	16	.	End	long_np_unshifted
+1532	11	17	<eos>	End	long_np_unshifted
+1533	12	0	The	Subject	long_np_unshifted
+1534	12	1	lawyer	Subject	long_np_unshifted
+1535	12	2	distributed	NP Verb	long_np_unshifted
+1536	12	3	each	Long NP	long_np_unshifted
+1537	12	4	piece	Long NP	long_np_unshifted
+1538	12	5	of	Long NP	long_np_unshifted
+1539	12	6	the	Long NP	long_np_unshifted
+1540	12	7	evidence	Long NP	long_np_unshifted
+1541	12	8	in	Long NP	long_np_unshifted
+1542	12	9	the	Long NP	long_np_unshifted
+1543	12	10	tax	Long NP	long_np_unshifted
+1544	12	11	fraud	Long NP	long_np_unshifted
+1545	12	12	cases	Long NP	long_np_unshifted
+1546	12	13	with	PP	long_np_unshifted
+1547	12	14	confidence	PP	long_np_unshifted
+1548	12	16	.	End	long_np_unshifted
+1549	12	17	<eos>	End	long_np_unshifted
+1550	13	0	The	Subject	long_np_unshifted
+1551	13	1	editor	Subject	long_np_unshifted
+1552	13	2	distributed	NP Verb	long_np_unshifted
+1553	13	3	the	Long NP	long_np_unshifted
+1554	13	4	first	Long NP	long_np_unshifted
+1555	13	5	drafts	Long NP	long_np_unshifted
+1556	13	6	of	Long NP	long_np_unshifted
+1557	13	7	a	Long NP	long_np_unshifted
+1558	13	8	long	Long NP	long_np_unshifted
+1559	13	9	article	Long NP	long_np_unshifted
+1560	13	10	and	Long NP	long_np_unshifted
+1561	13	11	book	Long NP	long_np_unshifted
+1562	13	12	review	Long NP	long_np_unshifted
+1563	13	13	at	PP	long_np_unshifted
+1564	13	14	supper	PP	long_np_unshifted
+1565	13	16	.	End	long_np_unshifted
+1566	13	17	<eos>	End	long_np_unshifted
+1567	14	0	The	Subject	long_np_unshifted
+1568	14	1	president	Subject	long_np_unshifted
+1569	14	2	introduced	NP Verb	long_np_unshifted
+1570	14	3	the	Long NP	long_np_unshifted
+1571	14	4	new	Long NP	long_np_unshifted
+1572	14	5	vice	Long NP	long_np_unshifted
+1573	14	6	chair	Long NP	long_np_unshifted
+1574	14	7	of	Long NP	long_np_unshifted
+1575	14	8	the	Long NP	long_np_unshifted
+1576	14	9	first	Long NP	long_np_unshifted
+1577	14	10	corporate	Long NP	long_np_unshifted
+1578	14	11	finance	Long NP	long_np_unshifted
+1579	14	12	group	Long NP	long_np_unshifted
+1580	14	13	on	PP	long_np_unshifted
+1581	14	14	Monday	PP	long_np_unshifted
+1582	14	16	.	End	long_np_unshifted
+1583	14	17	<eos>	End	long_np_unshifted
+1584	15	0	The	Subject	long_np_unshifted
+1585	15	1	teacher	Subject	long_np_unshifted
+1586	15	2	introduced	NP Verb	long_np_unshifted
+1587	15	3	some	Long NP	long_np_unshifted
+1588	15	4	hard	Long NP	long_np_unshifted
+1589	15	5	math	Long NP	long_np_unshifted
+1590	15	6	concepts	Long NP	long_np_unshifted
+1591	15	7	for	Long NP	long_np_unshifted
+1592	15	8	the	Long NP	long_np_unshifted
+1593	15	9	one	Long NP	long_np_unshifted
+1594	15	10	hundred	Long NP	long_np_unshifted
+1595	15	11	point	Long NP	long_np_unshifted
+1596	15	12	final	Long NP	long_np_unshifted
+1597	15	13	with	PP	long_np_unshifted
+1598	15	14	care	PP	long_np_unshifted
+1599	15	16	.	End	long_np_unshifted
+1600	15	17	<eos>	End	long_np_unshifted
+1601	16	0	Judy	Subject	long_np_unshifted
+1602	16	1	delivered	NP Verb	long_np_unshifted
+1603	16	2	a	Long NP	long_np_unshifted
+1604	16	3	gorgeous	Long NP	long_np_unshifted
+1605	16	4	red	Long NP	long_np_unshifted
+1606	16	5	and	Long NP	long_np_unshifted
+1607	16	6	black	Long NP	long_np_unshifted
+1608	16	7	silk	Long NP	long_np_unshifted
+1609	16	8	dress	Long NP	long_np_unshifted
+1610	16	9	with	Long NP	long_np_unshifted
+1611	16	10	sparkling	Long NP	long_np_unshifted
+1612	16	11	sequins	Long NP	long_np_unshifted
+1613	16	12	in	PP	long_np_unshifted
+1614	16	13	March	PP	long_np_unshifted
+1615	16	15	.	End	long_np_unshifted
+1616	16	16	<eos>	End	long_np_unshifted
+1617	17	0	Todd	Subject	long_np_unshifted
+1618	17	1	delivered	NP Verb	long_np_unshifted
+1619	17	2	a	Long NP	long_np_unshifted
+1620	17	3	large	Long NP	long_np_unshifted
+1621	17	4	package	Long NP	long_np_unshifted
+1622	17	5	with	Long NP	long_np_unshifted
+1623	17	6	lots	Long NP	long_np_unshifted
+1624	17	7	of	Long NP	long_np_unshifted
+1625	17	8	presents	Long NP	long_np_unshifted
+1626	17	9	for	Long NP	long_np_unshifted
+1627	17	10	small	Long NP	long_np_unshifted
+1628	17	11	children	Long NP	long_np_unshifted
+1629	17	12	at	PP	long_np_unshifted
+1630	17	13	once	PP	long_np_unshifted
+1631	17	15	.	End	long_np_unshifted
+1632	17	16	<eos>	End	long_np_unshifted
+1633	18	0	Shelly	Subject	long_np_unshifted
+1634	18	1	carried	NP Verb	long_np_unshifted
+1635	18	2	top	Long NP	long_np_unshifted
+1636	18	3	secret	Long NP	long_np_unshifted
+1637	18	4	plans	Long NP	long_np_unshifted
+1638	18	5	for	Long NP	long_np_unshifted
+1639	18	6	a	Long NP	long_np_unshifted
+1640	18	7	large	Long NP	long_np_unshifted
+1641	18	8	fleet	Long NP	long_np_unshifted
+1642	18	9	of	Long NP	long_np_unshifted
+1643	18	10	defense	Long NP	long_np_unshifted
+1644	18	11	missiles	Long NP	long_np_unshifted
+1645	18	12	in	PP	long_np_unshifted
+1646	18	13	May	PP	long_np_unshifted
+1647	18	15	.	End	long_np_unshifted
+1648	18	16	<eos>	End	long_np_unshifted
+1649	19	0	The	Subject	long_np_unshifted
+1650	19	1	woman	Subject	long_np_unshifted
+1651	19	2	carried	NP Verb	long_np_unshifted
+1652	19	3	the	Long NP	long_np_unshifted
+1653	19	4	birth	Long NP	long_np_unshifted
+1654	19	5	and	Long NP	long_np_unshifted
+1655	19	6	school	Long NP	long_np_unshifted
+1656	19	7	records	Long NP	long_np_unshifted
+1657	19	8	of	Long NP	long_np_unshifted
+1658	19	9	the	Long NP	long_np_unshifted
+1659	19	10	three	Long NP	long_np_unshifted
+1660	19	11	young	Long NP	long_np_unshifted
+1661	19	12	children	Long NP	long_np_unshifted
+1662	19	13	in	PP	long_np_unshifted
+1663	19	14	August	PP	long_np_unshifted
+1664	19	16	.	End	long_np_unshifted
+1665	19	17	<eos>	End	long_np_unshifted
+1666	20	0	David	Subject	long_np_unshifted
+1667	20	1	furnished	NP Verb	long_np_unshifted
+1668	20	2	the	Long NP	long_np_unshifted
+1669	20	3	facts	Long NP	long_np_unshifted
+1670	20	4	on	Long NP	long_np_unshifted
+1671	20	5	the	Long NP	long_np_unshifted
+1672	20	6	strange	Long NP	long_np_unshifted
+1673	20	7	bank	Long NP	long_np_unshifted
+1674	20	8	robbery	Long NP	long_np_unshifted
+1675	20	9	crimes	Long NP	long_np_unshifted
+1676	20	10	in	Long NP	long_np_unshifted
+1677	20	11	Utah	Long NP	long_np_unshifted
+1678	20	12	with	PP	long_np_unshifted
+1679	20	13	hesitation	PP	long_np_unshifted
+1680	20	15	.	End	long_np_unshifted
+1681	20	16	<eos>	End	long_np_unshifted
+1682	21	0	Jessica	Subject	long_np_unshifted
+1683	21	1	furnished	NP Verb	long_np_unshifted
+1684	21	2	he	Long NP	long_np_unshifted
+1685	21	3	awful	Long NP	long_np_unshifted
+1686	21	4	news	Long NP	long_np_unshifted
+1687	21	5	of	Long NP	long_np_unshifted
+1688	21	6	the	Long NP	long_np_unshifted
+1689	21	7	refugees	Long NP	long_np_unshifted
+1690	21	8	in	Long NP	long_np_unshifted
+1691	21	9	the	Long NP	long_np_unshifted
+1692	21	10	Far	Long NP	long_np_unshifted
+1693	21	11	East	Long NP	long_np_unshifted
+1694	21	12	last	PP	long_np_unshifted
+1695	21	13	summer	PP	long_np_unshifted
+1696	21	15	.	End	long_np_unshifted
+1697	21	16	<eos>	End	long_np_unshifted
+1698	22	0	Steven	Subject	long_np_unshifted
+1699	22	1	addressed	NP Verb	long_np_unshifted
+1700	22	2	a	Long NP	long_np_unshifted
+1701	22	3	seven	Long NP	long_np_unshifted
+1702	22	4	page	Long NP	long_np_unshifted
+1703	22	5	letter	Long NP	long_np_unshifted
+1704	22	6	with	Long NP	long_np_unshifted
+1705	22	7	many	Long NP	long_np_unshifted
+1706	22	8	details	Long NP	long_np_unshifted
+1707	22	9	of	Long NP	long_np_unshifted
+1708	22	10	the	Long NP	long_np_unshifted
+1709	22	11	trip	Long NP	long_np_unshifted
+1710	22	12	during	PP	long_np_unshifted
+1711	22	13	break	PP	long_np_unshifted
+1712	22	15	.	End	long_np_unshifted
+1713	22	16	<eos>	End	long_np_unshifted
+1714	23	0	Raymond	Subject	long_np_unshifted
+1715	23	1	addressed	NP Verb	long_np_unshifted
+1716	23	2	a	Long NP	long_np_unshifted
+1717	23	3	five	Long NP	long_np_unshifted
+1718	23	4	page	Long NP	long_np_unshifted
+1719	23	5	plan	Long NP	long_np_unshifted
+1720	23	6	of	Long NP	long_np_unshifted
+1721	23	7	withdrawal	Long NP	long_np_unshifted
+1722	23	8	for	Long NP	long_np_unshifted
+1723	23	9	the	Long NP	long_np_unshifted
+1724	23	10	allied	Long NP	long_np_unshifted
+1725	23	11	troops	Long NP	long_np_unshifted
+1726	23	12	very	PP	long_np_unshifted
+1727	23	13	loudly	PP	long_np_unshifted
+1728	23	15	.	End	long_np_unshifted
+1729	23	16	<eos>	End	long_np_unshifted
+1730	24	0	Sam	Subject	long_np_unshifted
+1731	24	1	donated	NP Verb	long_np_unshifted
+1732	24	2	an	Long NP	long_np_unshifted
+1733	24	3	old	Long NP	long_np_unshifted
+1734	24	4	treasure	Long NP	long_np_unshifted
+1735	24	5	chest	Long NP	long_np_unshifted
+1736	24	6	with	Long NP	long_np_unshifted
+1737	24	7	some	Long NP	long_np_unshifted
+1738	24	8	silver	Long NP	long_np_unshifted
+1739	24	9	and	Long NP	long_np_unshifted
+1740	24	10	gold	Long NP	long_np_unshifted
+1741	24	11	trinkets	Long NP	long_np_unshifted
+1742	24	12	on	PP	long_np_unshifted
+1743	24	13	Sunday	PP	long_np_unshifted
+1744	24	15	.	End	long_np_unshifted
+1745	24	16	<eos>	End	long_np_unshifted
+1746	25	0	The	Subject	long_np_unshifted
+1747	25	1	generous	Subject	long_np_unshifted
+1748	25	2	man	Subject	long_np_unshifted
+1749	25	3	donated	NP Verb	long_np_unshifted
+1750	25	4	some	Long NP	long_np_unshifted
+1751	25	5	used	Long NP	long_np_unshifted
+1752	25	6	toys,	Long NP	long_np_unshifted
+1753	25	7	winter	Long NP	long_np_unshifted
+1754	25	8	clothing,	Long NP	long_np_unshifted
+1755	25	9	clean	Long NP	long_np_unshifted
+1756	25	10	linens,	Long NP	long_np_unshifted
+1757	25	11	and	Long NP	long_np_unshifted
+1758	25	12	snow	Long NP	long_np_unshifted
+1759	25	13	boots	Long NP	long_np_unshifted
+1760	25	14	in	PP	long_np_unshifted
+1761	25	15	person	PP	long_np_unshifted
+1762	25	17	.	End	long_np_unshifted
+1763	25	18	<eos>	End	long_np_unshifted
+1764	26	0	Janet	Subject	long_np_unshifted
+1765	26	1	transferred	NP Verb	long_np_unshifted
+1766	26	2	some	Long NP	long_np_unshifted
+1767	26	3	more	Long NP	long_np_unshifted
+1768	26	4	specific	Long NP	long_np_unshifted
+1769	26	5	plans	Long NP	long_np_unshifted
+1770	26	6	for	Long NP	long_np_unshifted
+1771	26	7	a	Long NP	long_np_unshifted
+1772	26	8	brand	Long NP	long_np_unshifted
+1773	26	9	new	Long NP	long_np_unshifted
+1774	26	10	defense	Long NP	long_np_unshifted
+1775	26	11	plant	Long NP	long_np_unshifted
+1776	26	12	at	PP	long_np_unshifted
+1777	26	13	dawn	PP	long_np_unshifted
+1778	26	15	.	End	long_np_unshifted
+1779	26	16	<eos>	End	long_np_unshifted
+1780	27	0	Bobby	Subject	long_np_unshifted
+1781	27	1	transferred	NP Verb	long_np_unshifted
+1782	27	2	the	Long NP	long_np_unshifted
+1783	27	3	short	Long NP	long_np_unshifted
+1784	27	4	documents	Long NP	long_np_unshifted
+1785	27	5	to	Long NP	long_np_unshifted
+1786	27	6	the	Long NP	long_np_unshifted
+1787	27	7	old	Long NP	long_np_unshifted
+1788	27	8	mansion	Long NP	long_np_unshifted
+1789	27	9	on	Long NP	long_np_unshifted
+1790	27	10	the	Long NP	long_np_unshifted
+1791	27	11	hill	Long NP	long_np_unshifted
+1792	27	12	at	PP	long_np_unshifted
+1793	27	13	dusk	PP	long_np_unshifted
+1794	27	15	.	End	long_np_unshifted
+1795	27	16	<eos>	End	long_np_unshifted
+1796	28	0	Kathy	Subject	long_np_unshifted
+1797	28	1	recited	NP Verb	long_np_unshifted
+1798	28	2	all	Long NP	long_np_unshifted
+1799	28	3	three	Long NP	long_np_unshifted
+1800	28	4	verses	Long NP	long_np_unshifted
+1801	28	5	from	Long NP	long_np_unshifted
+1802	28	6	an	Long NP	long_np_unshifted
+1803	28	7	old	Long NP	long_np_unshifted
+1804	28	8	and	Long NP	long_np_unshifted
+1805	28	9	famous	Long NP	long_np_unshifted
+1806	28	10	French	Long NP	long_np_unshifted
+1807	28	11	poem	Long NP	long_np_unshifted
+1808	28	12	last	PP	long_np_unshifted
+1809	28	13	night	PP	long_np_unshifted
+1810	28	15	.	End	long_np_unshifted
+1811	28	16	<eos>	End	long_np_unshifted
+1812	29	0	Mike	Subject	long_np_unshifted
+1813	29	1	recited	NP Verb	long_np_unshifted
+1814	29	2	the	Long NP	long_np_unshifted
+1815	29	3	words	Long NP	long_np_unshifted
+1816	29	4	to	Long NP	long_np_unshifted
+1817	29	5	a	Long NP	long_np_unshifted
+1818	29	6	popular	Long NP	long_np_unshifted
+1819	29	7	country	Long NP	long_np_unshifted
+1820	29	8	song	Long NP	long_np_unshifted
+1821	29	9	in	Long NP	long_np_unshifted
+1822	29	10	the	Long NP	long_np_unshifted
+1823	29	11	South	Long NP	long_np_unshifted
+1824	29	12	last	PP	long_np_unshifted
+1825	29	13	year	PP	long_np_unshifted
+1826	29	15	.	End	long_np_unshifted
+1827	29	16	<eos>	End	long_np_unshifted
+1828	30	0	Amy	Subject	long_np_unshifted
+1829	30	1	forfeited	NP Verb	long_np_unshifted
+1830	30	2	the	Long NP	long_np_unshifted
+1831	30	3	high	Long NP	long_np_unshifted
+1832	30	4	school	Long NP	long_np_unshifted
+1833	30	5	girls	Long NP	long_np_unshifted
+1834	30	6	state	Long NP	long_np_unshifted
+1835	30	7	swimming	Long NP	long_np_unshifted
+1836	30	8	title	Long NP	long_np_unshifted
+1837	30	9	in	Long NP	long_np_unshifted
+1838	30	10	New	Long NP	long_np_unshifted
+1839	30	11	York	Long NP	long_np_unshifted
+1840	30	12	last	PP	long_np_unshifted
+1841	30	13	week	PP	long_np_unshifted
+1842	30	15	.	End	long_np_unshifted
+1843	30	16	<eos>	End	long_np_unshifted
+1844	31	0	Jason	Subject	long_np_unshifted
+1845	31	1	forfeited	NP Verb	long_np_unshifted
+1846	31	2	all	Long NP	long_np_unshifted
+1847	31	3	of	Long NP	long_np_unshifted
+1848	31	4	the	Long NP	long_np_unshifted
+1849	31	5	winnings	Long NP	long_np_unshifted
+1850	31	6	for	Long NP	long_np_unshifted
+1851	31	7	the	Long NP	long_np_unshifted
+1852	31	8	past	Long NP	long_np_unshifted
+1853	31	9	seven	Long NP	long_np_unshifted
+1854	31	10	horse	Long NP	long_np_unshifted
+1855	31	11	races	Long NP	long_np_unshifted
+1856	31	12	with	PP	long_np_unshifted
+1857	31	13	glee	PP	long_np_unshifted
+1858	31	15	.	End	long_np_unshifted
+1859	31	16	<eos>	End	long_np_unshifted
+1860	32	0	Josh	Subject	long_np_unshifted
+1861	32	1	dispatched	NP Verb	long_np_unshifted
+1862	32	2	a	Long NP	long_np_unshifted
+1863	32	3	short	Long NP	long_np_unshifted
+1864	32	4	message	Long NP	long_np_unshifted
+1865	32	5	on	Long NP	long_np_unshifted
+1866	32	6	the	Long NP	long_np_unshifted
+1867	32	7	dangers	Long NP	long_np_unshifted
+1868	32	8	of	Long NP	long_np_unshifted
+1869	32	9	the	Long NP	long_np_unshifted
+1870	32	10	current	Long NP	long_np_unshifted
+1871	32	11	storm	Long NP	long_np_unshifted
+1872	32	12	at	PP	long_np_unshifted
+1873	32	13	breakfast	PP	long_np_unshifted
+1874	32	15	.	End	long_np_unshifted
+1875	32	16	<eos>	End	long_np_unshifted
+1876	33	0	Brad	Subject	long_np_unshifted
+1877	33	1	dispatched	NP Verb	long_np_unshifted
+1878	33	2	the	Long NP	long_np_unshifted
+1879	33	3	instructions	Long NP	long_np_unshifted
+1880	33	4	for	Long NP	long_np_unshifted
+1881	33	5	the	Long NP	long_np_unshifted
+1882	33	6	safest	Long NP	long_np_unshifted
+1883	33	7	route	Long NP	long_np_unshifted
+1884	33	8	to	Long NP	long_np_unshifted
+1885	33	9	the	Long NP	long_np_unshifted
+1886	33	10	old	Long NP	long_np_unshifted
+1887	33	11	town	Long NP	long_np_unshifted
+1888	33	12	at	PP	long_np_unshifted
+1889	33	13	nine	PP	long_np_unshifted
+1890	33	15	.	End	long_np_unshifted
+1891	33	16	<eos>	End	long_np_unshifted
+1892	34	0	The	Subject	long_np_unshifted
+1893	34	1	teacher	Subject	long_np_unshifted
+1894	34	2	narrated	NP Verb	long_np_unshifted
+1895	34	3	each	Long NP	long_np_unshifted
+1896	34	4	of	Long NP	long_np_unshifted
+1897	34	5	the	Long NP	long_np_unshifted
+1898	34	6	series	Long NP	long_np_unshifted
+1899	34	7	of	Long NP	long_np_unshifted
+1900	34	8	events	Long NP	long_np_unshifted
+1901	34	9	in	Long NP	long_np_unshifted
+1902	34	10	the	Long NP	long_np_unshifted
+1903	34	11	secret	Long NP	long_np_unshifted
+1904	34	12	case	Long NP	long_np_unshifted
+1905	34	13	with	PP	long_np_unshifted
+1906	34	14	caution	PP	long_np_unshifted
+1907	34	16	.	End	long_np_unshifted
+1908	34	17	<eos>	End	long_np_unshifted
+1909	35	0	Matthew	Subject	long_np_unshifted
+1910	35	1	narrated	NP Verb	long_np_unshifted
+1911	35	2	the	Long NP	long_np_unshifted
+1912	35	3	whole	Long NP	long_np_unshifted
+1913	35	4	story	Long NP	long_np_unshifted
+1914	35	5	on	Long NP	long_np_unshifted
+1915	35	6	the	Long NP	long_np_unshifted
+1916	35	7	defects	Long NP	long_np_unshifted
+1917	35	8	in	Long NP	long_np_unshifted
+1918	35	9	the	Long NP	long_np_unshifted
+1919	35	10	new	Long NP	long_np_unshifted
+1920	35	11	Mazda	Long NP	long_np_unshifted
+1921	35	12	in	PP	long_np_unshifted
+1922	35	13	secret	PP	long_np_unshifted
+1923	35	15	.	End	long_np_unshifted
+1924	35	16	<eos>	End	long_np_unshifted
+1925	36	0	Tim	Subject	long_np_unshifted
+1926	36	1	contributed	NP Verb	long_np_unshifted
+1927	36	2	the	Long NP	long_np_unshifted
+1928	36	3	small	Long NP	long_np_unshifted
+1929	36	4	reward	Long NP	long_np_unshifted
+1930	36	5	for	Long NP	long_np_unshifted
+1931	36	6	helpful	Long NP	long_np_unshifted
+1932	36	7	clues	Long NP	long_np_unshifted
+1933	36	8	on	Long NP	long_np_unshifted
+1934	36	9	a	Long NP	long_np_unshifted
+1935	36	10	recent	Long NP	long_np_unshifted
+1936	36	11	crime	Long NP	long_np_unshifted
+1937	36	12	with	PP	long_np_unshifted
+1938	36	13	reluctance	PP	long_np_unshifted
+1939	36	15	.	End	long_np_unshifted
+1940	36	16	<eos>	End	long_np_unshifted
+1941	37	0	Bobby	Subject	long_np_unshifted
+1942	37	1	contributed	NP Verb	long_np_unshifted
+1943	37	2	the	Long NP	long_np_unshifted
+1944	37	3	earnings	Long NP	long_np_unshifted
+1945	37	4	of	Long NP	long_np_unshifted
+1946	37	5	the	Long NP	long_np_unshifted
+1947	37	6	five	Long NP	long_np_unshifted
+1948	37	7	winners	Long NP	long_np_unshifted
+1949	37	8	in	Long NP	long_np_unshifted
+1950	37	9	the	Long NP	long_np_unshifted
+1951	37	10	poker	Long NP	long_np_unshifted
+1952	37	11	games	Long NP	long_np_unshifted
+1953	37	12	with	PP	long_np_unshifted
+1954	37	13	pleasure	PP	long_np_unshifted
+1955	37	15	.	End	long_np_unshifted
+1956	37	16	<eos>	End	long_np_unshifted
+1957	38	0	Ed	Subject	long_np_unshifted
+1958	38	1	entrusted	NP Verb	long_np_unshifted
+1959	38	2	a	Long NP	long_np_unshifted
+1960	38	3	script	Long NP	long_np_unshifted
+1961	38	4	for	Long NP	long_np_unshifted
+1962	38	5	a	Long NP	long_np_unshifted
+1963	38	6	suspense	Long NP	long_np_unshifted
+1964	38	7	film	Long NP	long_np_unshifted
+1965	38	8	with	Long NP	long_np_unshifted
+1966	38	9	a	Long NP	long_np_unshifted
+1967	38	10	giant	Long NP	long_np_unshifted
+1968	38	11	budget	Long NP	long_np_unshifted
+1969	38	12	at	PP	long_np_unshifted
+1970	38	13	brunch	PP	long_np_unshifted
+1971	38	15	.	End	long_np_unshifted
+1972	38	16	<eos>	End	long_np_unshifted
+1973	39	0	Angie	Subject	long_np_unshifted
+1974	39	1	entrusted	NP Verb	long_np_unshifted
+1975	39	2	the	Long NP	long_np_unshifted
+1976	39	3	plan	Long NP	long_np_unshifted
+1977	39	4	for	Long NP	long_np_unshifted
+1978	39	5	the	Long NP	long_np_unshifted
+1979	39	6	biggest	Long NP	long_np_unshifted
+1980	39	7	poster	Long NP	long_np_unshifted
+1981	39	8	in	Long NP	long_np_unshifted
+1982	39	9	the	Long NP	long_np_unshifted
+1983	39	10	science	Long NP	long_np_unshifted
+1984	39	11	fair	Long NP	long_np_unshifted
+1985	39	12	with	PP	long_np_unshifted
+1986	39	13	hope	PP	long_np_unshifted
+1987	39	15	.	End	long_np_unshifted
+1988	39	16	<eos>	End	long_np_unshifted
+1989	0	0	The	Subject	long_np_shifted
+1990	0	1	manager	Subject	long_np_shifted
+1991	0	2	presented	NP Verb	long_np_shifted
+1992	0	3	at	PP	long_np_shifted
+1993	0	4	noon	PP	long_np_shifted
+1994	0	5	the	Long NP	long_np_shifted
+1995	0	6	new	Long NP	long_np_shifted
+1996	0	7	line	Long NP	long_np_shifted
+1997	0	8	of	Long NP	long_np_shifted
+1998	0	9	bright	Long NP	long_np_shifted
+1999	0	10	summer	Long NP	long_np_shifted
+2000	0	11	beach	Long NP	long_np_shifted
+2001	0	12	and	Long NP	long_np_shifted
+2002	0	13	resort	Long NP	long_np_shifted
+2003	0	14	fashions	Long NP	long_np_shifted
+2004	0	16	.	End	long_np_shifted
+2005	0	17	<eos>	End	long_np_shifted
+2006	1	0	The	Subject	long_np_shifted
+2007	1	1	contractor	Subject	long_np_shifted
+2008	1	2	presented	NP Verb	long_np_shifted
+2009	1	3	in	PP	long_np_shifted
+2010	1	4	July	PP	long_np_shifted
+2011	1	5	the	Long NP	long_np_shifted
+2012	1	6	plans	Long NP	long_np_shifted
+2013	1	7	for	Long NP	long_np_shifted
+2014	1	8	a	Long NP	long_np_shifted
+2015	1	9	lagoon	Long NP	long_np_shifted
+2016	1	10	and	Long NP	long_np_shifted
+2017	1	11	waterfall	Long NP	long_np_shifted
+2018	1	12	with	Long NP	long_np_shifted
+2019	1	13	red	Long NP	long_np_shifted
+2020	1	14	clay	Long NP	long_np_shifted
+2021	1	16	.	End	long_np_shifted
+2022	1	17	<eos>	End	long_np_shifted
+2023	2	0	Mary	Subject	long_np_shifted
+2024	2	1	returned	NP Verb	long_np_shifted
+2025	2	2	at	PP	long_np_shifted
+2026	2	3	tea	PP	long_np_shifted
+2027	2	4	the	Long NP	long_np_shifted
+2028	2	5	used	Long NP	long_np_shifted
+2029	2	6	car	Long NP	long_np_shifted
+2030	2	7	ad	Long NP	long_np_shifted
+2031	2	8	for	Long NP	long_np_shifted
+2032	2	9	a	Long NP	long_np_shifted
+2033	2	10	Chevrolet	Long NP	long_np_shifted
+2034	2	11	with	Long NP	long_np_shifted
+2035	2	12	low	Long NP	long_np_shifted
+2036	2	13	mileage	Long NP	long_np_shifted
+2037	2	15	.	End	long_np_shifted
+2038	2	16	<eos>	End	long_np_shifted
+2039	3	0	Mark	Subject	long_np_shifted
+2040	3	1	returned	NP Verb	long_np_shifted
+2041	3	2	very	PP	long_np_shifted
+2042	3	3	quickly	PP	long_np_shifted
+2043	3	4	the	Long NP	long_np_shifted
+2044	3	5	flyers	Long NP	long_np_shifted
+2045	3	6	for	Long NP	long_np_shifted
+2046	3	7	some	Long NP	long_np_shifted
+2047	3	8	lectures	Long NP	long_np_shifted
+2048	3	9	and	Long NP	long_np_shifted
+2049	3	10	slide	Long NP	long_np_shifted
+2050	3	11	shows	Long NP	long_np_shifted
+2051	3	12	on	Long NP	long_np_shifted
+2052	3	13	campus	Long NP	long_np_shifted
+2053	3	15	.	End	long_np_shifted
+2054	3	16	<eos>	End	long_np_shifted
+2055	4	0	The	Subject	long_np_shifted
+2056	4	1	dealer	Subject	long_np_shifted
+2057	4	2	transported	NP Verb	long_np_shifted
+2058	4	3	at	PP	long_np_shifted
+2059	4	4	ten	PP	long_np_shifted
+2060	4	5	a	Long NP	long_np_shifted
+2061	4	6	brand	Long NP	long_np_shifted
+2062	4	7	new	Long NP	long_np_shifted
+2063	4	8	speedy	Long NP	long_np_shifted
+2064	4	9	silver	Long NP	long_np_shifted
+2065	4	10	sports	Long NP	long_np_shifted
+2066	4	11	car	Long NP	long_np_shifted
+2067	4	12	with	Long NP	long_np_shifted
+2068	4	13	chrome	Long NP	long_np_shifted
+2069	4	14	bumpers	Long NP	long_np_shifted
+2070	4	16	.	End	long_np_shifted
+2071	4	17	<eos>	End	long_np_shifted
+2072	5	0	The	Subject	long_np_shifted
+2073	5	1	manager	Subject	long_np_shifted
+2074	5	2	transported	NP Verb	long_np_shifted
+2075	5	3	at	PP	long_np_shifted
+2076	5	4	three	PP	long_np_shifted
+2077	5	5	the	Long NP	long_np_shifted
+2078	5	6	new	Long NP	long_np_shifted
+2079	5	7	sports	Long NP	long_np_shifted
+2080	5	8	line	Long NP	long_np_shifted
+2081	5	9	of	Long NP	long_np_shifted
+2082	5	10	running	Long NP	long_np_shifted
+2083	5	11	shoes	Long NP	long_np_shifted
+2084	5	12	and	Long NP	long_np_shifted
+2085	5	13	bicycling	Long NP	long_np_shifted
+2086	5	14	gear	Long NP	long_np_shifted
+2087	5	16	.	End	long_np_shifted
+2088	5	17	<eos>	End	long_np_shifted
+2089	6	0	Robert	Subject	long_np_shifted
+2090	6	1	relinquished	NP Verb	long_np_shifted
+2091	6	2	last	PP	long_np_shifted
+2092	6	3	semester	PP	long_np_shifted
+2093	6	4	one	Long NP	long_np_shifted
+2094	6	5	round	Long NP	long_np_shifted
+2095	6	6	trip	Long NP	long_np_shifted
+2096	6	7	plane	Long NP	long_np_shifted
+2097	6	8	ticket	Long NP	long_np_shifted
+2098	6	9	from	Long NP	long_np_shifted
+2099	6	10	New	Long NP	long_np_shifted
+2100	6	11	York	Long NP	long_np_shifted
+2101	6	12	to	Long NP	long_np_shifted
+2102	6	13	Atlanta	Long NP	long_np_shifted
+2103	6	15	.	End	long_np_shifted
+2104	6	16	<eos>	End	long_np_shifted
+2105	7	0	Donald	Subject	long_np_shifted
+2106	7	1	relinquished	NP Verb	long_np_shifted
+2107	7	2	with	PP	long_np_shifted
+2108	7	3	joy	PP	long_np_shifted
+2109	7	4	some	Long NP	long_np_shifted
+2110	7	5	great	Long NP	long_np_shifted
+2111	7	6	front	Long NP	long_np_shifted
+2112	7	7	row	Long NP	long_np_shifted
+2113	7	8	center	Long NP	long_np_shifted
+2114	7	9	seats	Long NP	long_np_shifted
+2115	7	10	for	Long NP	long_np_shifted
+2116	7	11	the	Long NP	long_np_shifted
+2117	7	12	last	Long NP	long_np_shifted
+2118	7	13	performance	Long NP	long_np_shifted
+2119	7	15	.	End	long_np_shifted
+2120	7	16	<eos>	End	long_np_shifted
+2121	8	0	Jake	Subject	long_np_shifted
+2122	8	1	released	NP Verb	long_np_shifted
+2123	8	2	on	PP	long_np_shifted
+2124	8	3	Friday	PP	long_np_shifted
+2125	8	4	all	Long NP	long_np_shifted
+2126	8	5	of	Long NP	long_np_shifted
+2127	8	6	the	Long NP	long_np_shifted
+2128	8	7	facts	Long NP	long_np_shifted
+2129	8	8	for	Long NP	long_np_shifted
+2130	8	9	the	Long NP	long_np_shifted
+2131	8	10	import	Long NP	long_np_shifted
+2132	8	11	and	Long NP	long_np_shifted
+2133	8	12	export	Long NP	long_np_shifted
+2134	8	13	taxes	Long NP	long_np_shifted
+2135	8	15	.	End	long_np_shifted
+2136	8	16	<eos>	End	long_np_shifted
+2137	9	0	Brian	Subject	long_np_shifted
+2138	9	1	released	NP Verb	long_np_shifted
+2139	9	2	at	PP	long_np_shifted
+2140	9	3	lunch	PP	long_np_shifted
+2141	9	4	all	Long NP	long_np_shifted
+2142	9	5	of	Long NP	long_np_shifted
+2143	9	6	the	Long NP	long_np_shifted
+2144	9	7	answers	Long NP	long_np_shifted
+2145	9	8	on	Long NP	long_np_shifted
+2146	9	9	the	Long NP	long_np_shifted
+2147	9	10	twenty	Long NP	long_np_shifted
+2148	9	11	point	Long NP	long_np_shifted
+2149	9	12	English	Long NP	long_np_shifted
+2150	9	13	quiz	Long NP	long_np_shifted
+2151	9	15	.	End	long_np_shifted
+2152	9	16	<eos>	End	long_np_shifted
+2153	10	0	Alex	Subject	long_np_shifted
+2154	10	1	described	NP Verb	long_np_shifted
+2155	10	2	in	PP	long_np_shifted
+2156	10	3	detail	PP	long_np_shifted
+2157	10	4	each	Long NP	long_np_shifted
+2158	10	5	of	Long NP	long_np_shifted
+2159	10	6	the	Long NP	long_np_shifted
+2160	10	7	key	Long NP	long_np_shifted
+2161	10	8	points	Long NP	long_np_shifted
+2162	10	9	of	Long NP	long_np_shifted
+2163	10	10	conflict	Long NP	long_np_shifted
+2164	10	11	in	Long NP	long_np_shifted
+2165	10	12	an	Long NP	long_np_shifted
+2166	10	13	interview	Long NP	long_np_shifted
+2167	10	15	.	End	long_np_shifted
+2168	10	16	<eos>	End	long_np_shifted
+2169	11	0	The	Subject	long_np_shifted
+2170	11	1	woman	Subject	long_np_shifted
+2171	11	2	described	NP Verb	long_np_shifted
+2172	11	3	by	PP	long_np_shifted
+2173	11	4	phone	PP	long_np_shifted
+2174	11	5	the	Long NP	long_np_shifted
+2175	11	6	best	Long NP	long_np_shifted
+2176	11	7	routes	Long NP	long_np_shifted
+2177	11	8	to	Long NP	long_np_shifted
+2178	11	9	the	Long NP	long_np_shifted
+2179	11	10	Santa	Long NP	long_np_shifted
+2180	11	11	Monica	Long NP	long_np_shifted
+2181	11	12	beach	Long NP	long_np_shifted
+2182	11	13	and	Long NP	long_np_shifted
+2183	11	14	pier	Long NP	long_np_shifted
+2184	11	16	.	End	long_np_shifted
+2185	11	17	<eos>	End	long_np_shifted
+2186	12	0	The	Subject	long_np_shifted
+2187	12	1	lawyer	Subject	long_np_shifted
+2188	12	2	distributed	NP Verb	long_np_shifted
+2189	12	3	with	PP	long_np_shifted
+2190	12	4	confidence	PP	long_np_shifted
+2191	12	5	each	Long NP	long_np_shifted
+2192	12	6	piece	Long NP	long_np_shifted
+2193	12	7	of	Long NP	long_np_shifted
+2194	12	8	the	Long NP	long_np_shifted
+2195	12	9	evidence	Long NP	long_np_shifted
+2196	12	10	in	Long NP	long_np_shifted
+2197	12	11	the	Long NP	long_np_shifted
+2198	12	12	tax	Long NP	long_np_shifted
+2199	12	13	fraud	Long NP	long_np_shifted
+2200	12	14	cases	Long NP	long_np_shifted
+2201	12	16	.	End	long_np_shifted
+2202	12	17	<eos>	End	long_np_shifted
+2203	13	0	The	Subject	long_np_shifted
+2204	13	1	editor	Subject	long_np_shifted
+2205	13	2	distributed	NP Verb	long_np_shifted
+2206	13	3	at	PP	long_np_shifted
+2207	13	4	supper	PP	long_np_shifted
+2208	13	5	the	Long NP	long_np_shifted
+2209	13	6	first	Long NP	long_np_shifted
+2210	13	7	drafts	Long NP	long_np_shifted
+2211	13	8	of	Long NP	long_np_shifted
+2212	13	9	a	Long NP	long_np_shifted
+2213	13	10	long	Long NP	long_np_shifted
+2214	13	11	article	Long NP	long_np_shifted
+2215	13	12	and	Long NP	long_np_shifted
+2216	13	13	book	Long NP	long_np_shifted
+2217	13	14	review	Long NP	long_np_shifted
+2218	13	16	.	End	long_np_shifted
+2219	13	17	<eos>	End	long_np_shifted
+2220	14	0	The	Subject	long_np_shifted
+2221	14	1	president	Subject	long_np_shifted
+2222	14	2	introduced	NP Verb	long_np_shifted
+2223	14	3	on	PP	long_np_shifted
+2224	14	4	Monday	PP	long_np_shifted
+2225	14	5	the	Long NP	long_np_shifted
+2226	14	6	new	Long NP	long_np_shifted
+2227	14	7	vice	Long NP	long_np_shifted
+2228	14	8	chair	Long NP	long_np_shifted
+2229	14	9	of	Long NP	long_np_shifted
+2230	14	10	the	Long NP	long_np_shifted
+2231	14	11	first	Long NP	long_np_shifted
+2232	14	12	corporate	Long NP	long_np_shifted
+2233	14	13	finance	Long NP	long_np_shifted
+2234	14	14	group	Long NP	long_np_shifted
+2235	14	16	.	End	long_np_shifted
+2236	14	17	<eos>	End	long_np_shifted
+2237	15	0	The	Subject	long_np_shifted
+2238	15	1	teacher	Subject	long_np_shifted
+2239	15	2	introduced	NP Verb	long_np_shifted
+2240	15	3	with	PP	long_np_shifted
+2241	15	4	care	PP	long_np_shifted
+2242	15	5	some	Long NP	long_np_shifted
+2243	15	6	hard	Long NP	long_np_shifted
+2244	15	7	math	Long NP	long_np_shifted
+2245	15	8	concepts	Long NP	long_np_shifted
+2246	15	9	for	Long NP	long_np_shifted
+2247	15	10	the	Long NP	long_np_shifted
+2248	15	11	one	Long NP	long_np_shifted
+2249	15	12	hundred	Long NP	long_np_shifted
+2250	15	13	point	Long NP	long_np_shifted
+2251	15	14	final	Long NP	long_np_shifted
+2252	15	16	.	End	long_np_shifted
+2253	15	17	<eos>	End	long_np_shifted
+2254	16	0	Judy	Subject	long_np_shifted
+2255	16	1	delivered	NP Verb	long_np_shifted
+2256	16	2	in	PP	long_np_shifted
+2257	16	3	March	PP	long_np_shifted
+2258	16	4	a	Long NP	long_np_shifted
+2259	16	5	gorgeous	Long NP	long_np_shifted
+2260	16	6	red	Long NP	long_np_shifted
+2261	16	7	and	Long NP	long_np_shifted
+2262	16	8	black	Long NP	long_np_shifted
+2263	16	9	silk	Long NP	long_np_shifted
+2264	16	10	dress	Long NP	long_np_shifted
+2265	16	11	with	Long NP	long_np_shifted
+2266	16	12	sparkling	Long NP	long_np_shifted
+2267	16	13	sequins	Long NP	long_np_shifted
+2268	16	15	.	End	long_np_shifted
+2269	16	16	<eos>	End	long_np_shifted
+2270	17	0	Todd	Subject	long_np_shifted
+2271	17	1	delivered	NP Verb	long_np_shifted
+2272	17	2	at	PP	long_np_shifted
+2273	17	3	once	PP	long_np_shifted
+2274	17	4	a	Long NP	long_np_shifted
+2275	17	5	large	Long NP	long_np_shifted
+2276	17	6	package	Long NP	long_np_shifted
+2277	17	7	with	Long NP	long_np_shifted
+2278	17	8	lots	Long NP	long_np_shifted
+2279	17	9	of	Long NP	long_np_shifted
+2280	17	10	presents	Long NP	long_np_shifted
+2281	17	11	for	Long NP	long_np_shifted
+2282	17	12	small	Long NP	long_np_shifted
+2283	17	13	children	Long NP	long_np_shifted
+2284	17	15	.	End	long_np_shifted
+2285	17	16	<eos>	End	long_np_shifted
+2286	18	0	Shelly	Subject	long_np_shifted
+2287	18	1	carried	NP Verb	long_np_shifted
+2288	18	2	in	PP	long_np_shifted
+2289	18	3	May	PP	long_np_shifted
+2290	18	4	top	Long NP	long_np_shifted
+2291	18	5	secret	Long NP	long_np_shifted
+2292	18	6	plans	Long NP	long_np_shifted
+2293	18	7	for	Long NP	long_np_shifted
+2294	18	8	a	Long NP	long_np_shifted
+2295	18	9	large	Long NP	long_np_shifted
+2296	18	10	fleet	Long NP	long_np_shifted
+2297	18	11	of	Long NP	long_np_shifted
+2298	18	12	defense	Long NP	long_np_shifted
+2299	18	13	missiles	Long NP	long_np_shifted
+2300	18	15	.	End	long_np_shifted
+2301	18	16	<eos>	End	long_np_shifted
+2302	19	0	The	Subject	long_np_shifted
+2303	19	1	woman	Subject	long_np_shifted
+2304	19	2	carried	NP Verb	long_np_shifted
+2305	19	3	in	PP	long_np_shifted
+2306	19	4	August	PP	long_np_shifted
+2307	19	5	the	Long NP	long_np_shifted
+2308	19	6	birth	Long NP	long_np_shifted
+2309	19	7	and	Long NP	long_np_shifted
+2310	19	8	school	Long NP	long_np_shifted
+2311	19	9	records	Long NP	long_np_shifted
+2312	19	10	of	Long NP	long_np_shifted
+2313	19	11	the	Long NP	long_np_shifted
+2314	19	12	three	Long NP	long_np_shifted
+2315	19	13	young	Long NP	long_np_shifted
+2316	19	14	children	Long NP	long_np_shifted
+2317	19	16	.	End	long_np_shifted
+2318	19	17	<eos>	End	long_np_shifted
+2319	20	0	David	Subject	long_np_shifted
+2320	20	1	furnished	NP Verb	long_np_shifted
+2321	20	2	with	PP	long_np_shifted
+2322	20	3	hesitation	PP	long_np_shifted
+2323	20	4	the	Long NP	long_np_shifted
+2324	20	5	facts	Long NP	long_np_shifted
+2325	20	6	on	Long NP	long_np_shifted
+2326	20	7	the	Long NP	long_np_shifted
+2327	20	8	strange	Long NP	long_np_shifted
+2328	20	9	bank	Long NP	long_np_shifted
+2329	20	10	robbery	Long NP	long_np_shifted
+2330	20	11	crimes	Long NP	long_np_shifted
+2331	20	12	in	Long NP	long_np_shifted
+2332	20	13	Utah	Long NP	long_np_shifted
+2333	20	15	.	End	long_np_shifted
+2334	20	16	<eos>	End	long_np_shifted
+2335	21	0	Jessica	Subject	long_np_shifted
+2336	21	1	furnished	NP Verb	long_np_shifted
+2337	21	2	last	PP	long_np_shifted
+2338	21	3	summer	PP	long_np_shifted
+2339	21	4	he	Long NP	long_np_shifted
+2340	21	5	awful	Long NP	long_np_shifted
+2341	21	6	news	Long NP	long_np_shifted
+2342	21	7	of	Long NP	long_np_shifted
+2343	21	8	the	Long NP	long_np_shifted
+2344	21	9	refugees	Long NP	long_np_shifted
+2345	21	10	in	Long NP	long_np_shifted
+2346	21	11	the	Long NP	long_np_shifted
+2347	21	12	Far	Long NP	long_np_shifted
+2348	21	13	East	Long NP	long_np_shifted
+2349	21	15	.	End	long_np_shifted
+2350	21	16	<eos>	End	long_np_shifted
+2351	22	0	Steven	Subject	long_np_shifted
+2352	22	1	addressed	NP Verb	long_np_shifted
+2353	22	2	during	PP	long_np_shifted
+2354	22	3	break	PP	long_np_shifted
+2355	22	4	a	Long NP	long_np_shifted
+2356	22	5	seven	Long NP	long_np_shifted
+2357	22	6	page	Long NP	long_np_shifted
+2358	22	7	letter	Long NP	long_np_shifted
+2359	22	8	with	Long NP	long_np_shifted
+2360	22	9	many	Long NP	long_np_shifted
+2361	22	10	details	Long NP	long_np_shifted
+2362	22	11	of	Long NP	long_np_shifted
+2363	22	12	the	Long NP	long_np_shifted
+2364	22	13	trip	Long NP	long_np_shifted
+2365	22	15	.	End	long_np_shifted
+2366	22	16	<eos>	End	long_np_shifted
+2367	23	0	Raymond	Subject	long_np_shifted
+2368	23	1	addressed	NP Verb	long_np_shifted
+2369	23	2	very	PP	long_np_shifted
+2370	23	3	loudly	PP	long_np_shifted
+2371	23	4	a	Long NP	long_np_shifted
+2372	23	5	five	Long NP	long_np_shifted
+2373	23	6	page	Long NP	long_np_shifted
+2374	23	7	plan	Long NP	long_np_shifted
+2375	23	8	of	Long NP	long_np_shifted
+2376	23	9	withdrawal	Long NP	long_np_shifted
+2377	23	10	for	Long NP	long_np_shifted
+2378	23	11	the	Long NP	long_np_shifted
+2379	23	12	allied	Long NP	long_np_shifted
+2380	23	13	troops	Long NP	long_np_shifted
+2381	23	15	.	End	long_np_shifted
+2382	23	16	<eos>	End	long_np_shifted
+2383	24	0	Sam	Subject	long_np_shifted
+2384	24	1	donated	NP Verb	long_np_shifted
+2385	24	2	on	PP	long_np_shifted
+2386	24	3	Sunday	PP	long_np_shifted
+2387	24	4	an	Long NP	long_np_shifted
+2388	24	5	old	Long NP	long_np_shifted
+2389	24	6	treasure	Long NP	long_np_shifted
+2390	24	7	chest	Long NP	long_np_shifted
+2391	24	8	with	Long NP	long_np_shifted
+2392	24	9	some	Long NP	long_np_shifted
+2393	24	10	silver	Long NP	long_np_shifted
+2394	24	11	and	Long NP	long_np_shifted
+2395	24	12	gold	Long NP	long_np_shifted
+2396	24	13	trinkets	Long NP	long_np_shifted
+2397	24	15	.	End	long_np_shifted
+2398	24	16	<eos>	End	long_np_shifted
+2399	25	0	The	Subject	long_np_shifted
+2400	25	1	generous	Subject	long_np_shifted
+2401	25	2	man	Subject	long_np_shifted
+2402	25	3	donated	NP Verb	long_np_shifted
+2403	25	4	in	PP	long_np_shifted
+2404	25	5	person	PP	long_np_shifted
+2405	25	6	some	Long NP	long_np_shifted
+2406	25	7	used	Long NP	long_np_shifted
+2407	25	8	toys,	Long NP	long_np_shifted
+2408	25	9	winter	Long NP	long_np_shifted
+2409	25	10	clothing,	Long NP	long_np_shifted
+2410	25	11	clean	Long NP	long_np_shifted
+2411	25	12	linens,	Long NP	long_np_shifted
+2412	25	13	and	Long NP	long_np_shifted
+2413	25	14	snow	Long NP	long_np_shifted
+2414	25	15	boots	Long NP	long_np_shifted
+2415	25	17	.	End	long_np_shifted
+2416	25	18	<eos>	End	long_np_shifted
+2417	26	0	Janet	Subject	long_np_shifted
+2418	26	1	transferred	NP Verb	long_np_shifted
+2419	26	2	at	PP	long_np_shifted
+2420	26	3	dawn	PP	long_np_shifted
+2421	26	4	some	Long NP	long_np_shifted
+2422	26	5	more	Long NP	long_np_shifted
+2423	26	6	specific	Long NP	long_np_shifted
+2424	26	7	plans	Long NP	long_np_shifted
+2425	26	8	for	Long NP	long_np_shifted
+2426	26	9	a	Long NP	long_np_shifted
+2427	26	10	brand	Long NP	long_np_shifted
+2428	26	11	new	Long NP	long_np_shifted
+2429	26	12	defense	Long NP	long_np_shifted
+2430	26	13	plant	Long NP	long_np_shifted
+2431	26	15	.	End	long_np_shifted
+2432	26	16	<eos>	End	long_np_shifted
+2433	27	0	Bobby	Subject	long_np_shifted
+2434	27	1	transferred	NP Verb	long_np_shifted
+2435	27	2	at	PP	long_np_shifted
+2436	27	3	dusk	PP	long_np_shifted
+2437	27	4	the	Long NP	long_np_shifted
+2438	27	5	short	Long NP	long_np_shifted
+2439	27	6	documents	Long NP	long_np_shifted
+2440	27	7	to	Long NP	long_np_shifted
+2441	27	8	the	Long NP	long_np_shifted
+2442	27	9	old	Long NP	long_np_shifted
+2443	27	10	mansion	Long NP	long_np_shifted
+2444	27	11	on	Long NP	long_np_shifted
+2445	27	12	the	Long NP	long_np_shifted
+2446	27	13	hill	Long NP	long_np_shifted
+2447	27	15	.	End	long_np_shifted
+2448	27	16	<eos>	End	long_np_shifted
+2449	28	0	Kathy	Subject	long_np_shifted
+2450	28	1	recited	NP Verb	long_np_shifted
+2451	28	2	last	PP	long_np_shifted
+2452	28	3	night	PP	long_np_shifted
+2453	28	4	all	Long NP	long_np_shifted
+2454	28	5	three	Long NP	long_np_shifted
+2455	28	6	verses	Long NP	long_np_shifted
+2456	28	7	from	Long NP	long_np_shifted
+2457	28	8	an	Long NP	long_np_shifted
+2458	28	9	old	Long NP	long_np_shifted
+2459	28	10	and	Long NP	long_np_shifted
+2460	28	11	famous	Long NP	long_np_shifted
+2461	28	12	French	Long NP	long_np_shifted
+2462	28	13	poem	Long NP	long_np_shifted
+2463	28	15	.	End	long_np_shifted
+2464	28	16	<eos>	End	long_np_shifted
+2465	29	0	Mike	Subject	long_np_shifted
+2466	29	1	recited	NP Verb	long_np_shifted
+2467	29	2	last	PP	long_np_shifted
+2468	29	3	year	PP	long_np_shifted
+2469	29	4	the	Long NP	long_np_shifted
+2470	29	5	words	Long NP	long_np_shifted
+2471	29	6	to	Long NP	long_np_shifted
+2472	29	7	a	Long NP	long_np_shifted
+2473	29	8	popular	Long NP	long_np_shifted
+2474	29	9	country	Long NP	long_np_shifted
+2475	29	10	song	Long NP	long_np_shifted
+2476	29	11	in	Long NP	long_np_shifted
+2477	29	12	the	Long NP	long_np_shifted
+2478	29	13	South	Long NP	long_np_shifted
+2479	29	15	.	End	long_np_shifted
+2480	29	16	<eos>	End	long_np_shifted
+2481	30	0	Amy	Subject	long_np_shifted
+2482	30	1	forfeited	NP Verb	long_np_shifted
+2483	30	2	last	PP	long_np_shifted
+2484	30	3	week	PP	long_np_shifted
+2485	30	4	the	Long NP	long_np_shifted
+2486	30	5	high	Long NP	long_np_shifted
+2487	30	6	school	Long NP	long_np_shifted
+2488	30	7	girls	Long NP	long_np_shifted
+2489	30	8	state	Long NP	long_np_shifted
+2490	30	9	swimming	Long NP	long_np_shifted
+2491	30	10	title	Long NP	long_np_shifted
+2492	30	11	in	Long NP	long_np_shifted
+2493	30	12	New	Long NP	long_np_shifted
+2494	30	13	York	Long NP	long_np_shifted
+2495	30	15	.	End	long_np_shifted
+2496	30	16	<eos>	End	long_np_shifted
+2497	31	0	Jason	Subject	long_np_shifted
+2498	31	1	forfeited	NP Verb	long_np_shifted
+2499	31	2	with	PP	long_np_shifted
+2500	31	3	glee	PP	long_np_shifted
+2501	31	4	all	Long NP	long_np_shifted
+2502	31	5	of	Long NP	long_np_shifted
+2503	31	6	the	Long NP	long_np_shifted
+2504	31	7	winnings	Long NP	long_np_shifted
+2505	31	8	for	Long NP	long_np_shifted
+2506	31	9	the	Long NP	long_np_shifted
+2507	31	10	past	Long NP	long_np_shifted
+2508	31	11	seven	Long NP	long_np_shifted
+2509	31	12	horse	Long NP	long_np_shifted
+2510	31	13	races	Long NP	long_np_shifted
+2511	31	15	.	End	long_np_shifted
+2512	31	16	<eos>	End	long_np_shifted
+2513	32	0	Josh	Subject	long_np_shifted
+2514	32	1	dispatched	NP Verb	long_np_shifted
+2515	32	2	at	PP	long_np_shifted
+2516	32	3	breakfast	PP	long_np_shifted
+2517	32	4	a	Long NP	long_np_shifted
+2518	32	5	short	Long NP	long_np_shifted
+2519	32	6	message	Long NP	long_np_shifted
+2520	32	7	on	Long NP	long_np_shifted
+2521	32	8	the	Long NP	long_np_shifted
+2522	32	9	dangers	Long NP	long_np_shifted
+2523	32	10	of	Long NP	long_np_shifted
+2524	32	11	the	Long NP	long_np_shifted
+2525	32	12	current	Long NP	long_np_shifted
+2526	32	13	storm	Long NP	long_np_shifted
+2527	32	15	.	End	long_np_shifted
+2528	32	16	<eos>	End	long_np_shifted
+2529	33	0	Brad	Subject	long_np_shifted
+2530	33	1	dispatched	NP Verb	long_np_shifted
+2531	33	2	at	PP	long_np_shifted
+2532	33	3	nine	PP	long_np_shifted
+2533	33	4	the	Long NP	long_np_shifted
+2534	33	5	instructions	Long NP	long_np_shifted
+2535	33	6	for	Long NP	long_np_shifted
+2536	33	7	the	Long NP	long_np_shifted
+2537	33	8	safest	Long NP	long_np_shifted
+2538	33	9	route	Long NP	long_np_shifted
+2539	33	10	to	Long NP	long_np_shifted
+2540	33	11	the	Long NP	long_np_shifted
+2541	33	12	old	Long NP	long_np_shifted
+2542	33	13	town	Long NP	long_np_shifted
+2543	33	15	.	End	long_np_shifted
+2544	33	16	<eos>	End	long_np_shifted
+2545	34	0	The	Subject	long_np_shifted
+2546	34	1	teacher	Subject	long_np_shifted
+2547	34	2	narrated	NP Verb	long_np_shifted
+2548	34	3	with	PP	long_np_shifted
+2549	34	4	caution	PP	long_np_shifted
+2550	34	5	each	Long NP	long_np_shifted
+2551	34	6	of	Long NP	long_np_shifted
+2552	34	7	the	Long NP	long_np_shifted
+2553	34	8	series	Long NP	long_np_shifted
+2554	34	9	of	Long NP	long_np_shifted
+2555	34	10	events	Long NP	long_np_shifted
+2556	34	11	in	Long NP	long_np_shifted
+2557	34	12	the	Long NP	long_np_shifted
+2558	34	13	secret	Long NP	long_np_shifted
+2559	34	14	case	Long NP	long_np_shifted
+2560	34	16	.	End	long_np_shifted
+2561	34	17	<eos>	End	long_np_shifted
+2562	35	0	Matthew	Subject	long_np_shifted
+2563	35	1	narrated	NP Verb	long_np_shifted
+2564	35	2	in	PP	long_np_shifted
+2565	35	3	secret	PP	long_np_shifted
+2566	35	4	the	Long NP	long_np_shifted
+2567	35	5	whole	Long NP	long_np_shifted
+2568	35	6	story	Long NP	long_np_shifted
+2569	35	7	on	Long NP	long_np_shifted
+2570	35	8	the	Long NP	long_np_shifted
+2571	35	9	defects	Long NP	long_np_shifted
+2572	35	10	in	Long NP	long_np_shifted
+2573	35	11	the	Long NP	long_np_shifted
+2574	35	12	new	Long NP	long_np_shifted
+2575	35	13	Mazda	Long NP	long_np_shifted
+2576	35	15	.	End	long_np_shifted
+2577	35	16	<eos>	End	long_np_shifted
+2578	36	0	Tim	Subject	long_np_shifted
+2579	36	1	contributed	NP Verb	long_np_shifted
+2580	36	2	with	PP	long_np_shifted
+2581	36	3	reluctance	PP	long_np_shifted
+2582	36	4	the	Long NP	long_np_shifted
+2583	36	5	small	Long NP	long_np_shifted
+2584	36	6	reward	Long NP	long_np_shifted
+2585	36	7	for	Long NP	long_np_shifted
+2586	36	8	helpful	Long NP	long_np_shifted
+2587	36	9	clues	Long NP	long_np_shifted
+2588	36	10	on	Long NP	long_np_shifted
+2589	36	11	a	Long NP	long_np_shifted
+2590	36	12	recent	Long NP	long_np_shifted
+2591	36	13	crime	Long NP	long_np_shifted
+2592	36	15	.	End	long_np_shifted
+2593	36	16	<eos>	End	long_np_shifted
+2594	37	0	Bobby	Subject	long_np_shifted
+2595	37	1	contributed	NP Verb	long_np_shifted
+2596	37	2	with	PP	long_np_shifted
+2597	37	3	pleasure	PP	long_np_shifted
+2598	37	4	the	Long NP	long_np_shifted
+2599	37	5	earnings	Long NP	long_np_shifted
+2600	37	6	of	Long NP	long_np_shifted
+2601	37	7	the	Long NP	long_np_shifted
+2602	37	8	five	Long NP	long_np_shifted
+2603	37	9	winners	Long NP	long_np_shifted
+2604	37	10	in	Long NP	long_np_shifted
+2605	37	11	the	Long NP	long_np_shifted
+2606	37	12	poker	Long NP	long_np_shifted
+2607	37	13	games	Long NP	long_np_shifted
+2608	37	15	.	End	long_np_shifted
+2609	37	16	<eos>	End	long_np_shifted
+2610	38	0	Ed	Subject	long_np_shifted
+2611	38	1	entrusted	NP Verb	long_np_shifted
+2612	38	2	at	PP	long_np_shifted
+2613	38	3	brunch	PP	long_np_shifted
+2614	38	4	a	Long NP	long_np_shifted
+2615	38	5	script	Long NP	long_np_shifted
+2616	38	6	for	Long NP	long_np_shifted
+2617	38	7	a	Long NP	long_np_shifted
+2618	38	8	suspense	Long NP	long_np_shifted
+2619	38	9	film	Long NP	long_np_shifted
+2620	38	10	with	Long NP	long_np_shifted
+2621	38	11	a	Long NP	long_np_shifted
+2622	38	12	giant	Long NP	long_np_shifted
+2623	38	13	budget	Long NP	long_np_shifted
+2624	38	15	.	End	long_np_shifted
+2625	38	16	<eos>	End	long_np_shifted
+2626	39	0	Angie	Subject	long_np_shifted
+2627	39	1	entrusted	NP Verb	long_np_shifted
+2628	39	2	with	PP	long_np_shifted
+2629	39	3	hope	PP	long_np_shifted
+2630	39	4	the	Long NP	long_np_shifted
+2631	39	5	plan	Long NP	long_np_shifted
+2632	39	6	for	Long NP	long_np_shifted
+2633	39	7	the	Long NP	long_np_shifted
+2634	39	8	biggest	Long NP	long_np_shifted
+2635	39	9	poster	Long NP	long_np_shifted
+2636	39	10	in	Long NP	long_np_shifted
+2637	39	11	the	Long NP	long_np_shifted
+2638	39	12	science	Long NP	long_np_shifted
+2639	39	13	fair	Long NP	long_np_shifted
+2640	39	15	.	End	long_np_shifted
+2641	39	16	<eos>	End	long_np_shifted
+2642	0	0	The	Subject	long_nps_unshifted
+2643	0	1	manager	Subject	long_nps_unshifted
+2644	0	2	exhibited	NP/S Verb	long_nps_unshifted
+2645	0	3	the	Long NP	long_nps_unshifted
+2646	0	4	new	Long NP	long_nps_unshifted
+2647	0	5	line	Long NP	long_nps_unshifted
+2648	0	6	of	Long NP	long_nps_unshifted
+2649	0	7	bright	Long NP	long_nps_unshifted
+2650	0	8	summer	Long NP	long_nps_unshifted
+2651	0	9	beach	Long NP	long_nps_unshifted
+2652	0	10	and	Long NP	long_nps_unshifted
+2653	0	11	resort	Long NP	long_nps_unshifted
+2654	0	12	fashions	Long NP	long_nps_unshifted
+2655	0	13	at	PP	long_nps_unshifted
+2656	0	14	noon	PP	long_nps_unshifted
+2657	0	16	.	End	long_nps_unshifted
+2658	0	17	<eos>	End	long_nps_unshifted
+2659	1	0	The	Subject	long_nps_unshifted
+2660	1	1	contractor	Subject	long_nps_unshifted
+2661	1	2	exhibited	NP/S Verb	long_nps_unshifted
+2662	1	3	the	Long NP	long_nps_unshifted
+2663	1	4	plans	Long NP	long_nps_unshifted
+2664	1	5	for	Long NP	long_nps_unshifted
+2665	1	6	a	Long NP	long_nps_unshifted
+2666	1	7	lagoon	Long NP	long_nps_unshifted
+2667	1	8	and	Long NP	long_nps_unshifted
+2668	1	9	waterfall	Long NP	long_nps_unshifted
+2669	1	10	with	Long NP	long_nps_unshifted
+2670	1	11	red	Long NP	long_nps_unshifted
+2671	1	12	clay	Long NP	long_nps_unshifted
+2672	1	13	in	PP	long_nps_unshifted
+2673	1	14	July	PP	long_nps_unshifted
+2674	1	16	.	End	long_nps_unshifted
+2675	1	17	<eos>	End	long_nps_unshifted
+2676	2	0	Mary	Subject	long_nps_unshifted
+2677	2	1	mentioned	NP/S Verb	long_nps_unshifted
+2678	2	2	the	Long NP	long_nps_unshifted
+2679	2	3	used	Long NP	long_nps_unshifted
+2680	2	4	car	Long NP	long_nps_unshifted
+2681	2	5	ad	Long NP	long_nps_unshifted
+2682	2	6	for	Long NP	long_nps_unshifted
+2683	2	7	a	Long NP	long_nps_unshifted
+2684	2	8	Chevrolet	Long NP	long_nps_unshifted
+2685	2	9	with	Long NP	long_nps_unshifted
+2686	2	10	low	Long NP	long_nps_unshifted
+2687	2	11	mileage	Long NP	long_nps_unshifted
+2688	2	12	at	PP	long_nps_unshifted
+2689	2	13	tea	PP	long_nps_unshifted
+2690	2	15	.	End	long_nps_unshifted
+2691	2	16	<eos>	End	long_nps_unshifted
+2692	3	0	Mark	Subject	long_nps_unshifted
+2693	3	1	mentioned	NP/S Verb	long_nps_unshifted
+2694	3	2	the	Long NP	long_nps_unshifted
+2695	3	3	flyers	Long NP	long_nps_unshifted
+2696	3	4	for	Long NP	long_nps_unshifted
+2697	3	5	some	Long NP	long_nps_unshifted
+2698	3	6	lectures	Long NP	long_nps_unshifted
+2699	3	7	and	Long NP	long_nps_unshifted
+2700	3	8	slide	Long NP	long_nps_unshifted
+2701	3	9	shows	Long NP	long_nps_unshifted
+2702	3	10	on	Long NP	long_nps_unshifted
+2703	3	11	campus	Long NP	long_nps_unshifted
+2704	3	12	very	PP	long_nps_unshifted
+2705	3	13	quickly	PP	long_nps_unshifted
+2706	3	15	.	End	long_nps_unshifted
+2707	3	16	<eos>	End	long_nps_unshifted
+2708	4	0	The	Subject	long_nps_unshifted
+2709	4	1	dealer	Subject	long_nps_unshifted
+2710	4	2	demonstrated	NP/S Verb	long_nps_unshifted
+2711	4	3	a	Long NP	long_nps_unshifted
+2712	4	4	brand	Long NP	long_nps_unshifted
+2713	4	5	new	Long NP	long_nps_unshifted
+2714	4	6	speedy	Long NP	long_nps_unshifted
+2715	4	7	silver	Long NP	long_nps_unshifted
+2716	4	8	sports	Long NP	long_nps_unshifted
+2717	4	9	car	Long NP	long_nps_unshifted
+2718	4	10	with	Long NP	long_nps_unshifted
+2719	4	11	chrome	Long NP	long_nps_unshifted
+2720	4	12	bumpers	Long NP	long_nps_unshifted
+2721	4	13	at	PP	long_nps_unshifted
+2722	4	14	ten	PP	long_nps_unshifted
+2723	4	16	.	End	long_nps_unshifted
+2724	4	17	<eos>	End	long_nps_unshifted
+2725	5	0	The	Subject	long_nps_unshifted
+2726	5	1	manager	Subject	long_nps_unshifted
+2727	5	2	demonstrated	NP/S Verb	long_nps_unshifted
+2728	5	3	the	Long NP	long_nps_unshifted
+2729	5	4	new	Long NP	long_nps_unshifted
+2730	5	5	sports	Long NP	long_nps_unshifted
+2731	5	6	line	Long NP	long_nps_unshifted
+2732	5	7	of	Long NP	long_nps_unshifted
+2733	5	8	running	Long NP	long_nps_unshifted
+2734	5	9	shoes	Long NP	long_nps_unshifted
+2735	5	10	and	Long NP	long_nps_unshifted
+2736	5	11	bicycling	Long NP	long_nps_unshifted
+2737	5	12	gear	Long NP	long_nps_unshifted
+2738	5	13	at	PP	long_nps_unshifted
+2739	5	14	three	PP	long_nps_unshifted
+2740	5	16	.	End	long_nps_unshifted
+2741	5	17	<eos>	End	long_nps_unshifted
+2742	6	0	Robert	Subject	long_nps_unshifted
+2743	6	1	proposed	NP/S Verb	long_nps_unshifted
+2744	6	2	one	Long NP	long_nps_unshifted
+2745	6	3	round	Long NP	long_nps_unshifted
+2746	6	4	trip	Long NP	long_nps_unshifted
+2747	6	5	plane	Long NP	long_nps_unshifted
+2748	6	6	ticket	Long NP	long_nps_unshifted
+2749	6	7	from	Long NP	long_nps_unshifted
+2750	6	8	New	Long NP	long_nps_unshifted
+2751	6	9	York	Long NP	long_nps_unshifted
+2752	6	10	to	Long NP	long_nps_unshifted
+2753	6	11	Atlanta	Long NP	long_nps_unshifted
+2754	6	12	last	PP	long_nps_unshifted
+2755	6	13	semester	PP	long_nps_unshifted
+2756	6	15	.	End	long_nps_unshifted
+2757	6	16	<eos>	End	long_nps_unshifted
+2758	7	0	Donald	Subject	long_nps_unshifted
+2759	7	1	proposed	NP/S Verb	long_nps_unshifted
+2760	7	2	some	Long NP	long_nps_unshifted
+2761	7	3	great	Long NP	long_nps_unshifted
+2762	7	4	front	Long NP	long_nps_unshifted
+2763	7	5	row	Long NP	long_nps_unshifted
+2764	7	6	center	Long NP	long_nps_unshifted
+2765	7	7	seats	Long NP	long_nps_unshifted
+2766	7	8	for	Long NP	long_nps_unshifted
+2767	7	9	the	Long NP	long_nps_unshifted
+2768	7	10	last	Long NP	long_nps_unshifted
+2769	7	11	performance	Long NP	long_nps_unshifted
+2770	7	12	with	PP	long_nps_unshifted
+2771	7	13	joy	PP	long_nps_unshifted
+2772	7	15	.	End	long_nps_unshifted
+2773	7	16	<eos>	End	long_nps_unshifted
+2774	8	0	Jake	Subject	long_nps_unshifted
+2775	8	1	explained	NP/S Verb	long_nps_unshifted
+2776	8	2	all	Long NP	long_nps_unshifted
+2777	8	3	of	Long NP	long_nps_unshifted
+2778	8	4	the	Long NP	long_nps_unshifted
+2779	8	5	facts	Long NP	long_nps_unshifted
+2780	8	6	for	Long NP	long_nps_unshifted
+2781	8	7	the	Long NP	long_nps_unshifted
+2782	8	8	import	Long NP	long_nps_unshifted
+2783	8	9	and	Long NP	long_nps_unshifted
+2784	8	10	export	Long NP	long_nps_unshifted
+2785	8	11	taxes	Long NP	long_nps_unshifted
+2786	8	12	on	PP	long_nps_unshifted
+2787	8	13	Friday	PP	long_nps_unshifted
+2788	8	15	.	End	long_nps_unshifted
+2789	8	16	<eos>	End	long_nps_unshifted
+2790	9	0	Brian	Subject	long_nps_unshifted
+2791	9	1	explained	NP/S Verb	long_nps_unshifted
+2792	9	2	all	Long NP	long_nps_unshifted
+2793	9	3	of	Long NP	long_nps_unshifted
+2794	9	4	the	Long NP	long_nps_unshifted
+2795	9	5	answers	Long NP	long_nps_unshifted
+2796	9	6	on	Long NP	long_nps_unshifted
+2797	9	7	the	Long NP	long_nps_unshifted
+2798	9	8	twenty	Long NP	long_nps_unshifted
+2799	9	9	point	Long NP	long_nps_unshifted
+2800	9	10	English	Long NP	long_nps_unshifted
+2801	9	11	quiz	Long NP	long_nps_unshifted
+2802	9	12	at	PP	long_nps_unshifted
+2803	9	13	lunch	PP	long_nps_unshifted
+2804	9	15	.	End	long_nps_unshifted
+2805	9	16	<eos>	End	long_nps_unshifted
+2806	10	0	Alex	Subject	long_nps_unshifted
+2807	10	1	indicated	NP/S Verb	long_nps_unshifted
+2808	10	2	each	Long NP	long_nps_unshifted
+2809	10	3	of	Long NP	long_nps_unshifted
+2810	10	4	the	Long NP	long_nps_unshifted
+2811	10	5	key	Long NP	long_nps_unshifted
+2812	10	6	points	Long NP	long_nps_unshifted
+2813	10	7	of	Long NP	long_nps_unshifted
+2814	10	8	conflict	Long NP	long_nps_unshifted
+2815	10	9	in	Long NP	long_nps_unshifted
+2816	10	10	an	Long NP	long_nps_unshifted
+2817	10	11	interview	Long NP	long_nps_unshifted
+2818	10	12	in	PP	long_nps_unshifted
+2819	10	13	detail	PP	long_nps_unshifted
+2820	10	15	.	End	long_nps_unshifted
+2821	10	16	<eos>	End	long_nps_unshifted
+2822	11	0	The	Subject	long_nps_unshifted
+2823	11	1	woman	Subject	long_nps_unshifted
+2824	11	2	indicated	NP/S Verb	long_nps_unshifted
+2825	11	3	the	Long NP	long_nps_unshifted
+2826	11	4	best	Long NP	long_nps_unshifted
+2827	11	5	routes	Long NP	long_nps_unshifted
+2828	11	6	to	Long NP	long_nps_unshifted
+2829	11	7	the	Long NP	long_nps_unshifted
+2830	11	8	Santa	Long NP	long_nps_unshifted
+2831	11	9	Monica	Long NP	long_nps_unshifted
+2832	11	10	beach	Long NP	long_nps_unshifted
+2833	11	11	and	Long NP	long_nps_unshifted
+2834	11	12	pier	Long NP	long_nps_unshifted
+2835	11	13	by	PP	long_nps_unshifted
+2836	11	14	phone	PP	long_nps_unshifted
+2837	11	16	.	End	long_nps_unshifted
+2838	11	17	<eos>	End	long_nps_unshifted
+2839	12	0	The	Subject	long_nps_unshifted
+2840	12	1	lawyer	Subject	long_nps_unshifted
+2841	12	2	acknowledged	NP/S Verb	long_nps_unshifted
+2842	12	3	each	Long NP	long_nps_unshifted
+2843	12	4	piece	Long NP	long_nps_unshifted
+2844	12	5	of	Long NP	long_nps_unshifted
+2845	12	6	the	Long NP	long_nps_unshifted
+2846	12	7	evidence	Long NP	long_nps_unshifted
+2847	12	8	in	Long NP	long_nps_unshifted
+2848	12	9	the	Long NP	long_nps_unshifted
+2849	12	10	tax	Long NP	long_nps_unshifted
+2850	12	11	fraud	Long NP	long_nps_unshifted
+2851	12	12	cases	Long NP	long_nps_unshifted
+2852	12	13	with	PP	long_nps_unshifted
+2853	12	14	confidence	PP	long_nps_unshifted
+2854	12	16	.	End	long_nps_unshifted
+2855	12	17	<eos>	End	long_nps_unshifted
+2856	13	0	The	Subject	long_nps_unshifted
+2857	13	1	editor	Subject	long_nps_unshifted
+2858	13	2	acknowledged	NP/S Verb	long_nps_unshifted
+2859	13	3	the	Long NP	long_nps_unshifted
+2860	13	4	first	Long NP	long_nps_unshifted
+2861	13	5	drafts	Long NP	long_nps_unshifted
+2862	13	6	of	Long NP	long_nps_unshifted
+2863	13	7	a	Long NP	long_nps_unshifted
+2864	13	8	long	Long NP	long_nps_unshifted
+2865	13	9	article	Long NP	long_nps_unshifted
+2866	13	10	and	Long NP	long_nps_unshifted
+2867	13	11	book	Long NP	long_nps_unshifted
+2868	13	12	review	Long NP	long_nps_unshifted
+2869	13	13	at	PP	long_nps_unshifted
+2870	13	14	supper	PP	long_nps_unshifted
+2871	13	16	.	End	long_nps_unshifted
+2872	13	17	<eos>	End	long_nps_unshifted
+2873	14	0	The	Subject	long_nps_unshifted
+2874	14	1	president	Subject	long_nps_unshifted
+2875	14	2	announced	NP/S Verb	long_nps_unshifted
+2876	14	3	the	Long NP	long_nps_unshifted
+2877	14	4	new	Long NP	long_nps_unshifted
+2878	14	5	vice	Long NP	long_nps_unshifted
+2879	14	6	chair	Long NP	long_nps_unshifted
+2880	14	7	of	Long NP	long_nps_unshifted
+2881	14	8	the	Long NP	long_nps_unshifted
+2882	14	9	first	Long NP	long_nps_unshifted
+2883	14	10	corporate	Long NP	long_nps_unshifted
+2884	14	11	finance	Long NP	long_nps_unshifted
+2885	14	12	group	Long NP	long_nps_unshifted
+2886	14	13	on	PP	long_nps_unshifted
+2887	14	14	Monday	PP	long_nps_unshifted
+2888	14	16	.	End	long_nps_unshifted
+2889	14	17	<eos>	End	long_nps_unshifted
+2890	15	0	The	Subject	long_nps_unshifted
+2891	15	1	teacher	Subject	long_nps_unshifted
+2892	15	2	announced	NP/S Verb	long_nps_unshifted
+2893	15	3	some	Long NP	long_nps_unshifted
+2894	15	4	hard	Long NP	long_nps_unshifted
+2895	15	5	math	Long NP	long_nps_unshifted
+2896	15	6	concepts	Long NP	long_nps_unshifted
+2897	15	7	for	Long NP	long_nps_unshifted
+2898	15	8	the	Long NP	long_nps_unshifted
+2899	15	9	one	Long NP	long_nps_unshifted
+2900	15	10	hundred	Long NP	long_nps_unshifted
+2901	15	11	point	Long NP	long_nps_unshifted
+2902	15	12	final	Long NP	long_nps_unshifted
+2903	15	13	with	PP	long_nps_unshifted
+2904	15	14	care	PP	long_nps_unshifted
+2905	15	16	.	End	long_nps_unshifted
+2906	15	17	<eos>	End	long_nps_unshifted
+2907	16	0	Judy	Subject	long_nps_unshifted
+2908	16	1	suggested	NP/S Verb	long_nps_unshifted
+2909	16	2	a	Long NP	long_nps_unshifted
+2910	16	3	gorgeous	Long NP	long_nps_unshifted
+2911	16	4	red	Long NP	long_nps_unshifted
+2912	16	5	and	Long NP	long_nps_unshifted
+2913	16	6	black	Long NP	long_nps_unshifted
+2914	16	7	silk	Long NP	long_nps_unshifted
+2915	16	8	dress	Long NP	long_nps_unshifted
+2916	16	9	with	Long NP	long_nps_unshifted
+2917	16	10	sparkling	Long NP	long_nps_unshifted
+2918	16	11	sequins	Long NP	long_nps_unshifted
+2919	16	12	in	PP	long_nps_unshifted
+2920	16	13	March	PP	long_nps_unshifted
+2921	16	15	.	End	long_nps_unshifted
+2922	16	16	<eos>	End	long_nps_unshifted
+2923	17	0	Todd	Subject	long_nps_unshifted
+2924	17	1	suggested	NP/S Verb	long_nps_unshifted
+2925	17	2	a	Long NP	long_nps_unshifted
+2926	17	3	large	Long NP	long_nps_unshifted
+2927	17	4	package	Long NP	long_nps_unshifted
+2928	17	5	with	Long NP	long_nps_unshifted
+2929	17	6	lots	Long NP	long_nps_unshifted
+2930	17	7	of	Long NP	long_nps_unshifted
+2931	17	8	presents	Long NP	long_nps_unshifted
+2932	17	9	for	Long NP	long_nps_unshifted
+2933	17	10	small	Long NP	long_nps_unshifted
+2934	17	11	children	Long NP	long_nps_unshifted
+2935	17	12	at	PP	long_nps_unshifted
+2936	17	13	once	PP	long_nps_unshifted
+2937	17	15	.	End	long_nps_unshifted
+2938	17	16	<eos>	End	long_nps_unshifted
+2939	18	0	Shelly	Subject	long_nps_unshifted
+2940	18	1	disclosed	NP/S Verb	long_nps_unshifted
+2941	18	2	top	Long NP	long_nps_unshifted
+2942	18	3	secret	Long NP	long_nps_unshifted
+2943	18	4	plans	Long NP	long_nps_unshifted
+2944	18	5	for	Long NP	long_nps_unshifted
+2945	18	6	a	Long NP	long_nps_unshifted
+2946	18	7	large	Long NP	long_nps_unshifted
+2947	18	8	fleet	Long NP	long_nps_unshifted
+2948	18	9	of	Long NP	long_nps_unshifted
+2949	18	10	defense	Long NP	long_nps_unshifted
+2950	18	11	missiles	Long NP	long_nps_unshifted
+2951	18	12	in	PP	long_nps_unshifted
+2952	18	13	May	PP	long_nps_unshifted
+2953	18	15	.	End	long_nps_unshifted
+2954	18	16	<eos>	End	long_nps_unshifted
+2955	19	0	The	Subject	long_nps_unshifted
+2956	19	1	woman	Subject	long_nps_unshifted
+2957	19	2	disclosed	NP/S Verb	long_nps_unshifted
+2958	19	3	the	Long NP	long_nps_unshifted
+2959	19	4	birth	Long NP	long_nps_unshifted
+2960	19	5	and	Long NP	long_nps_unshifted
+2961	19	6	school	Long NP	long_nps_unshifted
+2962	19	7	records	Long NP	long_nps_unshifted
+2963	19	8	of	Long NP	long_nps_unshifted
+2964	19	9	the	Long NP	long_nps_unshifted
+2965	19	10	three	Long NP	long_nps_unshifted
+2966	19	11	young	Long NP	long_nps_unshifted
+2967	19	12	children	Long NP	long_nps_unshifted
+2968	19	13	in	PP	long_nps_unshifted
+2969	19	14	August	PP	long_nps_unshifted
+2970	19	16	.	End	long_nps_unshifted
+2971	19	17	<eos>	End	long_nps_unshifted
+2972	20	0	David	Subject	long_nps_unshifted
+2973	20	1	reported	NP/S Verb	long_nps_unshifted
+2974	20	2	the	Long NP	long_nps_unshifted
+2975	20	3	facts	Long NP	long_nps_unshifted
+2976	20	4	on	Long NP	long_nps_unshifted
+2977	20	5	the	Long NP	long_nps_unshifted
+2978	20	6	strange	Long NP	long_nps_unshifted
+2979	20	7	bank	Long NP	long_nps_unshifted
+2980	20	8	robbery	Long NP	long_nps_unshifted
+2981	20	9	crimes	Long NP	long_nps_unshifted
+2982	20	10	in	Long NP	long_nps_unshifted
+2983	20	11	Utah	Long NP	long_nps_unshifted
+2984	20	12	with	PP	long_nps_unshifted
+2985	20	13	hesitation	PP	long_nps_unshifted
+2986	20	15	.	End	long_nps_unshifted
+2987	20	16	<eos>	End	long_nps_unshifted
+2988	21	0	Jessica	Subject	long_nps_unshifted
+2989	21	1	reported	NP/S Verb	long_nps_unshifted
+2990	21	2	he	Long NP	long_nps_unshifted
+2991	21	3	awful	Long NP	long_nps_unshifted
+2992	21	4	news	Long NP	long_nps_unshifted
+2993	21	5	of	Long NP	long_nps_unshifted
+2994	21	6	the	Long NP	long_nps_unshifted
+2995	21	7	refugees	Long NP	long_nps_unshifted
+2996	21	8	in	Long NP	long_nps_unshifted
+2997	21	9	the	Long NP	long_nps_unshifted
+2998	21	10	Far	Long NP	long_nps_unshifted
+2999	21	11	East	Long NP	long_nps_unshifted
+3000	21	12	last	PP	long_nps_unshifted
+3001	21	13	summer	PP	long_nps_unshifted
+3002	21	15	.	End	long_nps_unshifted
+3003	21	16	<eos>	End	long_nps_unshifted
+3004	22	0	Steven	Subject	long_nps_unshifted
+3005	22	1	communicated	NP/S Verb	long_nps_unshifted
+3006	22	2	a	Long NP	long_nps_unshifted
+3007	22	3	seven	Long NP	long_nps_unshifted
+3008	22	4	page	Long NP	long_nps_unshifted
+3009	22	5	letter	Long NP	long_nps_unshifted
+3010	22	6	with	Long NP	long_nps_unshifted
+3011	22	7	many	Long NP	long_nps_unshifted
+3012	22	8	details	Long NP	long_nps_unshifted
+3013	22	9	of	Long NP	long_nps_unshifted
+3014	22	10	the	Long NP	long_nps_unshifted
+3015	22	11	trip	Long NP	long_nps_unshifted
+3016	22	12	during	PP	long_nps_unshifted
+3017	22	13	break	PP	long_nps_unshifted
+3018	22	15	.	End	long_nps_unshifted
+3019	22	16	<eos>	End	long_nps_unshifted
+3020	23	0	Raymond	Subject	long_nps_unshifted
+3021	23	1	communicated	NP/S Verb	long_nps_unshifted
+3022	23	2	a	Long NP	long_nps_unshifted
+3023	23	3	five	Long NP	long_nps_unshifted
+3024	23	4	page	Long NP	long_nps_unshifted
+3025	23	5	plan	Long NP	long_nps_unshifted
+3026	23	6	of	Long NP	long_nps_unshifted
+3027	23	7	withdrawal	Long NP	long_nps_unshifted
+3028	23	8	for	Long NP	long_nps_unshifted
+3029	23	9	the	Long NP	long_nps_unshifted
+3030	23	10	allied	Long NP	long_nps_unshifted
+3031	23	11	troops	Long NP	long_nps_unshifted
+3032	23	12	very	PP	long_nps_unshifted
+3033	23	13	loudly	PP	long_nps_unshifted
+3034	23	15	.	End	long_nps_unshifted
+3035	23	16	<eos>	End	long_nps_unshifted
+3036	24	0	Sam	Subject	long_nps_unshifted
+3037	24	1	recommended	NP/S Verb	long_nps_unshifted
+3038	24	2	an	Long NP	long_nps_unshifted
+3039	24	3	old	Long NP	long_nps_unshifted
+3040	24	4	treasure	Long NP	long_nps_unshifted
+3041	24	5	chest	Long NP	long_nps_unshifted
+3042	24	6	with	Long NP	long_nps_unshifted
+3043	24	7	some	Long NP	long_nps_unshifted
+3044	24	8	silver	Long NP	long_nps_unshifted
+3045	24	9	and	Long NP	long_nps_unshifted
+3046	24	10	gold	Long NP	long_nps_unshifted
+3047	24	11	trinkets	Long NP	long_nps_unshifted
+3048	24	12	on	PP	long_nps_unshifted
+3049	24	13	Sunday	PP	long_nps_unshifted
+3050	24	15	.	End	long_nps_unshifted
+3051	24	16	<eos>	End	long_nps_unshifted
+3052	25	0	The	Subject	long_nps_unshifted
+3053	25	1	generous	Subject	long_nps_unshifted
+3054	25	2	man	Subject	long_nps_unshifted
+3055	25	3	recommended	NP/S Verb	long_nps_unshifted
+3056	25	4	some	Long NP	long_nps_unshifted
+3057	25	5	used	Long NP	long_nps_unshifted
+3058	25	6	toys,	Long NP	long_nps_unshifted
+3059	25	7	winter	Long NP	long_nps_unshifted
+3060	25	8	clothing,	Long NP	long_nps_unshifted
+3061	25	9	clean	Long NP	long_nps_unshifted
+3062	25	10	linens,	Long NP	long_nps_unshifted
+3063	25	11	and	Long NP	long_nps_unshifted
+3064	25	12	snow	Long NP	long_nps_unshifted
+3065	25	13	boots	Long NP	long_nps_unshifted
+3066	25	14	in	PP	long_nps_unshifted
+3067	25	15	person	PP	long_nps_unshifted
+3068	25	17	.	End	long_nps_unshifted
+3069	25	18	<eos>	End	long_nps_unshifted
+3070	26	0	Janet	Subject	long_nps_unshifted
+3071	26	1	revealed	NP/S Verb	long_nps_unshifted
+3072	26	2	some	Long NP	long_nps_unshifted
+3073	26	3	more	Long NP	long_nps_unshifted
+3074	26	4	specific	Long NP	long_nps_unshifted
+3075	26	5	plans	Long NP	long_nps_unshifted
+3076	26	6	for	Long NP	long_nps_unshifted
+3077	26	7	a	Long NP	long_nps_unshifted
+3078	26	8	brand	Long NP	long_nps_unshifted
+3079	26	9	new	Long NP	long_nps_unshifted
+3080	26	10	defense	Long NP	long_nps_unshifted
+3081	26	11	plant	Long NP	long_nps_unshifted
+3082	26	12	at	PP	long_nps_unshifted
+3083	26	13	dawn	PP	long_nps_unshifted
+3084	26	15	.	End	long_nps_unshifted
+3085	26	16	<eos>	End	long_nps_unshifted
+3086	27	0	Bobby	Subject	long_nps_unshifted
+3087	27	1	revealed	NP/S Verb	long_nps_unshifted
+3088	27	2	the	Long NP	long_nps_unshifted
+3089	27	3	short	Long NP	long_nps_unshifted
+3090	27	4	documents	Long NP	long_nps_unshifted
+3091	27	5	to	Long NP	long_nps_unshifted
+3092	27	6	the	Long NP	long_nps_unshifted
+3093	27	7	old	Long NP	long_nps_unshifted
+3094	27	8	mansion	Long NP	long_nps_unshifted
+3095	27	9	on	Long NP	long_nps_unshifted
+3096	27	10	the	Long NP	long_nps_unshifted
+3097	27	11	hill	Long NP	long_nps_unshifted
+3098	27	12	at	PP	long_nps_unshifted
+3099	27	13	dusk	PP	long_nps_unshifted
+3100	27	15	.	End	long_nps_unshifted
+3101	27	16	<eos>	End	long_nps_unshifted
+3102	28	0	Kathy	Subject	long_nps_unshifted
+3103	28	1	dictated	NP/S Verb	long_nps_unshifted
+3104	28	2	all	Long NP	long_nps_unshifted
+3105	28	3	three	Long NP	long_nps_unshifted
+3106	28	4	verses	Long NP	long_nps_unshifted
+3107	28	5	from	Long NP	long_nps_unshifted
+3108	28	6	an	Long NP	long_nps_unshifted
+3109	28	7	old	Long NP	long_nps_unshifted
+3110	28	8	and	Long NP	long_nps_unshifted
+3111	28	9	famous	Long NP	long_nps_unshifted
+3112	28	10	French	Long NP	long_nps_unshifted
+3113	28	11	poem	Long NP	long_nps_unshifted
+3114	28	12	last	PP	long_nps_unshifted
+3115	28	13	night	PP	long_nps_unshifted
+3116	28	15	.	End	long_nps_unshifted
+3117	28	16	<eos>	End	long_nps_unshifted
+3118	29	0	Mike	Subject	long_nps_unshifted
+3119	29	1	dictated	NP/S Verb	long_nps_unshifted
+3120	29	2	the	Long NP	long_nps_unshifted
+3121	29	3	words	Long NP	long_nps_unshifted
+3122	29	4	to	Long NP	long_nps_unshifted
+3123	29	5	a	Long NP	long_nps_unshifted
+3124	29	6	popular	Long NP	long_nps_unshifted
+3125	29	7	country	Long NP	long_nps_unshifted
+3126	29	8	song	Long NP	long_nps_unshifted
+3127	29	9	in	Long NP	long_nps_unshifted
+3128	29	10	the	Long NP	long_nps_unshifted
+3129	29	11	South	Long NP	long_nps_unshifted
+3130	29	12	last	PP	long_nps_unshifted
+3131	29	13	year	PP	long_nps_unshifted
+3132	29	15	.	End	long_nps_unshifted
+3133	29	16	<eos>	End	long_nps_unshifted
+3134	30	0	Amy	Subject	long_nps_unshifted
+3135	30	1	broadcast	NP/S Verb	long_nps_unshifted
+3136	30	2	the	Long NP	long_nps_unshifted
+3137	30	3	high	Long NP	long_nps_unshifted
+3138	30	4	school	Long NP	long_nps_unshifted
+3139	30	5	girls	Long NP	long_nps_unshifted
+3140	30	6	state	Long NP	long_nps_unshifted
+3141	30	7	swimming	Long NP	long_nps_unshifted
+3142	30	8	title	Long NP	long_nps_unshifted
+3143	30	9	in	Long NP	long_nps_unshifted
+3144	30	10	New	Long NP	long_nps_unshifted
+3145	30	11	York	Long NP	long_nps_unshifted
+3146	30	12	last	PP	long_nps_unshifted
+3147	30	13	week	PP	long_nps_unshifted
+3148	30	15	.	End	long_nps_unshifted
+3149	30	16	<eos>	End	long_nps_unshifted
+3150	31	0	Jason	Subject	long_nps_unshifted
+3151	31	1	broadcast	NP/S Verb	long_nps_unshifted
+3152	31	2	all	Long NP	long_nps_unshifted
+3153	31	3	of	Long NP	long_nps_unshifted
+3154	31	4	the	Long NP	long_nps_unshifted
+3155	31	5	winnings	Long NP	long_nps_unshifted
+3156	31	6	for	Long NP	long_nps_unshifted
+3157	31	7	the	Long NP	long_nps_unshifted
+3158	31	8	past	Long NP	long_nps_unshifted
+3159	31	9	seven	Long NP	long_nps_unshifted
+3160	31	10	horse	Long NP	long_nps_unshifted
+3161	31	11	races	Long NP	long_nps_unshifted
+3162	31	12	with	PP	long_nps_unshifted
+3163	31	13	glee	PP	long_nps_unshifted
+3164	31	15	.	End	long_nps_unshifted
+3165	31	16	<eos>	End	long_nps_unshifted
+3166	32	0	Josh	Subject	long_nps_unshifted
+3167	32	1	conveyed	NP/S Verb	long_nps_unshifted
+3168	32	2	a	Long NP	long_nps_unshifted
+3169	32	3	short	Long NP	long_nps_unshifted
+3170	32	4	message	Long NP	long_nps_unshifted
+3171	32	5	on	Long NP	long_nps_unshifted
+3172	32	6	the	Long NP	long_nps_unshifted
+3173	32	7	dangers	Long NP	long_nps_unshifted
+3174	32	8	of	Long NP	long_nps_unshifted
+3175	32	9	the	Long NP	long_nps_unshifted
+3176	32	10	current	Long NP	long_nps_unshifted
+3177	32	11	storm	Long NP	long_nps_unshifted
+3178	32	12	at	PP	long_nps_unshifted
+3179	32	13	breakfast	PP	long_nps_unshifted
+3180	32	15	.	End	long_nps_unshifted
+3181	32	16	<eos>	End	long_nps_unshifted
+3182	33	0	Brad	Subject	long_nps_unshifted
+3183	33	1	conveyed	NP/S Verb	long_nps_unshifted
+3184	33	2	the	Long NP	long_nps_unshifted
+3185	33	3	instructions	Long NP	long_nps_unshifted
+3186	33	4	for	Long NP	long_nps_unshifted
+3187	33	5	the	Long NP	long_nps_unshifted
+3188	33	6	safest	Long NP	long_nps_unshifted
+3189	33	7	route	Long NP	long_nps_unshifted
+3190	33	8	to	Long NP	long_nps_unshifted
+3191	33	9	the	Long NP	long_nps_unshifted
+3192	33	10	old	Long NP	long_nps_unshifted
+3193	33	11	town	Long NP	long_nps_unshifted
+3194	33	12	at	PP	long_nps_unshifted
+3195	33	13	nine	PP	long_nps_unshifted
+3196	33	15	.	End	long_nps_unshifted
+3197	33	16	<eos>	End	long_nps_unshifted
+3198	34	0	The	Subject	long_nps_unshifted
+3199	34	1	teacher	Subject	long_nps_unshifted
+3200	34	2	confessed	NP/S Verb	long_nps_unshifted
+3201	34	3	each	Long NP	long_nps_unshifted
+3202	34	4	of	Long NP	long_nps_unshifted
+3203	34	5	the	Long NP	long_nps_unshifted
+3204	34	6	series	Long NP	long_nps_unshifted
+3205	34	7	of	Long NP	long_nps_unshifted
+3206	34	8	events	Long NP	long_nps_unshifted
+3207	34	9	in	Long NP	long_nps_unshifted
+3208	34	10	the	Long NP	long_nps_unshifted
+3209	34	11	secret	Long NP	long_nps_unshifted
+3210	34	12	case	Long NP	long_nps_unshifted
+3211	34	13	with	PP	long_nps_unshifted
+3212	34	14	caution	PP	long_nps_unshifted
+3213	34	16	.	End	long_nps_unshifted
+3214	34	17	<eos>	End	long_nps_unshifted
+3215	35	0	Matthew	Subject	long_nps_unshifted
+3216	35	1	confessed	NP/S Verb	long_nps_unshifted
+3217	35	2	the	Long NP	long_nps_unshifted
+3218	35	3	whole	Long NP	long_nps_unshifted
+3219	35	4	story	Long NP	long_nps_unshifted
+3220	35	5	on	Long NP	long_nps_unshifted
+3221	35	6	the	Long NP	long_nps_unshifted
+3222	35	7	defects	Long NP	long_nps_unshifted
+3223	35	8	in	Long NP	long_nps_unshifted
+3224	35	9	the	Long NP	long_nps_unshifted
+3225	35	10	new	Long NP	long_nps_unshifted
+3226	35	11	Mazda	Long NP	long_nps_unshifted
+3227	35	12	in	PP	long_nps_unshifted
+3228	35	13	secret	PP	long_nps_unshifted
+3229	35	15	.	End	long_nps_unshifted
+3230	35	16	<eos>	End	long_nps_unshifted
+3231	36	0	Tim	Subject	long_nps_unshifted
+3232	36	1	stated	NP/S Verb	long_nps_unshifted
+3233	36	2	the	Long NP	long_nps_unshifted
+3234	36	3	small	Long NP	long_nps_unshifted
+3235	36	4	reward	Long NP	long_nps_unshifted
+3236	36	5	for	Long NP	long_nps_unshifted
+3237	36	6	helpful	Long NP	long_nps_unshifted
+3238	36	7	clues	Long NP	long_nps_unshifted
+3239	36	8	on	Long NP	long_nps_unshifted
+3240	36	9	a	Long NP	long_nps_unshifted
+3241	36	10	recent	Long NP	long_nps_unshifted
+3242	36	11	crime	Long NP	long_nps_unshifted
+3243	36	12	with	PP	long_nps_unshifted
+3244	36	13	reluctance	PP	long_nps_unshifted
+3245	36	15	.	End	long_nps_unshifted
+3246	36	16	<eos>	End	long_nps_unshifted
+3247	37	0	Bobby	Subject	long_nps_unshifted
+3248	37	1	stated	NP/S Verb	long_nps_unshifted
+3249	37	2	the	Long NP	long_nps_unshifted
+3250	37	3	earnings	Long NP	long_nps_unshifted
+3251	37	4	of	Long NP	long_nps_unshifted
+3252	37	5	the	Long NP	long_nps_unshifted
+3253	37	6	five	Long NP	long_nps_unshifted
+3254	37	7	winners	Long NP	long_nps_unshifted
+3255	37	8	in	Long NP	long_nps_unshifted
+3256	37	9	the	Long NP	long_nps_unshifted
+3257	37	10	poker	Long NP	long_nps_unshifted
+3258	37	11	games	Long NP	long_nps_unshifted
+3259	37	12	with	PP	long_nps_unshifted
+3260	37	13	pleasure	PP	long_nps_unshifted
+3261	37	15	.	End	long_nps_unshifted
+3262	37	16	<eos>	End	long_nps_unshifted
+3263	38	0	Ed	Subject	long_nps_unshifted
+3264	38	1	muttered	NP/S Verb	long_nps_unshifted
+3265	38	2	a	Long NP	long_nps_unshifted
+3266	38	3	script	Long NP	long_nps_unshifted
+3267	38	4	for	Long NP	long_nps_unshifted
+3268	38	5	a	Long NP	long_nps_unshifted
+3269	38	6	suspense	Long NP	long_nps_unshifted
+3270	38	7	film	Long NP	long_nps_unshifted
+3271	38	8	with	Long NP	long_nps_unshifted
+3272	38	9	a	Long NP	long_nps_unshifted
+3273	38	10	giant	Long NP	long_nps_unshifted
+3274	38	11	budget	Long NP	long_nps_unshifted
+3275	38	12	at	PP	long_nps_unshifted
+3276	38	13	brunch	PP	long_nps_unshifted
+3277	38	15	.	End	long_nps_unshifted
+3278	38	16	<eos>	End	long_nps_unshifted
+3279	39	0	Angie	Subject	long_nps_unshifted
+3280	39	1	muttered	NP/S Verb	long_nps_unshifted
+3281	39	2	the	Long NP	long_nps_unshifted
+3282	39	3	plan	Long NP	long_nps_unshifted
+3283	39	4	for	Long NP	long_nps_unshifted
+3284	39	5	the	Long NP	long_nps_unshifted
+3285	39	6	biggest	Long NP	long_nps_unshifted
+3286	39	7	poster	Long NP	long_nps_unshifted
+3287	39	8	in	Long NP	long_nps_unshifted
+3288	39	9	the	Long NP	long_nps_unshifted
+3289	39	10	science	Long NP	long_nps_unshifted
+3290	39	11	fair	Long NP	long_nps_unshifted
+3291	39	12	with	PP	long_nps_unshifted
+3292	39	13	hope	PP	long_nps_unshifted
+3293	39	15	.	End	long_nps_unshifted
+3294	39	16	<eos>	End	long_nps_unshifted
+3295	0	0	The	Subject	long_nps_shifted
+3296	0	1	manager	Subject	long_nps_shifted
+3297	0	2	exhibited	NP/S Verb	long_nps_shifted
+3298	0	3	at	PP	long_nps_shifted
+3299	0	4	noon	PP	long_nps_shifted
+3300	0	5	the	Long NP	long_nps_shifted
+3301	0	6	new	Long NP	long_nps_shifted
+3302	0	7	line	Long NP	long_nps_shifted
+3303	0	8	of	Long NP	long_nps_shifted
+3304	0	9	bright	Long NP	long_nps_shifted
+3305	0	10	summer	Long NP	long_nps_shifted
+3306	0	11	beach	Long NP	long_nps_shifted
+3307	0	12	and	Long NP	long_nps_shifted
+3308	0	13	resort	Long NP	long_nps_shifted
+3309	0	14	fashions	Long NP	long_nps_shifted
+3310	0	16	.	End	long_nps_shifted
+3311	0	17	<eos>	End	long_nps_shifted
+3312	1	0	The	Subject	long_nps_shifted
+3313	1	1	contractor	Subject	long_nps_shifted
+3314	1	2	exhibited	NP/S Verb	long_nps_shifted
+3315	1	3	in	PP	long_nps_shifted
+3316	1	4	July	PP	long_nps_shifted
+3317	1	5	the	Long NP	long_nps_shifted
+3318	1	6	plans	Long NP	long_nps_shifted
+3319	1	7	for	Long NP	long_nps_shifted
+3320	1	8	a	Long NP	long_nps_shifted
+3321	1	9	lagoon	Long NP	long_nps_shifted
+3322	1	10	and	Long NP	long_nps_shifted
+3323	1	11	waterfall	Long NP	long_nps_shifted
+3324	1	12	with	Long NP	long_nps_shifted
+3325	1	13	red	Long NP	long_nps_shifted
+3326	1	14	clay	Long NP	long_nps_shifted
+3327	1	16	.	End	long_nps_shifted
+3328	1	17	<eos>	End	long_nps_shifted
+3329	2	0	Mary	Subject	long_nps_shifted
+3330	2	1	mentioned	NP/S Verb	long_nps_shifted
+3331	2	2	at	PP	long_nps_shifted
+3332	2	3	tea	PP	long_nps_shifted
+3333	2	4	the	Long NP	long_nps_shifted
+3334	2	5	used	Long NP	long_nps_shifted
+3335	2	6	car	Long NP	long_nps_shifted
+3336	2	7	ad	Long NP	long_nps_shifted
+3337	2	8	for	Long NP	long_nps_shifted
+3338	2	9	a	Long NP	long_nps_shifted
+3339	2	10	Chevrolet	Long NP	long_nps_shifted
+3340	2	11	with	Long NP	long_nps_shifted
+3341	2	12	low	Long NP	long_nps_shifted
+3342	2	13	mileage	Long NP	long_nps_shifted
+3343	2	15	.	End	long_nps_shifted
+3344	2	16	<eos>	End	long_nps_shifted
+3345	3	0	Mark	Subject	long_nps_shifted
+3346	3	1	mentioned	NP/S Verb	long_nps_shifted
+3347	3	2	very	PP	long_nps_shifted
+3348	3	3	quickly	PP	long_nps_shifted
+3349	3	4	the	Long NP	long_nps_shifted
+3350	3	5	flyers	Long NP	long_nps_shifted
+3351	3	6	for	Long NP	long_nps_shifted
+3352	3	7	some	Long NP	long_nps_shifted
+3353	3	8	lectures	Long NP	long_nps_shifted
+3354	3	9	and	Long NP	long_nps_shifted
+3355	3	10	slide	Long NP	long_nps_shifted
+3356	3	11	shows	Long NP	long_nps_shifted
+3357	3	12	on	Long NP	long_nps_shifted
+3358	3	13	campus	Long NP	long_nps_shifted
+3359	3	15	.	End	long_nps_shifted
+3360	3	16	<eos>	End	long_nps_shifted
+3361	4	0	The	Subject	long_nps_shifted
+3362	4	1	dealer	Subject	long_nps_shifted
+3363	4	2	demonstrated	NP/S Verb	long_nps_shifted
+3364	4	3	at	PP	long_nps_shifted
+3365	4	4	ten	PP	long_nps_shifted
+3366	4	5	a	Long NP	long_nps_shifted
+3367	4	6	brand	Long NP	long_nps_shifted
+3368	4	7	new	Long NP	long_nps_shifted
+3369	4	8	speedy	Long NP	long_nps_shifted
+3370	4	9	silver	Long NP	long_nps_shifted
+3371	4	10	sports	Long NP	long_nps_shifted
+3372	4	11	car	Long NP	long_nps_shifted
+3373	4	12	with	Long NP	long_nps_shifted
+3374	4	13	chrome	Long NP	long_nps_shifted
+3375	4	14	bumpers	Long NP	long_nps_shifted
+3376	4	16	.	End	long_nps_shifted
+3377	4	17	<eos>	End	long_nps_shifted
+3378	5	0	The	Subject	long_nps_shifted
+3379	5	1	manager	Subject	long_nps_shifted
+3380	5	2	demonstrated	NP/S Verb	long_nps_shifted
+3381	5	3	at	PP	long_nps_shifted
+3382	5	4	three	PP	long_nps_shifted
+3383	5	5	the	Long NP	long_nps_shifted
+3384	5	6	new	Long NP	long_nps_shifted
+3385	5	7	sports	Long NP	long_nps_shifted
+3386	5	8	line	Long NP	long_nps_shifted
+3387	5	9	of	Long NP	long_nps_shifted
+3388	5	10	running	Long NP	long_nps_shifted
+3389	5	11	shoes	Long NP	long_nps_shifted
+3390	5	12	and	Long NP	long_nps_shifted
+3391	5	13	bicycling	Long NP	long_nps_shifted
+3392	5	14	gear	Long NP	long_nps_shifted
+3393	5	16	.	End	long_nps_shifted
+3394	5	17	<eos>	End	long_nps_shifted
+3395	6	0	Robert	Subject	long_nps_shifted
+3396	6	1	proposed	NP/S Verb	long_nps_shifted
+3397	6	2	last	PP	long_nps_shifted
+3398	6	3	semester	PP	long_nps_shifted
+3399	6	4	one	Long NP	long_nps_shifted
+3400	6	5	round	Long NP	long_nps_shifted
+3401	6	6	trip	Long NP	long_nps_shifted
+3402	6	7	plane	Long NP	long_nps_shifted
+3403	6	8	ticket	Long NP	long_nps_shifted
+3404	6	9	from	Long NP	long_nps_shifted
+3405	6	10	New	Long NP	long_nps_shifted
+3406	6	11	York	Long NP	long_nps_shifted
+3407	6	12	to	Long NP	long_nps_shifted
+3408	6	13	Atlanta	Long NP	long_nps_shifted
+3409	6	15	.	End	long_nps_shifted
+3410	6	16	<eos>	End	long_nps_shifted
+3411	7	0	Donald	Subject	long_nps_shifted
+3412	7	1	proposed	NP/S Verb	long_nps_shifted
+3413	7	2	with	PP	long_nps_shifted
+3414	7	3	joy	PP	long_nps_shifted
+3415	7	4	some	Long NP	long_nps_shifted
+3416	7	5	great	Long NP	long_nps_shifted
+3417	7	6	front	Long NP	long_nps_shifted
+3418	7	7	row	Long NP	long_nps_shifted
+3419	7	8	center	Long NP	long_nps_shifted
+3420	7	9	seats	Long NP	long_nps_shifted
+3421	7	10	for	Long NP	long_nps_shifted
+3422	7	11	the	Long NP	long_nps_shifted
+3423	7	12	last	Long NP	long_nps_shifted
+3424	7	13	performance	Long NP	long_nps_shifted
+3425	7	15	.	End	long_nps_shifted
+3426	7	16	<eos>	End	long_nps_shifted
+3427	8	0	Jake	Subject	long_nps_shifted
+3428	8	1	explained	NP/S Verb	long_nps_shifted
+3429	8	2	on	PP	long_nps_shifted
+3430	8	3	Friday	PP	long_nps_shifted
+3431	8	4	all	Long NP	long_nps_shifted
+3432	8	5	of	Long NP	long_nps_shifted
+3433	8	6	the	Long NP	long_nps_shifted
+3434	8	7	facts	Long NP	long_nps_shifted
+3435	8	8	for	Long NP	long_nps_shifted
+3436	8	9	the	Long NP	long_nps_shifted
+3437	8	10	import	Long NP	long_nps_shifted
+3438	8	11	and	Long NP	long_nps_shifted
+3439	8	12	export	Long NP	long_nps_shifted
+3440	8	13	taxes	Long NP	long_nps_shifted
+3441	8	15	.	End	long_nps_shifted
+3442	8	16	<eos>	End	long_nps_shifted
+3443	9	0	Brian	Subject	long_nps_shifted
+3444	9	1	explained	NP/S Verb	long_nps_shifted
+3445	9	2	at	PP	long_nps_shifted
+3446	9	3	lunch	PP	long_nps_shifted
+3447	9	4	all	Long NP	long_nps_shifted
+3448	9	5	of	Long NP	long_nps_shifted
+3449	9	6	the	Long NP	long_nps_shifted
+3450	9	7	answers	Long NP	long_nps_shifted
+3451	9	8	on	Long NP	long_nps_shifted
+3452	9	9	the	Long NP	long_nps_shifted
+3453	9	10	twenty	Long NP	long_nps_shifted
+3454	9	11	point	Long NP	long_nps_shifted
+3455	9	12	English	Long NP	long_nps_shifted
+3456	9	13	quiz	Long NP	long_nps_shifted
+3457	9	15	.	End	long_nps_shifted
+3458	9	16	<eos>	End	long_nps_shifted
+3459	10	0	Alex	Subject	long_nps_shifted
+3460	10	1	indicated	NP/S Verb	long_nps_shifted
+3461	10	2	in	PP	long_nps_shifted
+3462	10	3	detail	PP	long_nps_shifted
+3463	10	4	each	Long NP	long_nps_shifted
+3464	10	5	of	Long NP	long_nps_shifted
+3465	10	6	the	Long NP	long_nps_shifted
+3466	10	7	key	Long NP	long_nps_shifted
+3467	10	8	points	Long NP	long_nps_shifted
+3468	10	9	of	Long NP	long_nps_shifted
+3469	10	10	conflict	Long NP	long_nps_shifted
+3470	10	11	in	Long NP	long_nps_shifted
+3471	10	12	an	Long NP	long_nps_shifted
+3472	10	13	interview	Long NP	long_nps_shifted
+3473	10	15	.	End	long_nps_shifted
+3474	10	16	<eos>	End	long_nps_shifted
+3475	11	0	The	Subject	long_nps_shifted
+3476	11	1	woman	Subject	long_nps_shifted
+3477	11	2	indicated	NP/S Verb	long_nps_shifted
+3478	11	3	by	PP	long_nps_shifted
+3479	11	4	phone	PP	long_nps_shifted
+3480	11	5	the	Long NP	long_nps_shifted
+3481	11	6	best	Long NP	long_nps_shifted
+3482	11	7	routes	Long NP	long_nps_shifted
+3483	11	8	to	Long NP	long_nps_shifted
+3484	11	9	the	Long NP	long_nps_shifted
+3485	11	10	Santa	Long NP	long_nps_shifted
+3486	11	11	Monica	Long NP	long_nps_shifted
+3487	11	12	beach	Long NP	long_nps_shifted
+3488	11	13	and	Long NP	long_nps_shifted
+3489	11	14	pier	Long NP	long_nps_shifted
+3490	11	16	.	End	long_nps_shifted
+3491	11	17	<eos>	End	long_nps_shifted
+3492	12	0	The	Subject	long_nps_shifted
+3493	12	1	lawyer	Subject	long_nps_shifted
+3494	12	2	acknowledged	NP/S Verb	long_nps_shifted
+3495	12	3	with	PP	long_nps_shifted
+3496	12	4	confidence	PP	long_nps_shifted
+3497	12	5	each	Long NP	long_nps_shifted
+3498	12	6	piece	Long NP	long_nps_shifted
+3499	12	7	of	Long NP	long_nps_shifted
+3500	12	8	the	Long NP	long_nps_shifted
+3501	12	9	evidence	Long NP	long_nps_shifted
+3502	12	10	in	Long NP	long_nps_shifted
+3503	12	11	the	Long NP	long_nps_shifted
+3504	12	12	tax	Long NP	long_nps_shifted
+3505	12	13	fraud	Long NP	long_nps_shifted
+3506	12	14	cases	Long NP	long_nps_shifted
+3507	12	16	.	End	long_nps_shifted
+3508	12	17	<eos>	End	long_nps_shifted
+3509	13	0	The	Subject	long_nps_shifted
+3510	13	1	editor	Subject	long_nps_shifted
+3511	13	2	acknowledged	NP/S Verb	long_nps_shifted
+3512	13	3	at	PP	long_nps_shifted
+3513	13	4	supper	PP	long_nps_shifted
+3514	13	5	the	Long NP	long_nps_shifted
+3515	13	6	first	Long NP	long_nps_shifted
+3516	13	7	drafts	Long NP	long_nps_shifted
+3517	13	8	of	Long NP	long_nps_shifted
+3518	13	9	a	Long NP	long_nps_shifted
+3519	13	10	long	Long NP	long_nps_shifted
+3520	13	11	article	Long NP	long_nps_shifted
+3521	13	12	and	Long NP	long_nps_shifted
+3522	13	13	book	Long NP	long_nps_shifted
+3523	13	14	review	Long NP	long_nps_shifted
+3524	13	16	.	End	long_nps_shifted
+3525	13	17	<eos>	End	long_nps_shifted
+3526	14	0	The	Subject	long_nps_shifted
+3527	14	1	president	Subject	long_nps_shifted
+3528	14	2	announced	NP/S Verb	long_nps_shifted
+3529	14	3	on	PP	long_nps_shifted
+3530	14	4	Monday	PP	long_nps_shifted
+3531	14	5	the	Long NP	long_nps_shifted
+3532	14	6	new	Long NP	long_nps_shifted
+3533	14	7	vice	Long NP	long_nps_shifted
+3534	14	8	chair	Long NP	long_nps_shifted
+3535	14	9	of	Long NP	long_nps_shifted
+3536	14	10	the	Long NP	long_nps_shifted
+3537	14	11	first	Long NP	long_nps_shifted
+3538	14	12	corporate	Long NP	long_nps_shifted
+3539	14	13	finance	Long NP	long_nps_shifted
+3540	14	14	group	Long NP	long_nps_shifted
+3541	14	16	.	End	long_nps_shifted
+3542	14	17	<eos>	End	long_nps_shifted
+3543	15	0	The	Subject	long_nps_shifted
+3544	15	1	teacher	Subject	long_nps_shifted
+3545	15	2	announced	NP/S Verb	long_nps_shifted
+3546	15	3	with	PP	long_nps_shifted
+3547	15	4	care	PP	long_nps_shifted
+3548	15	5	some	Long NP	long_nps_shifted
+3549	15	6	hard	Long NP	long_nps_shifted
+3550	15	7	math	Long NP	long_nps_shifted
+3551	15	8	concepts	Long NP	long_nps_shifted
+3552	15	9	for	Long NP	long_nps_shifted
+3553	15	10	the	Long NP	long_nps_shifted
+3554	15	11	one	Long NP	long_nps_shifted
+3555	15	12	hundred	Long NP	long_nps_shifted
+3556	15	13	point	Long NP	long_nps_shifted
+3557	15	14	final	Long NP	long_nps_shifted
+3558	15	16	.	End	long_nps_shifted
+3559	15	17	<eos>	End	long_nps_shifted
+3560	16	0	Judy	Subject	long_nps_shifted
+3561	16	1	suggested	NP/S Verb	long_nps_shifted
+3562	16	2	in	PP	long_nps_shifted
+3563	16	3	March	PP	long_nps_shifted
+3564	16	4	a	Long NP	long_nps_shifted
+3565	16	5	gorgeous	Long NP	long_nps_shifted
+3566	16	6	red	Long NP	long_nps_shifted
+3567	16	7	and	Long NP	long_nps_shifted
+3568	16	8	black	Long NP	long_nps_shifted
+3569	16	9	silk	Long NP	long_nps_shifted
+3570	16	10	dress	Long NP	long_nps_shifted
+3571	16	11	with	Long NP	long_nps_shifted
+3572	16	12	sparkling	Long NP	long_nps_shifted
+3573	16	13	sequins	Long NP	long_nps_shifted
+3574	16	15	.	End	long_nps_shifted
+3575	16	16	<eos>	End	long_nps_shifted
+3576	17	0	Todd	Subject	long_nps_shifted
+3577	17	1	suggested	NP/S Verb	long_nps_shifted
+3578	17	2	at	PP	long_nps_shifted
+3579	17	3	once	PP	long_nps_shifted
+3580	17	4	a	Long NP	long_nps_shifted
+3581	17	5	large	Long NP	long_nps_shifted
+3582	17	6	package	Long NP	long_nps_shifted
+3583	17	7	with	Long NP	long_nps_shifted
+3584	17	8	lots	Long NP	long_nps_shifted
+3585	17	9	of	Long NP	long_nps_shifted
+3586	17	10	presents	Long NP	long_nps_shifted
+3587	17	11	for	Long NP	long_nps_shifted
+3588	17	12	small	Long NP	long_nps_shifted
+3589	17	13	children	Long NP	long_nps_shifted
+3590	17	15	.	End	long_nps_shifted
+3591	17	16	<eos>	End	long_nps_shifted
+3592	18	0	Shelly	Subject	long_nps_shifted
+3593	18	1	disclosed	NP/S Verb	long_nps_shifted
+3594	18	2	in	PP	long_nps_shifted
+3595	18	3	May	PP	long_nps_shifted
+3596	18	4	top	Long NP	long_nps_shifted
+3597	18	5	secret	Long NP	long_nps_shifted
+3598	18	6	plans	Long NP	long_nps_shifted
+3599	18	7	for	Long NP	long_nps_shifted
+3600	18	8	a	Long NP	long_nps_shifted
+3601	18	9	large	Long NP	long_nps_shifted
+3602	18	10	fleet	Long NP	long_nps_shifted
+3603	18	11	of	Long NP	long_nps_shifted
+3604	18	12	defense	Long NP	long_nps_shifted
+3605	18	13	missiles	Long NP	long_nps_shifted
+3606	18	15	.	End	long_nps_shifted
+3607	18	16	<eos>	End	long_nps_shifted
+3608	19	0	The	Subject	long_nps_shifted
+3609	19	1	woman	Subject	long_nps_shifted
+3610	19	2	disclosed	NP/S Verb	long_nps_shifted
+3611	19	3	in	PP	long_nps_shifted
+3612	19	4	August	PP	long_nps_shifted
+3613	19	5	the	Long NP	long_nps_shifted
+3614	19	6	birth	Long NP	long_nps_shifted
+3615	19	7	and	Long NP	long_nps_shifted
+3616	19	8	school	Long NP	long_nps_shifted
+3617	19	9	records	Long NP	long_nps_shifted
+3618	19	10	of	Long NP	long_nps_shifted
+3619	19	11	the	Long NP	long_nps_shifted
+3620	19	12	three	Long NP	long_nps_shifted
+3621	19	13	young	Long NP	long_nps_shifted
+3622	19	14	children	Long NP	long_nps_shifted
+3623	19	16	.	End	long_nps_shifted
+3624	19	17	<eos>	End	long_nps_shifted
+3625	20	0	David	Subject	long_nps_shifted
+3626	20	1	reported	NP/S Verb	long_nps_shifted
+3627	20	2	with	PP	long_nps_shifted
+3628	20	3	hesitation	PP	long_nps_shifted
+3629	20	4	the	Long NP	long_nps_shifted
+3630	20	5	facts	Long NP	long_nps_shifted
+3631	20	6	on	Long NP	long_nps_shifted
+3632	20	7	the	Long NP	long_nps_shifted
+3633	20	8	strange	Long NP	long_nps_shifted
+3634	20	9	bank	Long NP	long_nps_shifted
+3635	20	10	robbery	Long NP	long_nps_shifted
+3636	20	11	crimes	Long NP	long_nps_shifted
+3637	20	12	in	Long NP	long_nps_shifted
+3638	20	13	Utah	Long NP	long_nps_shifted
+3639	20	15	.	End	long_nps_shifted
+3640	20	16	<eos>	End	long_nps_shifted
+3641	21	0	Jessica	Subject	long_nps_shifted
+3642	21	1	reported	NP/S Verb	long_nps_shifted
+3643	21	2	last	PP	long_nps_shifted
+3644	21	3	summer	PP	long_nps_shifted
+3645	21	4	he	Long NP	long_nps_shifted
+3646	21	5	awful	Long NP	long_nps_shifted
+3647	21	6	news	Long NP	long_nps_shifted
+3648	21	7	of	Long NP	long_nps_shifted
+3649	21	8	the	Long NP	long_nps_shifted
+3650	21	9	refugees	Long NP	long_nps_shifted
+3651	21	10	in	Long NP	long_nps_shifted
+3652	21	11	the	Long NP	long_nps_shifted
+3653	21	12	Far	Long NP	long_nps_shifted
+3654	21	13	East	Long NP	long_nps_shifted
+3655	21	15	.	End	long_nps_shifted
+3656	21	16	<eos>	End	long_nps_shifted
+3657	22	0	Steven	Subject	long_nps_shifted
+3658	22	1	communicated	NP/S Verb	long_nps_shifted
+3659	22	2	during	PP	long_nps_shifted
+3660	22	3	break	PP	long_nps_shifted
+3661	22	4	a	Long NP	long_nps_shifted
+3662	22	5	seven	Long NP	long_nps_shifted
+3663	22	6	page	Long NP	long_nps_shifted
+3664	22	7	letter	Long NP	long_nps_shifted
+3665	22	8	with	Long NP	long_nps_shifted
+3666	22	9	many	Long NP	long_nps_shifted
+3667	22	10	details	Long NP	long_nps_shifted
+3668	22	11	of	Long NP	long_nps_shifted
+3669	22	12	the	Long NP	long_nps_shifted
+3670	22	13	trip	Long NP	long_nps_shifted
+3671	22	15	.	End	long_nps_shifted
+3672	22	16	<eos>	End	long_nps_shifted
+3673	23	0	Raymond	Subject	long_nps_shifted
+3674	23	1	communicated	NP/S Verb	long_nps_shifted
+3675	23	2	very	PP	long_nps_shifted
+3676	23	3	loudly	PP	long_nps_shifted
+3677	23	4	a	Long NP	long_nps_shifted
+3678	23	5	five	Long NP	long_nps_shifted
+3679	23	6	page	Long NP	long_nps_shifted
+3680	23	7	plan	Long NP	long_nps_shifted
+3681	23	8	of	Long NP	long_nps_shifted
+3682	23	9	withdrawal	Long NP	long_nps_shifted
+3683	23	10	for	Long NP	long_nps_shifted
+3684	23	11	the	Long NP	long_nps_shifted
+3685	23	12	allied	Long NP	long_nps_shifted
+3686	23	13	troops	Long NP	long_nps_shifted
+3687	23	15	.	End	long_nps_shifted
+3688	23	16	<eos>	End	long_nps_shifted
+3689	24	0	Sam	Subject	long_nps_shifted
+3690	24	1	recommended	NP/S Verb	long_nps_shifted
+3691	24	2	on	PP	long_nps_shifted
+3692	24	3	Sunday	PP	long_nps_shifted
+3693	24	4	an	Long NP	long_nps_shifted
+3694	24	5	old	Long NP	long_nps_shifted
+3695	24	6	treasure	Long NP	long_nps_shifted
+3696	24	7	chest	Long NP	long_nps_shifted
+3697	24	8	with	Long NP	long_nps_shifted
+3698	24	9	some	Long NP	long_nps_shifted
+3699	24	10	silver	Long NP	long_nps_shifted
+3700	24	11	and	Long NP	long_nps_shifted
+3701	24	12	gold	Long NP	long_nps_shifted
+3702	24	13	trinkets	Long NP	long_nps_shifted
+3703	24	15	.	End	long_nps_shifted
+3704	24	16	<eos>	End	long_nps_shifted
+3705	25	0	The	Subject	long_nps_shifted
+3706	25	1	generous	Subject	long_nps_shifted
+3707	25	2	man	Subject	long_nps_shifted
+3708	25	3	recommended	NP/S Verb	long_nps_shifted
+3709	25	4	in	PP	long_nps_shifted
+3710	25	5	person	PP	long_nps_shifted
+3711	25	6	some	Long NP	long_nps_shifted
+3712	25	7	used	Long NP	long_nps_shifted
+3713	25	8	toys,	Long NP	long_nps_shifted
+3714	25	9	winter	Long NP	long_nps_shifted
+3715	25	10	clothing,	Long NP	long_nps_shifted
+3716	25	11	clean	Long NP	long_nps_shifted
+3717	25	12	linens,	Long NP	long_nps_shifted
+3718	25	13	and	Long NP	long_nps_shifted
+3719	25	14	snow	Long NP	long_nps_shifted
+3720	25	15	boots	Long NP	long_nps_shifted
+3721	25	17	.	End	long_nps_shifted
+3722	25	18	<eos>	End	long_nps_shifted
+3723	26	0	Janet	Subject	long_nps_shifted
+3724	26	1	revealed	NP/S Verb	long_nps_shifted
+3725	26	2	at	PP	long_nps_shifted
+3726	26	3	dawn	PP	long_nps_shifted
+3727	26	4	some	Long NP	long_nps_shifted
+3728	26	5	more	Long NP	long_nps_shifted
+3729	26	6	specific	Long NP	long_nps_shifted
+3730	26	7	plans	Long NP	long_nps_shifted
+3731	26	8	for	Long NP	long_nps_shifted
+3732	26	9	a	Long NP	long_nps_shifted
+3733	26	10	brand	Long NP	long_nps_shifted
+3734	26	11	new	Long NP	long_nps_shifted
+3735	26	12	defense	Long NP	long_nps_shifted
+3736	26	13	plant	Long NP	long_nps_shifted
+3737	26	15	.	End	long_nps_shifted
+3738	26	16	<eos>	End	long_nps_shifted
+3739	27	0	Bobby	Subject	long_nps_shifted
+3740	27	1	revealed	NP/S Verb	long_nps_shifted
+3741	27	2	at	PP	long_nps_shifted
+3742	27	3	dusk	PP	long_nps_shifted
+3743	27	4	the	Long NP	long_nps_shifted
+3744	27	5	short	Long NP	long_nps_shifted
+3745	27	6	documents	Long NP	long_nps_shifted
+3746	27	7	to	Long NP	long_nps_shifted
+3747	27	8	the	Long NP	long_nps_shifted
+3748	27	9	old	Long NP	long_nps_shifted
+3749	27	10	mansion	Long NP	long_nps_shifted
+3750	27	11	on	Long NP	long_nps_shifted
+3751	27	12	the	Long NP	long_nps_shifted
+3752	27	13	hill	Long NP	long_nps_shifted
+3753	27	15	.	End	long_nps_shifted
+3754	27	16	<eos>	End	long_nps_shifted
+3755	28	0	Kathy	Subject	long_nps_shifted
+3756	28	1	dictated	NP/S Verb	long_nps_shifted
+3757	28	2	last	PP	long_nps_shifted
+3758	28	3	night	PP	long_nps_shifted
+3759	28	4	all	Long NP	long_nps_shifted
+3760	28	5	three	Long NP	long_nps_shifted
+3761	28	6	verses	Long NP	long_nps_shifted
+3762	28	7	from	Long NP	long_nps_shifted
+3763	28	8	an	Long NP	long_nps_shifted
+3764	28	9	old	Long NP	long_nps_shifted
+3765	28	10	and	Long NP	long_nps_shifted
+3766	28	11	famous	Long NP	long_nps_shifted
+3767	28	12	French	Long NP	long_nps_shifted
+3768	28	13	poem	Long NP	long_nps_shifted
+3769	28	15	.	End	long_nps_shifted
+3770	28	16	<eos>	End	long_nps_shifted
+3771	29	0	Mike	Subject	long_nps_shifted
+3772	29	1	dictated	NP/S Verb	long_nps_shifted
+3773	29	2	last	PP	long_nps_shifted
+3774	29	3	year	PP	long_nps_shifted
+3775	29	4	the	Long NP	long_nps_shifted
+3776	29	5	words	Long NP	long_nps_shifted
+3777	29	6	to	Long NP	long_nps_shifted
+3778	29	7	a	Long NP	long_nps_shifted
+3779	29	8	popular	Long NP	long_nps_shifted
+3780	29	9	country	Long NP	long_nps_shifted
+3781	29	10	song	Long NP	long_nps_shifted
+3782	29	11	in	Long NP	long_nps_shifted
+3783	29	12	the	Long NP	long_nps_shifted
+3784	29	13	South	Long NP	long_nps_shifted
+3785	29	15	.	End	long_nps_shifted
+3786	29	16	<eos>	End	long_nps_shifted
+3787	30	0	Amy	Subject	long_nps_shifted
+3788	30	1	broadcast	NP/S Verb	long_nps_shifted
+3789	30	2	last	PP	long_nps_shifted
+3790	30	3	week	PP	long_nps_shifted
+3791	30	4	the	Long NP	long_nps_shifted
+3792	30	5	high	Long NP	long_nps_shifted
+3793	30	6	school	Long NP	long_nps_shifted
+3794	30	7	girls	Long NP	long_nps_shifted
+3795	30	8	state	Long NP	long_nps_shifted
+3796	30	9	swimming	Long NP	long_nps_shifted
+3797	30	10	title	Long NP	long_nps_shifted
+3798	30	11	in	Long NP	long_nps_shifted
+3799	30	12	New	Long NP	long_nps_shifted
+3800	30	13	York	Long NP	long_nps_shifted
+3801	30	15	.	End	long_nps_shifted
+3802	30	16	<eos>	End	long_nps_shifted
+3803	31	0	Jason	Subject	long_nps_shifted
+3804	31	1	broadcast	NP/S Verb	long_nps_shifted
+3805	31	2	with	PP	long_nps_shifted
+3806	31	3	glee	PP	long_nps_shifted
+3807	31	4	all	Long NP	long_nps_shifted
+3808	31	5	of	Long NP	long_nps_shifted
+3809	31	6	the	Long NP	long_nps_shifted
+3810	31	7	winnings	Long NP	long_nps_shifted
+3811	31	8	for	Long NP	long_nps_shifted
+3812	31	9	the	Long NP	long_nps_shifted
+3813	31	10	past	Long NP	long_nps_shifted
+3814	31	11	seven	Long NP	long_nps_shifted
+3815	31	12	horse	Long NP	long_nps_shifted
+3816	31	13	races	Long NP	long_nps_shifted
+3817	31	15	.	End	long_nps_shifted
+3818	31	16	<eos>	End	long_nps_shifted
+3819	32	0	Josh	Subject	long_nps_shifted
+3820	32	1	conveyed	NP/S Verb	long_nps_shifted
+3821	32	2	at	PP	long_nps_shifted
+3822	32	3	breakfast	PP	long_nps_shifted
+3823	32	4	a	Long NP	long_nps_shifted
+3824	32	5	short	Long NP	long_nps_shifted
+3825	32	6	message	Long NP	long_nps_shifted
+3826	32	7	on	Long NP	long_nps_shifted
+3827	32	8	the	Long NP	long_nps_shifted
+3828	32	9	dangers	Long NP	long_nps_shifted
+3829	32	10	of	Long NP	long_nps_shifted
+3830	32	11	the	Long NP	long_nps_shifted
+3831	32	12	current	Long NP	long_nps_shifted
+3832	32	13	storm	Long NP	long_nps_shifted
+3833	32	15	.	End	long_nps_shifted
+3834	32	16	<eos>	End	long_nps_shifted
+3835	33	0	Brad	Subject	long_nps_shifted
+3836	33	1	conveyed	NP/S Verb	long_nps_shifted
+3837	33	2	at	PP	long_nps_shifted
+3838	33	3	nine	PP	long_nps_shifted
+3839	33	4	the	Long NP	long_nps_shifted
+3840	33	5	instructions	Long NP	long_nps_shifted
+3841	33	6	for	Long NP	long_nps_shifted
+3842	33	7	the	Long NP	long_nps_shifted
+3843	33	8	safest	Long NP	long_nps_shifted
+3844	33	9	route	Long NP	long_nps_shifted
+3845	33	10	to	Long NP	long_nps_shifted
+3846	33	11	the	Long NP	long_nps_shifted
+3847	33	12	old	Long NP	long_nps_shifted
+3848	33	13	town	Long NP	long_nps_shifted
+3849	33	15	.	End	long_nps_shifted
+3850	33	16	<eos>	End	long_nps_shifted
+3851	34	0	The	Subject	long_nps_shifted
+3852	34	1	teacher	Subject	long_nps_shifted
+3853	34	2	confessed	NP/S Verb	long_nps_shifted
+3854	34	3	with	PP	long_nps_shifted
+3855	34	4	caution	PP	long_nps_shifted
+3856	34	5	each	Long NP	long_nps_shifted
+3857	34	6	of	Long NP	long_nps_shifted
+3858	34	7	the	Long NP	long_nps_shifted
+3859	34	8	series	Long NP	long_nps_shifted
+3860	34	9	of	Long NP	long_nps_shifted
+3861	34	10	events	Long NP	long_nps_shifted
+3862	34	11	in	Long NP	long_nps_shifted
+3863	34	12	the	Long NP	long_nps_shifted
+3864	34	13	secret	Long NP	long_nps_shifted
+3865	34	14	case	Long NP	long_nps_shifted
+3866	34	16	.	End	long_nps_shifted
+3867	34	17	<eos>	End	long_nps_shifted
+3868	35	0	Matthew	Subject	long_nps_shifted
+3869	35	1	confessed	NP/S Verb	long_nps_shifted
+3870	35	2	in	PP	long_nps_shifted
+3871	35	3	secret	PP	long_nps_shifted
+3872	35	4	the	Long NP	long_nps_shifted
+3873	35	5	whole	Long NP	long_nps_shifted
+3874	35	6	story	Long NP	long_nps_shifted
+3875	35	7	on	Long NP	long_nps_shifted
+3876	35	8	the	Long NP	long_nps_shifted
+3877	35	9	defects	Long NP	long_nps_shifted
+3878	35	10	in	Long NP	long_nps_shifted
+3879	35	11	the	Long NP	long_nps_shifted
+3880	35	12	new	Long NP	long_nps_shifted
+3881	35	13	Mazda	Long NP	long_nps_shifted
+3882	35	15	.	End	long_nps_shifted
+3883	35	16	<eos>	End	long_nps_shifted
+3884	36	0	Tim	Subject	long_nps_shifted
+3885	36	1	stated	NP/S Verb	long_nps_shifted
+3886	36	2	with	PP	long_nps_shifted
+3887	36	3	reluctance	PP	long_nps_shifted
+3888	36	4	the	Long NP	long_nps_shifted
+3889	36	5	small	Long NP	long_nps_shifted
+3890	36	6	reward	Long NP	long_nps_shifted
+3891	36	7	for	Long NP	long_nps_shifted
+3892	36	8	helpful	Long NP	long_nps_shifted
+3893	36	9	clues	Long NP	long_nps_shifted
+3894	36	10	on	Long NP	long_nps_shifted
+3895	36	11	a	Long NP	long_nps_shifted
+3896	36	12	recent	Long NP	long_nps_shifted
+3897	36	13	crime	Long NP	long_nps_shifted
+3898	36	15	.	End	long_nps_shifted
+3899	36	16	<eos>	End	long_nps_shifted
+3900	37	0	Bobby	Subject	long_nps_shifted
+3901	37	1	stated	NP/S Verb	long_nps_shifted
+3902	37	2	with	PP	long_nps_shifted
+3903	37	3	pleasure	PP	long_nps_shifted
+3904	37	4	the	Long NP	long_nps_shifted
+3905	37	5	earnings	Long NP	long_nps_shifted
+3906	37	6	of	Long NP	long_nps_shifted
+3907	37	7	the	Long NP	long_nps_shifted
+3908	37	8	five	Long NP	long_nps_shifted
+3909	37	9	winners	Long NP	long_nps_shifted
+3910	37	10	in	Long NP	long_nps_shifted
+3911	37	11	the	Long NP	long_nps_shifted
+3912	37	12	poker	Long NP	long_nps_shifted
+3913	37	13	games	Long NP	long_nps_shifted
+3914	37	15	.	End	long_nps_shifted
+3915	37	16	<eos>	End	long_nps_shifted
+3916	38	0	Ed	Subject	long_nps_shifted
+3917	38	1	muttered	NP/S Verb	long_nps_shifted
+3918	38	2	at	PP	long_nps_shifted
+3919	38	3	brunch	PP	long_nps_shifted
+3920	38	4	a	Long NP	long_nps_shifted
+3921	38	5	script	Long NP	long_nps_shifted
+3922	38	6	for	Long NP	long_nps_shifted
+3923	38	7	a	Long NP	long_nps_shifted
+3924	38	8	suspense	Long NP	long_nps_shifted
+3925	38	9	film	Long NP	long_nps_shifted
+3926	38	10	with	Long NP	long_nps_shifted
+3927	38	11	a	Long NP	long_nps_shifted
+3928	38	12	giant	Long NP	long_nps_shifted
+3929	38	13	budget	Long NP	long_nps_shifted
+3930	38	15	.	End	long_nps_shifted
+3931	38	16	<eos>	End	long_nps_shifted
+3932	39	0	Angie	Subject	long_nps_shifted
+3933	39	1	muttered	NP/S Verb	long_nps_shifted
+3934	39	2	with	PP	long_nps_shifted
+3935	39	3	hope	PP	long_nps_shifted
+3936	39	4	the	Long NP	long_nps_shifted
+3937	39	5	plan	Long NP	long_nps_shifted
+3938	39	6	for	Long NP	long_nps_shifted
+3939	39	7	the	Long NP	long_nps_shifted
+3940	39	8	biggest	Long NP	long_nps_shifted
+3941	39	9	poster	Long NP	long_nps_shifted
+3942	39	10	in	Long NP	long_nps_shifted
+3943	39	11	the	Long NP	long_nps_shifted
+3944	39	12	science	Long NP	long_nps_shifted
+3945	39	13	fair	Long NP	long_nps_shifted
+3946	39	15	.	End	long_nps_shifted
+3947	39	16	<eos>	End	long_nps_shifted
